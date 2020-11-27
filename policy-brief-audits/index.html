@@ -1,0 +1,1347 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/Article">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Place this data between the <head> tags of your website -->
+<title>Making Audits Meaningful</title>
+<meta name="description" content="Overseeing the Use of AI in Content Moderation" />
+<meta name="author" content="A policy paper by fellows of the HIIG research sprint on AI and content moderation">
+
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Making Audits Meaningful">
+<meta itemprop="description" content="Overseeing the Use of AI in Content Moderation">
+<meta itemprop="image" content="https://hiig.de/g/policy-brief-audits/assets/images/social.png">
+
+<!-- Twitter Card data -->
+<meta name="twitter:title" content="Making Audits Meaningful">
+<meta name="twitter:description" content="Overseeing the Use of AI in Content Moderation">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:creator" content="@author_handle">
+<!-- Twitter Summary card images must be at least 120x120px -->
+<meta name="twitter:image" content="https://hiig.de/g/policy-brief-audits/assets/images/social.png">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="Making Audits Meaningful" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://hiig.de/g/policy-brief-audits" />
+<meta property="og:image" content="https://hiig.de/g/policy-brief-audits/assets/images/social.png" />
+<meta property="og:description" content="Overseeing the Use of AI in Content Moderation" />
+<meta property="og:site_name" content="graphite by impact·distillery" />
+
+<!--
+<meta name="twitter:site" content="@publisher_handle">
+<meta property="fb:admins" content="Facebook numeric ID" />
+-->
+
+      <link rel="stylesheet" href="theme/styles/sample-journal.css">
+
+  </head>
+  <body>
+
+
+<!-- Navigation to other graphite content sliding in from top -->
+<div id="navContent" style="display: none;">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-6">
+        <p class="ms-nav-info">The NoC (Global Network of Internet and Society Research Centers) research project <em>The Ethics of Digitalisation - From Principles to Practices</em> promotes an active exchange and aims to foster a global dialogue on the ethics of digitalisation by involving stakeholders from academia, civil society, policy, and the industry. The three policy briefings form the outputs of the research sprint on AI and content moderation which was hosted virtually by the <a href="https://www.hiig.de/en">HIIG</a> from August to October 2020.</p>
+      </div>
+
+      <div class="col-md-3">
+        <h3 class="ms-nav-section">All policy papers</h3>
+        <ul class="ms-nav-subnav">
+          <li>
+            <a href="#">Disclosure Rules for Algorithmic Content Moderation</a>
+          </li>
+          <li>
+            <a href="-">Making Audits Meaningful</a>
+          </li>
+          <li>
+            <a href="-">Freedom of Expression in the Digital Public Sphere</a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="col-md-3">
+        <h3 class="ms-nav-section">More information</h3>
+        <ul class="ms-nav-subnav">
+          <li>
+            <a href="https://www.hiig.de/en/project/the-ethics-of-digitalisation">Project website of Ethics of Digitalisation</a>
+          </li>
+          <li>
+            <a href="https://www.hiig.de/en/dossier/ethics-of-digital-transformation">More on the topic</a>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- Navigation bar fixed to top -->
+<nav class="ms-navigation-top">
+  <div class="container">
+    <span class="ms-article-title">
+      Making Audits Meaningful
+    </span>
+
+    <a class="ms-brand" href="https://www.impactdistillery.com/graphite">
+      runs on <object data="theme/images/graphite.svg" type="image/svg+xml"></object>
+    </a>
+
+    <span id="navToggle" class="navbar-toggler-icon"></span>
+
+  </div>
+</nav>
+
+
+<!-- START: STUDY FRAME -->
+<div class="ms-header"
+     style="background-image: url(assets/images/corina-rainer-f8QKOhRaaFw-unsplash.jpg);">
+  <div class="container">
+    <div class="card">
+      <div class="card-body">
+        <p class="author">Hannah Bloch-Wehba, Angelica Fernandez, David Morar</p>
+        <h1 class="card-title">Making Audits Meaningful</h1>
+        <p class="card-subtitle">Overseeing the Use of AI in Content Moderation</p>
+      </div>
+    </div>
+  </div>
+</div>
+<footer class="ms-footer ms-footer-sticky"><div class="container">A policy paper by fellows of the HIIG research sprint on AI and content moderation</div></footer>
+
+<div class="ms-toc"></div>
+<nav class="ms-tabs">
+  <div class="container">
+
+    <a class="ms-trigger-toc button d-flex d-lg-none">
+      Content
+    </a>
+
+    <div class="dropdown d-xs-block d-lg-none">
+      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Article
+      </button>
+
+      <div class="dropdown-menu" aria-labelledby="dropdownMenuButton" role="tablist">
+        <div class="nav nav-pills" role="tablist">
+
+          <a class="dropdown-item tab-item active" id="index-tab" data-toggle="tab" href="#index" role="tab" aria-controls="index" aria-expanded="true">
+            Article
+          </a>
+
+          <a class="dropdown-item tab-item " id="authors-tab" data-toggle="tab" href="#authors" role="tab" aria-controls="authors" >
+            Authors
+          </a>
+
+          <a class="dropdown-item tab-item " id="directories-tab" data-toggle="tab" href="#directories" role="tab" aria-controls="directories" >
+            References
+          </a>
+
+          <a class="dropdown-item tab-item " id="editors-tab" data-toggle="tab" href="#editors" role="tab" aria-controls="editors" >
+            About
+          </a>
+
+        </div>
+      </div>
+    </div>
+
+    <ul class="nav nav-tabs d-none d-lg-flex" id="masterTab" role="tablist">
+
+      <li class="nav-item">
+        <a class="nav-link tab-item active" id="index-tab" data-toggle="tab" href="#index" role="tab" aria-controls="index" aria-expanded="true">
+          Article
+        </a>
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link tab-item " id="authors-tab" data-toggle="tab" href="#authors" role="tab" aria-controls="authors" >
+          Authors
+        </a>
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link tab-item " id="directories-tab" data-toggle="tab" href="#directories" role="tab" aria-controls="directories" >
+          References
+        </a>
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link tab-item " id="editors-tab" data-toggle="tab" href="#editors" role="tab" aria-controls="editors" >
+          About
+        </a>
+      </li>
+
+    </ul>
+  </div>
+</nav>
+<div class="tab-content" id="masterTabContent">
+
+  <div class="tab-pane fade active show" id="index" role="tabpanel" aria-labelledby="index-tab" aria-expanded="true">
+
+  <section class="container ms-article-top">
+  <div class="ms-row ms-row-single">
+    <div class="ms-col-content">
+      <h2>Executive summary</h2>
+    </div>
+  </div>
+  <div class="ms-row">
+    <div class="ms-col-content">
+      <p>While platforms use increasingly sophisticated technology to make content-related decisions that affect public discourse, firms are tight-lipped about exactly how the technologies of content moderation function. The laconic nature of industry disclosure relating to their use of algorithmic content moderation is thoroughly unacceptable, considering that regulators need to understand the platform ecosystem in order to design evidence-based regulations and monitor risks associated with the use of AI in content moderation. This white paper sets out to explain how and why audits, a specific type of transparency measure, should be mandated by law within the four clear principles of independence, access, publicity, and resources. We go on to unpack the types of transparency, and then contextualize audits in this framework while also describing risks and benefits. The white paper concludes with the explanation of the four principles, as they are derived from the previous sections.</p>
+        <p class="ms-buttons-article">
+            <a class="ms-button ms-button-toc"><i></i> Table of contents</a>
+            <a href="#read-full-article" class="ms-button ms-button-read-on"> Read the full brief <i></i></a>
+        </p>
+    </div>
+    <div class="ms-col-marginal">
+      <div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+        <div class="btn-group mr-auto" role="group" aria-label="Download">
+          <a href="https://doi.org/10.5281/zenodo.4292060" class="ms-button ms-button-download"><i></i> PDF</a>
+        </div>
+        <div class="btn-group" role="group" aria-label="Share">
+  <span class="input-group-addon" id="btnGroupAddon">TEILEN</span>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//hiig.de/g/policy-brief-audits/" target="_blank"
+     class="btn btn-secondary"><i class="mdi mdi-facebook"></i> </a>
+  <a href="https://twitter.com/home?status=https%3A//hiig.de/g/policy-brief-audits/" target="_blank"
+    class="btn btn-secondary"><i class="mdi mdi-twitter"></i> </a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//hiig.de/g/policy-brief-audits/" target="_blank"
+     class="btn btn-secondary"><i class="mdi mdi-linkedin"></i> </a>
+</div>
+      </div>
+      <aside>
+        <p><strong>Published on:</strong> Dec 2020</p>
+
+      </aside>
+      <aside>
+        <p><img alt="A policy paper by fellows of the HIIG research sprint on AI and content moderation" src="None"></p>
+      </aside>
+      <aside>
+        <h3>Keywords</h3>
+        <p>algorithmic auditing, platform governance, algorithmic content moderation, transparency, accountability</p>
+      </aside>
+      <aside>
+        <h3>Recommended citation</h3>
+        <p>Block-Wehba, H., Fernandez, A., &amp; Morar, D. (2020) Making Audits Meaningful – Overseeing the Use of AI in Content Moderation.</p>
+      </aside>
+
+      <aside>
+        <h3>Feedback or questions?</h3>
+        <p><i class="mdi mdi-email-outline"></i>&nbsp; Write an email to <a href="mailto:nadine.birner@hiig.de"> nadine.birner@hiig.de</a></p>
+      </aside>
+
+      <a id="read-full-article"></a>
+    </div>
+
+  </div>
+</section>
+
+
+<article>
+  <div class="container">
+     <div class="ms-row ms-row-two ms-text" id="partial_1">
+  <div class="ms-col-content">
+
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+</div>
+
+
+
+
+    <div class="ms-chapter" style="background-image: url(assets/images/pineapple-supply-co-Q7PclNhVRI0-unsplash.jpg)">
+      <div class="container-fluid" >
+        <div class="container">
+          <div class="ms-row ms-row-full" id="partial_2">
+            <div class="ms-col-content">
+              <h2 id="heading-2">AI in content moderation is here to stay</h2>
+<p>Need for transparency and accountability in algorithmic content moderations</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_3">
+  <div class="ms-col-content">
+    <p>Our reality straddles the physical and digital worlds, with so much of our interactions, and increasingly our lives, relying on virtual platforms to communicate, network, and even work. The way these platforms make sense of the hundreds of billions of pieces of content residing on their servers thus becomes a crucial and critical aspect of inquiry. Relying on human action and reaction on such a large scale to moderate content is not realistic, and these platforms are now relying on algorithmic content moderation (ACM). Gorwa, Binns and Katzenbach define algorithmic (commercial) content moderation "as systems that classify user-generated content based on either matching or prediction, leading to a decision and governance outcome."<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Gorwa, R., Binns, R., &amp; Katzenbach, C. (2020). Algorithmic content moderation: Technical and political challenges in the automation of platform governance. <em>Big Data &amp; Society, 7</em>(1).</p>" data-html="true"><i></i></a> The increasing reliance on such tools is not in itself the issue as much as making sure that the algorithms and their use are accountable and transparent.</p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_4">
+  <div class="ms-col-content">
+    <p>Unfortunately, companies have not been forthcoming about this very issue, which makes the need for accountability and transparency even more acute. A dearth of information is not an acceptable status quo, when citizens would be best served understanding the way a platform works in order to make informed decisions on whether and how to engage online. Even more, the laconic nature of industry disclosure relating to their use of ACM is thoroughly unacceptable, considering that regulators need to understand the platform ecosystem in order to design evidence-based regulations and monitor risks associated with the use of AI in content moderation. In spite of this, or perhaps because of it, these same regulators are considering going down the path of information-forcing or transparency-oriented rules.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><p>A dearth of information is not an acceptable status quo, when citizens would be best served understanding the way a platform works in order to make informed decisions on whether and how to engage online</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_5">
+  <div class="ms-col-content">
+    <p>This white paper sets out to explain how audits, a specific type of transparency measure, should be mandated by law within the four clear principles of independence, access, publicity, and expertise. We go on to unpack the types of transparency, and then contextualize audits in this framework while also describing risks and benefits. The white paper concludes with the explanation of the four principles, as they are derived from the previous sections.</p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+</div>
+
+
+
+
+    <div class="ms-chapter" style="background-image: url(assets/images/julie-molliver-Z3vFp7szCAY-unsplash.jpg)">
+      <div class="container-fluid" >
+        <div class="container">
+          <div class="ms-row ms-row-full" id="partial_6">
+            <div class="ms-col-content">
+              <h2 id="heading-6">Forms of transparency</h2>
+<p>Regulatory toolset: audits, notices, transparency reports/databases, data access regimes, and registers</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_7">
+  <div class="ms-col-content">
+    <p>Enhancing algorithmic transparency in the context of content moderation has been a significant challenge for regulators. In the past years, different ways have been tried to enhance systemic transparency from platforms. From transparency reports submitted to regulators voluntarily to data access regime initiatives, platforms have engaged in providing more transparency to regulators. Together, all of these tools increase algorithmic transparency. Audits are one more tool for regulators to achieve this goal. However, since there are many misconceptions of what an audit is, and since this is potentially confusing for policymakers, we start by contextualizing audits within the variety of available options to regulators to enhance algorithmic transparency. </p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_8">
+  <div class="ms-col-content">
+    <h3 id='heading-8' >Audits</h3>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_9">
+  <div class="ms-col-content">
+    <p>Defined literally, an "audit" means "a formal examination of an organization's or individual's accounts or financial situation."<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Merriam-Webster Dictionary, Audit.</p>" data-html="true"><i></i></a> But what exactly does it mean to "audit" an algorithm? An algorithmic audit offers a concrete mechanism for assessing whether automated processes comply with the law, <strong>internal</strong> company rules, and/or regulations. Audits may be either internal (conducted by a company itself) or <strong>external</strong> (conducted by a third party outside the company). The auditing practice advocated by this policy brief, that is as a tool for regulatory oversight, is distinct from ‘scraping’ practices sometimes referred to as "independent auditing" used by advocacy groups and researchers as a way of obtaining large-scale datasets about platform operations. To be fully effective, auditors must have access to not just the model architecture, data sets, or source code, but also information about internal stakeholders, the design and development process, performance characteristics, embedded assumptions, or information about the effects of the algorithm. </p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_10">
+  <div class="ms-col-content">
+    <p>The idea of an audit also conveys a degree of formality and rigor. Audits are more than a haphazard or occasional inspection: the formality of the process, and the rules by which it proceeds, lend audits credibility with companies and the public alike. Unlike impact assessments, which usually occur before a new technology is adopted, audits can occur at any time (indeed, repeatedly).<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p><strong>Inioluwa Deborah Raji et al. arguing for internal as well as external audits in:</strong></p>
+<p>Raji, I. D., Smart, A., White, R. N., Mitchell, M., Gebru, T., Hutchinson, B., ... &amp; Barnes, P. (2020, January). Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing. In <em>Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency</em> (pp. 33-44).</p>" data-html="true"><i></i></a></p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-note"><p>IEEE Standard 1028-2008 (defining audits as conducted by third parties)</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_11">
+  <div class="ms-col-content">
+    <p>Scholars and advocates concerned about the growing unaccountable power of algorithms in public life have suggested that audits may provide an answer to understanding whether, for example, automated decisions perpetuate bias or discrimination.<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Sandvig et al., An Algorithm Audit, in S.P. Gangadharan, V. Eubanks, &amp; S. Barocas (eds.)</p>" data-html="true"><i></i></a><a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Data and Discrimination: Selected Essays, https://www.newamerica.org/oti/policy-papers/data-and-discrimination</p><a class='mdi mdi-earth' href='https://www.newamerica.org/oti/policy-papers/data-and-discrimination' target='_blank'></a>" data-html="true"><i></i></a> The chief advocates for algorithmic audits have often been researchers interested in studying the ramifications of algorithmic governance for the public interest. The core problem with audits is access to information: platforms often insist on concealing algorithms in order to protect either trade secrets, the integrity of automated decisions, or other interests. These interests in confidentiality and secrecy have hampered would-be auditors’ access to key documentation, personnel, and systems. In light of this recalcitrance, researchers have struggled to find ways to audit algorithms, often turning to reverse-engineering, testing, and otherwise finding ways around unavailable code.<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Sandvig, C., Hamilton, K., Karahalios, K., &amp; Langbort, C. (2014). Auditing algorithms: Research methods for detecting discrimination on internet platforms.<em>Data and discrimination: converting critical concerns into productive inquiry</em>, 22.</p>" data-html="true"><i></i></a><a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Burrell, J. (2016). How the machine ‘thinks’: Understanding opacity in machine learning algorithms. <em>Big Data &amp; Society, 3</em>(1).</p>" data-html="true"><i></i></a></p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_12">
+  <div class="ms-col-content">
+    <p>Audits can also be useful investigative tools for regulators to gather information about compliance with legal and regulatory obligations. Just as tax audits allow tax officials to gather data about the subject of the audit, algorithmic audits can allow regulators to similarly gather data about how automated decision systems work within the social, technical, and organizational context of platform firms. And while researchers have to beg, plead, and grovel for access to proprietary information essential to auditors, regulators can require platforms to submit to audits and to make documentation, code, datasets, and other information available to auditors. Indeed, European law already contemplates the usefulness of audits in a closely related context: the General Data Protection Regulation (GDPR) ensures that supervisory authorities have the power to "carry out investigations in the form of data protection audits."<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>General Data Protection Regulation (GDPR) (art. 58.1.b)</p>" data-html="true"><i></i></a><a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p><strong>Calling for audits:</strong></p>
+<p>Pasquale, F. (2015). Black Box Society. Les algorithmes secrets qui contrôlent l'économie et l'information. FYP editions.</p>" data-html="true"><i></i></a><a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Casey, B., Farhangi, A., &amp; Vogl, R. (2019). Rethinking Explainable Machines: The GDPR's Right to Explanation Debate and the Rise of Algorithmic Audits in Enterprise. <em>Berkeley Tech. LJ, 34</em>, 143.</p>" data-html="true"><i></i></a></p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_13">
+  <div class="ms-col-content">
+    <p>Using algorithmic audits to investigate algorithms necessarily requires technical knowledge. And different technical designs will confront distinctive challenges to auditing. The design of a hash-based technology, which automatically screens user-generated content against a database of authoritative, "fingerprinted" content, is different from an artificial-intelligence technique, which might attempt to decide based on content and context whether user-generated posts are lawful or not.<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p><strong>One of the authors has explained the details of these distinctions in prior work:</strong></p>
+<p>Bloch-Wehba, H. (2020). Automation in Moderation. <em>Cornell International Law Journal, Forthcoming.</em></p>" data-html="true"><i></i></a></p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><p>Audits have distinct advantages for the purposes of empowering regulators and informing regulatory oversight efforts. Other transparency requirements may serve other important interests, including individual interests in understanding how platforms reach content-related decisions, but they are substantially less effective at informing regulatory efforts to an appropriate degree of granularity.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_14">
+  <div class="ms-col-content">
+    <p>Algorithmic audits are also distinct from other forms of transparency, detailed below. Most importantly, audits facilitate direct access by regulators or their designated representatives to the mechanisms and systems of ACM. In this respect, audits have distinct advantages for the purposes of empowering regulators and informing regulatory oversight efforts. Other transparency  may serve other important interests, including individual interests in understanding how platforms reach content-related decisions, but they are substantially less effective at informing regulatory efforts to an appropriate degree of granularity. Importantly, adopting algorithmic audit requirements need not be in conflict with these other transparency requirements. Indeed, audits can comfortably sit alongside notice, transparency reports, data access regimes, and registers as another way of promoting transparency, particularly with an eye toward effective regulatory oversight.</p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_15">
+  <div class="ms-col-content">
+    <h3 id='heading-15' >Notice</h3>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_16">
+  <div class="ms-col-content">
+    <p>Rather than facilitating informed and effective regulation, much of the scholarly and policy debate about algorithmic transparency has focused on rendering platform decision-making legible to the individual users who are directly affected. Notices are the standards for explaining content moderation decisions by platforms. They inform users what action has triggered a moderation decision or an account suspension by the platform. However, notices are voluntary and often lack enough information for users to understand the decision that has been taken by the platform. Under the Santa Clara Principles, researchers agreed that notices as transparency mechanisms still need to be reviewed by platforms to include additional elements of information to be truly useful and provide a legal basis for accountability.<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p><strong>On notices in the copyright context see:</strong></p>
+<p>Perel, M., &amp; Elkin-Koren, N. (2015). Accountability in algorithmic copyright enforcement. <em>Stan. Tech. L. Rev., 19</em>, 473.</p>" data-html="true"><i></i></a><a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p><strong>On how notices on social media platform do not necessarily increase transparency for users, see:</strong></p>
+<p>Suzor, N. P., West, S. M., Quodling, A., &amp; York, J. (2019). What do we mean when we talk about transparency? Toward meaningful transparency in commercial content moderation. <em>International Journal of Communication, 13</em>, 18.</p>" data-html="true"><i></i></a> </p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_17">
+  <div class="ms-col-content">
+    <h3 id='heading-17' >Transparency reports/databases</h3>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_18">
+  <div class="ms-col-content">
+    <p>Moreover, in recent years and to tackle harmful content, transparency reports by platforms have become a soft-law standard. Obligations to produce transparency reports are embedded in the EU Code of Conduct on Disinformation, the EU Code of Conduct on countering illegal hate speech, and in the EU draft regulation for countering online terrorism content. This type of transparency measure has also been included in different national legal instruments in Germany, Brazil, and Turkey.
+However, regulatory authorities in the EU, such as the European Regulators Group for Audiovisual Media, have assessed <span class="ms-inline ms-inline-sidenote">transparency reports<i></i></span> as an insufficient measure due to the lack of comparable information between the different platforms that have each their own metric and standards.  Moreover, they have criticized the lack of critical variables in these types of reports for regulators to monitor risks in the use of automated systems adequately. </p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><p>Some of the examples of national legal instruments that have embedded transparency reports obligations are:</p></aside>
+<aside class="ms-aside-link"><p><a href="https://www.gesetze-im-internet.de/netzdg/BJNR335210017.html">NetzDG ( Art. 2)</a></p></aside>
+<aside class="ms-aside-link"><p><a href="https://edemocracia.camara.leg.br/wikilegis/p/12-lei-brasileira-de-liberdade-responsabilidade-e-transparencia-na-internet">Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (Section II, Art. 6) </a></p></aside>
+<aside class="ms-aside-sidenote"><p>See <a href="https://erga-online.eu/wp-content/uploads/2020/05/ERGA-2019-report-published-2020-LQ.pdf">ERGA Report on disinformation</a>: Assessment of the implementation of the Code of Practice</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_19">
+  <div class="ms-col-content">
+    <h3 id='heading-19' >Data access regimes</h3>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_20">
+  <div class="ms-col-content">
+    <p>Data access regimes have also emerged as a way to increase transparency in platform governance. The most famous examples are Social Science One, Stanford University’s Internet Observatory, and Microsoft Research Open Data program. Platforms can also enter into specific data-sharing arrangements with governments or researchers. While these measures help researchers and policymakers to understand better automated systems, their voluntary nature is presented as challenging for designing an adequate regulatory oversight of automated systems. Moreover, getting access to data solves only one part of the puzzle for regulators.<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Ananny, M., &amp; Crawford, K. (2018). Seeing without knowing: Limitations of the transparency ideal and its application to algorithmic accountability. <em>New Media &amp; Society, 20</em>(3), 973-989.</p>" data-html="true"><i></i></a></p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><p>For more information on each of the data access regimes:</p></aside>
+<aside class="ms-aside-link"><p><a href="https://socialscience.one">Social Science One</a></p></aside>
+<aside class="ms-aside-link"><p><a href="https://cyber.fsi.stanford.edu/io/io">Stanford University’s Internet Observatory</a></p></aside>
+<aside class="ms-aside-link"><p><a href="https://www.microsoft.com/en-us/research/project/microsoft-research-open-data">Microsoft Research Open Data program</a></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_21">
+  <div class="ms-col-content">
+    <h3 id='heading-21' >Registers</h3>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_22">
+  <div class="ms-col-content">
+    <p>Finally, within the context of AI systems, we have several initiatives of algorithm registers. These registers are being proposed as a way of achieving a baseline level of transparency. This type of transparency measure has been raised internationally and is now being tested in the European cities of Amsterdam, Helsinki, and Nantes. Their main objective is to institute public registers as a mechanism for mandatory reporting of automated decision-making systems. Although these registers are aimed at enhancing transparency in the public sector, it is possible to imagine that they could also be used by private companies to better inform their users on the type of ADM systems used.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><p>Algorithm registers provided by European cities:</p></aside>
+<aside class="ms-aside-link"><p><a href="https://algoritmeregister.amsterdam.nl/en/ai-register">City of Amsterdam AI register</a></p></aside>
+<aside class="ms-aside-link"><p><a href="https://ai.hel.fi/en/ai-register">City of Helsinki AI register</a></p></aside>
+<aside class="ms-aside-link"><p><a href="https://data.nantesmetropole.fr/pages/algorithmes_nantes_metropole">Consultation des Algorithmes publics
+de Nantes Métropole</a></p></aside>
+  </div>
+</div>
+
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_23">
+  <div class="ms-col-content">
+    <a href="#23Modal" type="button" data-toggle="modal" data-target="#23Modal">
+
+<img class="img-fluid" src="assets/images/figures/01-policy-paper-audits.png" alt="An overview visualising the drawbacks of other transparency forms.">
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+
+<aside class="ms-aside-caption">
+  <p><strong>Drawbacks of other transparency forms</strong>
+
+        <br>Shortfalls of notices, transparency reports, data access regimes, and registers
+
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>CC BY SA 3.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#23Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/figures/01-policy-paper-audits.png"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">TEILEN</span>
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//hiig.de/graphite/policy-brief-audits/assets/images/figures/01-policy-paper-audits.png"
+       target="_blank" class="btn btn-secondary">
+      <i class="mdi mdi-facebook"></i>
+    </a>
+    <a href="https://twitter.com/home?status=https%3A//hiig.de/g/policy-brief-audits/assets/images/figures/01-policy-paper-audits.png"
+       target="_blank" class="btn btn-secondary">
+      <i class="mdi mdi-twitter"></i>
+    </a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//hiig.de/graphite/policy-brief-audits/assets/images/figures/01-policy-paper-audits.png&summary=Shortfalls+of+notices%2C+transparency+reports%2C+data+access+regimes%2C+and+registers&title=Drawbacks+of+other+transparency+forms"
+       target="_blank" class="btn btn-secondary">
+      <i class="mdi mdi-linkedin"></i>
+    </a>
+  </div>
+</div>
+
+<div class="modal fade" id="23Modal" tabindex="-1" role="dialog" aria-labelledby="23ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Drawbacks of other transparency forms</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+
+        <img class="img-fluid" src="assets/images/figures/01-policy-paper-audits.png" alt="An overview visualising the drawbacks of other transparency forms.">
+
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+<div class="ms-row ms-row-two ms-text" id="partial_24">
+  <div class="ms-col-content">
+    <p>To conclude, all of these measures enhance transparency in different ways, but they are not to be confused with audits. Unlike audits, none of these measures promote direct regulatory access to critical proprietary information held within firms. Without more robust measures to facilitate regulatory oversight, neither transparency toward users nor more programmatic data-sharing or transparency initiatives will be sufficient to ensure that the regulatory state can keep up with innovations in the private-sector.</p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+</div>
+
+
+
+
+    <div class="ms-chapter" style="background-image: url(assets/images/drew-beamer-5DD7-L4A4Uw-unsplash.jpg)">
+      <div class="container-fluid" >
+        <div class="container">
+          <div class="ms-row ms-row-full" id="partial_25">
+            <div class="ms-col-content">
+              <h2 id="heading-25">Benefits and Risks of Auditing ACM</h2>
+<p>Key advantages and potential pitfalls of algorithmic auditing</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_26">
+  <div class="ms-col-content">
+    <h3 id='heading-26' >Key Benefits</h3>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_27">
+  <div class="ms-col-content">
+    <p>One of the main benefits of audits for regulators is that they provide material information for regulators and the public on how an AI system works. This is essential to enable the verifiability and explainability of these systems. </p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_28">
+  <div class="ms-col-content">
+    <p>From a technical point of view, algorithms can malfunction. Computer scientists and researchers<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Algorithm Watch. (2016) Überprüfbarkeit von Algorithmen. <em>algorithmwatch.org</em></p><a class='mdi mdi-earth' href='https://algorithmwatch.org/publication/zweites-arbeitspapier-ueberpruefbarkeit-algorithmen' target='_blank'></a>" data-html="true"><i></i></a> have identified several sources of error. It could be a mathematical problem in the code, and therefore, the algorithm does not solve the problem correctly or completely or it could be an incorrect modeling or implementation of an algorithm. In the case of learning algorithms, the source of error could be the unsuitability or faulty training data used by the system. Finally, a correct algorithm can still have socially undesirable side effects when it interacts with human behavior. The only way for regulators to verify the correctness of the implementation of an algorithm is by having access to the code and understanding the underlying mathematical problem that the algorithm tries to solve as well as the assumptions made when translating the question into a mathematical formula. Therefore, only disclosing the code to regulators or academics is not enough to verify an automated system since the code by itself without explanation does not allow regulators to assess compliance and make recommendations on how to improve.<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Selbst, A. D., &amp; Barocas, S. (2018). The intuitive appeal of explainable machines. Fordham L. Rev., 87, 1085.</p>" data-html="true"><i></i></a></p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><p>In the context of AI systems, researchers consider that audits could be used as a mechanism to check ex ante that the engineering processes involved in AI systems’ design and implementation are in order with ethical expectations and standards such as AI principles or guidelines.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_29">
+  <div class="ms-col-content">
+    <p>A crucial benefit of implementing algorithmic audits is that it allows regulators to go beyond risk-based assessments frameworks implemented by companies as a way of compliance. A risk-based approach often overlooks social and ethical challenges and only focuses on probabilities. Further, audits under this framework are traditionally done as an ex post examination. However, in the context of AI systems, researchers consider that audits could be used as a mechanism to check ex ante that the engineering processes involved in AI systems’ design and implementation are in order with ethical expectations and standards such as AI principles or guidelines.<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Raji, I. D., Smart, A., White, R. N., Mitchell, M., Gebru, T., Hutchinson, B., ... &amp; Barnes, P. (2020, January). Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing. In <em>Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency</em> (pp. 33-44).</p>" data-html="true"><i></i></a> In most industries we understand audits as being performed as an ex post meticulous and methodical analysis, but using audits to anticipate potential system-level risks, and design adequate monitoring strategies for potential adverse outcomes is an advantage for regulators. Also, if mandated, audits will provide a way of operationalizing ethical principles or guidelines from the starting point of software development.</p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_30">
+  <div class="ms-col-content">
+    <p>Finally, audits provide a transparency trail for regulators. One systematic challenge for AI researchers is to trace the provenance of training data or to interpret the meaning of model weights, which influence the risk profile of an AI system. Documenting the relationship between product requirements, their source, and system design helps to close the gap on accountability on the use of AI systems. Traceability is an essential concept already used in the standard for auditing software.<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>IEEE. 2008. IEEE Standard for Software Reviews and Audits. IEEE Std 1028-2008 (Aug 2008), 1–53. https://doi.org/10.1109/IEEESTD.2008.4601584</p>" data-html="true"><i></i></a> This notion has been transposed to audits in different domains and has proven as an indispensable notion when transposed to high risk domains, such as the aerospace industry. It has also been identified as a key for enabling algorithmic accountability.</p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_31">
+  <div class="ms-col-content">
+    <p>The benefits of opting for auditing has not been lost on large platforms, such as Facebook and Google,<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Johnson, K. (2020). Google researchers release audit framework to close AI accountability gap. <em>Venture Beat</em>.</p><a class='mdi mdi-earth' href='https://venturebeat.com/2020/01/30/google-researchers-release-audit-framework-to-close-ai-accountability-gap/' target='_blank'></a>" data-html="true"><i></i></a> who have been reported to be looking into internal auditing practices. However, our proposal focuses on developing a framework for national or supranational regulators to undertake this task, and not solely as an internal obligation for platforms. </p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_32">
+  <div class="ms-col-content">
+    <p>Finally, audits allow operationalizing ethical principles into practice for platforms using AI systems. Given the multitude of ethical principles for AI which are under discussions at international and national level, audits come as a tangible tool for regulators to design an independent oversight framework. </p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_33">
+  <div class="ms-col-content">
+    <h3 id='heading-33' >Potential Risks</h3>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_34">
+  <div class="ms-col-content">
+    <p>Like any regulatory initiative, audits also have their drawbacks.  Some auditing regimes rely heavily on third-party independent auditors, who sometimes lack adequate access or power to fully inform the public about company practices. For instance, in 2012, the United States Federal Trade Commission issued an enforcement order requiring Facebook to submit to independent external audits of its mechanisms for overseeing the security practices of third-party app developers. But it's auditor, PriceWaterhouseCoopers, referred only to Facebook’s publicly available policies in its report, casting doubt on its ability to fully assess Facebook’s internal practices. </p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><p>If regulatory mandates for auditing are not carefully and thoughtfully crafted, they are unlikely to generate information of use to the public or to regulators.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_35">
+  <div class="ms-col-content">
+    <p>Calls for audits may also inadvertently lead to cooptation and watering-down of the term. Consider how a virtual cottage industry of "auditing" and compliance monitoring has arisen as a result of the passage of the GDPR. To the extent algorithmic audits are interpreted as nothing more than a box on a compliance checklist to be ticked off by a private certification body, they will fail to provide meaningful information or access to regulators or to the public. In other words, robust audits must not be turned into nothing more than a rubber stamp of self-certification. If regulatory mandates for auditing are not carefully and thoughtfully crafted, they are unlikely to generate information of use to the public or to regulators. But mandatory, public audit provisions, which empower regulatory bodies to require independent third-party audits of platforms, can yield important information for public oversight.</p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_36">
+  <div class="ms-col-content">
+    <p>Regulatory oversight can also be leveraged in ways that are regressive. As nations experiment with novel ways of governing social media platforms, certain initiatives run the risk of infringing user privacy, stifling dissent, and otherwise weaponizing the regulatory process to dampen, rather than promote, fundamental rights. Consider, for example, Russia, where recently enacted regulations are intended to centralize and consolidate state control over Internet companies and traffic, permitting already-extensive state surveillance to grow unchecked. As with any regulatory initiative, audit requirements must be carefully engineered to guard against the risk of abuse and misuse, politicization, and overreach.</p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_37">
+  <div class="ms-col-content">
+    <p>On an even broader level, a core question concerns the value of transparency itself in promoting regulatory accountability. Some critics have charged that algorithmic transparency itself can serve as a distraction from more pressing and fundamental accountability concerns. And "thin" versions of platform transparency requirements, while appealing to the private sector, may be insufficient to ensure an adequate flow of information to either users or to regulatory agencies. Consider the example of the voluntary Santa Clara Principles on Transparency and Accountability in Content Moderation, which call on platforms to provide more detailed aggregate data about content removal, to notify each affected user about the reason that a post was removed or account suspended, and to provide opportunities for users to appeal those decisions. While these principles are laudable, their focus on individual user rights has meant that they have scarcely affected regulatory oversight. The Principles thus illustrate how transparency initiatives intended to facilitate effective regulation must be designed differently than transparency initiatives primarily designed to inform the public. </p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_38">
+  <div class="ms-col-content">
+    <a href="#38Modal" type="button" data-toggle="modal" data-target="#38Modal">
+
+<img class="img-fluid" src="assets/images/figures/02-policy-paper-audits.png" alt="An overview visualising the benefits and risks of audits.">
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+
+<aside class="ms-aside-caption">
+  <p><strong>Benefits and risks of audits</strong>
+
+        <br>Evaluating the use of auditing in ACM
+
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>CC BY SA 3.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#38Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/figures/02-policy-paper-audits.png"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">TEILEN</span>
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//hiig.de/graphite/policy-brief-audits/assets/images/figures/02-policy-paper-audits.png"
+       target="_blank" class="btn btn-secondary">
+      <i class="mdi mdi-facebook"></i>
+    </a>
+    <a href="https://twitter.com/home?status=https%3A//hiig.de/g/policy-brief-audits/assets/images/figures/02-policy-paper-audits.png"
+       target="_blank" class="btn btn-secondary">
+      <i class="mdi mdi-twitter"></i>
+    </a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//hiig.de/graphite/policy-brief-audits/assets/images/figures/02-policy-paper-audits.png&summary=Evaluating+the+use+of+auditing+in+ACM&title=Benefits+and+risks+of+audits"
+       target="_blank" class="btn btn-secondary">
+      <i class="mdi mdi-linkedin"></i>
+    </a>
+  </div>
+</div>
+
+<div class="modal fade" id="38Modal" tabindex="-1" role="dialog" aria-labelledby="38ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Benefits and risks of audits</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+
+        <img class="img-fluid" src="assets/images/figures/02-policy-paper-audits.png" alt="An overview visualising the benefits and risks of audits.">
+
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+</div>
+
+
+
+
+    <div class="ms-chapter" style="background-image: url(assets/images/ciprian-pardau-j8fVoo3i8xk-unsplash.jpg)">
+      <div class="container-fluid" >
+        <div class="container">
+          <div class="ms-row ms-row-full" id="partial_39">
+            <div class="ms-col-content">
+              <h2 id="heading-39">Policy recommendations</h2>
+<p>Principle-based approach to algorithmic auditing</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_40">
+  <div class="ms-col-content">
+    <p>Our broad overview of transparency and audits makes clear that, unless properly constructed, audits themselves may end up being useless or, worse, harmful to the public interest. This should not be perceived as a critique of the concept itself, as much a constructive assessment of how to best shape such an important tool in better understanding ACM. Simply making audits legally mandated will not be enough to properly extract important information for future regulatory and user actions. Four important principles need to be satisfied so as to ensure a baseline usefulness for audits: independence, access, publicity, and funding/expertise.</p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_41">
+  <div class="ms-col-content">
+    <h3 id='heading-41' >Independence</h3>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_42">
+  <div class="ms-col-content">
+    <p>Independence is a straightforward concept, but the devil is in the details. In the auditing of ACM, it implies the existence and active participation of a third-party that is carrying out the audit. The current environment where companies are unwilling to provide information about their practices indicates the need for such a crucial principle to be embedded. This principle is rooted in the perspective that capture must be avoided: the audits must not be tied to the whims of the company being audited, and it also should not be entirely beholden to the State. Culturally, societally, notions of government intervention are different around the world and suggesting a particular model may not be entirely useful to all regulators. </p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_43">
+  <div class="ms-col-content">
+    <p>Models for accrediting third-party auditors may take several different forms. One option is to follow the European model of media regulation and task Independent State Authorities to accredit auditors or to carry out algorithmic audits themselves. A second possibility would be for the state to recognize and accredit self-regulatory bodies that may conduct the audits themselves, consistent with regulatory objectives. A third possibility is for multi-stakeholder institutions to create the frameworks and the implementation of accreditation procedures for third-party auditors. There are many equations that eventually reach the same finality of the strict but broad principle of independence. We believe that this principle is satisfied as long as the outcome is a process that is not easily captured by either government or industry, be it through an equal say for the two, or an elevation of civil society to decide with input from both the state and platforms.</p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_44">
+  <div class="ms-col-content">
+    <h3 id='heading-44' >Access</h3>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_45">
+  <div class="ms-col-content">
+    <p>Access stems from the current system where companies pick and choose which information to share and to whom. While typical answers about trade secrets and protecting corporate interests are the usual roadblock, it is imperative that industry does not become the gatekeeper of information. There are certainly legitimate concerns about competitors stealing data or algorithms, and those should be acknowledged. But access does not imply a free-for-all open door policy where the world can just peek in at will. Nor does it mean a wanton desire to hurt industry under the guise of helping society. It simply implies that, much like independence, the sole decision-making power about whether regulators ought to be able to peek under the hood of content moderation techniques should not rest with companies. Tiered systems of access can provide an answer to these concerns while also allowing in the daylight needed to conduct proper review of the systems being audited.</p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_46">
+  <div class="ms-col-content">
+    <h3 id='heading-46' >Publicity</h3>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_47">
+  <div class="ms-col-content">
+    <p>Publicity implies that the audits should be well publicized. While primarily a tool for regulators and policy-makers to better understand the specific algorithms in order to craft better regulations, audits are also of service to the population in order to make informed choices. The mere existence of information, however, is not enough to claim that citizens and regulators are making informed decisions. Hidden behind corporate websites, written in undecipherable technical or legal languages, housed under confusing menus is not an actual form of transparency, but one of obfuscation, infoglut, and deliberate acts of opacity. Audits should be legally mandated to be widely available, in multiple formats, with accessibility in mind. This can be done either individually by companies, or through a system of public registers. As with previous principles we do not believe that one answer should be the choice for all regulators, but publicity should be construed and institutionalized as more than just a genuine effort on behalf of the platforms. It should be an intentional form of reaching intended audiences, both regulators and the public, in an understandable and contextualized manner. </p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_48">
+  <div class="ms-col-content">
+    <h3 id='heading-48' >Resource</h3>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_49">
+  <div class="ms-col-content">
+    <p>Resource is based on the clear idea that audits are resource-dependent. Platform-based funding for audits should be legally mandated, so that a lack of financial resources can never become the reason for transparency to falter. Internet companies using ACM spend, depending on their size, various fortunes on their systems, which would imply that making these algorithms successful is worth the investment. A societal shift currently taking place is moving the window of acceptability on what algorithms can and should be allowed to decide, as well as the ways in which they do it, which, in turn, is changing the definition of what it means for an algorithm to be successful. Funding audits should happen through foundations or institutions that are otherwise disconnected from industry, in order to ensure a firewall between the results of the audits and continued funding from companies. Such a scheme could work either as a pool of money, funded by mandatory fees based on the size of the company (size to be construed in any way that makes sense for all stakeholders) or based on direct payment for the audit, through an independent body. </p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_50">
+  <div class="ms-col-content">
+    <p>Even more, beyond financial resources, audits, as made clear above, are dependent on legitimate technical expertise. This means that an understanding of the technologies, mechanisms, uses, and outcomes is necessary both in crafting the structure of the audits and in carrying them out. Technical and financial limits to resources should be alleviated through clear legislation. By requiring audits, our hope is that the regulatory state will quickly develop and foster the technical expertise both to understand algorithmic audits and to make use of the information they provide. </p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+</div>
+
+
+
+
+    <div class="ms-chapter" style="background-image: url(assets/images/markus-winkler-afW1hht0NSs-unsplash.jpg)">
+      <div class="container-fluid" >
+        <div class="container">
+          <div class="ms-row ms-row-full" id="partial_51">
+            <div class="ms-col-content">
+              <h2 id="heading-51">Conclusion</h2>
+<p>Audits as the most robust way to establish a practice of transparency in ACM</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_52">
+  <div class="ms-col-content">
+    <p>This white paper sets out to identify and attenuate a fundamental concern related to how we communicate online. We argue that while not a concern in itself, the use of ACM in a secretive manner makes it difficult for the public and for policymakers to take action for the present (choice of use) and the future (choice of regulation), respectively. There are many ways to establish the practice of transparency, however our research points to audits as the most robust way of understanding ACM. While certainly not a silver bullet, audits can be crafted in a way that as best as possible assuages its empirically obvious limitations while enhancing its potential benefits. We propose that mandating audits to be independent, to have built-in access, to be widely publicized, and to be resource-sufficient, be it in funding or expertise, are the crucial ways in which audits as a tool can help lead us closer to better understanding the choices made in ACM.</p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_53">
+  <div class="ms-col-content">
+
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+  </div>
+</article>
+  </div>
+
+  <div class="tab-pane fade" id="authors" role="tabpanel" aria-labelledby="authors-tab" >
+
+
+<section>
+  <div class="container">
+     <div class="ms-row ms-row-two ms-text" id="partial_54">
+  <div class="ms-col-content">
+    <h2 id='heading-54' >Authors</h2>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_55">
+  <div class="ms-col-content">
+    <p>The three authors of this brief were all fellows of the first research sprint and contributed equally to the formulation of the policy brief.</p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_56">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/hannah-bloch-w.png" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Hannah Bloch-Wehba</strong>
+</p>
+<p class="grey">
+  Texas A&M University, School of Law, USA
+</p>
+
+<p>I am a law professor at Texas A&M University, where I study, teach, and write about law and technology. Currently, I'm particularly interested in how the promise of "AI" can be used to conceal platform power and obscure relationships with law enforcement. I'm taking part in the sprint because I'm excited to work with an international, interdisciplinary group of scholars neck deep in debates about digital rights and values. My goal as a researcher is to shed new light on the challenges technology poses for democratic processes, institutions, rights, and values.</p>
+
+  </div>
+  <div class="ms-col-marginal">
+
+
+<aside class="ms-aside-link">
+  <p>
+    <a href=https://law.tamu.edu/faculty-staff/find-people/faculty-profiles/hannah-bloch-wehba target="_blank">
+       Visit website
+    </a>
+  </p>
+</aside>
+
+
+<aside class="ms-aside-twitter">
+  <p>
+    <a href="https://twitter.com/HBWHBWHBW" target="_blank">
+       <span class="grey">@&thinsp;</span>HBWHBWHBW
+    </a>
+  </p>
+</aside>
+
+
+<aside class="ms-aside-linkedin">
+  <p><a href="https://www.linkedin.com/in/hannahbw" target="_blank">
+       <span class="grey">in&thinsp;/&thinsp;</span>hannahbw
+    </a></p>
+</aside>
+
+
+
+  </div>
+</div>
+
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_57">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/Fernandez.png" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Angelica Fernandez</strong>
+</p>
+<p class="grey">
+  University of Luxembourg, Luxembourg
+</p>
+
+<p>I am a second-year Ph.D. candidate at the Faculty of Law of the University of Luxembourg. My Ph.D. dissertation topic is about AI and the enforcement of norms on online platforms. As part of the legal hacker community, I am interested in discussing and proposing actionable solutions to pressing issues at the intersection of law and technology. Within the field of AI and content moderation, I am fascinated by algorithmic enforcement systems and their impact on different rights, such as freedom of expression. Currently, the use of these systems often accepts an implicit high social cost of over-enforcement. For this reason, and many others, I believe it is essential to have a discussion about the ethics of digitalization that goes beyond experts' views and engages society at large.</p>
+
+  </div>
+  <div class="ms-col-marginal">
+
+
+<aside class="ms-aside-link">
+  <p>
+    <a href=https://wwwen.uni.lu/research/fdef/dl/dtu_rems_ii/people/angelica_fernandez target="_blank">
+       Visit website
+    </a>
+  </p>
+</aside>
+
+
+<aside class="ms-aside-twitter">
+  <p>
+    <a href="https://twitter.com/angafernandez" target="_blank">
+       <span class="grey">@&thinsp;</span>angafernandez
+    </a>
+  </p>
+</aside>
+
+
+<aside class="ms-aside-linkedin">
+  <p><a href="https://www.linkedin.com/in/angelica-a-fernández-26b0ba15" target="_blank">
+       <span class="grey">in&thinsp;/&thinsp;</span>angelica-a-fernández-26b0ba15
+    </a></p>
+</aside>
+
+
+
+  </div>
+</div>
+
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_58">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/Morar.png" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>David Morar</strong>
+</p>
+<p class="grey">
+  George Washington University, Elliott School of International Affairs, USA
+</p>
+
+<p>I am currently a visiting scholar with the Elliott School of International Affairs, George Washington University. The field of AI and content moderation is one that seems very promising for scholars, but also very important generally for the world, as so much or our communication happens online, nowadays. A conversation about ethics helps tremendously in this perspective primarily because of its nature. It allows us to understand where we and our interlocutors stand, and gives us not just a great framework, but also a translation device to understand complex actions. What we must also do is guard against is the watering down of the concept, the misinterpretation of it as compliance, or the fetishization of its importance.</p>
+
+  </div>
+  <div class="ms-col-marginal">
+
+
+<aside class="ms-aside-link">
+  <p>
+    <a href=https://davidmorar.com/ target="_blank">
+       Visit website
+    </a>
+  </p>
+</aside>
+
+
+<aside class="ms-aside-twitter">
+  <p>
+    <a href="https://twitter.com/morar" target="_blank">
+       <span class="grey">@&thinsp;</span>morar
+    </a>
+  </p>
+</aside>
+
+
+<aside class="ms-aside-linkedin">
+  <p><a href="https://www.linkedin.com/in/davidmorar" target="_blank">
+       <span class="grey">in&thinsp;/&thinsp;</span>davidmorar
+    </a></p>
+</aside>
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_59">
+  <div class="ms-col-content">
+
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+  </div>
+</section>
+  </div>
+
+  <div class="tab-pane fade" id="directories" role="tabpanel" aria-labelledby="directories-tab" >
+
+
+<section>
+  <div class="container">
+     <div class="ms-row ms-row-two ms-text" id="partial_60">
+  <div class="ms-col-content">
+    <h2 id='heading-60' >Sources</h2>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-directory" id="partial_61">
+  <div class="ms-col-content">
+
+<div class="ms-entry">
+  <p>
+    <p>Algorithm Watch. (2016) Überprüfbarkeit von Algorithmen. <em>algorithmwatch.org</em>. Retrieved from https://algorithmwatch.org/publication/zweites-arbeitspapier-ueberpruefbarkeit-algorithmen</p>
+
+    <a class="mdi mdi-earth" href="https://algorithmwatch.org/publication/zweites-arbeitspapier-ueberpruefbarkeit-algorithmen" target="_blank"></a>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Ananny, M., &amp; Crawford, K. (2018). Seeing without knowing: Limitations of the transparency ideal and its application to algorithmic accountability. <em>New Media &amp; Society, 20</em>(3), 973-989.</p>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Bloch-Wehba, H. (2020). Automation in Moderation. <em>Cornell International Law Journal, Forthcoming.</em></p>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Burrell, J. (2016). How the machine ‘thinks’: Understanding opacity in machine learning algorithms. <em>Big Data &amp; Society, 3</em>(1), 2053951715622512.</p>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Casey, B., Farhangi, A., &amp; Vogl, R. (2019). Rethinking Explainable Machines: The GDPR's Right to Explanation Debate and the Rise of Algorithmic Audits in Enterprise. <em>Berkeley Tech. LJ, 34</em>, 143.</p>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Data and Discrimination: Selected Essays, https://www.newamerica.org/oti/policy-papers/data-and-discrimination</p>
+
+    <a class="mdi mdi-earth" href="https://www.newamerica.org/oti/policy-papers/data-and-discrimination" target="_blank"></a>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>ERGA Report on disinformation: Assessment of the implementation of the Code of Practice at https://erga-online.eu/wp-content/uploads/2020/05/ERGA-2019-report-published-2020-LQ.pdf</p>
+
+    <a class="mdi mdi-earth" href="https://erga-online.eu/wp-content/uploads/2020/05/ERGA-2019-report-published-2020-LQ.pdf" target="_blank"></a>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>General Data Protection Regulation (GDPR) (art. 58.1.b)</p>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Gorwa, R., Binns, R., &amp; Katzenbach, C. (2020). Algorithmic content moderation: Technical and political challenges in the automation of platform governance. <em>Big Data &amp; Society, 7</em>(1), 2053951719897945.</p>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>IEEE. 2008. IEEE Standard for Software Reviews and Audits. IEEE Std 1028-2008 (Aug 2008), 1–53. https://doi.org/10.1109/IEEESTD.2008.4601584</p>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Johnson, K. (2020). Google researchers release audit framework to close AI accountability gap. <em>Venture Beat</em>. Retrieved from https://venturebeat.com/2020/01/30/google-researchers-release-audit-framework-to-close-ai-accountability-gap/</p>
+
+    <a class="mdi mdi-earth" href="https://venturebeat.com/2020/01/30/google-researchers-release-audit-framework-to-close-ai-accountability-gap/" target="_blank"></a>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet (Section II, Art. 6)</p>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Merriam-Webster Dictionary, Audit.</p>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Gesetz zur Verbesserung der Rechtsdurchsetzung in sozialen Netzwerken [Netzwerksdurchsetzungsgesetz] [NetzDG]) (DEU)</p>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Pasquale, F. (2015). Black Box Society. Les algorithmes secrets qui contrôlent l'économie et l'information. FYP editions.</p>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Perel, M., &amp; Elkin-Koren, N. (2015). Accountability in algorithmic copyright enforcement. <em>Stan. Tech. L. Rev., 19</em>, 473.</p>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Raji, I. D., Smart, A., White, R. N., Mitchell, M., Gebru, T., Hutchinson, B., ... &amp; Barnes, P. (2020, January). Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing. In <em>Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency</em> (pp. 33-44).</p>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Raji, I. D., Smart, A., White, R. N., Mitchell, M., Gebru, T., Hutchinson, B., ... &amp; Barnes, P. (2020, January). Closing the AI accountability gap: defining an end-to-end framework for internal algorithmic auditing. In <em>Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency</em> (pp. 33-44).</p>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Sandvig et al., An Algorithm Audit, in S.P. Gangadharan, V. Eubanks, &amp; S. Barocas (eds.)</p>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Sandvig, C., Hamilton, K., Karahalios, K., &amp; Langbort, C. (2014). Auditing algorithms: Research methods for detecting discrimination on internet platforms. <em>Data and discrimination: converting critical concerns into productive inquiry</em>, 22.</p>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Selbst, A. D., &amp; Barocas, S. (2018). The intuitive appeal of explainable machines. Fordham L. Rev., 87, 1085.</p>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Suzor, N. P., West, S. M., Quodling, A., &amp; York, J. (2019). What do we mean when we talk about transparency? Toward meaningful transparency in commercial content moderation. <em>International Journal of Communication, 13</em>, 18.</p>
+
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+
+
+  </p>
+</div>
+
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-title">
+</aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_62">
+  <div class="ms-col-content">
+
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+  </div>
+</section>
+  </div>
+
+  <div class="tab-pane fade" id="editors" role="tabpanel" aria-labelledby="editors-tab" >
+
+
+<section>
+  <div class="container">
+     <div class="ms-row ms-row-two ms-text" id="partial_63">
+  <div class="ms-col-content">
+    <h2 id='heading-63' >The Ethics of Digitalisation</h2>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_64">
+  <div class="ms-col-content">
+    <p><strong>This policy brief forms one of the three outputs of the research sprint on AI and content moderation which was hosted virtually by the HIIG from August to October 2020.</strong><br>
+The NoC (Global Network of Internet and Society Research Centers) research project <em>The Ethics of Digitalisation - From Principles to Practices</em> promotes an active exchange and aims to foster a global dialogue on the ethics of digitalisation by involving stakeholders from academia, civil society, policy, and the industry. Research sprints and clinics form the core of the project; they enable interdisciplinary scientific work on application-, and practice-oriented questions and challenges and achieve outputs of high social relevance and impact. The first research sprint on AI and content moderation brought together thirteen fellows from nine different countries across seven different  time zones. Their academic expertise ranged from law and public policy to data science and digital ethics and together they explored key challenges arising from the use of automation and machine learning in content moderation.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><h3>Imprint</h3>
+<p>Alexander von Humboldt Institut für Internet und Gesellschaft<br><span class="light">Französische Str. 9<br>10117 Berlin</span></p>
+<p><span class="light">Responsibe according to §&nbsp;55&nbsp;Abs.&nbsp;2&nbsp;RStV: Dr. Karina Preiß</span></p>
+<p><span class="light"><a href="https://www.hiig.de/en/imprint">Imprint on hiig.de</a></span></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_65">
+  <div class="ms-col-content">
+    <h3 id='heading-65' >Team</h3>
+<p><strong>The research sprint and publications were organised and reviewed by the project team:</strong><br>
+<a href="https://www.hiig.de/en/alexander-pirang">Alexander Pirang</a>, researcher at AI &amp; Society Lab<br>
+<a href="https://www.hiig.de/en/matthias-kettemann">Matthias Kettemann</a>, researcher at Leibniz-Institut für Medienforschung | Hans-Bredow-Institut and associated researcher at HIIG<br>
+<a href="https://www.hiig.de/en/nadine-birner">Nadine Birner</a>, project coordinator of The Ethics of Digitalisation<br>
+<a href="https://www.hiig.de/en/friederike-stock">Friederike Stock</a>, student assistant of The Ethics of Digitalisation</p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_66">
+  <div class="ms-col-content">
+    <p>Design and implementation by <a href="https://www.larissawunderlich.de">Larissa Wunderlich</a> and <a href="https://www.impactdistillery.com">Marcel Hebing</a> via the publication framework <a href="https://www.impactdistillery.com/graphite">graphite</a>.</p>
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_67">
+  <div class="ms-col-content">
+
+  </div>
+  <div class="ms-col-marginal">
+
+  </div>
+</div>
+  </div>
+</section>
+  </div>
+
+</div>
+<canvas id="confetti"></canvas>
+<!-- END: STUDY FRAME -->
+
+
+    <script src="/static/js/jquery.min.js"></script>
+    <script src="/static/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/js/jquery.actual.min.js"></script>
+    <script src="/static/js/horst.js"></script>
+    <script src="/static/js/youtube.js"></script>
+    <script src="/static/js/confetti.js"></script>
+
+
+      <!-- Matomo -->
+      <script type="text/javascript">
+        var _paq = window._paq = window._paq || [];
+        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+          var u="https://piwik.wunderjewel.de/";
+          _paq.push(['setTrackerUrl', u+'matomo.php']);
+          _paq.push(['setSiteId', '4']);
+          var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+          g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+        })();
+      </script>
+      <!-- End Matomo Code -->
+
+  </body>
+</html>
