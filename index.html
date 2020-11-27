@@ -3,11 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <title>Graphite – enhanced publications for a digital environment</title>
+
+    <style>
+        body{
+            background: #000;
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            height: 100vh;
+            width: 100vw;
+            font-family: 'Source Sans Pro', Helvetica, Roboto, sans-serif;
+        }
+
+        .center{
+            max-width: 500px;
+            margin: auto;
+            height: auto;
+        }
+
+        .logo img{
+            width: 50vw;
+            max-width: 300px;
+            margin-right: 50px;
+            display: inline-block;
+        }
+
+        .info{
+            font-size: 20px;
+            font-weight: 600;
+            padding: 5vh 0;
+        }
+
+        .more{
+            font-size: 16px;
+            font-weight: 300;
+        }
+
+        a{
+            color: #aaa;
+            text-decoration: none;
+        }
+    </style>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div>
-        Publications build with the python Graphite based on pythons graphite-papers.
-        For more information visit the project website, read the docs and get started.
+    <div class="center">
+        <div class="logo"><img src="_assets/graphite_neg.svg" alt="graphite"/></div>
+        <p class="info">Publications build with the framework Graphite <br> based on pythons graphite-papers.</p>
+        <p class="more">For more information visit the <a href="http://impactdistillery.com/graphite">project website</a>, read the docs and get started.</p>
     </div>
 </body>
 </html>
