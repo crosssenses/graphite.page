@@ -36,6 +36,8 @@ echo "\033[32mSuccessfully copied \033[0m"
 
 # commit build from above
 git commit -a -m "copied all"
+git pull
+git push
 
 echo "Commit to development"
 
