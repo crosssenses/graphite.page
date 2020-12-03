@@ -8357,7 +8357,7 @@ a.text-dark:focus, a.text-dark:hover {
   font-weight: 400;
 }
 
-.sans-serif, table td p, table th p, table td p p, table th p p, .ms-plugin-quote .ms-col-content .nav-tabs li a, .ms-plugin-quote .ms-col-content p, .ms-plugin-infobox .ms-col-content p, .ms-col-marginal aside p,
+.sans-serif, table td p, table th p, .ms-plugin-quote .ms-col-content .nav-tabs li a, .ms-plugin-quote .ms-col-content p, .ms-plugin-infobox .ms-col-content p, .ms-col-marginal aside p,
 .ms-col-marginal [class*=ms-aside] p, section .ms-col-content p,
 section .ms-col-content li {
   font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
@@ -8365,9 +8365,9 @@ section .ms-col-content li {
   font-weight: 300;
 }
 
-.hyphenate, .ms-col-marginal aside p:lang(de), .ms-col-marginal aside p:lang(de_DE),
+.hyphenate, table td, table th, table td p, table th p, .ms-col-marginal aside p:lang(de), .ms-col-marginal aside p:lang(de_DE),
 .ms-col-marginal [class*=ms-aside] p:lang(de),
-.ms-col-marginal [class*=ms-aside] p:lang(de_DE), article p:lang(de), article p:lang(de_DE) {
+.ms-col-marginal [class*=ms-aside] p:lang(de_DE), article p:lang(de), article p:lang(de_DE), .ms-article-top .ms-col-content p {
   -webkit-hyphens: auto;
   -webkit-hyphenate-limit-before: 3;
   -webkit-hyphenate-limit-after: 3;
@@ -9272,7 +9272,6 @@ table thead th {
 table td, table th, table td p, table th p {
   padding: 10px 25px 10px 0;
   vertical-align: top;
-  hyphens: auto;
 }
 table td p, table th p, table td p p, table th p p {
   padding: 0;
