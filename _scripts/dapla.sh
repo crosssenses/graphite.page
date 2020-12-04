@@ -2,11 +2,6 @@
 devBranch=development
 masterBranch=live
 
-# define paper
-paper[0]="policy-brief-audits"
-paper[1]="policy-brief-blackbox"
-paper[2]="policy-brief-values"
-
 # Starting publishing
 echo "                        "
 echo "------------------------"
@@ -24,12 +19,7 @@ echo "------------------------"
 
 
 # Copy papers
-cp -a ../ethics-of-digitalisation/policy-brief-audits/_build/. policy-brief-audits
-cp -a ../ethics-of-digitalisation/policy-brief-blackbox/_build/. policy-brief-blackbox
-cp -a ../ethics-of-digitalisation/policy-brief-values/_build/. policy-brief-values
-
-# Copy root static till static fixed
-cp -a ../ethics-of-digitalisation/static/. static
+cp -a ../hiig-graphite-publications/dapla-bericht/_build/. hiig-dapla
 
 echo "\033[32mSuccessfully copied \033[0m"
 
@@ -43,7 +33,7 @@ echo "Commit to development"
 echo "                        "
 echo "Change to production    "
 echo "------------------------"
- 
+
 # merge release branch with the new version number into master
 git checkout $masterBranch
 git pull
