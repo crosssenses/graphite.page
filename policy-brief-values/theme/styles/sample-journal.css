@@ -8830,6 +8830,12 @@ h3 + h4 {
   padding-top: 0;
 }
 
+h5 {
+  font-size: 1.1em;
+  color: #868e96;
+  padding: 1em 0 0.5em;
+}
+
 .ms-chapter {
   background-size: cover;
   background-attachment: fixed;
@@ -9250,6 +9256,9 @@ figure .ms-col-content a {
 table {
   margin: 2rem 0;
   table-layout: auto;
+  /* Bugfix chrome */
+  overflow: scroll;
+  display: block !important;
 }
 .ms-plugin-table table {
   margin-top: 0;
