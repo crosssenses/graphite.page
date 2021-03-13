@@ -6,6 +6,7 @@ masterBranch=live
 paper[0]="policy-brief-audits"
 paper[1]="policy-brief-blackbox"
 paper[2]="policy-brief-values"
+paper[2]="clinics-report"
 
 # Starting publishing
 echo "                        "
@@ -24,14 +25,18 @@ echo "------------------------"
 
 
 # Copy papers
-cp -a ../ethics-of-digitalisation/policy-brief-audits/_build/. policy-brief-audits
-cp -a ../ethics-of-digitalisation/policy-brief-blackbox/_build/. policy-brief-blackbox
-cp -a ../ethics-of-digitalisation/policy-brief-values/_build/. policy-brief-values
+
+for i in "${paper[@]}"
+do
+  cp -a ../ethics-of-digitalisation/$i/_build/. $i
+  echo "\033[32m ----- " $i " copied ----- \033[0m"
+done
+
 
 # Copy root static till static fixed
 cp -a ../ethics-of-digitalisation/static/. static
 
-echo "\033[32mSuccessfully copied \033[0m"
+echo "\033[32mAll papers successfully copied \033[0m"
 
 # commit build from above
 git commit -a -m "copied all"
