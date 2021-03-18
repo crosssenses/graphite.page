@@ -13,11 +13,19 @@ devBranch=development
 liveBranch=live
 previewBranch=preview
 
-echo "in: $input";
-echo "out: $output";
-echo "mode: $mode";
+echo "                                                  "
+echo "**************************************************"
+echo "                                                  "
+echo "  📁 in: $input          ";
+echo "                                                  "
+echo "     out: $output        ";
+echo "                                                  "
+echo "  🪄 mode: $mode         ";
+echo "                                                  "
+echo "**************************************************"
+echo "                                                  "
 
-read -p "Proceed with these variables? " -n 1 -r
+read -p "Proceed with these variables? (Y/y)" -n 1 -r
 echo    # (optional) move to a new line
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
@@ -40,7 +48,7 @@ then
   # Copy papers
   cp -a $input/_build/. $output
 
-  echo "\033[32mSuccessfully copied \033[0m"
+  echo "\033[32m Successfully copied \033[0m"
 
   # commit build from above
   git add -A
