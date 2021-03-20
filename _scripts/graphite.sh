@@ -50,7 +50,7 @@ then
 
   echo "\033[32m Successfully copied \033[0m"
 
-  # commit build from above
+#   commit build from above
   git add -A
   git commit -m "copied all"
   git pull
@@ -64,8 +64,9 @@ then
 
   # merge dev branch into preview/live
   
-  if [[ $mode -eq preview ]]
+  if [ $mode = "preview" ]
   then
+#    echo "I'm in preview."
     git checkout $previewBranch
     git pull
     git merge --no-ff --no-edit $devBranch
@@ -73,8 +74,9 @@ then
     echo "\033[32m Build merged into preview\033[0m"
     
     git push
-  elif [[ $mode -eq live ]]
+  elif [ $mode = "live" ]
   then
+#    echo "I'm in live."
     git checkout $liveBranch
     git pull
     git merge --no-ff --no-edit $devBranch
