@@ -64,7 +64,7 @@ then
 
   # merge dev branch into preview/live
   
-  if [[ $mode -eq "preview" ]]
+  if [ $mode -eq "preview" ]
   then
     echo "I'm in preview."
 #    git checkout $previewBranch
