@@ -64,7 +64,7 @@ then
 
   # merge dev branch into preview/live
   
-  if [[ $mode -eq preview ]]
+  if [[ $mode -eq "preview" ]]
   then
     git checkout $previewBranch
     git pull
@@ -73,7 +73,7 @@ then
     echo "\033[32m Build merged into preview\033[0m"
     
     git push
-  elif [[ $mode -eq live ]]
+  elif [[ $mode -eq "live" ]]
   then
     git checkout $liveBranch
     git pull
