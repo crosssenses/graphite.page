@@ -66,22 +66,24 @@ then
   
   if [[ $mode -eq "preview" ]]
   then
-    git checkout $previewBranch
-    git pull
-    git merge --no-ff --no-edit $devBranch
-    
-    echo "\033[32m Build merged into preview\033[0m"
-    
-    git push
+    echo "I'm in preview."
+#    git checkout $previewBranch
+#    git pull
+#    git merge --no-ff --no-edit $devBranch
+#    
+#    echo "\033[32m Build merged into preview\033[0m"
+#    
+#    git push
   elif [[ $mode -eq "live" ]]
   then
-    git checkout $liveBranch
-    git pull
-    git merge --no-ff --no-edit $devBranch
-    
-    echo "\033[32m Build merged into live\033[0m"
-    
-    git push
+    echo "I'm in live."
+#    git checkout $liveBranch
+#    git pull
+#    git merge --no-ff --no-edit $devBranch
+#    
+#    echo "\033[32m Build merged into live\033[0m"
+#    
+#    git push
   else
     echo "Couldn't change to branch of selected mode."
   fi
