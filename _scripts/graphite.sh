@@ -48,11 +48,11 @@ then
   # Copy papers
   cp -a $input/_build/. $output
 
-  echo "\033[32m Successfully copied \033[0m"
+  echo "\033[32m Successfully copied $output \033[0m"
 
 #   commit build from above
   git add -A
-  git commit -m "copied all"
+  git commit -m "copied all files for $output"
   git pull
   git push
 
@@ -71,7 +71,7 @@ then
     git pull
     git merge --no-ff --no-edit $devBranch
     
-    echo "\033[32m Build merged into preview\033[0m"
+    echo "\033[32m Build merged into preview for $output\033[0m"
     
     git push
   elif [ $mode = "live" ]
@@ -81,7 +81,7 @@ then
     git pull
     git merge --no-ff --no-edit $devBranch
     
-    echo "\033[32m Build merged into live\033[0m"
+    echo "\033[32m Build merged into live for $output\033[0m"
     
     git push
   else
