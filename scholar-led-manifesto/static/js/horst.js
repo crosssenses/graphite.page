@@ -79,7 +79,7 @@ $(function () {
 
 
 //
-// Table of contents 
+// Table of contents
 //-----------------------------------------------------------------
 var selector;
 
@@ -374,7 +374,7 @@ function enableListener() {
         $($(this).attr('href'))[0].scrollIntoView();
         scrollBy(0, -offset);
     });
-    
+
     //Trigger confetti
     $('.ms-inline-thanks').click(function(){
         $('#confetti').toggleClass('rain');
@@ -403,7 +403,7 @@ function enableListener() {
 }
 
 
-// 
+//
 // Document ready calls
 //-----------------------------------------------------------------
 
