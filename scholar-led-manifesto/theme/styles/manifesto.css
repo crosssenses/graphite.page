@@ -8349,6 +8349,14 @@ a.text-dark:focus, a.text-dark:hover {
 /* Figure */
 /* Video */
 /* Quote */
+.ms-plugin-quote {
+  border: none !important;
+}
+.ms-plugin-quote .ms-col-content p {
+  font-family: "Linux Libertine", Georgia, Times, serif !important;
+  font-size: 1.3rem !important;
+}
+
 /* Table */
 /* Authors */
 /* General Variables */
