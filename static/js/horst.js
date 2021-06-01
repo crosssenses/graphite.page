@@ -79,7 +79,7 @@ $(function () {
 
 
 //
-// Table of contents 
+// Table of contents
 //-----------------------------------------------------------------
 var selector;
 
@@ -225,7 +225,7 @@ function collapseOversizedMarginals() {
         // TODO, check hight of next element, let all children flow?
         if ($(this).next().hasClass('ms-text')){
             if ($(this).next().children('.ms-col-marginal').children().length == 0) {
-                if (numAsides < 2){
+                if (numAsides < 3){
                     canOverflow = true;
                     }
             }
@@ -374,7 +374,7 @@ function enableListener() {
         $($(this).attr('href'))[0].scrollIntoView();
         scrollBy(0, -offset);
     });
-    
+
     //Trigger confetti
     $('.ms-inline-thanks').click(function(){
         $('#confetti').toggleClass('rain');
@@ -403,7 +403,7 @@ function enableListener() {
 }
 
 
-// 
+//
 // Document ready calls
 //-----------------------------------------------------------------
 
