@@ -6539,7 +6539,7 @@ article section .ms-plugin {
   margin-top: 0 !important;
 }
 
-.mr-0,
+.mr-0, .ms-navigation-top .ms-brand,
 .mx-0 {
   margin-right: 0 !important;
 }
@@ -6612,7 +6612,7 @@ article section .ms-plugin {
   margin-top: 1rem !important;
 }
 
-.mr-3, .ms-navigation-top .ms-brand,
+.mr-3,
 .mx-3 {
   margin-right: 1rem !important;
 }
@@ -8563,17 +8563,12 @@ object {
   height: 1.8em;
   vertical-align: -6px;
   margin-left: 1em;
-  margin-right: 1em;
+  margin-right: 0;
   width: 9em;
 }
-.ms-navigation-top .navbar-toggler {
-  border: none;
-  padding: 0;
-  margin-left: 2em;
-}
-.ms-navigation-top .navbar-toggler .navbar-toggler-icon {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+.ms-navigation-top .navbar-toggler-icon {
   background-size: 80%;
+  margin-left: 1rem;
 }
 
 #navContent {
