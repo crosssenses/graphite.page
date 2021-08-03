@@ -9240,6 +9240,12 @@ article .ms-text ul li:before {
   font-weight: bold !important;
   color: #000;
 }
+article .ms-text li ul {
+  padding-left: 5rem;
+  margin-left: -2rem;
+  position: relative;
+  margin-top: 1rem;
+}
 article .ms-text ol {
   counter-reset: ol;
   list-style: none;
