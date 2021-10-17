@@ -228,10 +228,7 @@ function collapseOversizedInfobox() {
             }
             $(this).after('<button class="btn btn-primary toggleInfobox" type="button">Expand infobox</button>')
 
-            $('.toggleInfobox').click(function () {
-                $(this).prev().toggleClass('show-collapsed');
-                $(this).toggleText('Collapse infobox', 'Expand infobox');
-            })
+            enableListener();
         }
     });
 }
