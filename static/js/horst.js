@@ -227,6 +227,11 @@ function collapseOversizedInfobox() {
 //                $(this).css('max-height', maxHeight);
             }
             $(this).after('<button class="btn btn-primary toggleInfobox" type="button">Expand infobox</button>')
+
+            $('.toggleInfobox').click(function () {
+                $(this).prev().toggleClass('show-collapsed');
+                $(this).toggleText('Collapse infobox', 'Expand infobox');
+            })
         }
     });
 }
