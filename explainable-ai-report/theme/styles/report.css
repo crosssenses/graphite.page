@@ -8590,7 +8590,8 @@ object {
   flex-direction: inherit;
 }
 .ms-header .card .card-body .author, .ms-chapter .card .card-body .author {
-  font-size: 1.4em;
+  font-size: 1.1em;
+  line-height: 1.2em;
 }
 .ms-header .card .card-body .card-title, .ms-chapter .card .card-body .card-title {
   font-weight: 600;
