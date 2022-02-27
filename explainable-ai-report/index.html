@@ -1,0 +1,2734 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/Article">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Place this data between the <head> tags of your website -->
+<title>What to explain when explaining is difficult</title>
+
+<!-- Google structured data -->
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ScholarlyArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "url": "https://graphite.page/explainable-ai-report"
+      },
+      "headline": "What to explain when explaining is difficult",
+      "alternativeHeadline": "An interdisciplinary primer on XAI and meaningful information in automated decision-making",
+      "image": "https://graphite.page/explainable-ai-report/assets/images/social.png",
+      "datePublished": "March 2022",
+      "copyrightYear": "2022",
+      "author": {
+        "@type": "Person",
+        "name": "Hadi Asghari, Nadine Birner, Aljoscha Burchardt, Daniela Dicks, Judith Faßbender, Nils Feldhus, Freya Hewett, Vincent Hofmann, Matthias C. Kettemann, Wolfgang Schulz, Judith Simon, Jakob Stolberg-Larsen, Theresa Züger"
+      },
+      "keywords": "Artificial Intelligence, Automated-decision making, Explainability, Interdisciplinarity, Transparency, Privacy Regulations",
+      "publisher": {
+        "@type": "Organization",
+        "name": "A report of the Explainable AI clinic by HIIG",
+        "logo": {
+          "@type": "ImageObject"
+          
+        }
+      }
+       ,
+      "sameAs": "10.5281/zenodo.5705669"
+      
+    }
+</script>
+
+<meta name="description" content="An interdisciplinary primer on XAI and meaningful information in automated decision-making" />
+<meta name="author" content="A report of the Explainable AI clinic by HIIG">
+
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="What to explain when explaining is difficult">
+<meta itemprop="description" content="An interdisciplinary primer on XAI and meaningful information in automated decision-making">
+<meta itemprop="image" content="https://graphite.page/explainable-ai-report/assets/images/social.png">
+
+<!-- Twitter Card data -->
+<meta name="twitter:title" content="What to explain when explaining is difficult">
+<meta name="twitter:description" content="An interdisciplinary primer on XAI and meaningful information in automated decision-making">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:creator" content="@author_handle">
+<!-- Twitter Summary card images must be at least 120x120px -->
+<meta name="twitter:image" content="https://graphite.page/explainable-ai-report/assets/images/social.png">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="What to explain when explaining is difficult" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://graphite.page/explainable-ai-report" />
+<meta property="og:image" content="https://graphite.page/explainable-ai-report/assets/images/social.png" />
+<meta property="og:description" content="An interdisciplinary primer on XAI and meaningful information in automated decision-making" /> 
+<meta property="og:site_name" content="graphite – Enhanced publications for a digital environment" />
+
+<!--
+<meta name="twitter:site" content="@publisher_handle">
+<meta property="fb:admins" content="Facebook numeric ID" />
+-->
+    
+      <link rel="stylesheet" href="theme/styles/report.css">
+    
+  </head>
+  <body>
+
+    
+
+
+
+
+
+  <div id="navContent" style="display: none;">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-6">
+
+          
+            <div class="ms-nav-info">
+              <p>The Strategic Guide to Responsible Platform Business is a publication by the <a href="https://www.hiig.de/en/project/platform-alternatives/">Platform Alternatives project</a> of HIIG and OII. It addresses the question of how platformisation can be managed to achieve fairer results for European stakeholders.</p>
+<p>This publication was build with the framework Graphite based on python’s graphite-papers. The framework enhances users to create publications for a digital environment.</p>
+            </div>
+          
+        </div>
+
+        <div class="col-md-3">
+          <div class="ms-nav-info">
+            <h3 class="ms-nav-section">Further publications</h3>
+
+            
+              <ul class="ms-nav-subnav">
+                
+                  <li>
+                    <a href=https://graphite.page/fair-targeted-ads/ target="_blank">Increasing fairness in targeted advertising</a>
+                  </li>
+                
+                  <li>
+                    <a href=https://graphite.page/hiig-dapla/ target="_blank">Plattforminnovation im Mittelstand</a>
+                  </li>
+                
+                  <li>
+                    <a href=https://graphite.page/scholar-led-manifest/ target="_blank">Das scholar-led.network-Manifest</a>
+                  </li>
+                
+              </ul>
+
+            
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="ms-nav-info">
+            <h3 class="ms-nav-section">More information</h3>
+
+            
+              <ul class="ms-nav-subnav">
+                
+                  <li>
+                    <a href=https://www.hiig.de/en/project/platform-alternatives target="_blank">Platform Alternatives project website</a>
+                  </li>
+                
+                  <li>
+                    <a href=https://www.impactdistillery.com/graphite target="_blank">Graphite project website</a>
+                  </li>
+                
+                  <li>
+                    <a href=https://pypi.org/project/graphite-paper target="_blank">graphite-paper on PyPI</a>
+                  </li>
+                
+              </ul>
+
+            
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+<!-- Navigation bar fixed to top -->
+<nav class="ms-navigation-top">
+  <div class="container">
+    <span class="ms-article-title">
+      What to explain when explaining is difficult
+    </span>
+
+    <a class="ms-brand" href="https://www.impactdistillery.com/graphite" target="_blank" rel="noreferrer noopener">
+      runs on <object data="theme/images/graphite.svg" type="image/svg+xml"></object>
+    </a>
+
+    
+
+      <span id="navToggle" class="navbar-toggler-icon"></span>
+
+    
+
+  </div>
+</nav>
+
+
+
+    
+<!-- START: STUDY FRAME -->
+<div class="ms-header"
+     style="background-image: url(assets/images/header.png);">
+  <div class="container">
+    <div class="card">
+      <div class="card-body">
+        <p class="author">Hadi Asghari, Nadine Birner, Aljoscha Burchardt, Daniela Dicks, Judith Faßbender, Nils Feldhus, Freya Hewett, Vincent Hofmann, Matthias C. Kettemann, Wolfgang Schulz, Judith Simon, Jakob Stolberg-Larsen, Theresa Züger</p>
+        <h1 class="card-title">What to explain when explaining is difficult</h1>
+        <p class="card-subtitle">An interdisciplinary primer on XAI and meaningful information in automated decision-making</p>
+      </div>
+    </div>
+  </div>
+</div>
+<footer class="ms-footer ms-footer-sticky"><div class="container">A report of the Explainable AI clinic by HIIG</div></footer>
+
+<div class="ms-toc"></div>
+<nav class="ms-tabs">
+  <div class="container">
+
+    <a class="ms-trigger-toc button d-flex d-lg-none">
+      Content
+    </a>
+
+    <div class="dropdown d-xs-block d-lg-none">
+      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Report
+      </button>
+
+      <div class="dropdown-menu" aria-labelledby="dropdownMenuButton" role="tablist">
+        <div class="nav nav-pills" role="tablist">
+          
+          <a class="dropdown-item tab-item active" id="index-tab" data-toggle="tab" href="#index" role="tab" aria-controls="index" aria-expanded="true">
+            Report
+          </a>
+          
+          <a class="dropdown-item tab-item " id="summary-tab" data-toggle="tab" href="#summary" role="tab" aria-controls="summary" >
+            Executive summary
+          </a>
+          
+          <a class="dropdown-item tab-item " id="directories-tab" data-toggle="tab" href="#directories" role="tab" aria-controls="directories" >
+            References
+          </a>
+          
+          <a class="dropdown-item tab-item " id="authors-tab" data-toggle="tab" href="#authors" role="tab" aria-controls="authors" >
+            Authors
+          </a>
+          
+          <a class="dropdown-item tab-item " id="editors-tab" data-toggle="tab" href="#editors" role="tab" aria-controls="editors" >
+            About
+          </a>
+          
+        </div>
+      </div>
+    </div>
+
+    <ul class="nav nav-tabs d-none d-lg-flex" id="masterTab" role="tablist">
+      
+      <li class="nav-item">
+        <a class="nav-link tab-item active" id="index-tab" data-toggle="tab" href="#index" role="tab" aria-controls="index" aria-expanded="true">
+          Report
+        </a>
+      </li>
+      
+      <li class="nav-item">
+        <a class="nav-link tab-item " id="summary-tab" data-toggle="tab" href="#summary" role="tab" aria-controls="summary" >
+          Executive summary
+        </a>
+      </li>
+      
+      <li class="nav-item">
+        <a class="nav-link tab-item " id="directories-tab" data-toggle="tab" href="#directories" role="tab" aria-controls="directories" >
+          References
+        </a>
+      </li>
+      
+      <li class="nav-item">
+        <a class="nav-link tab-item " id="authors-tab" data-toggle="tab" href="#authors" role="tab" aria-controls="authors" >
+          Authors
+        </a>
+      </li>
+      
+      <li class="nav-item">
+        <a class="nav-link tab-item " id="editors-tab" data-toggle="tab" href="#editors" role="tab" aria-controls="editors" >
+          About
+        </a>
+      </li>
+      
+    </ul>
+  </div>
+</nav>
+<div class="tab-content" id="masterTabContent">
+  
+  <div class="tab-pane fade active show" id="index" role="tabpanel" aria-labelledby="index-tab" aria-expanded="true">
+    
+  <section class="container ms-article-top">
+  <div class="ms-row ms-row-single">
+    <div class="ms-col-content">
+      <h2>Executive summary</h2>
+    </div>
+  </div>
+  <div class="ms-row">
+    <div class="ms-col-content">
+      <p>Automated decision making (ADM) systems have become ubiquitous in our everyday lives, enabling new business models and intensifying the datafication of our economies. Yet, the use of these systems entails risks on an individual as well as on a societal level. Explanations of how such systems make decisions (often referred to as explainable AI, or XAI, in the literature) can be considered a promising way to mitigate their negative effects. Explanations of the process and decision of an ADM system can empower users to legally appeal a decision, challenge developers to be aware of the negative side effects of the ADM system during the entire development process, and increase the overall legitimacy of the decision. However, it remains unclear what content an explanation has to include and how the explanation can be made to achieve an actual gain of knowledge for the recipient, especially if that recipient is not an expert. The GDPR provides a legal framework for explaining ADM systems. “Meaningful information about the logic involved” has to be provided to the person affected by the decision. Nonetheless, neither the text of the GDPR itself nor the commentaries on the GDPR provide details on what “meaningful information about the logic involved” precisely is.</p>
+<p>This interdisciplinary report discusses this question from a legal, design, and technical perspective. The paper proposes three questions to help formulate a good explanation: Who needs to understand what in a given scenario? What can be explained about the system in use? What should explanations look like in order to be meaningful to affected users? The outcomes could potentially not only advance the debate among legal scholars but also help developers and designers to understand the legal obligations when developing or implementing an ADM system.</p>
+
+      
+      <h3>Keywords</h3>
+      <p>Artificial Intelligence, Automated-decision making, Explainability, Interdisciplinarity, Transparency, Privacy Regulations</p>
+      
+
+      
+
+      <p class="ms-buttons-article">
+          <a class="ms-button ms-button-toc"><i></i> Table of contents</a>
+          <a href="#read-full-article" class="ms-button ms-button-read-on"> Read the full report <i></i></a>
+      </p>
+    </div>
+    <div class="ms-col-marginal">
+      <div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+        <div class="btn-group mr-auto" role="group" aria-label="Download">
+          <a href="https://graphite.page/explainable-ai-report/assets/documents/Platform-Alternatives–The-strategic-guide-to responsible-platform-business.pdf" class="ms-button ms-button-download" target="_blank" rel="noreferrer noopener"><i></i> PDF</a>
+        </div>
+        <div class="btn-group" role="group" aria-label="Share">
+  <span class="input-group-addon" id="btnGroupAddon">Share</span>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//graphite.page/explainable-ai-report/" target="_blank"
+     class="btn btn-secondary" rel="noopener noreferrer"><i class="mdi mdi-facebook"></i> </a>
+  <a href="https://twitter.com/intent/tweet?text=https%3A//graphite.page/explainable-ai-report/" target="_blank"
+    class="btn btn-secondary" rel="noopener noreferrer"><i class="mdi mdi-twitter"></i> </a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//graphite.page/explainable-ai-report/" target="_blank"
+     class="btn btn-secondary" rel="noopener noreferrer"><i class="mdi mdi-linkedin"></i> </a>
+</div>
+      </div>
+      <aside>
+        
+          <p>
+            <span class="ms-date-publication"><strong>Published on:</strong>
+              March 2022</span>
+
+            
+            
+          </p>
+        
+
+        
+          <p><strong>DOI: </strong> 10.5281/zenodo.5705669</p>
+        
+      </aside>
+      
+      
+        <aside>
+          <h3>Recommended citation</h3>
+          <p>Asghari, H.; Birner, N.; Burchardt, A.; Dicks, D.; Faßbender, J.; Feldhus, N.; Hewett, F.; Hofmann, V.; Kettemann, Matthias C.; Schulz, W.; Simon, Judith; Stolberg-Larsen, J.; and Züger, T. (2021). What to explain when explaining is difficult? An interdisciplinary primer on XAI and meaningful information in automated decision-making, HIIG Discussion Paper Series 2022-X. Xx pages. https://doi.org/10.5281/xxxxxxxx.</p>
+        </aside>
+      
+      
+        <aside>
+          <h3>Licence</h3>
+          <p>This work is distributed under the terms of the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Licence (International)</a>.</p>
+        </aside>
+      
+      
+      
+      <aside>
+        <h3>Feedback or questions?</h3>
+        <p><i class="mdi mdi-email-outline"></i>&nbsp; Write an email to <a href="mailto:vincent.hofmann@hiig.de"> vincent.hofmann@hiig.de</a></p>
+      </aside>
+      
+      <a id="read-full-article"></a>
+    </div>
+  </div>
+</section>
+
+
+<article>
+  <div class="container">
+     <div class="ms-row ms-row-two ms-text" id="partial_1">
+  <div class="ms-col-content">
+    
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+</div>
+
+
+  
+
+    <div class="ms-chapter" style="background-image: url(assets/images/paul-green-mln2ExJIkfc-unsplash.jpg)">
+      <div class="container-fluid" >
+        <div class="container">
+          <div class="ms-row ms-row-full" id="partial_2">
+            <div class="ms-col-content">
+              
+  
+  <h2 id="heading-2">Preface – the starting point</h2>
+  
+    <p>What we know and what we don’t know about targeted advertising – Matthias C. Kettemann and Alexander Pirang</p>
+  
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_3">
+  <div class="ms-col-content">
+    <p><span class="ms-inline ms-inline-glossary">Artificial Intelligence (AI)<i></i></span> is an umbrella term that stands at least for a subfield of computer science, for certain technologies such as expert systems or machine learning, and for an ever growing number of applications such as face recognition or automatic decision support. There has never been an all-encompassing definition of AI, and it will sooner rather than later be worthless to ask if a certain IT system is just digital or already AI; more and more components will be AI-based, including in everyday applications where we will not notice the difference. That said, when we are dealing with (partially) “intelligent” machines, we have certain expectations including getting explanations for the systems’ actions. However, the opacity of machine-learning algorithms and the functioning of (deep) neural networks make it difficult to adequately explain how AI systems reach results. They remain a black box. Calls for more insights into how automated decisions are made have increasingly grown louder over the past couple of years.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-glossary"><strong><p>Artificial Intelligence (AI):</strong> In the following, we stick to the widely adopted term XAI. However, rather than using the notion of “AI” consistently, we sometimes also refer to automated decision making (ADM) systems as the debate around explaining an automated decision is also valid for non-AI ADM systems.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_4">
+  <div class="ms-col-content">
+    <p>Explainability is therefore the necessary first step in a series of conditions which lead to a decision to be perceived as legitimate: decisions that can be justified are perceived as legitimate. But only what can be questioned can be justified and only what can be justified can be explained. Thus, explainability is a precondition for a decision to be perceived as legitimate (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Forst, R. (2021). <em>Normative Ordnungen</em> (G. Klaus, Ed.). Suhrkamp.</p>" data-html="true">Forst &amp; Günther, 2021<i></i></a>).</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_5">
+  <div class="ms-col-content">
+    <p>We need to make sure that we know enough about automated decision making (ADM) systems in order to be able to provide the reasons for a decision to those affected by that same decision – in a way they understand (explainability). Simple enough for it to be understood, yet sufficiently complex so that the AI’s complexity is not glossed over. We conceive of ADM systems, and data-based systems in particular, that they are complex and dynamic socio-technical ecosystems, comprised of different actors – individual humans in their various roles (e.g. designers, developers, CEOs), institutions and organisations, as well as technologies (i.e. data, algorithms, models).</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_6">
+  <div class="ms-col-content">
+    <p>Given this complexity, it is not an easy task to ensure that we harness the power of AI for good, and produce explanations on how decisions were reached – albeit being a requirement under European law, such as the General Data Protection Regulation (GDPR). The GDPR aims to protect individual rights when it comes to data protection and digital rights. It can be seen as one of the world’s most influential regulations on data protection, privacy and digital rights. This also includes regulation on automated decision making. Despite its standing in the world, many details of how to interpret the GDPR are still unclear.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_7">
+  <div class="ms-col-content">
+    <p>To tackle the aforementioned challenges, the Research Clinic on Explainable AI explored the meaning of a key phrase in the GDPR on explainable AI: The meaningful information about the logic involved. These legal terms will be explained from a governance, technical and design perspective:  </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_8">
+  <div class="ms-col-content">
+    <ul>
+<li>Governance perspective: What are the requirements regarding explainability in the GDPR and what must be explained in order to meet these requirements?</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_9">
+  <div class="ms-col-content">
+    <ul>
+<li>Design perspective: What should explanations look like in order to be <em>meaningful</em> to affected users?</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_10">
+  <div class="ms-col-content">
+    <ul>
+<li>Technical perspective: What can be explained about "the logic involved"?</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_11">
+  <div class="ms-col-content">
+    <p>The three perspectives reveal a different understanding of these legal terms. Some of the views may even contradict those of another perspective. However, the aim of this report is not to resolve this conflict in its entirety but rather also bring these contradictions to light for further research. The interdisciplinary approach is intended to form the foundation for understanding the legal terms "meaningful information about the logic involved" of the GDPR, which has hardly been explained so far. The answers of this report to this question is therefore a first, important step towards a better understanding which can root from a combination of the three different perspectives. This report sees itself at the beginning of a research process that hopefully inspires more research to build on it.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+</div>
+
+
+  
+
+    <div class="ms-chapter" style="background-image: url(assets/images/paul-green-mln2ExJIkfc-unsplash.jpg)">
+      <div class="container-fluid" >
+        <div class="container">
+          <div class="ms-row ms-row-full" id="partial_12">
+            <div class="ms-col-content">
+              
+  
+  <h2 id="heading-12">Introduction</h2>
+  
+    <p>What needs to be considered crucial to aid reflection on what constitutes a good explanation? A use case from Finland</p>
+  
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_13">
+  <div class="ms-col-content">
+    <p>Three questions can be considered crucial to aid reflection on what constitutes a good explanation: Who needs to understand what in a given scenario? What can be explained about the particular system? How can we integrate the user’s view and communicate the system result in a helpful way? The following section will draw on a use case from Finland at various points.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_14">
+  <div class="ms-col-content">
+    <h3 id='heading-14' >The loan refusal use case</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_15">
+  <div class="ms-col-content">
+    <p>In 2018, the Finnish National Non-Discrimination and Equality Tribunal prohibited the credit rating practices of the financial company Svea Ekonomi AB. This decision was made upon a charge of the Non-Discrimination Ombudsman of Finland who dealt with the case of a Finnish citizen who was refused a loan. This was surprising for the applicant since he did not have a negative individual credit rating nor any other negative credit records which could explain the refusal. After requesting the reasons for the refusal, the financial company first stated that there was no obligation to justify the decision. Further investigation brought to light that the decision of the company was based on statistical probabilities and the applicant would have been granted a loan if he was counterfactually either a woman, lived in an urban area or if his mother tongue was Swedish rather than Finnish (in Finland). His individual credit rating and income were not relevant factors. The Tribunal prohibited this practice as an act of discrimination with a conditional fine of €100,000 in case of the continuance of the practice.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_16">
+  <div class="ms-col-content">
+    <p>This case is relevant because it raises a number of key questions: </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_17">
+  <div class="ms-col-content">
+    <ul>
+<li>What kind of sources (individualised / categories) are ADM tools using?</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_18">
+  <div class="ms-col-content">
+    <ul>
+<li>Can we explain what sources an ADM system drew on to reach a decision (and on which it did not)? </li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_19">
+  <div class="ms-col-content">
+    <ul>
+<li>How can that knowledge be adequately communicated? </li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_20">
+  <div class="ms-col-content">
+    <ul>
+<li>What is the quality and quantity of information that has to be provided so the person confronted with the decision can understand it (explainability) and accept it (justifiability)? </li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_21">
+  <div class="ms-col-content">
+    <ul>
+<li>Which data points affect the result most? </li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_22">
+  <div class="ms-col-content">
+    <ul>
+<li>Could those have been addressed by the customer?</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_23">
+  <div class="ms-col-content">
+    <h3 id='heading-23' >What explainability and XAI mean</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_24">
+  <div class="ms-col-content">
+    <p>Generally speaking, an explanation is an answer to a why-question (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Ehsan, U., &amp; Riedl, M. O. (2021). <em>Explainability Pitfalls: Beyond Dark Patterns in Explainable AI</em>. Human-Computer Interaction.</p><a class='mdi mdi-earth' href='https://thegradient.pub/human-centered-explainable-ai' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Ehsan, 2021<i></i></a>). According to Krishnan (2020), most definitions of the concepts of interpretability, transparency, and explainability regarding AI-applications are insufficient to solve the problems that they are enlisted for. (These are, for example, knowing how machine learning algorithms work so we are able to regulate them, or knowing why an algorithm makes mistakes, so we can correct them). What in her view is missing, is taking into account that explainability is inherently contextual: the success of an explanation depends on the target group (for example, developers, domain experts, end users, or policy makers), and the purpose of the explanation itself. Therefore, in our understanding, explainability is not a general answer to a why question, but an answer to this why question tailored to be understood by a specific target audience. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_25">
+  <div class="ms-col-content">
+    <p>In the XAI discourse, explainability is understood in two main directions: </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_26">
+  <div class="ms-col-content">
+    <p><strong>Transparency:</strong> Informally, transparency is the opposite of opacity or blackboxes. It suggests a conscious understanding of the instrument by which the model works. We consider transparency at the level of the entire model, at the level of components and parameters, and at the level of the training algorithm and data. In a wider sense, the whole process from designing a system via development and testing up to roll-out and revision might be considered.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_27">
+  <div class="ms-col-content">
+    <p><strong>Post-hoc interpretability:</strong> Post-hoc interpretability presents a particular way to deal with extracting information from learned models. While post-hoc understandings do not necessarily provide clarity on how a model functions, they may, in any case, present helpful information for specialists and end clients of machine learning. Some basic ways to deal with post-hoc interpretations incorporate natural language clarifications, visualisations of learned models (heatmaps), and explanations by example.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_28">
+  <div class="ms-col-content">
+    <p>What we try to build by using explainability methods is: (a) trust, (b) causality chains, (c) transferability, (d) informativeness, (e) ethical foundations.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_29">
+  <div class="ms-col-content">
+    <h3 id='heading-29' >What needs to be explained</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_30">
+  <div class="ms-col-content">
+    <p>Regarding XAI, Liao et. al (2020:5f) offer an approach that differentiates distinct components of the answer to the overarching why question in explainable AI (XAI) systems. The components necessary for a comprehensive explanation include: </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_31">
+  <div class="ms-col-content">
+    <ul>
+<li>What data is used as <em>input</em>?</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_32">
+  <div class="ms-col-content">
+    <ul>
+<li>What is the resulting o<em>utput data?</em></li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_33">
+  <div class="ms-col-content">
+    <ul>
+<li>What is the <em>performance, </em>or accuracy, of the system? </li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_34">
+  <div class="ms-col-content">
+    <ul>
+<li><em>How</em> is a decision made in general by this system (<em>global</em>)?</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_35">
+  <div class="ms-col-content">
+    <ul>
+<li><em>Why or why not</em> has a distinct (specific) decision been made? (<em>local</em> and factual)? </li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_36">
+  <div class="ms-col-content">
+    <ul>
+<li><em>What </em>outcomes would we have <em>if</em> the parameters were different (counterfactuals)?</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_37">
+  <div class="ms-col-content">
+    <p>Besides the question of what to explain, the degree of detail and the format of a representation are crucial. Explanations have to be seen not only in the context of their target group but also in their situational use-context. An explanation given in real-time and where it occurs, might conflict with the useability of a system. An intuitive use with minimal cognitive effort is generally desired when designing systems, while understanding an explanation (presumably) requires a more conscious mode of thinking. If the context in which the decision is made allows taking time (e.g. a job application), then a complex explanation might be useful; but it can be problematic in situations which demand a quick reaction (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="" data-html="true">Guidotti et al., 2018<i></i></a>) (e.g. when driving with an autonomous car). There is, on the other hand, the danger of oversimplification (for the sake of understandability or strategic interests). Thus, finding a fitting explanation method is important.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_38">
+  <div class="ms-col-content">
+    <p>In general, it is important to note that explanations, if they are not accurate, or if they are badly communicated, could even weaken the user’s autonomy. That is why in some cases no explanation about an AI-application’s output might be a better solution to empower the user than a misleading explanation. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_39">
+  <div class="ms-col-content">
+    <h3 id='heading-39' >Three steps towards a good explanation</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_40">
+  <div class="ms-col-content">
+    <p>In the context of data processing, explainability is discussed in terms of different objectives and, consequently, at different levels of abstraction. It can simply be a matter of better understanding the general functioning of a socio-technical system such as, e.g. a bank lending practice and credit management under certain conditions. In the following, the goal is different and more concrete: an explanation can be a means to an end that a governance system pursues and enables the recipient to exercise their legal rights. For example, it can give a customer the information to recognize that they have been wronged and that they can successfully appeal a decision.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_41">
+  <div class="ms-col-content">
+    <h4 id='heading-41' >Who needs to understand what in a given scenario?</h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_42">
+  <div class="ms-col-content">
+    <p>From this perspective, the first step is to determine who needs exactly what knowledge in order to act in accordance with the governance concept. To stay with the use case example, it does not help a person whose loan application was rejected because of a decision made by an ADM system to obtain more information about the functioning of the system in general (global explanation), which is often the subject of the literature on the rapidly emerging field of XAI. It is more a question of whether a specific decision was made erroneously that has legal relevance (local explanation). Only this kind of information about the system is helpful in the specific context. In the scenario of a medical diagnosis supported by an AI system, a completely different type of information may be relevant for different target groups like the patient, the doctor or an advocate group. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_43">
+  <div class="ms-col-content">
+    <p>In the research discourse on explainability so far, mainly two target groups are in focus: the developers of a system, in order to gain insights into their own product, and secondly specific groups of expert-users that utilise AI-applications as assistive systems in their field of expertise, such as doctors or researchers (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="" data-html="true">Yang et al. 2018<i></i></a>). Critically, explainability for lay users and their representatives (e.g. NGOs that aim to ensure user rights) are typically left out of the picture. If we see the user as a citizen and acknowledge a right to explanation (as also the GDPR requires) the quality of an explanation and its suitability for the general public is central. This research gap, which we want to call ‘explainability for the public’, will be one focus of this report. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_44">
+  <div class="ms-col-content">
+    <h4 id='heading-44' >What can be explained about the particular system?</h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_45">
+  <div class="ms-col-content">
+    <p>The next step would then be to clarify the question of what statements can be made or generated about the system in question. This depends very much on the technology used, but also on the implementation. There may be information that is already available or that can be generated by tests or audits. It might well be the case that information is required for which the system architecture must be changed or the training data needs to be enhanced in order to generate it. Here, the cooperation of experts with normative expertise (law, ethics) with computer science practitioners is of great importance.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_46">
+  <div class="ms-col-content">
+    <h4 id='heading-46' >How can we integrate the user’s view and communicate the system result in a helpful way?</h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_47">
+  <div class="ms-col-content">
+    <p>Different methods exist to integrate the explainability needs of the (expert or non-expert) user (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Liao, Q. V., Gruen, D., &amp; Miller, S. (2020). <em>Questioning the AI: Informing Design </em><em>Practices</em><em> for Explainable AI User Experiences.</em> Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 1–15.</p><a class='mdi mdi-earth' href='https://doi.org/10.1145/3313831.3376590' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Liao et al., 2020<i></i></a>; <a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Wolf, C. T. (2019). <em>Explainability scenarios: Towards scenario-based XAI design.</em> Proceedings of the 24th International Conference on Intelligent User Interfaces, 252–257.</p><a class='mdi mdi-earth' href='https://doi.org/10.1145/3301275.3302317' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Wolf, 2019<i></i></a>; <a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Eiband, M., Schneider, H., Bilandzic, M., Fazekas-Con, J., Haug, M., &amp; Hussmann, H. (2018). <em>Bringing Transparency Design into Practice.</em> 23rd International Conference on Intelligent User Interfaces, 211–223.</p><a class='mdi mdi-earth' href='https://doi.org/10.1145/3172944.3172961' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Eiband et al., 2018<i></i></a>). Singh et al. (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Singh, R., Ehsan, U., Cheong, M., Riedl, M. O., &amp; Miller, T. (2021). <em>LEx: A Framework for Operationalising Layers of Machine Learning Explanations.</em> ArXiv:2104.09612 [Cs].</p><a class='mdi mdi-earth' href='http://arxiv.org/abs/2104.09612' target='_blank' rel='noopener noreferrer'></a>" data-html="true">2021<i></i></a>) have researched how to create more suitable explanations for specific user groups and underline that explanations can fail if they do not sufficiently consider human factors. Explanations therefore need to be contextualised regarding their specific user group and domain. Thus, after determining ‘who’ needs to receive an explanation, and ‘why’ (that is, what are the explainability goals), the key question becomes ‘how?’. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_48">
+  <div class="ms-col-content">
+    <p>Finally, the fact that the required information is available or can be generated does not mean that the affected person also develops the understanding that allows them to act in the sense of the governance objective, e.g. to legally appeal the decision taken. This process of conveying the available information must be understood as a separate step, as a demanding process of communication that requires its own design, evaluation and monitoring processes.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_49">
+  <div class="ms-col-content">
+    <h3 id='heading-49' >XAI in the GDPR</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_50">
+  <div class="ms-col-content">
+    <p>Algorithms crunch data to arrive at models and systems. Data is protected in the EU through the GDPR. The GDPR requires data controllers to provide data subjects with information about the existence of automated decision-making, including profiling and, in certain cases <strong>meaningful information about the logic involved</strong>, as well as the significance and the envisaged consequences of such processing for the data subject. Articles 13 and 14 are notification duties imposed on data controllers and Article 15 provides a right to access information throughout processing. Article 22(1) states that a data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning them or similarly significantly affects them.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-link"><p>Details on profiling: Articles 13(2)(f), 14(2)(g), and 15(1)(h)</p></aside>
+<aside class="ms-aside-link"><p>Details on meaningful information: Articles 22(1) and (4)</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_51">
+  <div class="ms-col-content">
+    <p>An important background towards a better understanding of these norms is the aim of the GDPR and the history of data protection law: It is basically designed to protect individual rights. GDPR empowers data subjects that have been discriminated against but the GDPR does not offer great potential when it comes to protecting group-related and societal interests such as equality, fairness or pluralism (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Dreyer, S., &amp; Schulz, W. (2019). <em>Künstliche Intelligenz, Intermediäre und Öffentlichkeit. Bericht an das BAKOM</em>.</p><a class='mdi mdi-earth' href='https://www.bakom.admin.ch/dam/bakom/de/dokumente/bakom/elektronische_medien/Zahlen%20und%20Fakten/Studien/bericht-chancen-risiken-intermediaere-2020.pdf.download.pdf/Bericht_Chancen_Risiken_Intermedia%CC%88re_310720_fin.pdf' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Dreyer &amp; Schulz, 2019<i></i></a>). Because Articles 13–15 all relate to the rights of the data subject, meaningful information should be interpreted in relation to the data subject. Or in other words: an individual without any technical expertise must be able to understand why particular information was given. To them, the information about the logic must be meaningful. However, the interpretation of the GDPR protecting mainly individual rights is just the minimum requirement for an explanation. Any explanations going further and also having the protection of collective rights in mind will still be compliant with the GDPR as long as the individual rights are also protected. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_52">
+  <div class="ms-col-content">
+    <p>The legal community acknowledges the fast-paced dynamic of socio-technical development and does not seek to limit technically useful developments, but advocates instead for a certain flexibility on the technical requirements. "Meaningful information about the logic involved" should not be specified by only naming different types of technology, but by understanding the technical fundamentals and the process of the explanation in general (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Selbst, A. D., &amp; Powles, J. (2017). <em>Meaningful information and the right to explanation</em>. <em>7</em>(4), 233–242.</p>" data-html="true">Selbst &amp; Powles, 2017:233-242<i></i></a>). </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_53">
+  <div class="ms-col-content">
+    <h3 id='heading-53' >Why is an explanation required?</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_54">
+  <div class="ms-col-content">
+    <p>Any societal order, according to Rainer Forst, is related to a "specific understanding of the purpose, the goals and rules of this order" (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Forst, R. (2018). <em>Normativität und Macht. Zur Analyse sozialer Rechtfertigungsordnungen</em>. Suhrkamp, Berlin.</p>" data-html="true">Forst, 2018:70<i></i></a>). The purpose, goals and rules need to be justified. The orders are thus “orders of justification” (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Forst, R. (2018). <em>Normativität und Macht. Zur Analyse sozialer Rechtfertigungsordnungen</em>. Suhrkamp, Berlin.</p>" data-html="true">:87<i></i></a>) and the justifications are formulated as “justification narratives” (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Forst, R. (2018). <em>Normativität und Macht. Zur Analyse sozialer Rechtfertigungsordnungen</em>. Suhrkamp, Berlin.</p>" data-html="true">:96-97<i></i></a>). This becomes particularly virulent when it comes to AI-based decisions. Importantly, everyone has a right to justification of the order in which they exist and the key decisions within that order (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Forst, R. (2017). <em>Kritik der Rechtfertigungsverhältnisse. Perspektiven einer kritischen Theorie der Politik</em> (1st ed.). Suhrkamp.</p>" data-html="true">Forst, 2017<i></i></a>). No one should be subjected to norms and institutions which cannot be justified towards them, based on reasons which they cannot question. Practices of justice are thus based on justifications,<span class="ms-inline ms-inline-sidenote"><i></i></span> which are based on justification practices (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Kettemann, M. C. (2020). <em>Normative Order of the Internet</em>. Oxford University Press, USA.</p>" data-html="true">Kettemann, 2020:109<i></i></a>).</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-sidenote"><p>See also ‘The Normative Order of the Internet. A Theory of Online Rule and Regulation’ (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Kettemann, M. C. (2020). <em>Normative Order of the Internet</em>. Oxford University Press, USA.</p>" data-html="true">Kettemann, 2020<i></i></a>). For comparative perspectives, see ‘Deontology of the Digital: The Normative Order of the Internet’ </p></aside>
+  </div>
+</div>
+</div>
+
+
+  
+
+    <div class="ms-chapter" style="background-image: url(assets/images/paul-green-mln2ExJIkfc-unsplash.jpg)">
+      <div class="container-fluid" >
+        <div class="container">
+          <div class="ms-row ms-row-full" id="partial_55">
+            <div class="ms-col-content">
+              
+  
+  <h2 id="heading-55">Legal frameworks on XAI</h2>
+  
+    <p>Legal term definitions as well as the problem within the GDPR of the “human in the loop”</p>
+  
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_56">
+  <div class="ms-col-content">
+    <p>In the following paragraphs, the legal meaning of the "logic involved" and “meaningful information” will be addressed as well as the problem within the GDPR of the “human in the loop”.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_57">
+  <div class="ms-col-content">
+    <h3 id='heading-57' >What does "logic" mean from a legal perspective?</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_58">
+  <div class="ms-col-content">
+    <p>Article 13 (2) (f), Article. 14 (2) (g) and Article 15 (1) (h) GDPR were introduced to protect the individual rights of data subjects to receive information on the collection of personal data in automated data processing operations. They were designed to ensure a transparent and fair procedure in data processing for the data subject, which is considered necessary by the EU legislator (Dix, 2019 2021). The norms include information obligations for data controllers (NOTE:  See also Art. 13 (2) (f), 14 (2 )(g) and 15 (1) (h) GDPR 2016/679) and therefore play a role in balancing the interests of data subjects and the company running the ADM system by ensuring a transparent and fair procedure in data processing for the data subject (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>General Data Protection Regulation. (2016). ‘Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)’.</p><a class='mdi mdi-earth' href='https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679' target='_blank' rel='noopener noreferrer'></a>" data-html="true">GDPR, 2016<i></i></a>). Establishing such a balanced procedure is the aim of the norms which has to be considered when interpreting the terms used in the GDPR like the "logic involved". The term is not legally defined within the GDPR. It is therefore necessary to approach the meaning of the term “logic involved” with tools other than the words of the GDPR itself.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_59">
+  <div class="ms-col-content">
+    <p>The example of so-called "scoring" like in the Finnish case of loan refusal (“systematic procedures, usually based on mathematical-statistical analysis of empirical values from the past, for forecasting the future behaviour of groups of persons and individuals with certain characteristics”<span class="ms-inline ms-inline-sidenote"><i></i></span> makes it clear how broadly the concept of involved logic can be understood: Every form of scoring triggers information obligations about the design and structure of the procedure. This includes information on which collected data (factors) are included in the calculation of the probability value (score value) and with which weighting, and to what extent there is a mutual influence of score values (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Schmidt-Wudy, F. (2021) in Brink, S., Wullf, H., <em>BeckOK Datenschutzrecht.</em> 38. Edition, C.H. Beck, München.</p>" data-html="true">Schmidt-Wudy, 2021, Art. 34 Rn. 71<i></i></a>). According to the German Federal Court of Justice (BGH), complete disclosure of the entire technical functioning of the ADM system like the score formula (scorecard) is generally not necessary, since responsible persons or companies have a legitimate interest in secrecy (BGH 2014, VI ZR 156/13). However, such disclosure is required in cases of the GDPR, provided that the data subject can only notice and have incorrect calculations corrected through this gain in information (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Schmidt-Wudy, F. (2021) in Brink, S., Wullf, H., <em>BeckOK Datenschutzrecht.</em> 38. Edition, C.H. Beck, München.</p>" data-html="true">Schmidt-Wudy, 2021, Art. 15 Rn. 78.3.<i></i></a>). The reason for this is the comprehensibility requirement that applies in particular to information about the logic involved. This states that an “actual gain in knowledge” must be generated for the person concerned which requires comprehensive explanations of the automated decision-making processes (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Hoeren, T., &amp; Niehoff, M. (2018). <em>KI und Datenschutz – </em><em>Begründungserfordernisse</em><em> automatisierter Entscheidungen</em>. RW, 9(1), 47–66.</p><a class='mdi mdi-earth' href='https://doi.org/10.5771/1868-8098-2018-1-47' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Hoeren &amp; Niehoff, 2018:47<i></i></a>).</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-sidenote"><p>Translation from German: “systematische, in der Regel auf mathematisch-statistischer Analyse von Erfahrungswerten aus der Vergangenheit basierende Verfahren zur Prognose über das zukünftige Verhalten von Personengruppen und Einzelpersonen mit bestimmten Merkmalen” (Verbraucherzentrale Hamburg, n.d.)</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_60">
+  <div class="ms-col-content">
+    <p>It is helpful to analyse at what part of an automated decision the different norms of the GDPR require information on the logic involved. Art. 13 (2) (f) focuses on the moment of data collection. Therefore, individual processing results cannot be within the scope of protection of the article (Floridi, Mittelstadt &amp; Wachter, 2017:76ff). This leads to the conclusion to understand the logic involved as the information related to general "methods and criteria of data processing, such as the functioning of the algorithm used in the creation of a score" rather than certain results (interim or final) of the processing, which is unknown at the time of data collection.<span class="ms-inline ms-inline-sidenote"><i></i></span> The information obligations from Art. 14 (2) (g) GDPR correspond to those of Art. 13 (2) (f) GDPR (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Bäcker (2020) in Kühling, J., &amp; Buchner, B. (Ed). <em>Datenschutz-Grundverordnung, Bundesdatenschutzgesetz: DS-GVO / BDSG</em>: Vol. XXII (3rd ed.). München: C.H. Beck.</p>" data-html="true">Bäcker, 2020 Art. 14 Rn. 18<i></i></a>). Therefore, it can be assumed that the term “logic involved” is used identically in these norms. An expansion of the concept of the “logic involved” can be seen in the scope of protection of Art. 15 (1) (h) GDPR. The norm is based on the point in time after the data collection and includes evaluation results and procedural characteristics of the past (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Bäcker (2020) in Kühling, J., &amp; Buchner, B. (Ed). <em>Datenschutz-Grundverordnung, Bundesdatenschutzgesetz: DS-GVO / BDSG</em>: Vol. XXII (3rd ed.). München: C.H. Beck.</p>" data-html="true">Bäcker, 2020 Art. 15 Rn. 27<i></i></a>). In this respect, one can speak of a temporal extension in Art. 15 (1) (h). Since the articles use the identical term, this needs to be understood in the broadest way limited by the specific article. Therefore, the logic involved includes both evaluation results and procedural characteristics of the past.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-sidenote"><p>Translation from German: “Methoden und Kriterien der Datenverarbeitung, etwa die Funktionsweise des Algorithmus, der bei der Bildung eines Scorewerts genutzt wird”: Bäcker, in: Kühling/Buchner, DGVO BDSG, Art. 13 Rn. 54; cf. Roßnagel/Nebel/Richter, ZD 10/2015, 455, 458.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_61">
+  <div class="ms-col-content">
+    <p>The term "logic involved" is linked to Article 12 (a) of the Data Protection Directive (DPD) (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Dix (2019) in Hornung, G., &amp; Spiecker, Simitis. S. (Ed.), <em>Datenschutzrecht</em>. Baden-Baden: NomosKommentar.</p>" data-html="true">Dix, 2019 Art. 13 Rn. 16<i></i></a>). The DPD was the EU legislation on data protection before the GDPR came into effect. The GDPR fully replaced the DPD. However, investigating the meaning of terms used in previous regulations can be helpful to understand the term in the current norms. The German version of Art. 12 (a) DPD guarantees information about the “logical structure of automated processing” (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Datenschutzrichtlinie. (2015). ‘Richtlinie 95/46/EG des Europäischen Parlaments und des Rates vom 24. Oktober 1995 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr’.</p><a class='mdi mdi-earth' href='https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31995L0046' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Datenschutzrichtlinie, 2015 Art. 12<i></i></a>). In the English version of the DPD, different to the German version, the term “logic involved” is used. Therefore, it can be assumed that the English term “logic involved” consists of the structure and sequence of the data processing (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Dix (2019) in Hornung, G., &amp; Spiecker, Simitis. S. (Ed.), <em>Datenschutzrecht</em>. Baden-Baden: NomosKommentar.</p>" data-html="true">Dix, 2019 Art. 13 Rn. 16<i></i></a>).</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_62">
+  <div class="ms-col-content">
+    <p>A clear definition of the logic involved does therefore not exist from a legal perspective. Nevertheless, some concrete requirements could be defined. The interpretation of the term "logic involved" has to align with the overall goal of the GDPR to balance the relation of the data subject and companies running ADM systems. Also, the explanation must include the “logic involved” comprehensively in a way that means an actual gain of knowledge and enables the user to question the decision. A slightly more precise explanation roots in the old DPD, which defines the “logic involved” as the structure and sequence of the data processing. The BGH stated that this does not need to contain a complete disclosure of the score formula if they are not necessary for questioning the decision.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_63">
+  <div class="ms-col-content">
+    <h3 id='heading-63' >What is "meaningful information about the logic involved"?</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_64">
+  <div class="ms-col-content">
+    <p>When can an explanation enable the person to legally challenge the automated decision? The concrete scope of the meaningful information to be provided with regard to the "logic involved" - especially of ADM systems - has not been conclusively clarified yet. One could start looking at all laws applicable to an automated decision in general and the specific decision in question. In the example of the Finnish loan use case, these would be the GDPR, anti-discrimination law and Finish national laws regulating automated decision making in general and lending in particular. The downside of this approach is the necessity to constantly adopt the explanation to changes in law, either through legislation or court rulings. It is also challenging to consider all possible laws that an automated decision could potentially be in conflict with to keep the explanation understandable. A minimum solution would be to provide enough information to allow users to understand whether the decisions might be in violation of their rights. It is clear that showing a user, e.g, a graphical representation of a highly complex decision tree model does not make sense. Then again, ADM systems that cannot be explained can also not be used in decisions falling under Article 22 GDPR. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_65">
+  <div class="ms-col-content">
+    <p>Which information needs to be provided in which way to reach the goal of enabling a person to challenge an automated decision has not yet been satisfactorily answered (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Dix (2019) in Hornung, G., &amp; Spiecker, Simitis. S. (Ed.), <em>Datenschutzrecht</em>. Baden-Baden: NomosKommentar.</p>" data-html="true">Dix, 2019 Art. 13 Rn. 153<i></i></a>). This calls even more for a joint attempt at defining the terms utilizing the skills of other disciplines. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_66">
+  <div class="ms-col-content">
+    <h3 id='heading-66' >Human in the loop and other obstacles</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_67">
+  <div class="ms-col-content">
+    <p>Besides the already stated difficulties in interpreting the terms of the GDPR, revealing information on the ADM-system comes with other problems. One of them is intellectual property. In the case of a private German credit score rating agency (SCHUFA), courts decided that SCHUFA does not have to reveal information since it is part of their business secret and underlies the intellectual property of the company. Although other cases have been decided differently, intellectual property remains a possible obstacle when demanding insights into automated decisions.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_68">
+  <div class="ms-col-content">
+    <p>Another problem besides the understanding of the terms of the GDPR is the "human in the loop". With the reference to a right to obtain human intervention, Art. 22 (3) GDPR is based on a widely held understanding that a “human in the loop” is useful or even necessary to secure rights, especially human rights. However, this presupposes two things. First, that humans produce better results from a legal perspective. This is questionable if they, and not the machine, bring prejudices into play. Secondly, the human in the loop has to be allowed to make an independent decision. Here, the debate about “meaningful human control” has not yet been sufficiently reflected in law (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Braun, M., Hummel, P., Beck, S., &amp; Dabrock, P. (2021). P<em>rimer on </em><em>an ethics</em><em> of AI-based decision support systems in the clinic</em>. J Med Ethics, 47(12).</p><a class='mdi mdi-earth' href='https://doi.org/10.1136/medethics-2019-105860' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Braun et al., 2021:4<i></i></a>).</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_69">
+  <div class="ms-col-content">
+    <p>Studies show that at least in certain contexts, people are unlikely to deviate from the proposal of an established ADM system, even if they formally have all the freedom to do so (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="" data-html="true">Meyer &amp; Douer, 2021<i></i></a>). This was the case, for example, with employment office staff, where an ADM system made a classification of job seekers. Although the employment office staff were formally allowed to override the automated decision, this happened in only 0.58 % of the cases (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Jędrzej, N., Sztandar-Sztanderska, K., &amp; Szymielewicz, K. (2015). <em>Profiling the Unemployed in Poland: Societal and Political Implications of Algorithmic Decision Making</em>.</p>" data-html="true">Jędrzej &amp; Sztandar-Sztanderska &amp; Szymielewicz, 2015<i></i></a>). It seems plausible that meaningful human control requires, in any case, humans to have more information than the result of the ADM system. There is also the question of whether he or she may erroneously expect disadvantages in the event of deviation, such as a doctor who fears to risk liability if he or she performs surgery in deviation from the suggestion of an established system. Other elements of the decision architecture may also play a role. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_70">
+  <div class="ms-col-content">
+    <h3 id='heading-70' >Summary</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_71">
+  <div class="ms-col-content">
+    <p>Legal methods reach their limits when it comes to the terms "meaningful information" and “logic involved”. The latter could be understood as the structure and sequence of the data processing (global explanation of the system). The information revealed about it has to help balance the relation of the data subject and companies running ADM systems and ensure an actual gain of knowledge to enable the user to appeal the (local) decision. The BGH stated that this does not need to contain a complete disclosure of the score formula if they are not necessary for questioning the decision. What makes information meaningful remains even more obscure. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+</div>
+
+
+  
+
+    <div class="ms-chapter" style="background-image: url(assets/images/paul-green-mln2ExJIkfc-unsplash.jpg)">
+      <div class="container-fluid" >
+        <div class="container">
+          <div class="ms-row ms-row-full" id="partial_72">
+            <div class="ms-col-content">
+              
+  
+  <h2 id="heading-72">How to deliver the explanaition to the recipient?</h2>
+  
+    <p>Design of an explanation</p>
+  
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_73">
+  <div class="ms-col-content">
+    <p>After starting with the legal perspective, aspects concerning the design of an explanation will be elaborated upon in the following section.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_74">
+  <div class="ms-col-content">
+    <h3 id='heading-74' >Communicating explanations</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_75">
+  <div class="ms-col-content">
+    <p>While different queries from different actors need different types of explanations, as we will further discuss at a later stage, we additionally face the task of communicating explanations in a task and audience-appropriate form. Here, it is essential to assess which kind of epistemic needs can be served best with which measure. For instance: an individual customer demanding an explanation for being refused a loan must be provided with the reasons for this decision and ideally with an explanation of what change in input data would have resulted in a different verdict/output data. Note that here we are looking at what constitutes a good explanation from a design perspective in general, irrespective of what is legally required in a specific situation. In a clinic setting, different types of explanatory interfaces may be needed for expert users of a system like radiologists assessing additional evidence for/against internal bleedings, cancerous tissue, etc. For lay users like patients getting informed about diagnoses and prospective treatment options, the explanation has to be different. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_76">
+  <div class="ms-col-content">
+    <p>It is commonly distinguished between local and global explanations – and both need to be provided by the socio-technical ADM system. While the global explanation addresses the system level, the local explanation deals with a concrete decision. Yet other types of visualisations may be needed in auditing contexts where global instead of local explanations are needed. Here as well, different requirements may be posed by experts of different kinds (tech expert/domain expert) and laypeople (e.g. representative groups, NGOs, but also policy/law makers, etc). Given these different task-, system- and audience specific requirements, prototype-testing of both the types and forms of explanations given should be conducted with various user groups.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_77">
+  <div class="ms-col-content">
+    <p>Going back to the case of the German SCHUFA, as of now, users get very little to no explanation as to why their loan has been refused in a particular case, and also no information is provided about which factors were most relevant in the scoring model overall (global). A relevant explanation in this setting could be given <em>locally</em> to a user about an individual loan request, in the form of counterfactuals: which of a user’s factors need to change, and by how much, to lead to a different outcome. In the example of the Finish loan refusal, these would be factors like mother tongue and gender. In such a setting, end users of the system have a reasonable need for local explanations, even though legal grounds are not sufficient to guarantee it to be given. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_78">
+  <div class="ms-col-content">
+    <p>Our line of argumentation here is that explanations of AI are much more than the technical outputs and interfaces: they are a <strong>complex communication process</strong> that starts long before the information output is generated by a system since it also relates to the training data used to build these systems, as well as the justifications for using an ADM system in a particular context. We advocate for understanding this process more holistically as a process taking place between human actors, which might involve technical agents, but the success of a communication can not be evaluated in terms of technical accuracy in the XAI case. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_79">
+  <div class="ms-col-content">
+    <p>As we will iterate in the following sections, XAI is highly context and case-specific, which makes a one fits all standard nearly impossible. However, we aim to identify, based on existing research and our conceptual analysis, which assumptions and requirements can be formulated for certain groups or similar cases. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_80">
+  <div class="ms-col-content">
+    <h3 id='heading-80' >XAI is highly context specific</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_81">
+  <div class="ms-col-content">
+    <p>The frontend design requirements of end users for explanations are highly context specific. This aligns with established (ISO) standards on the usability of interactive systems as "the extent to which a product can be used by specified users to achieve specific goals with effectiveness, efficiency, and satisfaction in a specified context of use." (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>International Organization for Standardization. (2018). Retrieved January 25, 2022, from </p><a class='mdi mdi-earth' href='https://www.iso.org/obp/ui/#iso:std:iso:9241:-11:ed-2:v1:en' target='_blank' rel='noopener noreferrer'></a>" data-html="true">ISO, 2018<i></i></a>). To create guidelines (content, format, detail level) on specific explanation requirements within a given domain, scenario-based design / explainability scenarios can be used to make sure user goals and context are taken into account. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_82">
+  <div class="ms-col-content">
+    <p>Another factor to consider is the degree of AI-assistance involved in the process. It makes a difference if there is limited AI-assistance (e.g. automated lesion measurements) or major AI-assistance (e.g. AI-based computer-aided diagnosis). In contexts of extensive AI-assistance, users typically need to get a much more detailed explanation. This includes results, global as well as local XAI details, to fully understand how AI might have influenced their diagnosis and treatment plan. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_83">
+  <div class="ms-col-content">
+    <h3 id='heading-83' >Target groups of AI</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_84">
+  <div class="ms-col-content">
+    <p>We have discussed the fact that explanations are context, task, and target specific. Different targets have different needs, expectations, and existing knowledge which an explanation needs to fulfil and add to (Ribera &amp; Lapedriza, 2019; Liao, Gruen &amp; Miller, 2020; Miller, 2020). This point is generally well understood. Currently, however, many AI explanations are targeted primarily towards developers (who for instance want to be able to better understand their models and debug and improve them). Two other groups often discussed and understood are the domain experts (e.g. the doctors in a medical setting using AI), and the so-called end or lay user.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_85">
+  <div class="ms-col-content">
+    <p>We believe there is another target group that is often implicitly talked about, but not made explicit: the public or community advocate. This role is a person or organisation who might represent and follow the interests of a community of users, for instance, an NGO representing cancer patients, online communities of users around topics, as well as civil activists and special interest groups interested in particular topics. These public advocates often have more expertise and ability to understand how AI systems work, and in particular when it comes to issues concerning their community of users, issues related to systematic injustices and discrimination that may originate in the AI system or may originate in society and be exacerbated by the AI systems. These advocates are also often in constant exchange with their community, so they can also explain complex issues around AI and decisions of systems to their community in ways that are understandable for that community.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_86">
+  <div class="ms-col-content">
+    <p>Assessing and understanding documented information, which is important and effective for the groups at risk, especially if it involves the choice of major medical treatments (e.g. surgery, chemotherapy, etc with possible major side-effects), will be undoubtedly very hard for individuals. It is well known that humans, even highly educated experts, may not be so good at understanding statistics (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Kahneman, D. (2013). Thinking, Fast and Slow. Farrar, Straus and Giroux.</p>" data-html="true">Kahneman 2013:13<i></i></a>), and unpacking metrics and information about the global reliability and accuracy of models is similar. This is where the advocate group can be of service and a key target for explainability.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_87">
+  <div class="ms-col-content">
+    <p>The advocate group’s interest will be more in the global understanding of the models and their limitations. Obviously, the advocates will need to be trained. While one could understand that the involved professionals (for instance doctors) could also be aware of these issues, they might not have the time or necessary sensitivity, which is why such communities and support groups are often formed in the first place. (Also going back to the idea that often one can learn better from peers about complex issues). The advocates’ approach, importantly, must not be understood purely in an adversarial manner (towards the development and use of AI systems), but rather also educative and communicative towards the system designers. They can also be good partners for developers in a participatory design process of ADM systems.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_88">
+  <div class="ms-col-content">
+    <p>Their importance is already understood in other political contexts in society and has been raised in general around issues of inclusive design for AI Systems, i.e. that design teams need more people of colour and women to avoid problems of bias and discrimination (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Barocas, S., Hardt, M., &amp; Narayanan, A. (2019). <em>Fairness and Machine Learning. Limitations and Opportunities</em>. fairmlbook.org.</p><a class='mdi mdi-earth' href='https://fairmlbook.org' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Barocas, Hardt &amp; Narayanan, 2019<i></i></a>).</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_89">
+  <div class="ms-col-content">
+    <p>We believe this advocate role should be made explicit and di stinct from the professional and individual user. In addition to their time, knowledge and expertise to handle these issues, there is also an important legal reason for this distinction: to recognize them as a separate target for an explanation, which would need kinds of information about a system that other individuals might not need. In this regard, additional legislation might be necessary, since for instance the GDPR’s Art. 22 looks at explanations individually. By understanding the needs of the advocate role, the level of access to information and documents necessary for the advocates to be able to function, their role can be better articulated.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-plugin ms-plugin-table" id="partial_90">
+  <div class="ms-col-content">
+    <table border="0" class="dataframe table table-hover">
+  <thead class="thead-inverse">
+    <tr style="text-align: left;">
+      <th>Target group / Question</th>
+      <th>Developer / Researcher</th>
+      <th>Domain experts</th>
+      <th>Advocate</th>
+      <th>Individual user</th>
+    </tr>
+  </thead>
+  <tbody class="tcol-head">
+    <tr>
+      <td><p><strong>Why</strong></p></td>
+      <td><p>verification,<br>improvement,<br>accountability</p></td>
+      <td><p>learning how to use the system in context, awareness for risks and limitations</p></td>
+      <td><p>to establish grounds to advocate for vulnerable groups and issues</p></td>
+      <td><p>enable informed decisions, <br>self-advocacy, <br>empowerment</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>What</strong></p></td>
+      <td><p>global model,<br>data representation<br>why and why not</p></td>
+      <td><p>independent global training</p></td>
+      <td><p>–ideally global explanation. Minimum: datasheet, documentation about bias testing<br>–answers to issue related inquiries,<br>–provided with local explanation by individual user</p></td>
+      <td><p>–local explanation,<br>–access to global explanation should be possible → could become an advocate</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>When</strong></p></td>
+      <td><p>throughout the whole AI-lifecycle</p></td>
+      <td><p>–previous to using the system,<br><br>–during application</p></td>
+      <td><p>on demand, also it could be even before the system is in action in a participatory design process</p></td>
+      <td><p>real time or post hoc, close to when the decision is made</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>How</strong> <br>(context dependent)</p></td>
+      <td><p>intrinsic</p></td>
+      <td><p>visualisation, <br>natural language</p></td>
+      <td><p>documentation with technical facts and natural language</p></td>
+      <td><p>conversation<br>questions, <br>why not</p></td>
+    </tr>
+    <tr>
+      <td><p><strong>Evaluation</strong></p></td>
+      <td><p>completeness<br>test,<br>performance</p></td>
+      <td><p>critical survey of trust <br>→ whether the system is trustworthy, rather than asking if people trust the system</p></td>
+      <td><p>–completeness,<br>comprehensiveness,<br>absence of discrimination / fairness<br><br>–quality of explanation<br><br>→ active role in process</p></td>
+      <td><p>satisfaction questionnaires, <br>experiments</p></td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Different needs of different target groups</strong></p>
+</aside>
+
+
+<aside class="ms-aside-description">
+  <div><p>Adapted from <a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Ribera, M., &amp; Lapedriza, À. (2019). <em>Can we do better explanations? A proposal of user-</em><em>centered</em><em> explainable AI.</em> IUI Workshops.</p>" data-html="true">Ribera and Lapedriza (2019)<i></i></a> with additional target group and content</p></div>
+</aside>
+
+<aside class="ms-aside-download">
+  <p><a href="assets/tables/target-groups.csv">Download .csv</a></p>
+</aside>
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_91">
+  <div class="ms-col-content">
+    <h3 id='heading-91' >Explanation Moment: training for domain experts, training regarding limitations, and documentation</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_92">
+  <div class="ms-col-content">
+    <p>Explainability starts even before the system is in use. When understanding the act of explaining automated decisions as a communication process, we have to acknowledge that the process starts before the actual use of an AI system. Further, this means it becomes important in which moment explanations are given, which is again dependent on task, context and target group. Also, education is part of the explanation: Before the actual employment of an AI system, target groups, especially domain experts, have to be educated about the risks, limitations and capability of AI systems they intend to use. In addition to this, general knowledge of the potentials and limitations of AI in their field is necessary. An important question is who can provide such information in a non-biased manner. For the use of AI in radiology, medical professional associations could be suitable providers for such a training course. Such associations might at the same time function as an example for the target group of the advocate. It should be further investigated if general education on AI and specific use-contexts generally fall into the competencies of advocate groups as well.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+</div>
+
+
+  
+
+    <div class="ms-chapter" style="background-image: url(assets/images/paul-green-mln2ExJIkfc-unsplash.jpg)">
+      <div class="container-fluid" >
+        <div class="container">
+          <div class="ms-row ms-row-full" id="partial_93">
+            <div class="ms-col-content">
+              
+  
+  <h2 id="heading-93">What is the “logic involved” from a technical perspective?</h2>
+  
+    <p>Forms of “logic” and their ability to be explained</p>
+  
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_94">
+  <div class="ms-col-content">
+    <p>After the legal and design perspectives, the following section will look from a technical perspective at which forms of "logic" exist, what can be explained and what cannot be explained, and how to deal with forms of logic that are difficult to explain.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_95">
+  <div class="ms-col-content">
+    <h3 id='heading-95' >Which types of logic exist?</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_96">
+  <div class="ms-col-content">
+    <p>From a technical perspective, the term "logic involved" is – at best – misleading. At first sight, it seems to be linked to symbolic AI (e.g., knowledge-based systems such as rule-based expert systems) rather than subsymbolic AI (e.g., statistical machine learning). This is puzzling as the former is precisely the type of AI that is more or less fully transparent. The black-box problem is much more present in the subsymbolic realm, as can be seen in today’s artificial neural networks. The elaboration we presented above in 2.1 about the logic involved in “data processing” can be interpreted so that this refers to the training of a model, which would be more appropriate. Yet the terms “algorithm” and “creating a score” again sound like the idea of someone devising (programming) a “formula” that can be fed with data and then, e.g., calculates a score that grants a loan or not. If this is the case, this view is much too naive to be helpful in tackling the problems at hand. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_97">
+  <div class="ms-col-content">
+    <p>We conceive of ADM systems, and data-based systems in particular, that they are complex and dynamic socio-technical ecosystems, comprised of different actors – individual humans in their various roles (e.g. designers, developers, CEOs), institutions and organisations, as well as technologies (i.e. data, algorithms, models). In addition to this socio-technical distribution of agency, such systems are also characterised through their temporality. Different actors are involved in different stages from conception, design and development to deployment and the systems may also change over time (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Zweig, K. A., Fischer, S., &amp; Lischka, K. (2018). *Wo Maschinen irren können: Verantwortlichkeiten und Fehlerquellen in Prozessen algorithmischer Entscheidungsfindung. *</p>" data-html="true">Zweig et al., 2018<i></i></a>). Understanding "the logic" of such diverse systems therefore requires action from numerous actors and at numerous stages from conception to deployment.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_98">
+  <div class="ms-col-content">
+    <p>For now, we will abstract away from this socio-technical dimension and will turn to the systems in a narrower sense. Both complexity and dynamics of technical systems can differ profoundly, ranging from simple, linear models over Support Vector Machines to Machine Learning (deep learning) models all the way to (the relatively few) systems which continuously learn and adapt their behaviour in the wild.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_99">
+  <div class="ms-col-content">
+    <h3 id='heading-99' >What can and what cannot be explained?</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_100">
+  <div class="ms-col-content">
+    <p>As mentioned before, it is commonly distinguished between local and global explanations and it depends on the target group if a local or global explanation is more suitable. While the global explanation operates at the system level and targets the overall behaviour, the local explanation deals with a concrete decision. The requirements of what is needed to provide "meaningful information about the logic involved" may comprise of technical or organisational mechanisms to make <em>local or global</em> explanations.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_101">
+  <div class="ms-col-content">
+    <p>From a technical point of view, we can generally distinguish three different types of ADM systems to which XAI can be applied:</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_102">
+  <div class="ms-col-content">
+    <ol>
+<li>Symbolic reasoning: Explainability is high, performance is usually very much limited. Expert systems, for example, are still being used in industry, finance, etc. These systems lend themselves to problems that can be formulated with grammars, logical formulae, etc., which is not the case in many real-life applications.</li>
+<li>Classical Machine Learning using Bayesian statistics and feature engineering: Some models like decision trees lend themselves comparably well for human inspection, others require more efforts to become interpretable. </li>
+<li>Machine Learning with neural networks (deep learning): This technology is the current state-of-the-art in many areas and brings the black box problems widely known from the public debate about AI. This is the context of the current XAI debate. The performance is usually better than when using classical Machine Learning (ML).</li>
+</ol>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_103">
+  <div class="ms-col-content">
+    <p>In principle, everything can be explained if the system has access to the knowledge needed. Yet in many cases, it will be prohibitively expensive and complex to build the respective systems that can provide explanations on a high level of abstraction and comprehensibility. One concrete example is the use of AI systems to support radiologists in detecting tumours on MRI scans: if we train a neural network with MRI scans and for every image there is a label (tumour/no tumour), we may end up with a model that can predict a tumour in a new image with a high probability. If we want it to predict the region, then we need to mark the region in the training images, if we want medical explanations, then we need to annotate the training images with medical information of the right kind, and we probably need to annotate many more training images than for the original task, as we need to make sure that all possible explanations occur in the training data often enough. What often makes the intransparent systems so efficient is the fact that we don’t need to prepare specific data for them. We also echo the argument made by Krishnan (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Krishnan, M. (2020). <em>Against Interpretability: A Critical Examination of the Interpretability Problem in Machine Learning.</em> Philosophy &amp; Technology, 33(3), 487–502.</p><a class='mdi mdi-earth' href='https://doi.org/10.1007/s13347-019-00372-9' target='_blank' rel='noopener noreferrer'></a>" data-html="true">2020<i></i></a>) that the advantage of uninterpretable systems lies exactly in their uninterpretable nature: these systems have a high performance, because they can often detect patterns in a way that is different to the functioning of the human brain. This is not intuitive to a human and therefore, an explanation of how these models operate is often not intuitive as well.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_104">
+  <div class="ms-col-content">
+    <h3 id='heading-104' >What to do if there is no easy explanation?</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_105">
+  <div class="ms-col-content">
+    <p>Many existing AI systems depend on models which automatically learn feature representations and use an intransparent internal functionality (e.g. neural networks). Despite recent attempts to better examine such systems (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Samek, W., Montavon, G., Lapuschkin, S., Anders, C. J., &amp; Müller, K.-R. (2021).<em> Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications.</em> Proceedings of the IEEE, 109(3), 247–278.</p><a class='mdi mdi-earth' href='https://doi.org/10.1109/JPROC.2021.3060483' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Samek et al., 2021<i></i></a>), the trustworthiness of such examinations are still debatable and their usefulness could mainly be empirically established (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Jacovi, A., Marasović, A., Miller, T., &amp; Goldberg, Y. (2021). <em>Formalizing</em><em> Trust in Artificial Intelligence</em>. 624–635.</p>" data-html="true">Jacovi et al., 2021:624ff<i></i></a>; <a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="" data-html="true">Upol &amp; Riedl, 2021<i></i></a> ). Although it holds true that everything can theoretically be explained if the system has had access to the necessary information, there is often a discrepancy between what the system has had access to and what a target group might expect from a valuable explanation; the black-box problem.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_106">
+  <div class="ms-col-content">
+    <p>One option that is sometimes chosen is to provide post-hoc explanations. These interpretations might explain predictions without elucidating the mechanisms by which the model works. The model is fixed in this setting and a prediction has been made by the model. After this, hence "post-hoc", an explainability method acts upon this and provides an explanation. One example of post-hoc interpretations is natural language explanations which provide a (free-text) rationale about the model prediction based on additional information, e.g., from an external “explanation model”. A more widespread example are saliency maps (or heatmaps) used to analyse deep neural networks. They highlight the parts (or features) of the input (image, text, tabular data, etc.) to the model that are deemed most important (or salient) to the model prediction according to the model. This is then presented to the user as a coloured layer on top of the data. Traditionally, red colours correspond to the most salient features while blue colours are features indicating against the prediction. Yet, for high stake use cases simply providing post-hoc “model examinations” is still problematic as the user does not receive comprehensive information about the “logic involved” in a way that could enable them to appeal a decision. Inherently interpretable models, as Rudin (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Rudin, C. (2019). <em>Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead.</em> Nature Machine Intelligence 1, 206–215.</p><a class='mdi mdi-earth' href='https://doi.org/10.1038/s42256-019-0048-x' target='_blank' rel='noopener noreferrer'></a>" data-html="true">2019<i></i></a>) argues, are faithful to what the model actually computes, while post-hoc explainability methods that “act from the outside” are not.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_107">
+  <div class="ms-col-content">
+    <p>The focus should instead be on appropriately balancing the inherent interpretability of the model and the significance of the model output. We propose to make the design and development process of the ADM system as well as the underlying rationale transparent. We conceive this to be the more promising approach than only focusing on inner-technological means in shedding some light into the black box of ML through heatmaps or other types of automatically produced visual or verbal partial examinations of the systems’ behaviour. This may require obligations to document the processes of data gathering and preparation including annotation or labelling. The method selection for the main model like architectural choices as well as the extent of testing and deployment should also be documented. Such documentation should be obligatory for any ADM systems dealing with personal data as well as other high-impact systems. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_108">
+  <div class="ms-col-content">
+    <h4 id='heading-108' >Data documentation</h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_109">
+  <div class="ms-col-content">
+    <p>One method to explain an ADM-system without only using post-hoc explanation could be transparent data documentation. Datasheets have been recently proposed as a method to describe the characteristics of datasets. Gebru et al. argue that documenting "motivation, composition, collection process, [and] recommended uses" (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="" data-html="true">2018:2<i></i></a>) would “facilitate better communication between dataset creators and dataset consumers” (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="" data-html="true">:1<i></i></a>). In the context of XAI, datasheets mitigate potential biases by ensuring that datasets are used in suitable contexts (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Bender, E. M., &amp; Friedman, B. (2018). <em>Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science.</em> Transactions of the Association for Computational Linguistics, 6, 587–604.</p><a class='mdi mdi-earth' href='https://doi.org/10.1162/tacl_a_00041' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Bender &amp; Friedmann, 2018<i></i></a>; <a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="" data-html="true">Gebru et al., 2018<i></i></a>). Ensuring the highest amount of transparency at this level – the input level – is arguably one of the best ways to influence and truly understand what is happening in a model. By fully documenting what exactly is in the dataset, we can be aware of datasets that do not represent certain members of society, for example. Datasheets could lead to limiting the data used for training models to datasets that can be described by humans. This would rule out extremely large models, where even the developers do not know what exactly is in the input data. The data statements proposed by Gebru et al. (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="" data-html="true">2018<i></i></a>) and Bender &amp; Friedman (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Bender, E. M., &amp; Friedman, B. (2018). <em>Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science.</em> Transactions of the Association for Computational Linguistics, 6, 587–604.</p><a class='mdi mdi-earth' href='https://doi.org/10.1162/tacl_a_00041' target='_blank' rel='noopener noreferrer'></a>" data-html="true">2018<i></i></a>) are written in a way that they can at least be understood by expert users: the statements should ideally contain as much information as possible about the data but do not explicitly state whether the data is suited (or not) for a particular use-case. This implies that these expert users can then explain the characteristics of the data to lay users and make a judgement on the suitability of the data for the specific application.<span class="ms-inline ms-inline-sidenote"><i></i></span>  Jacovi et al. (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Jacovi, A., Marasović, A., Miller, T., &amp; Goldberg, Y. (2021). <em>Formalizing</em><em> Trust in Artificial Intelligence</em>. 624–635.</p>" data-html="true">2021<i></i></a>) argue that for a formalisation of human-AI trust, reproducibility checklists and fairness checklists are relevant as well for defining contracts.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-sidenote"><p>The actual metrics used to evaluate a system also need to be conveyed accurately in order to establish a level of trust with the expert and lay users, i.e. what accuracy did a certain system have on a certain task. This level of transparency is also highly relevant when multiple software tools are used together – which is very often the case. Having a standardised way of documenting these details would ensure that various tools are combined in ways that ensure that the whole software chain is transparent.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_110">
+  <div class="ms-col-content">
+    <h4 id='heading-110' >Architectural choices</h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_111">
+  <div class="ms-col-content">
+    <p>As stated above, we understand an explanation as part of an ongoing socio-technical process. This makes the future explanation a relevant factor for decisions about the design of the backend (technical functioning) and frontend (which the user sees and interacts with). An important aspect when providing transparency on architectural choices is the justification for using large, complicated models: why have we decided to use a so-called black box algorithm here?<span class="ms-inline ms-inline-sidenote"><i></i></span></p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-sidenote"><p>We use ever increasing amounts of compute in our neural networks because of the way these state-of-the-art models scale (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., Child, R., Gray, S., Radford, A., Wu, J., &amp; Amodei, D. (2020). <em>Scaling Laws for Neural Language Models</em>.</p>" data-html="true">Kaplan et al., 2020<i></i></a>).</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_112">
+  <div class="ms-col-content">
+    <p>The balance between interpretability and performance needs to be weighed up, particularly in high-stake decisions. As stated above (in Sec 4.2), intuitive explanations can often not be provided by uninterpretable systems, which are however still being used, as their advantage lies in their high performance. However, this high performance is also due to the fact that they are based on procedures that are not humanly intuitive and therefore difficult for humans to understand.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_113">
+  <div class="ms-col-content">
+    <p>Irrespective of the legal requirements (where an explanation is in our interpretation almost always a prerequisite), at a minimum for high-stake decisions<span class="ms-inline ms-inline-sidenote"><i></i></span>, it may be favourable to use a more <span class="ms-inline ms-inline-sidenote">interpretable model<i></i></span>, i.e. not a deep neural model. When a neural model, however, offers supreme performance, it may be worth tweaking the architecture in such a way that the model does not offer a definitive decision or classification, but instead gives the user suggestions (while ensuring that the user can meaningfully control what to do with the system output). This would be a possible solution although it should be kept in mind that just formally leaving the human to make a choice does not mean that the human will divert from the ADM system’s decision like described earlier. While this does not resolve the issue of understanding the inner workings of the AI system, end decisions will rely on expert user interpretations of the assistive model output. As such, final decisions can be explained by the human rationale of the expert user for which the system is designed.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-sidenote"><p>For example in contexts where explanations are needed to make informed decisions, or to allow advocate groups to help prevent biases or injustices.</p></aside>
+<aside class="ms-aside-sidenote"><p>Every model is interpretable, but not every explanation has to be meaningful to the user. Meaningful information can come in many forms as Gilpin et al. (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Gilpin, L. H., Bau, D., Yuan, B. Z., Bajwa, A., Specter, M., &amp; Kagal, L. (2018). <em>Explaining Explanations: An Overview of Interpretability of Machine Learning</em>.</p><a class='mdi mdi-earth' href='https://doi.org/10.1109/dsaa.2018.00018' target='_blank' rel='noopener noreferrer'></a>" data-html="true">2018<i></i></a>) write about features of explanation methods: <br />
+(1) Type of the problem faced; <br />
+(2) Explanatory capability used to open the black box; <br />
+(3) Type of black box that can be explained; <br />
+(4) Type of input data provided to the black box.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_114">
+  <div class="ms-col-content">
+    <h3 id='heading-114' >How does the technical understanding differ from the legal understanding</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_115">
+  <div class="ms-col-content">
+    <p>We think that the demand for documenting the input data, architectural choices and evaluation methods falls under what was called the "structure and sequence of the data processing" in the legal considerations above. We propose to make the design and development process of the ADM system as well as the underlying rationale transparent. This may require obligations to document the processes of data gathering and preparation including annotation or labelling. Ensuring the highest amount of transparency at the input level is arguably one of the best ways to influence and truly understand what is happening in a model. Likewise, instantiating the demand of showing the “logic involved” by the more concrete requirement of providing local or global explanations of the socio-technical systems can be seen as an operalisation step.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_116">
+  <div class="ms-col-content">
+    <p>To sum up, the current technical understanding of explanations is more geared towards developers whereas the legal understanding is more focused on the individual affected by the decision. From a technical perspective, we also see the necessity to weigh up the risks and benefits of non-interpretable decisions instead of consistently banning them.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+</div>
+
+
+  
+
+    <div class="ms-chapter" style="background-image: url(assets/images/paul-green-mln2ExJIkfc-unsplash.jpg)">
+      <div class="container-fluid" >
+        <div class="container">
+          <div class="ms-row ms-row-full" id="partial_117">
+            <div class="ms-col-content">
+              
+  
+  <h2 id="heading-117">Conclusion</h2>
+  
+    <p>Legal term definitions as well as the problem within the GDPR of the “human in the loop”</p>
+  
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_118">
+  <div class="ms-col-content">
+    <p>The report examined the meaning of two legal terms of the GDPR, the "<strong>meaningful information</strong> about <strong>the logic involved</strong>." Legal methods reach their limits when it comes to clear definitions of these terms. As we argued here, the logic involved could be understood as the structure and sequence of the data processing. The information revealed about it has to help balance the relation of the data subject and companies running ADM systems and ensure an actual gain of knowledge to enable the user to appeal the decision. The BGH stated that this does not need to contain a complete disclosure of the score formula if they are not necessary for questioning the decision. What makes information meaningful remains even more obscure. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_119">
+  <div class="ms-col-content">
+    <p>Looking at the terms from a design perspective leads to understanding an explanation more generally: Explainability starts even before the system is in use. When understanding the act of explaining automated decisions as a communication process, we have to acknowledge that the process starts before the actual use of an AI system. Further, this means it becomes important in which moment explanations are given, which is again dependent on task, context and target group. Also, education is part of the explanation: Before the actual employment of an AI system, target groups, especially domain experts, have to be educated about the risks, limitations and capability of AI systems they intend to use. Further, general knowledge of the potentials and limitations of AI in their field is necessary. It is important to identify who can provide such education in a non-biased manner. For the use of AI in radiology, medical professional associations could be suitable providers for such education. Other associations, which focus on patient rights, might be seen as an example for the target group of the advocate. As we argued, general education on AI and specific use-contexts generally can benefit from the involvement of advocates, such as NGOs or representatives of special interest groups.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_120">
+  <div class="ms-col-content">
+    <p>Technically seen, the demand for documenting the input data, architectural choices and evaluation methods falls under what was called the "structure and sequence of the data processing" in the legal considerations above. Likewise, instantiating the demand of showing the “logic involved” by the more concrete requirement of providing local and/or global explanations of the socio-technical systems can be seen as an operalisation step. Summing up, we are convinced that the discussion in this document has found a good common vocabulary for turning the legal imprecision and the technical imperfection into actionable frameworks to make the design and development process of the ADM system, as well as the underlying rationale, transparent. This could ensure that the current systems can be inspected and future systems might become more elaborate.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_121">
+  <div class="ms-col-content">
+    <p>Understanding an explanation as an ongoing process, evaluating, and adapting the explanation is essential. When evaluating a model, the context is obviously highly important: how do we know when a system is good enough? The developing team needs to document this decision in a transparent way. In the best case, this decision should not be made solely by a team of developers. Instead, a communicative process should be utilised to fully understand all possible requirements and implications of a system. This process should engage a variety of people as wide as possible: stakeholders, expert users, lay users, relevant advocates. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_122">
+  <div class="ms-col-content">
+    <p>The evaluation of XAI is a research field which is slowly gaining more attention. Following our previous argument, that explanations for AI are a complex communication process that involves human actors at the core, this evaluation can only be successfully achieved if the whole process is looked at – instead of only the technical elements of the process. Whether the explanation process is "successful" can only partly be determined by auditing the AI systems’ functionality. Another important aspect of this evaluation is to ask the recipients of an explanation, which in our examples are multiple different target groups, to which degree the explanations served its purpose. Obtaining feedback from the recipients of the statement must be done in the context of research projects that can use the responses to determine the effectiveness of the statement for the respective target groups.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_123">
+  <div class="ms-col-content">
+    
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+  </div>
+</article>
+  </div>
+  
+  <div class="tab-pane fade" id="summary" role="tabpanel" aria-labelledby="summary-tab" >
+    
+
+<section>
+  <div class="container">
+     <div class="ms-row ms-row-two ms-text" id="partial_124">
+  <div class="ms-col-content">
+    <h2 id='heading-124' >Executive Summary</h2>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_125">
+  <div class="ms-col-content">
+    <p>Automated decision making (ADM) systems have become ubiquitous in our everyday lives, enabling new business models and intensifying the datafication of our economies. Yet, the use of these systems entails risks on an individual as well as on a societal level. Explanations of how such systems make decisions (often referred to as explainable AI, or XAI, in the literature) can be considered a promising way to mitigate their negative effects. Explanations of the process and decision of an ADM system can empower users to legally appeal a decision, challenge developers to be aware of the negative side effects of the ADM system during the entire development process, and increase the overall legitimacy of the decision. However, it remains unclear what content an explanation has to include and how the explanation can be made to achieve an actual gain of knowledge for the recipient, especially if that recipient is not an expert. The GDPR provides a legal framework for explaining ADM systems. "Meaningful information about the logic involved" has to be provided to the person affected by the decision. Nonetheless, neither the text of the GDPR itself nor the commentaries on the GDPR provide details on what “meaningful information about the logic involved” precisely is. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_126">
+  <div class="ms-col-content">
+    <p>This interdisciplinary report discusses this question from a legal, design, and technical perspective. The paper proposes three questions to help formulate a good explanation: <em>Who</em> needs to understand what in a given scenario? <em>What</em> <em>can</em> be explained about the system in use? <em>What</em> <em>should</em> explanations look like in order to be <em>meaningful</em> to affected users? The outcomes could potentially not only advance the debate among legal scholars but also help developers and designers to understand the legal obligations when developing or implementing an ADM system.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_127">
+  <div class="ms-col-content">
+    <p>Legally, the explanation has to enable the user to appeal the decision made by the ADM system. "The logic" can be understood as “the structure and sequence of the data processing”. This does not necessarily have to include complete disclosure of the entire technical functioning of the ADM system. Since the explanation is intended to balance the power of the ADM developer with those of the user, this balance has to be at the center of the explanation. The GDPR focuses on individual rather than collective rights. This is the subject of many discussions among scholars. However, the interpretation of the GDPR as protecting mainly individual rights is just the minimum requirement for an explanation. Any explanation going further and also having the protection of collective rights in mind, will be compliant with the GDPR as long as the individual rights are also protected. Therefore, we recommend putting the individual at the centre of the explanation in a first step in order to comply with the GDPR.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_128">
+  <div class="ms-col-content">
+    <p>With regard to the question "what should explanations look like", we argue that XAI is more than just a technical output. To our view, XAI has to be understood as a complex communication process between human actors and cannot be merely evaluated in terms of technical accuracy. Against this backdrop, evaluating the communication process should accompany evaluating the XAI system’s technical performance. Evaluating an explanation created by an ADM system cannot be achieved without involving the user receiving the explanation. Their assessment of what a meaningful explanation needs to entail is an essential prerequisite for XAI. For domain experts, the evaluation of the explanation must include information about potentials, risks, and limitations of ADM systems; explainability starts even before the system is in use and encompasses the complete socio-technical complex.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_129">
+  <div class="ms-col-content">
+    <p>When it comes to the target group of an explanation, public or community advocates should play a bigger role. These advocate groups support individuals confronted with an automated decision. Their interest will be more in understanding the models and their limitations as a whole instead of only focussing on the result of one individual decision.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_130">
+  <div class="ms-col-content">
+    <p>As we will demonstrate, there is a gap between how developers and legal experts define what explanations are. Developers aim to debug statements that help them understand their models, but these are less useful for individuals who need explanations to be able to challenge a decision. Also, from a technical perspective, the term "logic involved" as it is used in the GDPR is – at best – misleading. ADM systems, and data-based systems in particular, are complex and dynamic socio-technical ecosystems. Understanding “the logic” of such diverse systems therefore requires action from different actors and at numerous stages from conception to deployment. Developers have to explain to the ADM system <em>how</em> to explain. Methods to explain the explanation often involve using additional approximate models with potentially lower accuracy that raise the question of whether the goal is to explain (justify) the decision or to really understand how the original model arrived at the decision.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_131">
+  <div class="ms-col-content">
+    <p>Furthermore, transparency at the input level is a core requirement for mitigating potential bias, as post-hoc interpretations are widely perceived as being too problematic to tackle the root cause. The focus should therefore shift to making the underlying rationale, design and development process transparent—documenting the input data as part of the "logic involved". For example, the use of datasheets can lead to more transparency by enabling expert users to better understand the overall process and translate it to lay users. Ultimately, using such measures will help improve ADM systems. In other words, the overall XAI process should involve direct and indirect stakeholders from the very beginning rather than hoping that machine learning models will be able to provide human-compatible explanations post-hoc at the end of the development chain without prohibitive effort.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+  </div>
+</section>
+  </div>
+  
+  <div class="tab-pane fade" id="directories" role="tabpanel" aria-labelledby="directories-tab" >
+    
+
+<section>
+  <div class="container">
+     <div class="ms-row ms-row-two ms-text" id="partial_132">
+  <div class="ms-col-content">
+    <h2 id='heading-132' >Sources</h2>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-directory" id="partial_133">
+  <div class="ms-col-content">
+    
+<div class="ms-entry">
+  <p>
+    <p>Bäcker (2020) in Kühling, J., &amp; Buchner, B. (Ed). <em>Datenschutz-Grundverordnung, Bundesdatenschutzgesetz: DS-GVO / BDSG</em>: Vol. XXII (3rd ed.). München: C.H. Beck.</p>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Barocas, S., &amp; Selbst, A. D. (2016). <em>Big Data’s Disparate Impact</em>. <em>SSRN Journal</em>, <em>104</em>. https://doi.org/10.2139/ssrn.2477899</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.2139/ssrn.2477899" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Barocas, S., Hardt, M., &amp; Narayanan, A. (2019). <em>Fairness and Machine Learning. Limitations and Opportunities</em>. fairmlbook.org. https://fairmlbook.org</p>
+    
+    <a class="mdi mdi-earth" href="https://fairmlbook.org" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Bender, E. M., &amp; Friedman, B. (2018). <em>Data Statements for Natural Language Processing: Toward Mitigating System Bias and Enabling Better Science.</em> Transactions of the Association for Computational Linguistics, 6, 587–604. https://doi.org/10.1162/tacl_a_00041</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1162/tacl_a_00041" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Braun, M., Hummel, P., Beck, S., &amp; Dabrock, P. (2021). P<em>rimer on </em><em>an ethics</em><em> of AI-based decision support systems in the clinic</em>. J Med Ethics, 47(12). https://doi.org/10.1136/medethics-2019-105860</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1136/medethics-2019-105860" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Datenschutzrichtlinie. (2015). ‘Richtlinie 95/46/EG des Europäischen Parlaments und des Rates vom 24. Oktober 1995 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr’. Available at: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31995L0046</p>
+    
+    <a class="mdi mdi-earth" href="https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A31995L0046" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Dix (2019) in Hornung, G., &amp; Spiecker, Simitis. S. (Ed.), <em>Datenschutzrecht</em>. Baden-Baden: NomosKommentar.</p>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Douer, N., &amp; Meyer, J. (2021). T<em>heoretical, Measured, and Subjective Responsibility in Aided Decision Making.</em> ACM Trans. Interact. Intell. Syst., 11(1), 1–37. https://doi.org/10.1145/3425732</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1145/3425732" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Dreyer, S., &amp; Schulz, W. (2019). <em>Künstliche Intelligenz, Intermediäre und Öffentlichkeit. Bericht an das BAKOM</em>. https://www.bakom.admin.ch/dam/bakom/de/dokumente/bakom/elektronische_medien/Zahlen%20und%20Fakten/Studien/bericht-chancen-risiken-intermediaere-2020.pdf.download.pdf/Bericht_Chancen_Risiken_Intermedia%CC%88re_310720_fin.pdf</p>
+    
+    <a class="mdi mdi-earth" href="https://www.bakom.admin.ch/dam/bakom/de/dokumente/bakom/elektronische_medien/Zahlen%20und%20Fakten/Studien/bericht-chancen-risiken-intermediaere-2020.pdf.download.pdf/Bericht_Chancen_Risiken_Intermedia%CC%88re_310720_fin.pdf" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Ehsan, U., &amp; Riedl, M. O. (2021). <em>Explainability Pitfalls: Beyond Dark Patterns in Explainable AI</em>. Human-Computer Interaction.</p>
+    
+    <a class="mdi mdi-earth" href="https://thegradient.pub/human-centered-explainable-ai" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Eiband, M., Schneider, H., Bilandzic, M., Fazekas-Con, J., Haug, M., &amp; Hussmann, H. (2018). <em>Bringing Transparency Design into Practice.</em> 23rd International Conference on Intelligent User Interfaces, 211–223. https://doi.org/10.1145/3172944.3172961</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1145/3172944.3172961" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Forst, R. (2017). <em>Kritik der Rechtfertigungsverhältnisse. Perspektiven einer kritischen Theorie der Politik</em> (1st ed.). Suhrkamp.</p>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Forst, R. (2018). <em>Normativität und Macht. Zur Analyse sozialer Rechtfertigungsordnungen</em>. Suhrkamp, Berlin.</p>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Forst, R. (2021). <em>Normative Ordnungen</em> (G. Klaus, Ed.). Suhrkamp.</p>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Friedman, B., &amp; Nissenbaum, H. (2017). <em>Bias in Computer Systems</em>. <em>14</em>(3), 330–347.<a href="https://doi.org/10.4324/9781315259697-23"> https://doi.org/10.4324/9781315259697-23</a></p>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>General Data Protection Regulation. (2016). ‘Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)’. Available at: https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679</p>
+    
+    <a class="mdi mdi-earth" href="https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Gebru, T., Morgenstern, J., Vecchione, B., Vaughan, J. W., Wallach, H., III, H. D., &amp; Crawford, K. (2021). <em>Datasheets for datasets. Commun.</em> ACM, 64(12), 86–92. https://doi.org/10.1145/3458723</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1145/3458723" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Gilpin, L. H., Bau, D., Yuan, B. Z., Bajwa, A., Specter, M., &amp; Kagal, L. (2018). <em>Explaining Explanations: An Overview of Interpretability of Machine Learning</em>. https://doi.org/10.1109/dsaa.2018.00018</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1109/dsaa.2018.00018" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Hoeren, T., &amp; Niehoff, M. (2018). <em>KI und Datenschutz – </em><em>Begründungserfordernisse</em><em> automatisierter Entscheidungen</em>. RW, 9(1), 47–66. https://doi.org/10.5771/1868-8098-2018-1-47</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.5771/1868-8098-2018-1-47" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>International Organization for Standardization. (2018). Retrieved January 25, 2022, from https://www.iso.org/obp/ui/#iso:std:iso:9241:-11:ed-2:v1:en</p>
+    
+    <a class="mdi mdi-earth" href="https://www.iso.org/obp/ui/#iso:std:iso:9241:-11:ed-2:v1:en" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Jacovi, A., Marasović, A., Miller, T., &amp; Goldberg, Y. (2021). <em>Formalizing</em><em> Trust in Artificial Intelligence</em>. 624–635.<a href="https://doi.org/10.1145/3442188.3445923"> https://doi.org/10.1145/3442188.3445923</a></p>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Jędrzej, N., Sztandar-Sztanderska, K., &amp; Szymielewicz, K. (2015). <em>Profiling the Unemployed in Poland: Societal and Political Implications of Algorithmic Decision Making</em>.<a href="https://panoptykon.org/sites/default/files/leadimage-biblioteka/panoptykon_profiling_report_final.pdf"> https://panoptykon.org/sites/default/files/leadimage-biblioteka/panoptykon_profiling_report_final.pdf</a></p>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Kahneman, D. (2013). Thinking, Fast and Slow. Farrar, Straus and Giroux.</p>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Kaplan, J., McCandlish, S., Henighan, T., Brown, T. B., Chess, B., Child, R., Gray, S., Radford, A., Wu, J., &amp; Amodei, D. (2020). <em>Scaling Laws for Neural Language Models</em>.<a href="https://arxiv.org/abs/2001.08361"> https://arxiv.org/abs/2001.08361</a></p>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Kettemann, M. C. (2020). <em>Normative Order of the Internet</em>. Oxford University Press, USA.</p>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Kettemann, M. C. (2020a). <em>Deontology of the Digital: The Normative Order of the Internet</em>. In M. C. Kettemann (Ed.), Navigating Normative Orders (pp. 76–91). Campus.</p>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Krishnan, M. (2020). <em>Against Interpretability: A Critical Examination of the Interpretability Problem in Machine Learning.</em> Philosophy &amp; Technology, 33(3), 487–502. https://doi.org/10.1007/s13347-019-00372-9</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1007/s13347-019-00372-9" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Liao, Q. V., Gruen, D., &amp; Miller, S. (2020). <em>Questioning the AI: Informing Design </em><em>Practices</em><em> for Explainable AI User Experiences.</em> Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 1–15. https://doi.org/10.1145/3313831.3376590</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1145/3313831.3376590" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Lipton, Z. C. (2016). <em>The Mythos of Model Interpretability.</em> ArXiv:1606.03490 [Cs, Stat]. http://arxiv.org/abs/1606.03490</p>
+    
+    <a class="mdi mdi-earth" href="http://arxiv.org/abs/1606.03490" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Miller, T. (2019). <em>Explanation in artificial intelligence: Insights from the social sciences.</em> Artificial Intelligence, 267, 1–38. https://doi.org/10.1016/j.artint.2018.07.007</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1016/j.artint.2018.07.007" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Ribera, M., &amp; Lapedriza, À. (2019). <em>Can we do better explanations? A proposal of user-</em><em>centered</em><em> explainable AI.</em> IUI Workshops.</p>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Rudin, C. (2019). <em>Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead.</em> Nature Machine Intelligence 1, 206–215. https://doi.org/10.1038/s42256-019-0048-x</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1038/s42256-019-0048-x" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Samek, W., Montavon, G., Lapuschkin, S., Anders, C. J., &amp; Müller, K.-R. (2021).<em> Explaining Deep Neural Networks and Beyond: A Review of Methods and Applications.</em> Proceedings of the IEEE, 109(3), 247–278. https://doi.org/10.1109/JPROC.2021.3060483</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1109/JPROC.2021.3060483" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Schmidt-Wudy, F. (2021) in Brink, S., Wullf, H., <em>BeckOK Datenschutzrecht.</em> 38. Edition, C.H. Beck, München.</p>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Selbst, A. D., &amp; Powles, J. (2017). <em>Meaningful information and the right to explanation</em>. <em>7</em>(4), 233–242.<a href="https://doi.org/10.1093/idpl/ipx022"> https://doi.org/10.1093/idpl/ipx022</a></p>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Singh, R., Ehsan, U., Cheong, M., Riedl, M. O., &amp; Miller, T. (2021). <em>LEx: A Framework for Operationalising Layers of Machine Learning Explanations.</em> ArXiv:2104.09612 [Cs]. http://arxiv.org/abs/2104.09612</p>
+    
+    <a class="mdi mdi-earth" href="http://arxiv.org/abs/2104.09612" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Sokol, K., &amp; Flach, P. (2020). <em>Explainability fact sheets: a framework for systematic assessment of explainable approaches</em>. 56–57. https://doi.org/10.1145/3351095.3372870</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1145/3351095.3372870" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Verbraucherzentrale Hamburg, <em>Was ist Scoring</em>. (n.d.). Retrieved January 25, 2022, from https://www.vzhh.de/themen/finanzen/was-ist-scoring.</p>
+    
+    <a class="mdi mdi-earth" href="https://www.vzhh.de/themen/finanzen/was-ist-scoring." target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Wachter, S., Mittelstadt, B., &amp; Floridi, L. (2017). <em>Why a Right to Explanation of Automated Decision-Making Does Not Exist in the General Data Protection Regulation.</em> SSRN Journal, 7(2), 76–99.<a href="https://doi.org/10.2139/ssrn.2903469"> https://doi.org/10.2139/ssrn.2903469</a></p>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Wolf, C. T. (2019). <em>Explainability scenarios: Towards scenario-based XAI design.</em> Proceedings of the 24th International Conference on Intelligent User Interfaces, 252–257. https://doi.org/10.1145/3301275.3302317</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1145/3301275.3302317" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Zweig, K. A., Fischer, S., &amp; Lischka, K. (2018). <em>Wo Maschinen irren können: Verantwortlichkeiten und Fehlerquellen in Prozessen algorithmischer Entscheidungsfindung. </em><a href="https://doi.org/10.11586/2018006">https://doi.org/10.11586/2018006</a></p>
+    
+  </p>
+</div>
+
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-title">
+</aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_134">
+  <div class="ms-col-content">
+    
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+  </div>
+</section>
+  </div>
+  
+  <div class="tab-pane fade" id="authors" role="tabpanel" aria-labelledby="authors-tab" >
+    
+
+<section>
+  <div class="container">
+     <div class="ms-row ms-row-two ms-text" id="partial_135">
+  <div class="ms-col-content">
+    <h2 id='heading-135' >Authors</h2>
+<p>The report was <strong>edited by</strong> Nadine Birner, Shlomi Hod, Matthias C. Kettemann, Alexander Pirang, and Friederike Stock</p>
+<p><strong>with contributions</strong> from Ezgi Eren, Lukas Hondrich, Linus Huang, Basileal Imana, Matthias C. Kettemann, Joanne Kuai, Marcela Mattiuzzo, Alexander Pirang, Ana Pop Stefanija, Sylvi Rzepka, Marie-Therese Sekwenz, Zora Siebert, Sarah Stapel, and Franka Weckner.</p>
+<h3 id='heading-135' >Introduction</h3>
+<p>Two of the clinic’s organisers, Matthias C. Kettemann and Alexander Pirang, set the stage to this report.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_136">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/matthias.jpg" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Matthias C. Kettemann</strong>
+</p>
+<p class="grey">
+  Research Group Leader at Alexander von Humboldt Institute for Internet and Society, Germany
+</p>
+
+<p>Area of concentration: Digital human rights, platform and internet law, internet Governance</p>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+
+<aside class="ms-aside-link">
+  <p>
+    <a href=https://www.hiig.de/en/matthias-kettemann target="_blank">
+       Visit website
+    </a>
+  </p>
+</aside>
+
+
+<aside class="ms-aside-twitter">
+  <p>
+    <a href="https://twitter.com/MCKettemann" target="_blank">
+       <span class="grey">@&thinsp;</span>MCKettemann
+    </a>
+  </p>
+</aside>
+
+
+
+
+  </div>
+</div>
+
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_137">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/alexander.jpg" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Alexander Pirang</strong>
+</p>
+<p class="grey">
+  Researcher at Alexander von Humboldt Institute for Internet and Society, Germany
+</p>
+
+<p>Area of concentration: Freedom of expression and regulatory theory</p>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+
+<aside class="ms-aside-link">
+  <p>
+    <a href=https://www.hiig.de/en/alexander-pirang target="_blank">
+       Visit website
+    </a>
+  </p>
+</aside>
+
+
+<aside class="ms-aside-twitter">
+  <p>
+    <a href="https://twitter.com/AlexanderPirang" target="_blank">
+       <span class="grey">@&thinsp;</span>AlexanderPirang
+    </a>
+  </p>
+</aside>
+
+
+<aside class="ms-aside-linkedin">
+  <p><a href="https://www.linkedin.com/in/alexander-pirang-b5831a87" target="_blank">
+       <span class="grey">in&thinsp;/&thinsp;</span>alexander-pirang-b5831a87
+    </a></p>
+</aside>
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_138">
+  <div class="ms-col-content">
+    <h3 id='heading-138' >Spotlight: Ad targeting</h3>
+<p>The four authors of this spotlight were all fellows of the winter clinic and contributed equally to the formulation of the guidelines.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_139">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/dummy.png" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Lukas Hondrich</strong>
+</p>
+<p class="grey">
+  Researcher at AlgorithmWatch, Germany
+</p>
+
+<p>Area of concentration: Cognitive-Affective Neuroscience</p>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+
+<aside class="ms-aside-link">
+  <p>
+    <a href=https://algorithmwatch.org/de/team/lukas-hondrich/ target="_blank">
+       Visit website
+    </a>
+  </p>
+</aside>
+
+
+<aside class="ms-aside-twitter">
+  <p>
+    <a href="https://twitter.com/lukashondrich" target="_blank">
+       <span class="grey">@&thinsp;</span>lukashondrich
+    </a>
+  </p>
+</aside>
+
+
+<aside class="ms-aside-linkedin">
+  <p><a href="https://www.linkedin.com/in/lukas-hondrich-12653314b" target="_blank">
+       <span class="grey">in&thinsp;/&thinsp;</span>lukas-hondrich-12653314b
+    </a></p>
+</aside>
+
+
+
+  </div>
+</div>
+
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_140">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/marcela.png" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Marcela Mattiuzzo</strong>
+</p>
+<p class="grey">
+  PhD Candidate at the University of São Paulo, Brazil
+</p>
+
+<p>Area of concentration: Commercial Law</p>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+
+<aside class="ms-aside-link">
+  <p>
+    <a href=http://www.vmca.adv.br/en/profissionais/marcela-mattiuzzo/ target="_blank">
+       Visit website
+    </a>
+  </p>
+</aside>
+
+
+<aside class="ms-aside-twitter">
+  <p>
+    <a href="https://twitter.com/aboutmattiuzzo" target="_blank">
+       <span class="grey">@&thinsp;</span>aboutmattiuzzo
+    </a>
+  </p>
+</aside>
+
+
+<aside class="ms-aside-linkedin">
+  <p><a href="https://www.linkedin.com/in/marcela-mattiuzzo-2390bb32/" target="_blank">
+       <span class="grey">in&thinsp;/&thinsp;</span>marcela-mattiuzzo-2390bb32/
+    </a></p>
+</aside>
+
+
+
+  </div>
+</div>
+
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_141">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/ana.png" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Ana Pop Stefanija</strong>
+</p>
+<p class="grey">
+  PhD researcher at imec-SMIT, Vrije Universiteit Brussel, Belgium
+</p>
+
+<p>Area of concentration: Socio-technical aspects of AI</p>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+
+<aside class="ms-aside-link">
+  <p>
+    <a href=https://smit.vub.ac.be/team/ana-pop-stefanija target="_blank">
+       Visit website
+    </a>
+  </p>
+</aside>
+
+
+
+<aside class="ms-aside-linkedin">
+  <p><a href="https://www.linkedin.com/in/ana-pop-stefanija-a90a685" target="_blank">
+       <span class="grey">in&thinsp;/&thinsp;</span>ana-pop-stefanija-a90a685
+    </a></p>
+</aside>
+
+
+
+  </div>
+</div>
+
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_142">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/zora.png" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Zora Siebert</strong>
+</p>
+<p class="grey">
+  Brussels Head of EU Policy Programme at Heinrich Böll Foundation, European Union, Belgium
+</p>
+
+<p>Area of concentration: Political Science</p>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+
+
+<aside class="ms-aside-twitter">
+  <p>
+    <a href="https://twitter.com/ZoraSiebert" target="_blank">
+       <span class="grey">@&thinsp;</span>ZoraSiebert
+    </a>
+  </p>
+</aside>
+
+
+<aside class="ms-aside-linkedin">
+  <p><a href="https://www.linkedin.com/in/zora-s-3a027315b" target="_blank">
+       <span class="grey">in&thinsp;/&thinsp;</span>zora-s-3a027315b
+    </a></p>
+</aside>
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_143">
+  <div class="ms-col-content">
+    <h3 id='heading-143' >Spotlight: Ad delivery</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_144">
+  <div class="ms-col-content">
+    <p>The four authors of this spotlight were all fellows of the winter clinic and contributed equally to the formulation of the guidelines.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_145">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/basileal.png" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Basileal Imana</strong>
+</p>
+<p class="grey">
+  PhD student at the University of Southern California, USA
+</p>
+
+<p>Area of concentration: Security, privacy and fairness</p>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+
+<aside class="ms-aside-link">
+  <p>
+    <a href=https://ant.isi.edu/~imana/ target="_blank">
+       Visit website
+    </a>
+  </p>
+</aside>
+
+
+
+<aside class="ms-aside-linkedin">
+  <p><a href="https://www.linkedin.com/in/basilealimana/" target="_blank">
+       <span class="grey">in&thinsp;/&thinsp;</span>basilealimana/
+    </a></p>
+</aside>
+
+
+
+  </div>
+</div>
+
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_146">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/joanne.png" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Joanne Kuai</strong>
+</p>
+<p class="grey">
+  PhD student at Karlstad University, Sweden
+</p>
+
+<p>Area of concentration: AI in Journalism</p>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+
+<aside class="ms-aside-link">
+  <p>
+    <a href=https://www.kau.se/forskare/joanne-kuai target="_blank">
+       Visit website
+    </a>
+  </p>
+</aside>
+
+
+<aside class="ms-aside-twitter">
+  <p>
+    <a href="https://twitter.com/JoanneKuai" target="_blank">
+       <span class="grey">@&thinsp;</span>JoanneKuai
+    </a>
+  </p>
+</aside>
+
+
+<aside class="ms-aside-linkedin">
+  <p><a href="https://www.linkedin.com/in/joannekuai" target="_blank">
+       <span class="grey">in&thinsp;/&thinsp;</span>joannekuai
+    </a></p>
+</aside>
+
+
+
+  </div>
+</div>
+
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_147">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/sarah.png" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Sarah Stapel</strong>
+</p>
+<p class="grey">
+  Student (LLM) at the University of Amsterdam
+</p>
+
+<p>Area of concentration: Privacy and Data Protection</p>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+
+
+<aside class="ms-aside-twitter">
+  <p>
+    <a href="https://twitter.com/_sstapel" target="_blank">
+       <span class="grey">@&thinsp;</span>_sstapel
+    </a>
+  </p>
+</aside>
+
+
+<aside class="ms-aside-linkedin">
+  <p><a href="https://www.linkedin.com/in/sarah-stapel" target="_blank">
+       <span class="grey">in&thinsp;/&thinsp;</span>sarah-stapel
+    </a></p>
+</aside>
+
+
+
+  </div>
+</div>
+
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_148">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/franka.png" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Franka Weckner</strong>
+</p>
+<p class="grey">
+  Student at the University of Heidelberg, Germany
+</p>
+
+<p>Area of concentration: International Law</p>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+
+
+<aside class="ms-aside-twitter">
+  <p>
+    <a href="https://twitter.com/Franka19971" target="_blank">
+       <span class="grey">@&thinsp;</span>Franka19971
+    </a>
+  </p>
+</aside>
+
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_149">
+  <div class="ms-col-content">
+    <h3 id='heading-149' >Spotlight: Ad display</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_150">
+  <div class="ms-col-content">
+    <p>The four authors of this spotlight were all fellows of the winter clinic and contributed equally to the formulation of the guidelines.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_151">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/ezgi.png" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Ezgi Eren</strong>
+</p>
+<p class="grey">
+  Student (LLM) at The University of Edinburgh, Great Britain
+</p>
+
+<p>Area of concentration: Innovation, Technology and the Law</p>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+
+
+<aside class="ms-aside-twitter">
+  <p>
+    <a href="https://twitter.com/EzgiE143" target="_blank">
+       <span class="grey">@&thinsp;</span>EzgiE143
+    </a>
+  </p>
+</aside>
+
+
+<aside class="ms-aside-linkedin">
+  <p><a href="https://www.linkedin.com/in/ezgi-eren" target="_blank">
+       <span class="grey">in&thinsp;/&thinsp;</span>ezgi-eren
+    </a></p>
+</aside>
+
+
+
+  </div>
+</div>
+
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_152">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/linus.png" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Linus Huang</strong>
+</p>
+<p class="grey">
+  Postdoctoral Fellow at the Society of Fellows in the Humanities, University of Hong Kong, Hong Kong
+</p>
+
+<p>Area of concentration: Philosophy of Cognitive Science</p>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+
+<aside class="ms-aside-link">
+  <p>
+    <a href=https://sofhku.com/linus-huang/ target="_blank">
+       Visit website
+    </a>
+  </p>
+</aside>
+
+
+
+
+
+  </div>
+</div>
+
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_153">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/sylvi.png" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Sylvi Rzepka</strong>
+</p>
+<p class="grey">
+  Postdoctoral Researcher at the University of Potsdam, Germany
+</p>
+
+<p>Area of concentration: Empirical Economics</p>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+
+
+
+<aside class="ms-aside-linkedin">
+  <p><a href="https://www.linkedin.com/in/sylvi-rzepka" target="_blank">
+       <span class="grey">in&thinsp;/&thinsp;</span>sylvi-rzepka
+    </a></p>
+</aside>
+
+
+
+  </div>
+</div>
+
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_154">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/marie-therese.png" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Marie-Therese Sekwenz</strong>
+</p>
+<p class="grey">
+  Student at University of Vienna, Vienna, Austria
+</p>
+
+<p>Area of concentration: Content Moderation, Automated Bias, AI</p>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+
+
+<aside class="ms-aside-twitter">
+  <p>
+    <a href="https://twitter.com/MarieSekwenz" target="_blank">
+       <span class="grey">@&thinsp;</span>MarieSekwenz
+    </a>
+  </p>
+</aside>
+
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_155">
+  <div class="ms-col-content">
+    
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+  </div>
+</section>
+  </div>
+  
+  <div class="tab-pane fade" id="editors" role="tabpanel" aria-labelledby="editors-tab" >
+    
+
+<section>
+  <div class="container">
+     <div class="ms-row ms-row-two ms-text" id="partial_156">
+  <div class="ms-col-content">
+    <h2 id='heading-156' >The Ethics of Digitalisation</h2>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_157">
+  <div class="ms-col-content">
+    <p>This document is the final report of the <em>Explainable AI Research Clinic</em>, a five-day impact-driven and interdisciplinary research format focused on specific use cases of explainable AI. In September 2021, this event was hosted by the AI &amp; Society Lab of the Alexander von Humboldt Institute for Internet and Society (HIIG) as well as it was part of the <a href="http://networkofcenters.net/">NoC</a> research project <a href="https://www.hiig.de/en/project/the-ethics-of-digitalisation/">The Ethics of Digitalisation – From Principles to Practises</a>, which aims to develop viable answers to challenges at the intersection of ethics and digitalisation. Innovative formats facilitate interdisciplinary scientific work on application-, and practice-oriented questions and achieve outputs of high societal relevance and impact. Besides HIIG, the main project partners are the Berkman Klein Center at Harvard University, the Digital Asia Hub, and the Leibniz Institute for Media Research | Hans-Bredow-Institut.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><h3>Imprint</h3>
+<p>Alexander von Humboldt Institut für Internet und Gesellschaft<br><span class="light">Französische Str. 9<br>10117 Berlin</span></p>
+<p><span class="light">Responsible according to §&nbsp;55&nbsp;Abs.&nbsp;2&nbsp;RStV: Dr. Karina Preiß</span></p>
+<p><span class="light"><a href="https://www.hiig.de/en/imprint">Imprint on hiig.de</a></span></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_158">
+  <div class="ms-col-content">
+    <h4 id='heading-158' >Design and implementation</h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_159">
+  <div class="ms-col-content">
+    <p><a href="https://www.larissawunderlich.de">Larissa Wunderlich</a></p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_160">
+  <div class="ms-col-content">
+    <p>The publication was build with the open-source framework <a href="https://www.impactdistillery.com/graphite">graphite</a> developed by <a href="https://www.impactdistillery.com">Marcel Hebing</a> and <a href="https://www.larissawunderlich.de">Larissa Wunderlich</a>.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_161">
+  <div class="ms-col-content">
+    
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+  </div>
+</section>
+  </div>
+  
+</div>
+<canvas id="confetti"></canvas>
+<!-- END: STUDY FRAME -->
+
+
+<!--
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+-->
+
+    <script src="/static/js/jquery.min.js"></script>
+    <script src="/static/js/popper.min.js"></script>
+<!--  Needed to calculate actual height   <script src="/static/js/jquery.actual.min.js"></script>-->
+    <script src="/static/js/bootstrap.min.js"></script>
+    <script src="/static/js/horst.js"></script>
+    <script src="/static/js/youtube.js"></script>
+    
+    
+    
+      <!-- Matomo -->
+      <script type="text/javascript">
+        var _paq = window._paq = window._paq || [];
+        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+          var u="https://piwik.wunderjewel.de/";
+          _paq.push(['setTrackerUrl', u+'matomo.php']);
+          _paq.push(['setSiteId', '4']);
+          var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+          g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+        })();
+      </script>
+      <!-- End Matomo Code -->
+    
+  </body>
+</html>

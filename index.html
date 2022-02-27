@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title>Graphite – enhanced publications for a digital environment</title>
-
     <meta name="description" content="Graphite – enhanced publications for a digital environment">
     <meta name="author" content="Larissa Wunderlich and Marcel Hebing">
-
+    <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <link rel="icon" type="image/png" href="https://graphite.page/_assets/favicon-graphite.png">
-
     <style>
-        body{
+        body {
             background: #000;
             color: #fff;
             display: flex;
@@ -19,46 +18,55 @@
             height: 100vh;
             width: 100vw;
             font-family: 'Source Sans Pro', Helvetica, Roboto, sans-serif;
+            margin: 0;
         }
 
-        .center{
+        .center {
             max-width: 500px;
             margin: auto;
             height: auto;
         }
 
-        .logo img{
+        @media screen and (max-width: 780px) {
+          /* For mobile phones: */
+            .center{
+                max-width: 90vw;
+            }
+        }
+
+        .logo img {
             width: 50vw;
             max-width: 300px;
             margin-right: 50px;
             display: inline-block;
         }
 
-        .info{
-            font-size: 20px;
+        .info {
+            font-size: 1.5rem;
             font-weight: 600;
             padding: 5vh 0;
         }
 
-        .more{
+        .more {
             font-size: 16px;
             font-weight: 300;
         }
 
-        a{
+        a {
             color: #aaa;
             text-decoration: none;
         }
     </style>
-
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet">
-</head>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet"> </head>
+
 <body>
     <div class="center">
-        <div class="logo"><img src="_assets/graphite_neg.svg" alt="graphite"/></div>
-        <p class="info">Publications build with the framework Graphite <br> based on python's graphite-papers.</p>
+        <div class="logo"><img src="_assets/graphite_neg.svg" alt="graphite" /></div>
+        <p class="info">Publications build with the framework Graphite
+           based on python's <a href="https://github.com/impactdistillery/graphite-paper">graphite-papers</a>.</p>
         <p class="more">For more information visit the <a href="http://impactdistillery.com/graphite">project website</a>, read the <a href="https://graphite-paper.readthedocs.io/en/latest/">docs</a> and get started.</p>
     </div>
 </body>
+
 </html>
