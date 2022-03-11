@@ -9293,7 +9293,7 @@ table .tcol-head tr td:first-child {
 /* Authors .ms-plugin-author */
 .ms-plugin-author img {
   border-radius: 50%;
-  object-fit: cover;
+  object-fit: cover;  
 }
 .ms-plugin-author .grey {
   color: #868e96;
