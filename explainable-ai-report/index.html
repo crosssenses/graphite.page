@@ -34,7 +34,7 @@
         }
       }
        ,
-      "sameAs": "10.5281/zenodo.5705669"
+      "sameAs": "10.5281/zenodo.6375784"
       
     }
 </script>
@@ -239,8 +239,10 @@
   </div>
   <div class="ms-row">
     <div class="ms-col-content">
-      <p>Automated decision making (ADM) systems have become ubiquitous in our everyday lives, enabling new business models and intensifying the datafication of our economies. Yet, the use of these systems entails risks on an individual as well as on a societal level. Explanations of how such systems make decisions (often referred to as explainable AI, or XAI, in the literature) can be considered a promising way to mitigate their negative effects. Explanations of the process and decision of an ADM system can empower users to legally appeal a decision, challenge developers to be aware of the negative side effects of the ADM system during the entire development process, and increase the overall legitimacy of the decision. However, it remains unclear what content an explanation has to include and how the explanation can be made to achieve an actual gain of knowledge for the recipient, especially if that recipient is not an expert. The GDPR provides a legal framework for explaining ADM systems. “Meaningful information about the logic involved” has to be provided to the person affected by the decision. Nonetheless, neither the text of the GDPR itself nor the commentaries on the GDPR provide details on what “meaningful information about the logic involved” precisely is.</p>
-<p>This interdisciplinary report discusses this question from a legal, design, and technical perspective. The paper proposes three questions to help formulate a good explanation: Who needs to understand what in a given scenario? What can be explained about the system in use? What should explanations look like in order to be meaningful to affected users? The outcomes could potentially not only advance the debate among legal scholars but also help developers and designers to understand the legal obligations when developing or implementing an ADM system.</p>
+      <p>Although automated decision making (ADM) systems have become ubiquitous in our everyday lives, the use of these systems entails risks on an individual as well as on a societal level. Explanations of how such systems make decisions (often referred to as explainable AI, or XAI) can be considered a promising way to mitigate their negative effects. The EU GDPR provides a legal framework for explaining ADM systems. “Meaningful information about the logic involved” has to be provided to the person affected by the decision. Nonetheless, neither the text of the GDPR itself nor the commentaries on the GDPR provide details on what “meaningful information about the logic involved” precisely is. This report approaches these terms from a legal, technical and design perspective.</p>
+<p>Legally, the explanation has to enable the user to appeal the decision made by the ADM system and balance the power of the ADM developer with those of the user. “The logic” can be understood as “the structure and sequence of the data processing”. This could, but does not necessarily have to include complete disclosure of the entire technical functioning of the ADM system. The GDPR focuses on individual rather than collective rights. Therefore, we recommend putting the individual at the centre of the explanation in a first step in order to comply with the GDPR.</p>
+<p>As we will demonstrate, there is a gap between how developers and legal experts define what explanations are. Developers aim to debug statements that help them understand their models, but these are less useful for individuals who need explanations to be able to appeal a decision. Also, from a technical perspective, the term “logic involved” as it is used in the GDPR is – at best – misleading. ADM systems, and data-based systems in particular, are complex and dynamic socio-technical ecosystems. Understanding “the logic” of such diverse systems requires action from different actors and at numerous stages from conception to deployment.</p>
+<p>When it comes to the target group of an explanation, public or community advocates should play a bigger role. These advocate groups support individuals confronted with an automated decision. Their interest will be more in understanding the models and their limitations as a whole instead of only focussing on the result of one individual decision.</p>
 
       
       <h3>Keywords</h3>
@@ -257,7 +259,7 @@
     <div class="ms-col-marginal">
       <div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
         <div class="btn-group mr-auto" role="group" aria-label="Download">
-          <a href="https://graphite.page/explainable-ai-report/assets/documents/Platform-Alternatives–The-strategic-guide-to responsible-platform-business.pdf" class="ms-button ms-button-download" target="_blank" rel="noreferrer noopener"><i></i> PDF</a>
+          <a href="https://graphite.page/explainable-ai-report/assets/documents/What-to-explain-when-explaining-is-difficult.pdf" class="ms-button ms-button-download" target="_blank" rel="noreferrer noopener"><i></i> PDF</a>
         </div>
         <div class="btn-group" role="group" aria-label="Share">
   <span class="input-group-addon" id="btnGroupAddon">Share</span>
@@ -281,14 +283,14 @@
         
 
         
-          <p><strong>DOI: </strong> 10.5281/zenodo.5705669</p>
+          <p><strong>DOI: </strong> 10.5281/zenodo.6375784</p>
         
       </aside>
       
       
         <aside>
           <h3>Recommended citation</h3>
-          <p>Asghari, H.; Birner, N.; Burchardt, A.; Dicks, D.; Faßbender, J.; Feldhus, N.; Hewett, F.; Hofmann, V.; Kettemann, Matthias C.; Schulz, W.; Simon, Judith; Stolberg-Larsen, J.; and Züger, T. (2021). What to explain when explaining is difficult? An interdisciplinary primer on XAI and meaningful information in automated decision-making, HIIG Discussion Paper Series 2022-X. Xx pages. https://doi.org/10.5281/xxxxxxxx.</p>
+          <p>Asghari, H.; Birner, N.; Burchardt, A.; Dicks, D.; Faßbender, J.; Feldhus, N.; Hewett, F.; Hofmann, V.; Kettemann, Matthias C.; Schulz, W.; Simon, Judith; Stolberg-Larsen, J.; and Züger, T. (2021). <em>What to explain when explaining is difficult? An interdisciplinary primer on XAI and meaningful information in automated decision-making.</em> Alexander von Humboldt Institute for Internet and Society. https://doi.org/10.5281/zenodo.6375784.</p>
         </aside>
       
       
@@ -744,7 +746,7 @@
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_39">
   <div class="ms-col-content">
-    <p>Besides the question of what to explain, the degree of detail and the format of a representation are crucial. Explanations have to be seen not only in the context of their target group but also in their situational use-context. An explanation given in real-time and where it occurs, might conflict with the useability of a system. An intuitive use with minimal cognitive effort is generally desired when designing systems, while understanding an explanation (presumably) requires a more conscious mode of thinking. If the context in which the decision is made allows taking time (e.g. a job application), then a complex explanation might be useful; but it can be problematic in situations which demand a quick reaction (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="" data-html="true">Guidotti et al., 2018<i></i></a>) (e.g. when driving with an autonomous car). There is, on the other hand, the danger of oversimplification (for the sake of understandability or strategic interests). Thus, finding a fitting explanation method is important.</p>
+    <p>Besides the question of what to explain, the degree of detail and the format of a representation are crucial. Explanations have to be seen not only in the context of their target group but also in their situational use-context. An explanation given in real-time and where it occurs, might conflict with the useability of a system. An intuitive use with minimal cognitive effort is generally desired when designing systems, while understanding an explanation (presumably) requires a more conscious mode of thinking. If the context in which the decision is made allows taking time (e.g. a job application), then a complex explanation might be useful; but it can be problematic in situations which demand a quick reaction (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Guidotti, R., Monreale, A., Ruggieri, S., Turini, F., Giannotti, F., &amp; Pedreschi, D. (2018). A survey of methods for explaining black box models. <em>ACM computing surveys (CSUR), 51</em>(5), 1–42.</p>" data-html="true">Guidotti et al., 2018<i></i></a>) (e.g. when driving with an autonomous car). There is, on the other hand, the danger of oversimplification (for the sake of understandability or strategic interests). Thus, finding a fitting explanation method is important.</p>
   </div>
   <div class="ms-col-marginal">
     
@@ -792,7 +794,7 @@
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_45">
   <div class="ms-col-content">
-    <p>In the research discourse on explainability so far, mainly two target groups are in focus: the developers of a system, in order to gain insights into their own product, and secondly specific groups of expert-users that utilise AI-applications as assistive systems in their field of expertise, such as doctors or researchers (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="" data-html="true">Yang et al. 2018<i></i></a>). Critically, explainability for lay users and their representatives (e.g. NGOs that aim to ensure user rights) are typically left out of the picture. If we see the user as a citizen and acknowledge a right to explanation (as also the GDPR requires) the quality of an explanation and its suitability for the general public is central. This research gap, which we want to call ‘explainability for the public’, will be one focus of this report. </p>
+    <p>In the research discourse on explainability so far, mainly two target groups are in focus: the developers of a system, in order to gain insights into their own product, and secondly specific groups of expert-users that utilise AI-applications as assistive systems in their field of expertise, such as doctors or researchers (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Yang, Y., Yan L. F., Zhang X., Han Y., Nan H. Y., Yu C. H. (2018). Glioma Grading on Conventional MR Images: A Deep Learning Study with Transfer Learning. <em>Front Neurosci. 12</em>(804).</p><a class='mdi mdi-earth' href='https://dx.doi.org/10.3389%2Ffnins.2018.00804' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Yang et al. 2018<i></i></a>). Critically, explainability for lay users and their representatives (e.g. NGOs that aim to ensure user rights) are typically left out of the picture. If we see the user as a citizen and acknowledge a right to explanation (as also the GDPR requires) the quality of an explanation and its suitability for the general public is central. This research gap, which we want to call ‘explainability for the public’, will be one focus of this report. </p>
   </div>
   <div class="ms-col-marginal">
     
@@ -930,7 +932,7 @@
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_60">
   <div class="ms-col-content">
-    <p>Article 13 (2) (f), Article. 14 (2) (g) and Article 15 (1) (h) GDPR were introduced to protect the individual rights of data subjects to receive information on the collection of personal data in automated data processing operations. They were designed to ensure a transparent and fair procedure in data processing for the data subject, which is considered necessary by the EU legislator (Dix, 2019 2021). The norms include information obligations for data controllers (NOTE:  See also Art. 13 (2) (f), 14 (2 )(g) and 15 (1) (h) GDPR 2016/679) and therefore play a role in balancing the interests of data subjects and the company running the ADM system by ensuring a transparent and fair procedure in data processing for the data subject (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>General Data Protection Regulation. (2016). ‘Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)’.</p><a class='mdi mdi-earth' href='https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679' target='_blank' rel='noopener noreferrer'></a>" data-html="true">GDPR, 2016<i></i></a>). Establishing such a balanced procedure is the aim of the norms which has to be considered when interpreting the terms used in the GDPR like the "logic involved". The term is not legally defined within the GDPR. It is therefore necessary to approach the meaning of the term “logic involved” with tools other than the words of the GDPR itself.</p>
+    <p>Article 13 (2) (f), Article. 14 (2) (g) and Article 15 (1) (h) GDPR were introduced to protect the individual rights of data subjects to receive information on the collection of personal data in automated data processing operations. They were designed to ensure a transparent and fair procedure in data processing for the data subject, which is considered necessary by the EU legislator (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Dix, A. (2019) in Hornung, G., &amp; Spiecker, Simitis. S. (Ed.), <em>Datenschutzrecht</em>. Baden-Baden: NomosKommentar.</p>" data-html="true">Dix, 2019<i></i></a>). The norms include information obligations for data controllers (NOTE:  See also Art. 13 (2) (f), 14 (2 )(g) and 15 (1) (h) GDPR 2016/679) and therefore play a role in balancing the interests of data subjects and the company running the ADM system by ensuring a transparent and fair procedure in data processing for the data subject (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>General Data Protection Regulation. (2016). ‘Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)’.</p><a class='mdi mdi-earth' href='https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679' target='_blank' rel='noopener noreferrer'></a>" data-html="true">GDPR, 2016<i></i></a>). Establishing such a balanced procedure is the aim of the norms which has to be considered when interpreting the terms used in the GDPR like the "logic involved". The term is not legally defined within the GDPR. It is therefore necessary to approach the meaning of the term “logic involved” with tools other than the words of the GDPR itself.</p>
   </div>
   <div class="ms-col-marginal">
     
@@ -946,7 +948,7 @@
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_62">
   <div class="ms-col-content">
-    <p>It is helpful to analyse at what part of an automated decision the different norms of the GDPR require information on the logic involved. Art. 13 (2) (f) focuses on the moment of data collection. Therefore, individual processing results cannot be within the scope of protection of the article (Floridi, Mittelstadt &amp; Wachter, 2017:76ff). This leads to the conclusion to understand the logic involved as the information related to general "methods and criteria of data processing, such as the functioning of the algorithm used in the creation of a score" rather than certain results (interim or final) of the processing, which is unknown at the time of data collection.<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-translate" data-toggle="popover" data-placement="top" title="Note" data-content="Translation from German: “Methoden und Kriterien der Datenverarbeitung, etwa die Funktionsweise des Algorithmus, der bei der Bildung eines Scorewerts genutzt wird”: Bäcker, in: Kühling/Buchner, DGVO BDSG, Art. 13 Rn. 54; cf. Roßnagel/Nebel/Richter, ZD 10/2015, 455, 458." data-html="true"><i></i></a> The information obligations from Art. 14 (2) (g) GDPR correspond to those of Art. 13 (2) (f) GDPR (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Bäcker, M. (2020) Artikel 13–15. In J. Kühling &amp; B. Buchner (Ed). <em>Datenschutz-Grundverordnung, Bundesdatenschutzgesetz: DS-GVO / BDSG: Vol. XXII</em> (3rd ed.). München: C.H. Beck.</p>" data-html="true">Bäcker, 2020 Art. 14 Rn. 18<i></i></a>). Therefore, it can be assumed that the term “logic involved” is used identically in these norms. An expansion of the concept of the “logic involved” can be seen in the scope of protection of Art. 15 (1) (h) GDPR. The norm is based on the point in time after the data collection and includes evaluation results and procedural characteristics of the past (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Bäcker, M. (2020) Artikel 13–15. In J. Kühling &amp; B. Buchner (Ed). <em>Datenschutz-Grundverordnung, Bundesdatenschutzgesetz: DS-GVO / BDSG: Vol. XXII</em> (3rd ed.). München: C.H. Beck.</p>" data-html="true">Bäcker, 2020 Art. 15 Rn. 27<i></i></a>). In this respect, one can speak of a temporal extension in Art. 15 (1) (h). Since the articles use the identical term, this needs to be understood in the broadest way limited by the specific article. Therefore, the logic involved includes both evaluation results and procedural characteristics of the past.</p>
+    <p>It is helpful to analyse at what part of an automated decision the different norms of the GDPR require information on the logic involved. Art. 13 (2) (f) focuses on the moment of data collection. Therefore, individual processing results cannot be within the scope of protection of the article (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Wachter, S., Mittelstadt, B., &amp; Floridi, L. (2017). Why a Right to Explanation of Automated Decision-Making Does Not Exist in the General Data Protection Regulation. <em>SSRN Journal, 7</em>(2), 76–99.</p>" data-html="true">Wachter et al, 2017:76ff<i></i></a>). This leads to the conclusion to understand the logic involved as the information related to general "methods and criteria of data processing, such as the functioning of the algorithm used in the creation of a score" rather than certain results (interim or final) of the processing, which is unknown at the time of data collection.<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-translate" data-toggle="popover" data-placement="top" title="Note" data-content="Translation from German: “Methoden und Kriterien der Datenverarbeitung, etwa die Funktionsweise des Algorithmus, der bei der Bildung eines Scorewerts genutzt wird”: Bäcker, in: Kühling/Buchner, DGVO BDSG, Art. 13 Rn. 54; cf. Roßnagel/Nebel/Richter, ZD 10/2015, 455, 458." data-html="true"><i></i></a> The information obligations from Art. 14 (2) (g) GDPR correspond to those of Art. 13 (2) (f) GDPR (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Bäcker, M. (2020) Artikel 13–15. In J. Kühling &amp; B. Buchner (Ed). <em>Datenschutz-Grundverordnung, Bundesdatenschutzgesetz: DS-GVO / BDSG: Vol. XXII</em> (3rd ed.). München: C.H. Beck.</p>" data-html="true">Bäcker, 2020 Art. 14 Rn. 18<i></i></a>). Therefore, it can be assumed that the term “logic involved” is used identically in these norms. An expansion of the concept of the “logic involved” can be seen in the scope of protection of Art. 15 (1) (h) GDPR. The norm is based on the point in time after the data collection and includes evaluation results and procedural characteristics of the past (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Bäcker, M. (2020) Artikel 13–15. In J. Kühling &amp; B. Buchner (Ed). <em>Datenschutz-Grundverordnung, Bundesdatenschutzgesetz: DS-GVO / BDSG: Vol. XXII</em> (3rd ed.). München: C.H. Beck.</p>" data-html="true">Bäcker, 2020 Art. 15 Rn. 27<i></i></a>). In this respect, one can speak of a temporal extension in Art. 15 (1) (h). Since the articles use the identical term, this needs to be understood in the broadest way limited by the specific article. Therefore, the logic involved includes both evaluation results and procedural characteristics of the past.</p>
   </div>
   <div class="ms-col-marginal">
     <aside class="ms-aside-translate"><p>Translation from German: “Methoden und Kriterien der Datenverarbeitung, etwa die Funktionsweise des Algorithmus, der bei der Bildung eines Scorewerts genutzt wird”: Bäcker, in: Kühling/Buchner, DGVO BDSG, Art. 13 Rn. 54; cf. Roßnagel/Nebel/Richter, ZD 10/2015, 455, 458.</p></aside>
@@ -1155,7 +1157,7 @@
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_86">
   <div class="ms-col-content">
-    <p>We have discussed the fact that explanations are context, task, and target specific. Different targets have different needs, expectations, and existing knowledge which an explanation needs to fulfil and add to (Ribera &amp; Lapedriza, 2019; Liao, Gruen &amp; Miller, 2020; Miller, 2020). This point is generally well understood. Currently, however, many AI explanations are targeted primarily towards developers (who for instance want to be able to better understand their models and debug and improve them). Two other groups often discussed and understood are the domain experts (e.g. the doctors in a medical setting using AI), and the so-called end or lay user.</p>
+    <p>We have discussed the fact that explanations are context, task, and target specific. Different targets have different needs, expectations, and existing knowledge which an explanation needs to fulfil and add to (<a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Ribera, M., &amp; Lapedriza, À. (2019). <em>Can we do better explanations? A proposal of user-</em><em>centered</em><em> explainable AI.</em> IUI Workshops.</p>" data-html="true">Ribera &amp; Lapedriza, 2019<i></i></a>; <a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="<p>Liao, Q. V., Gruen, D., &amp; Miller, S. (2020). <em>Questioning the AI: Informing Design </em><em>Practices</em><em> for Explainable AI User Experiences.</em> Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 1–15.</p><a class='mdi mdi-earth' href='https://doi.org/10.1145/3313831.3376590' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Liao, Gruen &amp; Miller, 2020<i></i></a>; <a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited source" data-content="" data-html="true">Miller, 2020<i></i></a>). This point is generally well understood. Currently, however, many AI explanations are targeted primarily towards developers (who for instance want to be able to better understand their models and debug and improve them). Two other groups often discussed and understood are the domain experts (e.g. the doctors in a medical setting using AI), and the so-called end or lay user.</p>
   </div>
   <div class="ms-col-marginal">
     
@@ -1826,7 +1828,7 @@
 
 <div class="ms-entry">
   <p>
-    
+    <p>Guidotti, R., Monreale, A., Ruggieri, S., Turini, F., Giannotti, F., &amp; Pedreschi, D. (2018). A survey of methods for explaining black box models. <em>ACM computing surveys (CSUR), 51</em>(5), 1–42.</p>
     
   </p>
 </div>
@@ -1977,15 +1979,6 @@
 
 <div class="ms-entry">
   <p>
-    <p>Sokol, K., &amp; Flach, P. (2020). <em>Explainability fact sheets: a framework for systematic assessment of explainable approaches</em>. 56–57. https://doi.org/10.1145/3351095.3372870</p>
-    
-    <a class="mdi mdi-earth" href="https://doi.org/10.1145/3351095.3372870" target="_blank"></a>
-    
-  </p>
-</div>
-
-<div class="ms-entry">
-  <p>
     <p>Verbraucherzentrale Hamburg, <em>Was ist Scoring</em>. (n.d.). Retrieved January 25, 2022, from https://www.vzhh.de/themen/finanzen/was-ist-scoring</p>
     
     <a class="mdi mdi-earth" href="https://www.vzhh.de/themen/finanzen/was-ist-scoring" target="_blank"></a>
@@ -1995,7 +1988,7 @@
 
 <div class="ms-entry">
   <p>
-    <p>Wachter, S., Mittelstadt, B., &amp; Floridi, L. (2017). <em>Why a Right to Explanation of Automated Decision-Making Does Not Exist in the General Data Protection Regulation.</em> SSRN Journal, 7(2), 76–99.<a href="https://doi.org/10.2139/ssrn.2903469"> https://doi.org/10.2139/ssrn.2903469</a></p>
+    <p>Wachter, S., Mittelstadt, B., &amp; Floridi, L. (2017). Why a Right to Explanation of Automated Decision-Making Does Not Exist in the General Data Protection Regulation. <em>SSRN Journal, 7</em>(2), 76–99.<a href="https://doi.org/10.2139/ssrn.2903469"> https://doi.org/10.2139/ssrn.2903469</a></p>
     
   </p>
 </div>
@@ -2011,7 +2004,9 @@
 
 <div class="ms-entry">
   <p>
+    <p>Yang, Y., Yan L. F., Zhang X., Han Y., Nan H. Y., Yu C. H. (2018). Glioma Grading on Conventional MR Images: A Deep Learning Study with Transfer Learning. <em>Front Neurosci. 12</em>(804). 10.3389/fnins.2018.00804</p>
     
+    <a class="mdi mdi-earth" href="https://dx.doi.org/10.3389%2Ffnins.2018.00804" target="_blank"></a>
     
   </p>
 </div>
