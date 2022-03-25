@@ -1,0 +1,36 @@
+Target group / Question,Developer / Researcher,Domain experts,Advocate,Individual user
+
+**Why**,"verification,
+improvement,
+accountability","learning how to use the system in context, awareness for risks and limitations",to establish grounds to advocate for vulnerable groups and issues,"enable informed decisions, 
+self-advocacy, 
+empowerment"
+
+**What**,"global model,
+data representation
+why and why not",independent global training,"–ideally global explanation. Minimum: datasheet, documentation about bias testing
+–answers to issue related inquiries,
+–provided with local explanation by individual user","–local explanation,
+–access to global explanation should be possible → could become an advocate"
+
+**When**,throughout the whole AI-lifecycle,"–previous to using the system,
+
+–during application","on demand, also it could be even before the system is in action in a participatory design process","real time or post hoc, close to when the decision is made"
+
+"**How** 
+(context dependent)",intrinsic,"visualisation, 
+natural language",documentation with technical facts and natural language,"conversation
+questions, 
+why not"
+
+**Evaluation**,"completeness
+test,
+performance","critical survey of trust 
+→ whether the system is trustworthy, rather than asking if people trust the system","–completeness,
+comprehensiveness,
+absence of discrimination / fairness
+
+–quality of explanation
+
+→ active role in process","satisfaction questionnaires, 
+experiments"
