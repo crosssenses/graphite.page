@@ -800,7 +800,7 @@ h1, h2, h3, h4, h5, h6,
   margin-bottom: 0.5rem;
   font-family: "Montserrat", Helvetica, Arial, sans-serif;
   font-weight: 600;
-  line-height: 1;
+  line-height: 1.2;
   color: inherit;
 }
 
@@ -9169,8 +9169,9 @@ h2 + h3 {
 }
 
 h4 {
-  font-size: 1.1em;
+  font-size: 1.3em;
   padding: 1em 0 0.5em;
+  line-height: 1.2em;
 }
 h3 + h4 {
   padding-top: 0;
