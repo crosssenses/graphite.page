@@ -9351,6 +9351,7 @@ article .emphasis-primary {
 .ms-text .ms-col-marginal aside.show {
   position: relative;
   visibility: visible;
+  z-index: 1;
 }
 .ms-col-marginal.marginals-collapsed aside.collapsed {
   overflow: hidden;
