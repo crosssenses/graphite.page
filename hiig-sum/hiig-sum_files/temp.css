@@ -1,0 +1,159 @@
+.ms-nav-logo{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 25px;
+}
+
+#navContent .row {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.container#contentFirst {
+    margin-top: 40px;
+}
+
+.ms-report-card-img {
+    max-height: 200px;
+}
+
+.ms-simple-page-slide {
+    min-height: 100vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	display: flex;
+
+	flex-direction: column;
+
+	flex-wrap: nowrap;
+}
+
+.ms-simple-page-slide .ms-content .row {
+	height: 100%;
+	min-height: 80vh;
+}
+
+.ms-simple-page-slide .ms-logo {
+
+    flex-basis: 60px;
+    flex-shrink: 0;
+    flex-grow: 0;
+
+}
+
+.ms-simple-page-slide .ms-logo p {
+    text-align: center;
+    color: white;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: 400;
+}
+
+.ms-content p {
+    font-size: 1.1em;
+    margin: 10px;
+}
+
+.ms-simple-page-slide .ms-logo img {
+
+    max-height: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+	vertical-align: bottom;
+
+}
+
+.ms-simple-page-slide .ms-content {
+
+    flex-basis: auto;
+    flex-grow: 1;
+    flex-shrink: 0;
+
+}
+
+
+
+.ms-slide {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ms-slide .card {
+    opacity: 0.85;
+    font-family: "Open Sans";
+    font-weight: normal;
+}
+
+.ms-slide .card h2 {
+    font-weight: bold;
+}
+
+.ms-page-jumbo {
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ms-page-jumbo {
+    font-size: 130%;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+}
+
+.ms-page-jumbo h1 {
+    font-weight: bold;
+    color: white;
+}
+
+.ms-page-partial h2 {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.ms-page-content h2 {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.ms-slide .card a.btn {
+    margin-top: 20px;
+}
+
+.ms-btn-goto {
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+ol.breadcrumb {
+    background-color: transparent;
+}
+
+.nav-bread {
+    background-color: rgb(233, 236, 239);
+}
+
+.breadcrumb {
+    text-transform: uppercase;
+    font-family: "Open Sans";
+    font-weight: 600;
+    font-size: 80%;
+}
+
+figure .ms-col-content a {
+    -webkit-appearance: unset;
+}
+
