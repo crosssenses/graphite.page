@@ -3,7 +3,7 @@ AuthName "graphite"
 AuthType Basic
 Require valid-user
 
-SetEnvIf Host preview.graphite.page secure_content
+SetEnvIf Host ^preview.graphite.page/* secure_content
 
 Order Allow,Deny
 Allow from all
