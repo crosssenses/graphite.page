@@ -50,6 +50,10 @@ then
 
   echo "\033[32m Successfully copied $output \033[0m"
 
+  sed -i -E "s/src=\"\/static\//src=\"static\//" $output/index.html
+
+  echo "\033[32m Replaced /static/ with static/ \033[0m"
+
 #   commit build from above
   git add -A
   git commit -m "copied all files for $output"
