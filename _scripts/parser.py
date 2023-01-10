@@ -1,4 +1,5 @@
 import xml.etree.cElementTree as ET
+import json
 import os
 from pprint import pprint
 from urllib.request import urlopen
@@ -6,12 +7,12 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 
 dir = os.path.abspath(os.path.join(os.path.dirname(__file__),".."))
-#print(f"directory\t{dir}")
 
 RUNS = 1
 
 def generate_sitemap(ps):
 
+    # Build sitemap xml
     schema_loc = ("http://www.sitemaps.org/schemas/sitemap/0.9 "
                   "http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd")
 
@@ -20,6 +21,7 @@ def generate_sitemap(ps):
     root.attrib['xsi:schemaLocation'] = schema_loc
     root.attrib['xmlns'] = "http://www.sitemaps.org/schemas/sitemap/0.9"
 
+    # Add homepage to sitemap
     _url = "https://graphite.page/"  # <-- Your website domain.
     dt = datetime.now().strftime("%Y-%m-%d")  # <-- Get current date and time.
 
@@ -27,18 +29,37 @@ def generate_sitemap(ps):
     ET.SubElement(doc, "loc").text = _url
     ET.SubElement(doc, "lastmod").text = dt
     ET.SubElement(doc, "changefreq").text = 'weekly'
-    ET.SubElement(doc, "priority").text = "1.0"
+    ET.SubElement(doc, "priority").text = "0.5"
 
+    # Add graphite pages from JSON
     for p in ps:
         doc = ET.SubElement(root, "url")
         ET.SubElement(doc, "loc").text = p['url']
         ET.SubElement(doc, "lastmod").text = p['date']
+        ET.SubElement(doc, "changefreq").text = 'monthly'
+        ET.SubElement(doc, "priority").text = '0.8'
 
-    pprint(root)
-
+    # Write sitemap.xml
     tree = ET.ElementTree(root)
-    tree.write("sitemap_g.xml",
+    tree.write("sitemap.xml",
         encoding='utf-8', xml_declaration=True)
+
+def generate_json(sd):
+
+    pages = initiate_directory(sd)
+    
+    add_titles(pages)
+    add_urls(pages)
+    add_meta(pages)
+    add_dates(pages)
+
+    # pprint(pages)
+
+    # Directly from dictionary
+    with open('_assets/pages_data.json', 'w') as outfile:
+        json.dump(pages, outfile)
+
+    return pages
 
 def run_os_scandir():
     for i in range(RUNS):
@@ -106,30 +127,14 @@ def add_meta(p):
         
     # pprint(p)
 
-# def get_metadata(html: bytes, url: str):
-#     """Fetch JSON-LD structured data."""
-#     metadata = extruct.extract(
-#         html,
-#         base_url=get_base_url(url),
-#         syntaxes=['json-ld'],
-#         uniform=True
-#     )['json-ld']
-#     if bool(metadata) and isinstance(metadata, list):
-#         metadata = metadata[0]
-#     return metadata
-
-# metadata = get_metadata(soup, '')
-
 if __name__ == '__main__':
-    f=run_os_scandir()
-    pages = initiate_directory(f)
     
-    add_titles(pages)
-    add_urls(pages)
-    add_meta(pages)
-    add_dates(pages)
+    # Scan directory
+    f=run_os_scandir()
+    
+    # Generate JSON
+    json = generate_json(f)
 
-    pprint(pages)
-
-    # generate_sitemap(pages)
+    # Generate Sitemap
+    generate_sitemap(json)
 
