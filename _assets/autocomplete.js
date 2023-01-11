@@ -1,3 +1,5 @@
+// const { data } = require("jquery");
+
 const autoCompleteJS = new autoComplete({
   placeHolder: "Search for a publication …",
   data: {
@@ -8,9 +10,10 @@ const autoCompleteJS = new autoComplete({
           .getElementById("autoComplete")
           .setAttribute("placeholder", "Loading...");
         // Fetch External Data Source
-        const source = await fetch("pages_data.json");
-        console.log("source: ", source);
-        const data = await source.json();
+        // https://development.graphite.page/_assets/pages_data.json
+        source = await fetch("/_assets/pages_data.json", { mode: "cors" });
+        data = await source.json();
+        // console.log("data: ", data);
         // Post Loading placeholder text
         document
           .getElementById("autoComplete")
@@ -18,22 +21,102 @@ const autoCompleteJS = new autoComplete({
         // Returns Fetched data
         return data;
       } catch (error) {
+        console.log(error);
         return error;
       }
     },
-    // cache: true,
+    keys: ["name", "title", "subtitle", "authors"],
+    cache: true,
+    filter: (list) => {
+      // Remove duplicates
+      const filteredResults = Array.from(
+        new Set(list.map((value) => value.match))
+      ).map((pub) => {
+        return list.find((value) => value.match === pub);
+      });
+
+      // Only show publication once
+      // (if math on more that one key)
+      const filteredResults2 = Array.from(
+        new Set(filteredResults.map((value) => value.value.name))
+      ).map((pub) => {
+        return filteredResults.find((value) => value.value.name === pub);
+      });
+
+      // console.log("2", filteredResults2);
+
+      return filteredResults2;
+    },
   },
+  resultsList: {
+    element: (list, data) => {
+      const info = document.createElement("p");
+      info.className = "resultInfos";
+      if (data.results.length > 0) {
+        info.innerHTML = `Displaying <strong>${data.results.length}</strong> out of <strong>${data.matches.length}</strong> results`;
+      } else {
+        info.innerHTML = `Found <strong>${data.matches.length}</strong> matching results for <strong>"${data.query}"</strong>`;
+      }
+      list.prepend(info);
+    },
+    noResults: true,
+    maxResults: 20,
+    // maxResults: undefined
+    tabSelect: true,
+  },
+  //
   resultItem: {
+    element: (item, data) => {
+      // Modify Results Item Style
+      item.className = "resultItem";
+      // Modify Results Item Content ${JSON.stringify(data)}
+      const authorHTML = (data.value.authors === undefined || data.value.authors === null) ? "" : `<span class="authors">${data.value.authors}</span>`
+      item.innerHTML = `
+      <p class="match">
+        <span class="value">${data.match}</span>
+        <span class="key">${data.key}</span>
+      </p>
+      <p class="pub">
+        ${authorHTML}
+        <span class="title">${data.value.title}</span>
+        <span class="subtitle">${data.value.subtitle}</span>
+      </p>`;
+    },
     highlight: true,
   },
   events: {
     input: {
-      selection: (event) => {
-        const selection = event.detail.selection.value;
-        autoCompleteJS.input.value = selection;
+      focus: () => {
+        if (autoCompleteJS.input.value.length) autoCompleteJS.start();
       },
     },
   },
+  threshold: 2,
+});
+
+autoCompleteJS.input.addEventListener("selection", function (event) {
+  const feedback = event.detail;
+  // autoCompleteJS.input.blur();
+
+  // Prepare User's Selected Value
+  // const authorHTML = (feedback.selection.value.authors === undefined || feedback.selection.value.authors === null) ? "" : `<span class="authors">${feedback.selection.value.authors}</span>`
+  // const preview = `
+  //   ${authorHTML}
+  //   <span class="title">${feedback.selection.value.title}</span>
+  //   <span class="subtitle">${feedback.selection.value.subtitle}</span>`;
+
+  // Render selected choice to selection div
+  //document.querySelector(".selection").innerHTML = preview;
+
+  // Open publication in new tab
+  window.open(feedback.selection.value.url, '_blank').focus();
+  
+  // Replace Input value with the selected value
+  const selection = feedback.selection.value[feedback.selection.key];
+  autoCompleteJS.input.value = selection;
+  
+  // Console log autoComplete data feedback
+  console.log(feedback);
 });
 
 // $(function() {
