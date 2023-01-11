@@ -62,7 +62,8 @@ then
 
   # Exit if already in shell to prevent error
   pipenv run python $PWD/_scripts/parser.py 
-  echo "\033[32m Successfully updated sitemap \033[0m"
+  echo    # (optional) move to a new line
+  echo "\033[32mSuccessfully updated sitemap \033[0m"
 
   # commit build from above
   git add -A
