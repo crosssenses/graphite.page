@@ -98,7 +98,7 @@ a {
   position: relative;
 }
 
-.autocomplete_wrapper:after {
+.autoComplete_wrapper::before {
   content: "";
   position: absolute;
   top: 9px;
@@ -133,7 +133,8 @@ a {
 
 li.resultItem .match {
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
+  gap: 20px;
 }
 
 li.resultItem .match span.value {
@@ -183,4 +184,23 @@ li.resultItem .pub span.title,
 li.resultItem .pub span.subtitle,
 .selection span.subtitle {
   color: rgba(255, 255, 255, 0.7);
+}
+
+li.resultItem .pub span.link,
+.selection span.link {
+  margin-top: 10px;
+  position: relative;
+  padding-left: 20px;
+}
+
+li.resultItem .pub span.link::before,
+.selection span.link::before {
+  content: "";
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  background: url("/_assets/globe.svg") no-repeat center center transparent;
+  background-size: contain;
+  width: 14px;
+  height: 14px;
 }
