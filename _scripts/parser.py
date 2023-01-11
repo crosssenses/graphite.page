@@ -63,12 +63,12 @@ def generate_json(sd):
 
 def run_os_scandir():
     for i in range(RUNS):
-        fu = [{'path': f.path, 'name': f.name} for f in os.scandir(dir) if f.is_dir()]
+        fu = [{'path': f.path, 'slug': f.name} for f in os.scandir(dir) if f.is_dir()]
     # print(f"os.scandir\t\tfound dirs: {len(fu)} \n {fu}")
     return fu
 
 def initiate_directory(fo):
-    f_ = [e for e in fo if '_' not in e['name']]
+    f_ = [e for e in fo if '_' not in e['slug']]
     fg = [e for e in f_ if '.git' not in e['path']]
     return [e for e in fg if 'static' not in e['path']]
 
@@ -92,7 +92,7 @@ def add_titles(p):
 def add_urls(p):
     
     for pi in p:
-        url = "https://graphite.page/" + str(pi['name'])
+        url = "https://graphite.page/" + str(pi['slug'])
         pi['url'] = url
         # print(f"\t{url}")
         
@@ -101,7 +101,7 @@ def add_urls(p):
 def add_dates(p):
     
     for pi in p:
-        timestamp = os.path.getmtime(pi['name'])
+        timestamp = os.path.getmtime(pi['slug'])
         date = datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d')
         pi['date'] = date
 

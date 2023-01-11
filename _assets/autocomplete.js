@@ -73,13 +73,14 @@ const autoCompleteJS = new autoComplete({
       const authorHTML = (data.value.authors === undefined || data.value.authors === null) ? "" : `<span class="authors">${data.value.authors}</span>`
       item.innerHTML = `
       <p class="match">
-        <span class="value">${data.match}</span>
         <span class="key">${data.key}</span>
+        <span class="value">${data.match}</span>
       </p>
       <p class="pub">
         ${authorHTML}
         <span class="title">${data.value.title}</span>
         <span class="subtitle">${data.value.subtitle}</span>
+        <span class="link">${data.value.url}</span>
       </p>`;
     },
     highlight: true,
