@@ -25,8 +25,10 @@ const autoCompleteJS = new autoComplete({
         return error;
       }
     },
-    keys: ["name", "title", "subtitle", "authors"],
-    cache: true,
+    // Searches the following fields
+    // (in this order, filter will leave first match)
+    keys: ["title", "subtitle", "authors", "slug"],
+    cache: false,
     filter: (list) => {
       // Remove duplicates
       const filteredResults = Array.from(
@@ -36,11 +38,11 @@ const autoCompleteJS = new autoComplete({
       });
 
       // Only show publication once
-      // (if math on more that one key)
+      // (if match on more that one key)
       const filteredResults2 = Array.from(
-        new Set(filteredResults.map((value) => value.value.name))
+        new Set(filteredResults.map((value) => value.value.slug))
       ).map((pub) => {
-        return filteredResults.find((value) => value.value.name === pub);
+        return filteredResults.find((value) => value.value.slug === pub);
       });
 
       // console.log("2", filteredResults2);

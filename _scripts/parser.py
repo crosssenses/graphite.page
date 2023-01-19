@@ -57,6 +57,7 @@ def generate_json(sd):
 
     # Directly from dictionary
     with open('_assets/pages_data.json', 'w') as outfile:
+        # pprint (outfile)
         json.dump(pages, outfile)
 
     return pages
