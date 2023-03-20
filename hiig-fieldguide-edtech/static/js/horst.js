@@ -13,6 +13,7 @@ $.fn.extend({
 //---------------------------------------------------------
 
 function normalizeSlideHeights() {
+    console.log("I'm here to normalise");
   $(".carousel").each(function () {
     var items = $(".carousel-item", this);
     // reset the height
@@ -22,10 +23,12 @@ function normalizeSlideHeights() {
       null,
       items
         .map(function () {
+          console.log($(this), $(this).outerHeight());
           return $(this).outerHeight();
         })
         .get()
     );
+    console.log("Soooo it is:", maxHeight);
     items.css("min-height", maxHeight + "px");
   });
 }
@@ -438,7 +441,7 @@ $(function () {
 
     // Normalise slide height
     normalizeSlideHeights();
-  }, 1000);
+  }, 600);
 
   $("body").scrollspy({ target: ".ms-toc", offset: 100 });
 
@@ -446,4 +449,4 @@ $(function () {
   enableListener();
 });
 
-$(window).on("load resize orientationchange", normalizeSlideHeights);
+$(window).on("resize orientationchange", normalizeSlideHeights);
