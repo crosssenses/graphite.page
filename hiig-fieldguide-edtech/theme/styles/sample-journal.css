@@ -9221,7 +9221,8 @@ article section .ms-plugin {
 
 /* Slider */
 .carousel {
-  margin-bottom: 1rem;
+  margin-bottom: -2rem;
+  margin-top: 1rem;
 }
 .carousel .carousel-indicators {
   top: 10px;
