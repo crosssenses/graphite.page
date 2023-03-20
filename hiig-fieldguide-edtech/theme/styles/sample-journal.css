@@ -9250,6 +9250,10 @@ article section .ms-plugin {
   color: #007ba3;
   text-shadow: 0px 2px 20px rgba(255, 255, 255, 0.7);
 }
+article .carousel + .ms-row h3{
+  margin-top: 0;
+  padding-top: 0;
+}
 /* Figure */
 figure .modal-dialog {
   max-width: 96vw;
