@@ -27,30 +27,45 @@ echo "                                                  "
 
 read -p "Proceed with these variables? (Y/y)" -n 1 -r
 echo    # (optional) move to a new line
+
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
 
   # Starting publishing
   echo "                        "
   echo "------------------------"
-  echo "  Starting to publish   "
+  echo " Starting to publish    "
   echo "------------------------"
   echo "                        "
 
   # Make sure to be on development
   git checkout $devBranch
 
-
   echo "                        "
-  echo "Copying graphite paper "
+  echo " Copying graphite paper "
   echo "------------------------"
   
   # Copy papers
   cp -a $input/_build/. $output
 
-  echo "\033[32m Successfully copied $output \033[0m"
+  echo "\033[32mSuccessfully copied $output"
 
-#   commit build from above
+  sed -i -E "s/src=\"\/static\//src=\"static\//" $output/index.html
+
+  echo "Replaced /static/ with static/ \033[0m"
+
+  # Run sitemap script
+
+  echo "                        "
+  echo " Rebuild Sitemap        "
+  echo "------------------------"
+
+  # Exit if already in shell to prevent error
+  pipenv run python3 $PWD/_scripts/parser.py 
+  echo "\033[32mSuccessfully updated sitemap \033[0m"
+  echo    # (optional) move to a new line
+
+  # commit build from above
   git add -A
   git commit -m "copied all files for $output"
   git pull
@@ -59,7 +74,7 @@ then
   echo "Commit to development"
 
   echo "                               "
-  echo "Change to preview/live mode    "
+  echo " Change to preview/live mode   "
   echo "-------------------------------"
 
   # merge dev branch into preview/live
@@ -89,7 +104,7 @@ then
   fi
 
   echo "                        "
-  echo "Back to development     "
+  echo " Back to development    "
   echo "------------------------"
 
   # go back into develop
