@@ -9179,6 +9179,12 @@ article section .ms-plugin {
 }
 
 /* Infobox */
+.ms-plugin-infobox .ms-col-content h2:first-child,
+.ms-plugin-infobox .ms-col-content h3:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
 .ms-plugin-infobox .ms-col-content h2 {
   font-size: 1.1em;
   padding: 0 0 0.5em;
