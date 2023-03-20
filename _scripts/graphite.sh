@@ -92,11 +92,41 @@ then
   elif [ $mode = "live" ]
   then
 #    echo "I'm in live."
-    git checkout $liveBranch
-    git pull
-    git merge --no-ff --no-edit $devBranch
+    # git checkout $liveBranch
+    # git pull
+    # git merge --no-ff --no-edit $devBranch
+
+    echo "                        "
+    echo " Copying graphite paper "
+    echo "------------------------"
     
-    echo "\033[32m Build merged into live for $output\033[0m"
+    # Copy papers
+    cp -a $input/_build/. $output
+
+    echo "\033[32mSuccessfully copied $output"
+
+    sed -i -E "s/src=\"\/static\//src=\"static\//" $output/index.html
+
+    echo "Replaced /static/ with static/ \033[0m"
+
+    # Run sitemap script
+
+    echo "                        "
+    echo " Rebuild Sitemap        "
+    echo "------------------------"
+
+    # Exit if already in shell to prevent error
+    pipenv run python3 $PWD/_scripts/parser.py 
+    echo "\033[32mSuccessfully updated sitemap \033[0m"
+    echo    # (optional) move to a new line
+
+    # commit build from above
+    git add -A
+    git commit -m "copied all files for $output"
+    git pull
+    git push
+    
+    echo "\033[32m Copying and scripts repeated on live for $output\033[0m"
     
     git push
   else
