@@ -13,7 +13,7 @@ $.fn.extend({
 //---------------------------------------------------------
 
 function normalizeSlideHeights() {
-    console.log("I'm here to normalise");
+    // console.log("I'm here to normalise");
   $(".carousel").each(function () {
     var items = $(".carousel-item", this);
     // reset the height
@@ -23,12 +23,12 @@ function normalizeSlideHeights() {
       null,
       items
         .map(function () {
-          console.log($(this), $(this).outerHeight());
+        //   console.log($(this), $(this).outerHeight());
           return $(this).outerHeight();
         })
         .get()
     );
-    console.log("Soooo it is:", maxHeight);
+    // console.log("Soooo it is:", maxHeight);
     items.css("min-height", maxHeight + "px");
   });
 }
