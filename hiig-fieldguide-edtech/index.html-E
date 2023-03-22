@@ -331,7 +331,7 @@
       
         <aside>
           <h3>Cite as</h3>
-          <p>Laufer, M., Kuper, F., Mende, M. A., Schäfer, L. O., Tschache T., &amp; Deacon, B. (2023). Organizing Educational Technology at the University. A  Practitioners’ Field Guide for Implementing Digital Change. Alexander von Humboldt Institute for Internet and Society.</p>
+          <p>Laufer, M., Kuper, F., Mende, M. A., Schäfer, L. O., Tschache T., &amp; Deacon, B. (2023). Organizing Digital Change at the University. The Practitioners’ Field Guide for Implementing Educational Technology. Alexander von Humboldt Institute for Internet and Society. 10.5281/zenodo.7687805</p>
         </aside>
       
 
@@ -387,7 +387,7 @@
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_3">
   <div class="ms-col-content">
-    <p>As a companion on this journey, the Practitioners' Field Guide for Implementing Educational Technology offers directions for those navigating the sometimes turbulent, but rich road of implementing educational technology. In this guide, we offer research-based recommendations and data-derived best practices which draw on the findings of the <a href="#heading-95">OrA Project</a> a cooperation between the Alexander von Humboldt Institute for Internet and Society and the FernUniversität in Hagen, CATALPA - Center of Advanced Technology for Assisted Learning and Predictive Analytics. Readers will gain insight on six key themes related to organizing educational technology across a higher education institution: <strong>leadership</strong>, <strong>strategy</strong>, <strong>infrastructure</strong>, <strong>networks</strong>, <strong>engagement</strong> and <strong>motivation</strong>. </p>
+    <p>As a companion on this journey, the Practitioners' Field Guide for Implementing Educational Technology offers directions for those navigating the sometimes turbulent, but rich road of implementing educational technology. In this guide, we offer research-based recommendations and data-derived best practices which draw on the findings of the <a href="#heading-95">OrA Project</a> a cooperation between the <a href="https://www.hiig.de/en/">Alexander von Humboldt Institute for Internet and Society</a> and the FernUniversität in Hagen, <a href="https://www.fernuni-hagen.de/english/research/clusters/catalpa/">CATALPA</a> - Center of Advanced Technology for Assisted Learning and Predictive Analytics. Readers will gain insight on six key themes related to organizing educational technology across a higher education institution: <strong>leadership</strong>, <strong>strategy</strong>, <strong>infrastructure</strong>, <strong>networks</strong>, <strong>engagement</strong> and <strong>motivation</strong>. </p>
   </div>
   <div class="ms-col-marginal">
     
@@ -467,7 +467,7 @@ While institutional leaders include presidents, rectors and deans and others in 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;… for me personally two colleagues from our faculty were quite central. [They] took charge of this [digital teaching], they are extremely committed, they are very tech-savvy and put in a degree of extra work that is greatly appreciated. [They] have also designed little learning videos [for others]&ldquo;</p>
+    <p>&ldquo;… for me personally two colleagues from our faculty were quite central. [They] took charge of this [digital teaching], they are extremely committed, they are very tech-savvy and put in a degree of extra work that is greatly appreciated. [They] have also designed little learning videos [for others]&rdquo;</p>
   </blockquote>
 </div>
 
@@ -504,7 +504,7 @@ While institutional leaders include presidents, rectors and deans and others in 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;We have a very decentralized organizational structure. We assigned a lot of competencies to the departments and the departments in turn have passed those competencies to the individual study areas and teachers. The goal is to increase motivation and identification – that each person can say, “I did that myself,” and not, “I had to apply something that others somewhere gave me.&ldquo;</p>
+    <p>&ldquo;We have a very decentralized organizational structure. We assigned a lot of competencies to the departments and the departments in turn have passed those competencies to the individual study areas and teachers. The goal is to increase motivation and identification – that each person can say, ‘I did that myself,’ and not, ‘I had to apply something that others somewhere gave me’.&rdquo;</p>
   </blockquote>
 </div>
 
@@ -541,7 +541,7 @@ While institutional leaders include presidents, rectors and deans and others in 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;… [there is a] feedback loop from teachers and tutors at the coalface who are sharing their learning and that's filtering up. People are listening to it and then trying to find solutions which accommodate these new thoughts and ideas.&ldquo;</p>
+    <p>&ldquo;… [there is a] feedback loop from teachers and tutors at the coalface who are sharing their learning and that's filtering up. People are listening to it and then trying to find solutions which accommodate these new thoughts and ideas.&rdquo;</p>
   </blockquote>
 </div>
 
@@ -578,7 +578,7 @@ While institutional leaders include presidents, rectors and deans and others in 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;It's also true that we offer a variety of different courses … where students seem to be very receptive towards technological innovation. Not just as a subject for studying, but also in terms of getting more creative with the use of technology for the purpose of the course. So, perhaps instead of writing an essay, they would be happy to produce a short video, this kind of stuff. But this is not the experience of all students. So, I guess in order to accommodate these different expectations, and these different student cohorts, there is quite a good degree of flexibility.&ldquo;</p>
+    <p>&ldquo;It's also true that we offer a variety of different courses … where students seem to be very receptive towards technological innovation. Not just as a subject for studying, but also in terms of getting more creative with the use of technology for the purpose of the course. So, perhaps instead of writing an essay, they would be happy to produce a short video, this kind of stuff. But this is not the experience of all students. So, I guess in order to accommodate these different expectations, and these different student cohorts, there is quite a good degree of flexibility.&rdquo;</p>
   </blockquote>
 </div>
 
@@ -727,17 +727,25 @@ Institutional leaders and staff members collectively take responsibility and mak
     
   </div>
 </div>
+<div class="ms-row ms-row-two ms-text" id="partial_25">
+  <div class="ms-col-content">
+    <p>This conundrum leaves us with lingering questions: Are strategies for implementing educational technology necessary or just cumbersome? And how can an institution create a strategy that fits everyone’s needs?</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
 </div> <!-- close container -->
 <section>
   <div class="container">
-    <div class="ms-row ms-row-two ms-plugin ms-plugin-infobox collapse" id="partial_25">
+    <div class="ms-row ms-row-two ms-plugin ms-plugin-infobox collapse" id="partial_26">
       <div class="ms-col-content">
         <p><strong>Does your institution have a strategy for educational technology?</strong></p>
-<p>Member of IT services: “I suppose so, but somehow I'm not aware of [the strategy] directly right now. We have several boards and committees that deal with this.” </p>
-<p>Instructor: “I would say there is no real strategy. So sure, maybe if you look, you can find something on paper somewhere. So there's always a mission statement or something like that … but in everyday work, if there were a real strategy, it wouldn't really be present." </p>
-<p>Member of IT services: “We have a strategic mission statement for teaching and digitization processes, which are of course subordinate to each other.” </p>
-<p>Member of the vice rectorate: “The new [strategy] was adopted in 2019. But before that, there was an e-learning strategy. I think. But I'm not quite sure about that. [The strategy] provides various points … something like making good practice examples at the university visible” </p>
-<p>Central-level leader: "I'm always a bit skeptical about the strategy at universities because, of course, you can formulate it as a guideline, but the individual teachers have to implement it ….but if they don't implement it, then we have to try to work with incentives. But, of course, there are some [teachers] who refuse to do so.” Central leadership</p>
+<p><strong>Member of IT services</strong>: “I suppose so, but somehow I'm not aware of [the strategy] directly right now. We have several boards and committees that deal with this.” </p>
+<p><strong>Instructor</strong>: “I would say there is no real strategy. So sure, maybe if you look, you can find something on paper somewhere. So there's always a mission statement or something like that … but in everyday work, if there were a real strategy, it wouldn't really be present.” </p>
+<p><strong>Member of IT services</strong>: “We have a strategic mission statement for teaching and digitization processes, which are of course subordinate to each other.” </p>
+<p><strong>Member of the vice rectorate</strong>: “The new [strategy] was adopted in 2019. But before that, there was an e-learning strategy. I think. But I'm not quite sure about that. [The strategy] provides various points … something like making good practice examples at the university visible.” </p>
+<p><strong>Central-level leader</strong>: “I'm always a bit skeptical about the strategy at universities because, of course, you can formulate it as a guideline, but the individual teachers have to implement it ….but if they don't implement it, then we have to try to work with incentives. But, of course, there are some [teachers] who refuse to do so.”</p>
       </div>
       <div class="ms-col-marginal">
         
@@ -764,14 +772,6 @@ Institutional leaders and staff members collectively take responsibility and mak
   </div>
 </section>
 <div class="container">
-<div class="ms-row ms-row-two ms-text" id="partial_26">
-  <div class="ms-col-content">
-    <p>This conundrum leaves us with lingering questions: Are strategies for implementing educational technology necessary or just cumbersome? And how can an institution create a strategy that fits everyone’s needs?</p>
-  </div>
-  <div class="ms-col-marginal">
-    
-  </div>
-</div>
 <div class="ms-row ms-row-two ms-text" id="partial_27">
   <div class="ms-col-content">
     <h3 id='heading-27' >Going back to the basics</h3>
@@ -881,8 +881,7 @@ Institutional leaders and staff members collectively take responsibility and mak
 <div class="container">
 <div class="ms-row ms-row-two ms-text" id="partial_32">
   <div class="ms-col-content">
-    <p>Educational technology has a dependent and complementary relationship with infrastructure. Building a strong infrastructure requires not only investment in hardware and software, but also in fostering digital literacy and technical expertise among teaching staff. Addressing both these technical and didactic issues have been found to be essential for facilitating digital change at universities.<br />
-Educational technology has a dependent and complementary relationship with infrastructure. Building a strong infrastructure requires not only investment in hardware and software, but also in fostering digital literacy and technical expertise among teaching staff. Addressing both these technical and didactic issues have been found to be essential for  <a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Porter, W. W., Graham, C. R., Spring, K. A., &amp; Welch, K. R. (2014). Blended learning in higher education: Institutional adoption and implementation. <em>Computers &amp; Education, 75</em>, 185–195.</p><a class='mdi mdi-earth' href='https://doi.org/10.1016/j.compedu.2014.02.011' target='_blank' rel='noopener noreferrer'></a>" data-html="true">facilitating digital change<i></i></a> at universities.</p>
+    <p>Educational technology has a dependent and complementary relationship with infrastructure. Building a strong infrastructure requires not only investment in hardware and software, but also in fostering digital literacy and technical expertise among teaching staff. Addressing both these technical and didactic issues have been found to be essential for  <a tabindex="0" data-trigger="focus hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Porter, W. W., Graham, C. R., Spring, K. A., &amp; Welch, K. R. (2014). Blended learning in higher education: Institutional adoption and implementation. <em>Computers &amp; Education, 75</em>, 185–195.</p><a class='mdi mdi-earth' href='https://doi.org/10.1016/j.compedu.2014.02.011' target='_blank' rel='noopener noreferrer'></a>" data-html="true">facilitating digital change<i></i></a> at universities.</p>
   </div>
   <div class="ms-col-marginal">
     <aside class="ms-aside-download"><p><a href="assets/documents/3_PractitionersFieldGuide_Infrastructure.pdf">Download Infrastructure</a></p></aside>
@@ -924,7 +923,7 @@ Infrastructure encompasses the hardware, software and expertise needed to build 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;I've been working with three [online] systems the whole time, it's been a bit challenging at times. What room are you in right now? How does it work here now? And at the beginning, I also had some anxiety sweats or, well, panic attacks. I then said to myself: No, you have to stay calm now.&ldquo;</p>
+    <p>&ldquo;I've been working with three [online] systems the whole time, it's been a bit challenging at times. What room are you in right now? How does it work here now? And at the beginning, I also had some anxiety sweats or, well, panic attacks. I then said to myself: No, you have to stay calm now.&rdquo;</p>
   </blockquote>
 </div>
 
@@ -956,7 +955,7 @@ Infrastructure encompasses the hardware, software and expertise needed to build 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;I've been through all the learning platforms by now because I've worked at different universities. It's kind of scary. But with each one, you start over again. And then you really need training courses to get this learning platform to look ok.&ldquo;</p>
+    <p>&ldquo;I've been through all the learning platforms by now because I've worked at different universities. It's kind of scary. But with each one, you start over again. And then you really need training courses to get this learning platform to look ok.&rdquo;</p>
   </blockquote>
 </div>
 
@@ -988,7 +987,7 @@ Infrastructure encompasses the hardware, software and expertise needed to build 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;There was obviously some training that was given to people in the different platforms and everyone was quite nervous looking back on it …. to think how anxious I was about having to use zoom.&ldquo;</p>
+    <p>&ldquo;There was obviously some training that was given to people in the different platforms and everyone was quite nervous looking back on it …. to think how anxious I was about having to use zoom.&rdquo;</p>
   </blockquote>
 </div>
 
@@ -1046,7 +1045,7 @@ Infrastructure encompasses the hardware, software and expertise needed to build 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;I think the biggest problem is certainly that a large part of our courses are practical and these aspects can only be replaced to a limited extent. I cannot replace the practical examination of a patient with an online tool … these tools are extremely well suited for demonstrating [pathological findings], without a doubt … [but] at some point this no longer works only in theory, but you have to practice it.&ldquo;</p>
+    <p>&ldquo;I think the biggest problem is certainly that a large part of our courses are practical and these aspects can only be replaced to a limited extent. I cannot replace the practical examination of a patient with an online tool … these tools are extremely well suited for demonstrating [pathological findings], without a doubt … [but] at some point this no longer works only in theory, but you have to practice it.&rdquo;</p>
   </blockquote>
 </div>
 
@@ -1078,7 +1077,7 @@ Infrastructure encompasses the hardware, software and expertise needed to build 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;I noticed that a lot of people are completely overwhelmed [with online teaching]. Lecturers are simply being told: Why don't you teach digitally? And they then ask: Where do I start?&ldquo;</p>
+    <p>&ldquo;I noticed that a lot of people are completely overwhelmed [with online teaching]. Lecturers are simply being told: Why don't you teach digitally? And they then ask: Where do I start?&rdquo;</p>
   </blockquote>
 </div>
 
@@ -1136,7 +1135,7 @@ Infrastructure encompasses the hardware, software and expertise needed to build 
     <div class="ms-row ms-row-two ms-plugin ms-plugin-infobox" id="partial_41">
       <div class="ms-col-content">
         <p><strong>Mobilizing Students in Tech-Teams</strong><br />
-"[Prior to the pandemic] there was one person who was responsible for organizing Moodle for about 45,000 students and 10,000 employees …[now] we have this system of tech-teams … we have between three and five hundred students available who have a certain expertise in the discipline where they are deployed … they also have a technical affinity through hobbies or through their studies. And they receive training in certain areas such as data protection, copyright and so forth. [These students] are then placed to support lecturers [with educational technology]" </p>
+“[Prior to the pandemic] there was one person who was responsible for organizing Moodle for about 45.000 students and 10.000 employees …[now] we have this system of tech-teams … we have between three and five hundred students available who have a certain expertise in the discipline where they are deployed … they also have a technical affinity through hobbies or through their studies. And they receive training in certain areas such as data protection, copyright and so forth. [These students] are then placed to support lecturers [with educational technology]”</p>
       </div>
       <div class="ms-col-marginal">
         
@@ -1182,13 +1181,13 @@ Infrastructure encompasses the hardware, software and expertise needed to build 
 </div> <!-- close container -->
 <section>
   <div class="container">
-    <div class="ms-row ms-row-two ms-plugin ms-plugin-infobox" id="partial_44">
+    <div class="ms-row ms-row-two ms-plugin ms-plugin-infobox collapse" id="partial_44">
       <div class="ms-col-content">
         <p><strong>Learning Technologist working at the Faculty Level</strong></p>
-<p>What does a learning technologist do?<br />
-"....our approach is rather customized. There's no one model that is universal, because obviously courses have different outcomes, learning objectives, target groups and assignments, etc. … we ask [teachers] for the scenarios, once they send us the scenarios we respond with individual emails. So, for example, if a person says: “I want to do pre-recorded lectures with webinars.” Then we will follow up with customized questions and advice … Do you need a teaching assistant? How would you record them? What would be the workload and things like that?" </p>
-<p>How does a learning technologist influence teaching?<br />
-"In our case, I think we [teachers] are absolutely free. What is controlled is the compliance of correspondence of our syllabi, our Moodle pages with technical requirements. For example, there should be a clear list of topics, short description, and then the literature, home reading and then all assignments will be very clearly indicated, including grading policy. … For example, if your grading policy is not clear, you will definitely receive a message from someone who's in charge of that, just a friendly reminder that you need to revise them because it's not clear what is A, what is B, what is C? …. When it comes to the content, it's up to the individual teachers and instructors. The university helps us with teaching assistants and with training sessions." </p>
+<p><strong>What does a learning technologist do?</strong><br />
+“...our approach is rather customized. There's no one model that is universal, because obviously courses have different outcomes, learning objectives, target groups and assignments, etc. … we ask [teachers] for the scenarios, once they send us the scenarios we respond with individual emails. So, for example, if a person says: “I want to do pre-recorded lectures with webinars.” Then we will follow up with customized questions and advice … Do you need a teaching assistant? How would you record them? What would be the workload and things like that?”</p>
+<p><strong>How does a learning technologist influence teaching?</strong><br />
+“In our case, I think we [teachers] are absolutely free. What is controlled is the compliance of correspondence of our syllabi, our Moodle pages with technical requirements. For example, there should be a clear list of topics, short description, and then the literature, home reading and then all assignments will be very clearly indicated, including grading policy. … For example, if your grading policy is not clear, you will definitely receive a message from someone who's in charge of that, just a friendly reminder that you need to revise them because it's not clear what is A, what is B, what is C? …. When it comes to the content, it's up to the individual teachers and instructors. The university helps us with teaching assistants and with training sessions.”</p>
       </div>
       <div class="ms-col-marginal">
         
@@ -1327,7 +1326,7 @@ Infrastructure encompasses the hardware, software and expertise needed to build 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;… one of the best ways of dealing with teachers who were reluctant [to teach online] is for them to talk to colleagues … just talking to people who are more used to online teaching.&ldquo;</p>
+    <p>&ldquo;… one of the best ways of dealing with teachers who were reluctant [to teach online] is for them to talk to colleagues … just talking to people who are more used to online teaching.&rdquo;</p>
   </blockquote>
 </div>
 
@@ -1359,7 +1358,7 @@ Infrastructure encompasses the hardware, software and expertise needed to build 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;for me personally two colleagues from our faculty were quite central. [They] took charge of this [digital teaching], they are extremely committed, they are very tech-savvy and put in a degree of extra work that is greatly appreciated. [They] have also designed little learning videos [for others]&ldquo;</p>
+    <p>&ldquo;for me personally two colleagues from our faculty were quite central. [They] took charge of this [digital teaching], they are extremely committed, they are very tech-savvy and put in a degree of extra work that is greatly appreciated. [They] have also designed little learning videos [for others]&rdquo;</p>
   </blockquote>
 </div>
 
@@ -1391,7 +1390,7 @@ Infrastructure encompasses the hardware, software and expertise needed to build 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;We made small training videos, which were then available in our learning management system … and together we then tried to create, as the most experienced people or experts, some kind of support platform that you could look at later.&ldquo;</p>
+    <p>&ldquo;We made small training videos, which were then available in our learning management system … and together we then tried to create, as the most experienced people or experts, some kind of support platform that you could look at later.&rdquo;</p>
   </blockquote>
 </div>
 
@@ -1457,7 +1456,7 @@ Infrastructure encompasses the hardware, software and expertise needed to build 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;...[one colleague] is very committed [with educational technology]. We are all very close to each other, in terms of work. You can write an email [saying], 'I have a problem with this and that' depending on the content, and either cc the whole team or explicitly just this one colleague, 'Can you help me out?' And then you have the answer and sometimes immediately, 'Do you want to have a quick phone call?' or 'Do you want to try it out right now live on the computer?' That's how it works for us&ldquo;</p>
+    <p>&ldquo;...[one colleague] is very committed [with educational technology]. We are all very close to each other, in terms of work. You can write an email [saying], 'I have a problem with this and that' depending on the content, and either cc the whole team or explicitly just this one colleague, 'Can you help me out?' And then you have the answer and sometimes immediately, 'Do you want to have a quick phone call?' or 'Do you want to try it out right now live on the computer?' That's how it works for us&rdquo;</p>
   </blockquote>
 </div>
 
@@ -1489,7 +1488,7 @@ Infrastructure encompasses the hardware, software and expertise needed to build 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;[interuniversity collaboration] is totally based on informal trust, on a one-to-one basis. I would just send a link to colleagues and like a small library of courses that people could browse through and see…. it just happened to be a sort of shared economy amongst frontline staff without any formal university involvement.&ldquo;</p>
+    <p>&ldquo;[interuniversity collaboration] is totally based on informal trust, on a one-to-one basis. I would just send a link to colleagues and like a small library of courses that people could browse through and see…. it just happened to be a sort of shared economy amongst frontline staff without any formal university involvement.&rdquo;</p>
   </blockquote>
 </div>
 
@@ -1521,7 +1520,7 @@ Infrastructure encompasses the hardware, software and expertise needed to build 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;I have participated in various events at the University Didactics Center. This is organized at the level of all universities. There is a regular exchange forum and individual workshops, where you can exchange ideas on different topics …  and then you also get to know each other personally [outside of the workshops].&ldquo;</p>
+    <p>&ldquo;I have participated in various events at the University Didactics Center. This is organized at the level of all universities. There is a regular exchange forum and individual workshops, where you can exchange ideas on different topics …  and then you also get to know each other personally [outside of the workshops].&rdquo;</p>
   </blockquote>
 </div>
 
@@ -1725,8 +1724,7 @@ Infrastructure encompasses the hardware, software and expertise needed to build 
 <div class="container">
 <div class="ms-row ms-row-two ms-text" id="partial_63">
   <div class="ms-col-content">
-    <p>Resistance can also be fueled by an individual’s emotional response to change. Some teachers associated new technology with fear: a fear of failing, fear of looking incompetent in front of students and a fear of losing one’s authority. <br />
-There was also a common concern that educational technology would significantly increase teachers’ workloads.</p>
+    <p>Resistance can also be fueled by an individual’s emotional response to change. Some teachers associated new technology with fear: a fear of failing, fear of looking incompetent in front of students and a fear of losing one’s authority. There was also a common concern that educational technology would significantly increase teachers’ workloads.</p>
   </div>
   <div class="ms-col-marginal">
     
@@ -1743,7 +1741,7 @@ There was also a common concern that educational technology would significantly 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;… there is a real fear among teachers [concerning edtech] of losing their positions. When you understand digital teaching as a canned product, which some people still do, that is, a lecture recording can simply be played back over and over again for the next five years. If you're stuck with that concept, then there's the feeling that you lose control, that you're just not important …I think that actually scares a lot of people … they are afraid of losing their positions [and] that others will be able to copy or evaluate what they have done.&ldquo;</p>
+    <p>&ldquo;… there is a real fear among teachers [concerning edtech] of losing their positions. When you understand digital teaching as a canned product, which some people still do, that is, a lecture recording can simply be played back over and over again for the next five years. If you're stuck with that concept, then there's the feeling that you lose control, that you're just not important …I think that actually scares a lot of people … they are afraid of losing their positions [and] that others will be able to copy or evaluate what they have done.&rdquo;</p>
   </blockquote>
 </div>
 
@@ -1775,7 +1773,7 @@ There was also a common concern that educational technology would significantly 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;I’m skeptical of any reassurances given that [educational technology] will be time neutral … whenever the university says minimal effort, or light touch, I think most of us are hiding under our desks.… there is reluctance to use some [digital] tools that are typically born out of worry that it will substantially increase our workload.&ldquo;</p>
+    <p>&ldquo;I’m skeptical of any reassurances given that [educational technology] will be time neutral … whenever the university says minimal effort, or light touch, I think most of us are hiding under our desks.… there is reluctance to use some [digital] tools that are typically born out of worry that it will substantially increase our workload.&rdquo;</p>
   </blockquote>
 </div>
 
@@ -1928,7 +1926,7 @@ There was also a common concern that educational technology would significantly 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;I'm not as active as these technology-savvy colleagues who are always trying things out, because as a mother of two children, I simply don't have the time to explore such things in my free time. I think this applies to all other colleagues with young children.&ldquo;</p>
+    <p>&ldquo;I'm not as active as these technology-savvy colleagues who are always trying things out, because as a mother of two children, I simply don't have the time to explore such things in my free time. I think this applies to all other colleagues with young children.&rdquo;</p>
   </blockquote>
 </div>
 
@@ -1960,7 +1958,7 @@ There was also a common concern that educational technology would significantly 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;That's a big problem, that digitization should just be done on the side, this completely overwhelms people&ldquo;</p>
+    <p>&ldquo;That's a big problem, that digitization should just be done on the side, this completely overwhelms people&rdquo;</p>
   </blockquote>
 </div>
 
@@ -1992,7 +1990,7 @@ There was also a common concern that educational technology would significantly 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;… the physical discomfort, back pain, headaches [of teaching online] because your posture is, of course, different than when you walk through the rows [in a lecture hall]. Or the pressure sometimes, while the students are working, to answer e-mails on the side.&ldquo;</p>
+    <p>&ldquo;… the physical discomfort, back pain, headaches [of teaching online] because your posture is, of course, different than when you walk through the rows [in a lecture hall]. Or the pressure sometimes, while the students are working, to answer e-mails on the side.&rdquo;</p>
   </blockquote>
 </div>
 
@@ -2058,7 +2056,39 @@ There was also a common concern that educational technology would significantly 
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;…I think universities need to make sure that they do correctly recognize the amount of work that's involved in developing a new [online] course. ... [they] have a role to play in financially incentivizing it by ensuring that if we want new things to take place that will take financial investment....&ldquo;</p>
+    <p>&ldquo;One of the disadvantages that digital teaching brings is dividing up the space. We have an apartment and its challenging when my husband is also working from home  … I work in the kitchen, which then of course [this] also means that someone comes in to make coffee or get a glass of water or something … even my younger children come in and tell me that they have to go to the bathroom and you think, okay, fine. I wouldn't necessarily have told this to my students. The challenges are so human, you are suddenly closer than you would like to be to the students.&rdquo;</p>
+  </blockquote>
+</div>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-author">
+  <p>
+    <strong>Instructor at a university of applied sciences</strong>
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+  </div>
+</div>
+
+    </div>
+  
+    <div class="carousel-item ">
+      
+<div class="ms-row ms-row-two ms-plugin ms-plugin-quote" id="partial_74_2">
+  <div class="ms-col-content">
+    
+<div>
+  <blockquote class="blockquote">
+    <p>&ldquo;…I think universities need to make sure that they do correctly recognize the amount of work that's involved in developing a new [online] course. ... [they] have a role to play in financially incentivizing it by ensuring that if we want new things to take place that will take financial investment....&rdquo;</p>
   </blockquote>
 </div>
 
@@ -2085,12 +2115,12 @@ There was also a common concern that educational technology would significantly 
   
     <div class="carousel-item ">
       
-<div class="ms-row ms-row-two ms-plugin ms-plugin-quote" id="partial_74_2">
+<div class="ms-row ms-row-two ms-plugin ms-plugin-quote" id="partial_74_3">
   <div class="ms-col-content">
     
 <div>
   <blockquote class="blockquote">
-    <p>&bdquo;…the dissolution of boundaries and the reconciliation [of work and social life]. So, when does work end? And when do I no longer have to be available?&ldquo;</p>
+    <p>&ldquo;…the dissolution of boundaries and the reconciliation [of work and social life]. So, when does work end? And when do I no longer have to be available?&rdquo;</p>
   </blockquote>
 </div>
 
@@ -2100,38 +2130,6 @@ There was also a common concern that educational technology would significantly 
 <aside class="ms-aside-author">
   <p>
     <strong>Instructor at a research university</strong>
-    
-  </p>
-</aside>
-
-
-
-
-
-
-
-  </div>
-</div>
-
-    </div>
-  
-    <div class="carousel-item ">
-      
-<div class="ms-row ms-row-two ms-plugin ms-plugin-quote" id="partial_74_3">
-  <div class="ms-col-content">
-    
-<div>
-  <blockquote class="blockquote">
-    <p>&bdquo;One of the disadvantages that digital teaching brings is dividing up the space. We have an apartment and its challenging when my husband is also working from home  … I work in the kitchen, which then of course [this] also means that someone comes in to make coffee or get a glass of water or something … even my younger children come in and tell me that they have to go to the bathroom and you think, okay, fine. I wouldn't necessarily have told this to my students. The challenges are so human, you are suddenly closer than you would like to be to the students.&ldquo;</p>
-  </blockquote>
-</div>
-
-  </div>
-  <div class="ms-col-marginal">
-    
-<aside class="ms-aside-author">
-  <p>
-    <strong>Instructor at a university of applied sciences</strong>
     
   </p>
 </aside>
@@ -2192,16 +2190,16 @@ There was also a common concern that educational technology would significantly 
       <div class="ms-col-content">
         <p><em>Examples from a research university</em></p>
 <p><strong>Personal praise from students</strong></p>
-<p>"I get more or less direct feedback from the students for [online] interactions that we have. A "thank you very much" or another question. And in fact, some of the students are also very, very grateful. They get back to me and say, "Now everything has worked out." </p>
+<p>“I get more or less direct feedback from the students for [online] interactions that we have. A "thank you very much" or another question. And in fact, some of the students are also very, very grateful. They get back to me and say, "Now everything has worked out.”</p>
 <p><strong>Confident use of tools</strong></p>
-<p>"I have to say, once you master a few tools, that [didactic difficulties are] no longer an issue. These are tools that just really work as well as pencil and paper by now. … It's getting better and better, and of course with more complicated programs, you learn it bit by bit. So I can now say that I can make quite decent videos. Of course, it wasn't like that at the beginning. But it's a learning process."</p>
+<p>“I have to say, once you master a few tools, that [didactic difficulties are] no longer an issue. These are tools that just really work as well as pencil and paper by now. … It's getting better and better, and of course with more complicated programs, you learn it bit by bit. So I can now say that I can make quite decent videos. Of course, it wasn't like that at the beginning. But it's a learning process.”</p>
 <p><em>Examples from a university of applied science</em></p>
 <p><strong>Exchange and cooperation</strong></p>
-<p>“We can exchange ideas relatively quickly. …  Sometimes the scientific team comes and says: "Hey, I have an idea, could we somehow make a tutorial out of it or could we somehow produce some cool video or something on this topic." And that's often how these ideas develop and I think that's actually very cool because we just kind of help each other out."</p>
+<p>“We can exchange ideas relatively quickly. …  Sometimes the scientific team comes and says: "Hey, I have an idea, could we somehow make a tutorial out of it or could we somehow produce some cool video or something on this topic." And that's often how these ideas develop and I think that's actually very cool because we just kind of help each other out.”</p>
 <p><strong>Experimentation</strong></p>
-<p>"We are not so stuck in our ways, but have the freedom to think about what really makes sense here, or what could be exciting. …  When someone says: "Hey, let's test this program, maybe it will be useful for us," then we actually don't have anyone who says: "No, we will not do that," but we simply try it out. And we try an exercise with it, and if it just isn't anything, then it isn't, but then we know." </p>
+<p>“We are not so stuck in our ways, but have the freedom to think about what really makes sense here, or what could be exciting. …  When someone says: ‘Hey, let's test this program, maybe it will be useful for us,’ then we actually don't have anyone who says: ‘No, we will not do that,’ but we simply try it out. And we try an exercise with it, and if it just isn't anything, then it isn't, but then we know.”</p>
 <p><strong>Training opportunities</strong></p>
-<p>"[We] just check ourselves, what would be useful, what we would perhaps still be able to do in terms of technical know-how. And then we can actually choose relatively independently what kind of training really helps us."</p>
+<p>“[We] just check ourselves, what would be useful, what we would perhaps still be able to do in terms of technical know-how. And then we can actually choose relatively independently what kind of training really helps us.”</p>
       </div>
       <div class="ms-col-marginal">
         
@@ -2239,14 +2237,20 @@ There was also a common concern that educational technology would significantly 
       <div class="ms-col-content">
         <h2>Reflecting on individual motivation</h2>
 <p><strong>Sources of motivation</strong></p>
-<p>Think about moments in your teaching experience that motivated you –  what was the source of your motivation?<br />
-Where do you find new ideas for your classes? Are you motivated by your colleagues’ use of educational technology? </p>
+<ul>
+<li>Think about moments in your teaching experience that motivated you –  what was the source of your motivation?</li>
+<li>Where do you find new ideas for your classes? Are you motivated by your colleagues’ use of educational technology? </li>
+</ul>
 <p><strong>Space for experimentation</strong></p>
-<p>When was the last time you experimented with educational technology? What was the outcome? <br />
-Can you identify concrete circumstances that prevent you from exploring the use of educational technology?</p>
+<ul>
+<li>When was the last time you experimented with educational technology? What was the outcome? </li>
+<li>Can you identify concrete circumstances that prevent you from exploring the use of educational technology?</li>
+</ul>
 <p><strong>Inspiring motivation</strong></p>
-<p>What forms of institutional acknowledgement – reward schemes, reduction of teaching hours – are important for your motivation to engage with educational technology? How should these be best designed?<br />
-What kind of organizational support do you need to have space to explore educational technology? </p>
+<ul>
+<li>What forms of institutional acknowledgement – reward schemes, reduction of teaching hours – are important for your motivation to engage with educational technology? How should these be best designed?</li>
+<li>What kind of organizational support do you need to have space to explore educational technology? </li>
+</ul>
       </div>
       <div class="ms-col-marginal">
         
@@ -2301,7 +2305,7 @@ What kind of organizational support do you need to have space to explore educati
   </div>
   <div class="ms-col-marginal">
     <aside class="ms-aside-sidenote"><p><strong>Cite as</strong>: <br />
-Laufer, M., Kuper, F., Mende, M., Schäfer, L. O., Tschache T., &amp; Deacon, B. (2023). <em>Organizing Educational Technology at the University. A  Practitioners’ Field Guide for Implementing Digital Change.</em> Alexander von Humboldt Institute for Internet and Society. 10.5281/zenodo.7687805</p></aside>
+Laufer, M., Kuper, F., Mende, M. A., Schäfer, L. O., Tschache T., &amp; Deacon, B. (2023). <em>Organizing Educational Technology at the University. A  Practitioners’ Field Guide for Implementing Digital Change.</em> Alexander von Humboldt Institute for Internet and Society. 10.5281/zenodo.7687805</p></aside>
   </div>
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_83">
@@ -2375,7 +2379,7 @@ In the section <em>Building a Strong Foundation</em> we explore challenges relat
 <div class="ms-row ms-row-two ms-text" id="partial_91">
   <div class="ms-col-content">
     <p><strong>Networks</strong><br />
-The section <em>Maintaining Connections</em> shows the importance of peer-learning for motivating teachers to engage with educational technology and build their skills and confidence.Download the discussion guide.</p>
+The section <em>Maintaining Connections</em> shows the importance of peer-learning for motivating teachers to engage with educational technology and build their skills and confidence.</p>
   </div>
   <div class="ms-col-marginal">
     <aside class="ms-aside-download"><p><a href="assets/documents/4_PractitionersFieldGuide_Networks.pdf">Download Section Networks</a></p></aside>
@@ -2426,7 +2430,7 @@ In the section <em>Fostering Motivation</em> we address a key and deciding facto
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_96">
   <div class="ms-col-content">
-    <p>Analogue teaching cannot be instantly transferred online. Rather the process of implementing educational technology (Edtech) involves organizational change. In our research  project, <a href="https://www.hiig.de/project/organisationale-adaptivitaet-im-deutschen-hochschulkontext-ora/">Organizational Adaptivity in the German Higher Education Context (OrA)</a>, we investigated the organizational change that occurs during the adoption and implementation of Edtech in higher education institutions.  The OrA project was a three-year (2020-2023) cooperation between the Research Programme: Knowledge &amp; Society at the Alexander von Humboldt Institute for Internet and Society and <a href="https://www.fernuni-hagen.de/forschung/schwerpunkte/catalpa/ueber-catalpa/">CATALPA - Center of Advanced Technology for Assisted Learning and Predictive Analytics</a> at the FernUniversität in Hagen.</p>
+    <p>Analogue teaching cannot be instantly transferred online. Rather the process of implementing educational technology (Edtech) involves organizational change. In our research  project, <a href="https://www.hiig.de/project/organisationale-adaptivitaet-im-deutschen-hochschulkontext-ora/">Organizational Adaptivity in the German Higher Education Context (OrA)</a>, we investigated the organizational change that occurs during the adoption and implementation of Edtech in higher education institutions.  The OrA project was a three-year (2020-2023) cooperation between the <a href="https://www.hiig.de/en/research/learning-knowledge-innovation/">Research Programme: Knowledge &amp; Society</a> at the <a href="https://www.hiig.de/en/">Alexander von Humboldt Institute for Internet and Society</a> and <a href="https://www.fernuni-hagen.de/english/research/clusters/catalpa/">CATALPA</a> - Center of Advanced Technology for Assisted Learning and Predictive Analytics at the <a href="https://www.fernuni-hagen.de/index.shtml">FernUniversität in Hagen</a>.</p>
   </div>
   <div class="ms-col-marginal">
     <aside class="ms-aside-sidenote"><p>The OrA project was a three-year (2020-2023) cooperation between the Research Programme: Knowledge &amp; Society at the Alexander von Humboldt Institute for Internet and Society and CATALPA - Center of Advanced Technology for Assisted Learning and Predictive Analytics at the FernUniversität in Hagen.</p></aside>
@@ -2697,7 +2701,7 @@ In the section <em>Fostering Motivation</em> we address a key and deciding facto
 <div class="ms-row ms-row-two ms-text" id="partial_105">
   <div class="ms-col-content">
     <h4 id='heading-105' >Alexander von Humboldt Institute for Internet and Society</h4>
-<p>The Alexander von Humboldt Institute for Internet and Society (HIIG) was founded in 2011 to research the development of the internet from a societal perspective and better understand the digitalisation of all spheres of life. As the first institute in Germany with a focus on internet and society, HIIG has established an understanding that centres on the deep interconnectedness of digital innovations and societal processes.  The development of technology reflects norms, values and networks of interests, and conversely, technologies, once established, influence social values.</p>
+<p>The <a href="https://www.hiig.de/en/">Alexander von Humboldt Institute for Internet and Society (HIIG)</a> was founded in 2011 to research the development of the internet from a societal perspective and better understand the digitalisation of all spheres of life. As the first institute in Germany with a focus on internet and society, HIIG has established an understanding that centers on the deep interconnectedness of digital innovations and societal processes. The development of technology reflects norms, values and networks of interests, and conversely, technologies, once established, influence social values.</p>
   </div>
   <div class="ms-col-marginal">
     
@@ -2706,7 +2710,7 @@ In the section <em>Fostering Motivation</em> we address a key and deciding facto
 <div class="ms-row ms-row-two ms-text" id="partial_106">
   <div class="ms-col-content">
     <h4 id='heading-106' >FernUniversität Hagen and CATALPA</h4>
-<p>The FernUniversität in Hagen is Germany’s only state distance-learning university. Its central scientific institution CATALPA - Center of Advanced Technology for Assisted Learning and Predictive Analytics does not only stand for research on adaptive learning technologies. In this research center, nearly 60 scientists work together interdisciplinarily to support the transformation of education towards more digitality, personalized learning, adaptive systems, and artificial intelligence with evidence-based findings and to advance them in practice.</p>
+<p>The <a href="https://www.fernuni-hagen.de/english/">FernUniversität in Hagen</a> is Germany’s only state distance-learning university. Its central scientific institution <a href="https://www.fernuni-hagen.de/english/research/clusters/catalpa/">CATALPA</a> - Center of Advanced Technology for Assisted Learning and Predictive Analytics does not only stand for research on adaptive learning technologies. In this research center, nearly 60 scientists work together interdisciplinarily to support the transformation of education towards more digitality, personalized learning, adaptive systems, and artificial intelligence with evidence-based findings and to advance them in practice.</p>
   </div>
   <div class="ms-col-marginal">
     
@@ -2744,7 +2748,7 @@ In the section <em>Fostering Motivation</em> we address a key and deciding facto
 <strong>Prof. Burkhard Schafer</strong>, University of Edinburgh<br />
 <strong>Mag. Dr. Aaron Sterniczky</strong>, ELG E-Learning Group<br />
 <strong>Dr. Ian Palmer</strong>, Pearson College London<br />
-<strong>Aune Valk</strong>, University of Tartu<br />
+<strong>Dr. Aune Valk</strong>, University of Tartu<br />
 <strong>Saint John Walker</strong>, Pearson College London</p>
   </div>
   <div class="ms-col-marginal">
@@ -2878,7 +2882,7 @@ In the section <em>Fostering Motivation</em> we address a key and deciding facto
   FernUniversität in Hagen
 </p>
 
-<p>Len Ole Schäfer is postdoc at the research center CATALPA - Center of Advanced Technology for Assisted Learning and Predictive Analytics at FernUniversität in Hagen and leads the research project “Organizational Adaptivity in the German Higher Education Context” (OrA). His research topics are sociological theory and methods, dynamics in higher education and the organizational conditions of digital teaching.</p>
+<p>Len Ole Schäfer is postdoc at the research center CATALPA - Center of Advanced Technology for Assisted Learning and Predictive Analytics at FernUniversität in Hagen and senior researcher in the research project “Organizational Adaptivity in the German Higher Education Context” (OrA). His research topics are sociological theory and methods, dynamics in higher education and the organizational conditions of digital teaching.</p>
 
   </div>
   <div class="ms-col-marginal">
