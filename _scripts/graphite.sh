@@ -143,10 +143,19 @@ then
   echo "\033[32m"
   echo "   DONE "
   echo "\033[0m "
+  echo "                                                  "
+  echo "**************************************************"
+  echo "                                                  "
+
   if [ $mode = "preview" ]
   then
-    echo "Site published on https://preview.graphit.page/$output"
+    echo " Site published: https://preview.graphit.page/$output"
   else
-    echo "Site published on https://graphit.page/$output"
+    echo " Site published: https://graphit.page/$output"
   fi
+
+  echo "                                                  "
+  echo "**************************************************"
+  echo "                                                  "
+
 fi
