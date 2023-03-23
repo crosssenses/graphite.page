@@ -149,9 +149,9 @@ then
 
   if [ $mode = "preview" ]
   then
-    echo " URL: https://preview.graphit.page/$output"
+    echo " URL: https://preview.graphite.page/$output"
   else
-    echo " URL: https://graphit.page/$output"
+    echo " URL: https://graphite.page/$output"
   fi
 
   echo "                        "
