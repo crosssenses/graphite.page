@@ -13,7 +13,6 @@ $.fn.extend({
 //---------------------------------------------------------
 
 function normalizeSlideHeights() {
-    // console.log("I'm here to normalise");
   $(".carousel").each(function () {
     var items = $(".carousel-item", this);
     // reset the height
@@ -23,12 +22,10 @@ function normalizeSlideHeights() {
       null,
       items
         .map(function () {
-        //   console.log($(this), $(this).outerHeight());
-          return $(this).outerHeight();
+          return $(this).outerHeight(true);
         })
         .get()
     );
-    // console.log("Soooo it is:", maxHeight);
     items.css("min-height", maxHeight + "px");
   });
 }
@@ -240,7 +237,7 @@ function collapseOversizedInfobox() {
 // Handle anchor links
 //-------------------------------------------------------------
 
-function changeToTab(prevTab, targetTab) {
+function changeToTab(prevTab, targetTab, noscroll = false) {
   var offset = 80;
 
   // console.log("Changing from ", prevTab, " to ", targetTab)
@@ -273,31 +270,30 @@ function changeToTab(prevTab, targetTab) {
   setTimeout(makeToC, 200);
   setTimeout(collapseOversizedMarginals, 300);
 
-  setTimeout(function () {
-    scrollBy(0, -offset);
-    $(firstElementClass)[0].scrollIntoView(true);
-  }, 0);
-
-  // Scroll to top if below fixed tabs
-  // if ($('.ms-tabs')[0].getBoundingClientRect().top === 0){
-  //     var firstElementClass = targetTab + ' .ms-row:first-child'
-  //     setTimeout(function(){
-  //         scrollBy(0, -offset);
-  //         $(firstElementClass)[0].scrollIntoView(true)
-  //     },
-  //     0);
-  // }
+  // keep position if changing quote tabs, otherwise scroll below fixed tabbar
+  if (!noscroll) {
+    setTimeout(function () {
+      scrollBy(0, -offset);
+      $(firstElementClass)[0].scrollIntoView(true);
+    }, 0);
+  }
 }
 
 function handleAnchorLinks(hashValue) {
   let activeTab = $("#masterTab a").filter(".active");
 
-  if ($(hashValue).hasClass("tab-pane")) {
-    // console.log('Clicked a tab', activeTab)
+  if ($(hashValue).hasClass("tab-pane") && hashValue.includes("quote")) {
+    // console.log("Clicked a Quote tab");
+
+    var tabID = "#" + $(hashValue).parents(".tab-pane").attr("id");
+
+    changeToTab(activeTab, $(tabID), noscroll);
+  } else if ($(hashValue).hasClass("tab-pane")) {
+    // console.log("Clicked a tab", activeTab);
 
     changeToTab(activeTab, $(hashValue));
   } else if (hashValue.includes("heading")) {
-    // console.log('Clicked a heading')
+    // console.log("Clicked a heading");
 
     var tabID = "#" + $(hashValue).parents(".tab-pane").attr("id");
 
@@ -449,4 +445,7 @@ $(function () {
   enableListener();
 });
 
-$(window).on("resize orientationchange", normalizeSlideHeights);
+$(window).on(
+    'resize orientationchange',
+    normalizeSlideHeights
+);
