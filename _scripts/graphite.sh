@@ -140,8 +140,20 @@ then
   # go back into develop
   git checkout $devBranch
 
-  echo "\033[32m                       "
-  echo "                           DONE"
-  echo "\033[0m"
+  echo "\033[32m"
+  echo "   DONE "
+  echo "\033[0m "
+  echo "                        "
+  echo " Site published         "
+  echo "------------------------"
+
+  if [ $mode = "preview" ]
+  then
+    echo " URL: https://preview.graphite.page/$output"
+  else
+    echo " URL: https://graphite.page/$output"
+  fi
+
+  echo "                        "
 
 fi
