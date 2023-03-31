@@ -92,8 +92,8 @@ then
   elif [ $mode = "live" ]
   then
 #    echo "I'm in live."
-    # git checkout $liveBranch
-    # git pull
+    git checkout $liveBranch
+    git pull
     # git merge --no-ff --no-edit $devBranch
 
     echo "                        "
