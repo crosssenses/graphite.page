@@ -92,8 +92,8 @@ then
   elif [ $mode = "live" ]
   then
 #    echo "I'm in live."
-    # git checkout $liveBranch
-    # git pull
+    git checkout $liveBranch
+    git pull
     # git merge --no-ff --no-edit $devBranch
 
     echo "                        "
@@ -149,9 +149,9 @@ then
 
   if [ $mode = "preview" ]
   then
-    echo " URL: https://preview.graphit.page/$output"
+    echo " URL: https://preview.graphite.page/$output"
   else
-    echo " URL: https://graphit.page/$output"
+    echo " URL: https://graphite.page/$output"
   fi
 
   echo "                        "
