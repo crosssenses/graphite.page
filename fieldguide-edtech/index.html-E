@@ -16,13 +16,13 @@
         "url": "https://graphite.page/fieldguide-edtech"
       },
       "headline": "Organizing Digital Change at the University",
-      "alternativeHeadline": "Melissa Laufer, Freia Kuper, Maricia Aline Mende, Len Ole Schäfer, Tiana Tschache and Bronwen Deacon",
+      "alternativeHeadline": "The Practitioners’ Field Guide for Implementing Educational Technology",
       "image": "https://graphite.page/fieldguide-edtech/assets/images/social.png",
       "datePublished": "March 2023",
       "copyrightYear": "2023",
       "author": {
         "@type": "Person",
-        "name": "The Practitioners’ Field Guide for Implementing Educational Technology"
+        "name": ""
       },
       "keywords": "Educational technology, higher education, organizational change, digitalization, digital teaching and learning",
       "publisher": {
@@ -39,17 +39,17 @@
     }
 </script>
 
-<meta name="description" content="Melissa Laufer, Freia Kuper, Maricia Aline Mende, Len Ole Schäfer, Tiana Tschache and Bronwen Deacon" />
+<meta name="description" content="The Practitioners’ Field Guide for Implementing Educational Technology" />
 <meta name="author" content="The Practitioners&#39; Field Guide for Implementing Educational Technology">
 
 <!-- Schema.org markup for Google+ -->
 <meta itemprop="name" content="Organizing Digital Change at the University">
-<meta itemprop="description" content="Melissa Laufer, Freia Kuper, Maricia Aline Mende, Len Ole Schäfer, Tiana Tschache and Bronwen Deacon">
+<meta itemprop="description" content="The Practitioners’ Field Guide for Implementing Educational Technology">
 <meta itemprop="image" content="https://graphite.page/fieldguide-edtech/assets/images/social.png">
 
 <!-- Twitter Card data -->
 <meta name="twitter:title" content="Organizing Digital Change at the University">
-<meta name="twitter:description" content="Melissa Laufer, Freia Kuper, Maricia Aline Mende, Len Ole Schäfer, Tiana Tschache and Bronwen Deacon">
+<meta name="twitter:description" content="The Practitioners’ Field Guide for Implementing Educational Technology">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:creator" content="@author_handle">
 <!-- Twitter Summary card images must be at least 120x120px -->
@@ -60,7 +60,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://graphite.page/fieldguide-edtech" />
 <meta property="og:image" content="https://graphite.page/fieldguide-edtech/assets/images/social.png" />
-<meta property="og:description" content="Melissa Laufer, Freia Kuper, Maricia Aline Mende, Len Ole Schäfer, Tiana Tschache and Bronwen Deacon" /> 
+<meta property="og:description" content="The Practitioners’ Field Guide for Implementing Educational Technology" /> 
 <meta property="og:site_name" content="graphite – Enhanced publications for a digital environment" />
 
 <!--
@@ -179,9 +179,9 @@
   <div class="container">
     <div class="card">
       <div class="card-body">
-        <p class="author">The Practitioners’ Field Guide for Implementing Educational Technology</p>
+        <p class="author"></p>
         <h1 class="card-title">Organizing Digital Change at the University</h1>
-        <p class="card-subtitle">Melissa Laufer, Freia Kuper, Maricia Aline Mende, Len Ole Schäfer, Tiana Tschache and Bronwen Deacon</p>
+        <p class="card-subtitle">The Practitioners’ Field Guide for Implementing Educational Technology</p>
       </div>
     </div>
   </div>
@@ -279,6 +279,7 @@
   <div class="ms-row">
     <div class="ms-col-content">
       <p>The <em>Practitioners’ Field Guide for Implementing Educational Technology</em> offers research-based recommendations and data-derived best practices for organizing digital change at the university. Readers will gain insight on six thematic sections: leading with educational technology, creating a common vision, building a strong foundation, maintaining connections, unpacking resistance, and fostering motivation. Each section includes an overview text with the main research takeaways as well as exercises – discussion guides, steps, and case study examples.</p>
+<p><strong>A guide by Melissa Laufer, Freia Kuper, Maricia Aline Mende, Len Ole Schäfer, Tiana Tschache and Bronwen Deacon.</strong></p>
 
       
       <h3>Keywords</h3>
