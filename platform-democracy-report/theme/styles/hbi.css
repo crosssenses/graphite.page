@@ -7968,6 +7968,10 @@ a.text-highlight:focus, a.text-highlight:hover {
 
 section a:not([class^=ms-]), article a:not([class^=ms-]) {
   text-decoration: underline #00B6BE 1px solid;
+  text-decoration-color: #00B6BE;
+  text-decoration-thickness: 1px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
   text-underline-offset: 2px;
 }
 
