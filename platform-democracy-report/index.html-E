@@ -13,11 +13,11 @@
       "@type": "ScholarlyArticle",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "url": "https://your-custom-domain/plattform-demokratie-report-1"
+        "url": "https://graphite.page/platform-democracy-report"
       },
       "headline": "Platform://Democracy",
       "alternativeHeadline": "Perspectives on Platform Power, Public Values and the Potential of Social Media Councils",
-      "image": "https://your-custom-domain/plattform-demokratie-report-1/assets/images/social.png",
+      "image": "https://graphite.page/platform-democracy-report/assets/images/social.png",
       "datePublished": "May 2023",
       "copyrightYear": "2023",
       "author": {
@@ -31,7 +31,7 @@
         "logo": {
           "@type": "ImageObject"
            ,
-          "url": "https://your-custom-domain/plattform-demokratie-report-1/assets/images/logos.png"
+          "url": "https://graphite.page/platform-democracy-report/assets/images/logos.png"
           
         }
       }
@@ -47,7 +47,7 @@
 <!-- Schema.org markup for Google+ -->
 <meta itemprop="name" content="Platform://Democracy">
 <meta itemprop="description" content="Perspectives on Platform Power, Public Values and the Potential of Social Media Councils">
-<meta itemprop="image" content="https://your-custom-domain/plattform-demokratie-report-1/assets/images/social.png">
+<meta itemprop="image" content="https://graphite.page/platform-democracy-report/assets/images/social.png">
 
 <!-- Twitter Card data -->
 <meta name="twitter:title" content="Platform://Democracy">
@@ -55,13 +55,13 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:creator" content="@author_handle">
 <!-- Twitter Summary card images must be at least 120x120px -->
-<meta name="twitter:image" content="https://your-custom-domain/plattform-demokratie-report-1/assets/images/social.png">
+<meta name="twitter:image" content="https://graphite.page/platform-democracy-report/assets/images/social.png">
 
 <!-- Open Graph data -->
 <meta property="og:title" content="Platform://Democracy" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://your-custom-domain/plattform-demokratie-report-1" />
-<meta property="og:image" content="https://your-custom-domain/plattform-demokratie-report-1/assets/images/social.png" />
+<meta property="og:url" content="https://graphite.page/platform-democracy-report" />
+<meta property="og:image" content="https://graphite.page/platform-democracy-report/assets/images/social.png" />
 <meta property="og:description" content="Perspectives on Platform Power, Public Values and the Potential of Social Media Councils" /> 
 <meta property="og:site_name" content="graphite – Enhanced publications for a digital environment" />
 
@@ -245,11 +245,11 @@
         </div>
         <div class="btn-group" role="group" aria-label="Share">
   <span class="input-group-addon" id="btnGroupAddon">Share</span>
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//your-custom-domain/plattform-demokratie-report-1" target="_blank"
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//graphite.page/platform-democracy-report" target="_blank"
      class="btn btn-secondary" rel="noopener noreferrer"><i class="mdi mdi-facebook"></i> </a>
-  <a href="https://twitter.com/intent/tweet?text=https%3A//your-custom-domain/plattform-demokratie-report-1" target="_blank"
+  <a href="https://twitter.com/intent/tweet?text=https%3A//graphite.page/platform-democracy-report" target="_blank"
     class="btn btn-secondary" rel="noopener noreferrer"><i class="mdi mdi-twitter"></i> </a>
-  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//your-custom-domain/plattform-demokratie-report-1" target="_blank"
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//graphite.page/platform-democracy-report" target="_blank"
      class="btn btn-secondary" rel="noopener noreferrer"><i class="mdi mdi-linkedin"></i> </a>
 </div>
       </div>
@@ -2440,15 +2440,15 @@ Meta should commission an independent human rights due diligence assessment on h
   </div>
   <div class="btn-group" role="group" aria-label="Share">
     <span class="input-group-addon" id="btnGroupAddon">Share</span>
-    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//your-custom-domain/plattform-demokratie-report-1assets/images/africa-1.png"
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//graphite.page/platform-democracy-reportassets/images/africa-1.png"
        target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
       <i class="mdi mdi-facebook"></i>
     </a>
-    <a href="https://twitter.com/intent/tweet?text=https%3A//your-custom-domain/plattform-demokratie-report-1assets/images/africa-1.png"
+    <a href="https://twitter.com/intent/tweet?text=https%3A//graphite.page/platform-democracy-reportassets/images/africa-1.png"
        target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
       <i class="mdi mdi-twitter"></i>
     </a>
-    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//your-custom-domain/plattform-demokratie-report-1assets/images/africa-1.png&summary=Source%3A+Sundstr%C3%B6m%2C+2022&title=Types+of+African+NHRIs"
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/platform-democracy-reportassets/images/africa-1.png&summary=Source%3A+Sundstr%C3%B6m%2C+2022&title=Types+of+African+NHRIs"
        target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
       <i class="mdi mdi-linkedin"></i>
     </a>
@@ -5592,15 +5592,15 @@ Meta should commission an independent human rights due diligence assessment on h
   </div>
   <div class="btn-group" role="group" aria-label="Share">
     <span class="input-group-addon" id="btnGroupAddon">Share</span>
-    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//your-custom-domain/plattform-demokratie-report-1assets/images/americas-1.png"
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//graphite.page/platform-democracy-reportassets/images/americas-1.png"
        target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
       <i class="mdi mdi-facebook"></i>
     </a>
-    <a href="https://twitter.com/intent/tweet?text=https%3A//your-custom-domain/plattform-demokratie-report-1assets/images/americas-1.png"
+    <a href="https://twitter.com/intent/tweet?text=https%3A//graphite.page/platform-democracy-reportassets/images/americas-1.png"
        target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
       <i class="mdi mdi-twitter"></i>
     </a>
-    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//your-custom-domain/plattform-demokratie-report-1assets/images/americas-1.png&summary=Status+Quo+vs.+Possible+Alternative&title=From+CEO+Control+to+Platform+Democracy"
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/platform-democracy-reportassets/images/americas-1.png&summary=Status+Quo+vs.+Possible+Alternative&title=From+CEO+Control+to+Platform+Democracy"
        target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
       <i class="mdi mdi-linkedin"></i>
     </a>
@@ -5740,15 +5740,15 @@ Meta should commission an independent human rights due diligence assessment on h
   </div>
   <div class="btn-group" role="group" aria-label="Share">
     <span class="input-group-addon" id="btnGroupAddon">Share</span>
-    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//your-custom-domain/plattform-demokratie-report-1assets/images/americas-2.png"
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//graphite.page/platform-democracy-reportassets/images/americas-2.png"
        target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
       <i class="mdi mdi-facebook"></i>
     </a>
-    <a href="https://twitter.com/intent/tweet?text=https%3A//your-custom-domain/plattform-demokratie-report-1assets/images/americas-2.png"
+    <a href="https://twitter.com/intent/tweet?text=https%3A//graphite.page/platform-democracy-reportassets/images/americas-2.png"
        target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
       <i class="mdi mdi-twitter"></i>
     </a>
-    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//your-custom-domain/plattform-demokratie-report-1assets/images/americas-2.png&title=How+does+a+%E2%80%98Platform+Assembly%E2%80%99+work+to+addess+a+controversial+issue%3F"
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/platform-democracy-reportassets/images/americas-2.png&title=How+does+a+%E2%80%98Platform+Assembly%E2%80%99+work+to+addess+a+controversial+issue%3F"
        target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
       <i class="mdi mdi-linkedin"></i>
     </a>
@@ -5920,15 +5920,15 @@ Meta should commission an independent human rights due diligence assessment on h
   </div>
   <div class="btn-group" role="group" aria-label="Share">
     <span class="input-group-addon" id="btnGroupAddon">Share</span>
-    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//your-custom-domain/plattform-demokratie-report-1assets/images/americas-3.png"
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//graphite.page/platform-democracy-reportassets/images/americas-3.png"
        target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
       <i class="mdi mdi-facebook"></i>
     </a>
-    <a href="https://twitter.com/intent/tweet?text=https%3A//your-custom-domain/plattform-demokratie-report-1assets/images/americas-3.png"
+    <a href="https://twitter.com/intent/tweet?text=https%3A//graphite.page/platform-democracy-reportassets/images/americas-3.png"
        target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
       <i class="mdi mdi-twitter"></i>
     </a>
-    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//your-custom-domain/plattform-demokratie-report-1assets/images/americas-3.png&title=Organizations+involved+in+the+process"
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/platform-democracy-reportassets/images/americas-3.png&title=Organizations+involved+in+the+process"
        target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
       <i class="mdi mdi-linkedin"></i>
     </a>
@@ -9950,15 +9950,15 @@ Meta should commission an independent human rights due diligence assessment on h
   </div>
   <div class="btn-group" role="group" aria-label="Share">
     <span class="input-group-addon" id="btnGroupAddon">Share</span>
-    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//your-custom-domain/plattform-demokratie-report-1assets/images/europe-1.png"
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//graphite.page/platform-democracy-reportassets/images/europe-1.png"
        target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
       <i class="mdi mdi-facebook"></i>
     </a>
-    <a href="https://twitter.com/intent/tweet?text=https%3A//your-custom-domain/plattform-demokratie-report-1assets/images/europe-1.png"
+    <a href="https://twitter.com/intent/tweet?text=https%3A//graphite.page/platform-democracy-reportassets/images/europe-1.png"
        target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
       <i class="mdi mdi-twitter"></i>
     </a>
-    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//your-custom-domain/plattform-demokratie-report-1assets/images/europe-1.png&summary=based+on+the+design+principles+described+above&title=Visualization+of+a+platform+council"
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/platform-democracy-reportassets/images/europe-1.png&summary=based+on+the+design+principles+described+above&title=Visualization+of+a+platform+council"
        target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
       <i class="mdi mdi-linkedin"></i>
     </a>
@@ -11296,11 +11296,11 @@ Meta should commission an independent human rights due diligence assessment on h
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_1160">
   <div class="ms-col-content">
-    <p>This publication is part of the project <em>Platform://Democracy: Platform Councils as Tools to Democratize Hybrid Online Orders</em>. The project was carried out by the  <a href="https://leibniz-hbi.de/en/projects/platform-councils-as-tools-to-democratize-hybrid-online-orders">Leibniz Institute for Media | Hans-Bredow-Institut, Hamburg</a>, the <a href="https://www.hiig.de/en/project/platform-democracy/">Alexander von Humboldt Institute for Internet and Society, Berlin</a>, and the <a href="https://www.uibk.ac.at/zukunftsrecht">Department of Theory and Future of Law of the University of Innsbruck</a> und funded by <a href="https://www.stiftung-mercator.de/en/">Stiftung Mercator</a>.</p>
+    <p>This publication is part of the project <em>Platform://Democracy: Platform Councils as Tools to Democratize Hybrid Online Orders</em>. The project was carried out by the  <a href="https://leibniz-hbi.de/en/projects/platform-councils-as-tools-to-democratize-hybrid-online-orders">Leibniz Institute for Media Research | Hans-Bredow-Institut, Hamburg</a>, the <a href="https://www.hiig.de/en/project/platform-democracy/">Alexander von Humboldt Institute for Internet and Society, Berlin</a>, and the <a href="https://www.uibk.ac.at/zukunftsrecht">Department of Theory and Future of Law of the University of Innsbruck</a> und funded by <a href="https://www.stiftung-mercator.de/en/">Stiftung Mercator</a>.</p>
   </div>
   <div class="ms-col-marginal">
     <aside class="ms-aside-keystatement"><h3>Publisher</h3>
-<p>Leibniz Institut für Medienforschung | Hans-Bredow-Institut (HBI)<br />
+<p>Leibniz-Institut für Medienforschung | Hans-Bredow-Institut (HBI)<br />
 <span class="light">Rothenbaumchaussee 36<br />
 20148 Hamburg<br />
 Tel. (+49 40) 45 02 17-0<br />
