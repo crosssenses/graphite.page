@@ -8335,7 +8335,7 @@ object {
   z-index: 800;
   top: 52vh !important;
   left: 0;
-  width: 32px;
+  width: 100px;
   margin-left: 0;
   height: 90vh;
   max-height: 90vh;
@@ -8387,7 +8387,7 @@ object {
 }
 .ms-toc .ms-toc-abstract-entries {
   position: relative;
-  width: 32px;
+  width: 132px;
   margin-top: 7px;
   margin-left: 0;
   opacity: 1;
@@ -8400,9 +8400,10 @@ object {
   }
 }
 .ms-toc .ms-toc-abstract-entries .ms-toc-abstract-entry {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+  border-bottom: 2px solid rgba(0, 0, 0, 0.3);
   transition: all 500ms ease;
 }
+
 .ms-toc .ms-toc-abstract-entries .ms-toc-abstract-entry a.nav-link.active {
   vertical-align: bottom;
   border-bottom: 3px solid #000;
