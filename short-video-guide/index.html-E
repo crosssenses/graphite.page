@@ -1,0 +1,1896 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/Article">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Place this data between the <head> tags of your website -->
+<title>Make science go viral</title>
+
+<!-- Google structured data -->
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ScholarlyArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "url": "https://graphite.page/short-video-guide"
+      },
+      "headline": "Make science go viral",
+      "alternativeHeadline": "How to effectively communicate research through short form video formats on social media platforms",
+      "image": "https://graphite.page/short-video-guide/assets/images/social.png",
+      "datePublished": "January 2024",
+      "copyrightYear": "2024",
+      "author": {
+        "@type": "Person",
+        "name": "Tinca Lukan"
+      },
+      "keywords": "Science communication, video production, public engagment, science explained, outreach, impact, target audience",
+      "publisher": {
+        "@type": "Organization",
+        "name": "An open educational resouce by the Alexander von Humboldt Institute for Internet and Society.",
+        "logo": {
+          "@type": "ImageObject"
+          
+        }
+      }
+      
+    }
+</script>
+
+<meta name="description" content="How to effectively communicate research through short form video formats on social media platforms" />
+<meta name="author" content="An open educational resouce by the Alexander von Humboldt Institute for Internet and Society.">
+
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Make science go viral">
+<meta itemprop="description" content="How to effectively communicate research through short form video formats on social media platforms">
+<meta itemprop="image" content="https://graphite.page/short-video-guide/assets/images/social.png">
+
+<!-- Twitter Card data -->
+<meta name="twitter:title" content="Make science go viral">
+<meta name="twitter:description" content="How to effectively communicate research through short form video formats on social media platforms">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:creator" content="@author_handle">
+<!-- Twitter Summary card images must be at least 120x120px -->
+<meta name="twitter:image" content="https://graphite.page/short-video-guide/assets/images/social.png">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="Make science go viral" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://graphite.page/short-video-guide" />
+<meta property="og:image" content="https://graphite.page/short-video-guide/assets/images/social.png" />
+<meta property="og:description" content="How to effectively communicate research through short form video formats on social media platforms" /> 
+<meta property="og:site_name" content="graphite – Enhanced publications for a digital environment" />
+
+<!--
+<meta name="twitter:site" content="@publisher_handle">
+<meta property="fb:admins" content="Facebook numeric ID" />
+-->
+    
+      <link rel="stylesheet" href="theme/styles/sample-journal.css">
+    
+  </head>
+  <body>
+
+    
+
+
+
+
+
+  <div id="navContent" style="display: none;">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-6">
+
+          
+            <div class="ms-nav-info">
+              <p>The toolkit Make science go viral was developed as a part of research fellowship at the <a href="https://www.hiig.de/en/">Alexander von Humboldt Institute for Internet and Society</a> by Tinca Lukan. </p>
+<p>This publication was built with the framework Graphite, a platform based on python's graphite-papers. The framework enables users to create publications for a digital environment.</p>
+            </div>
+          
+        </div>
+
+        <div class="col-md-3">
+          <div class="ms-nav-info">
+            <h3 class="ms-nav-section">Further publications</h3>
+
+            
+              <ul class="ms-nav-subnav">
+                
+                  <li>
+                    <a href=https://graphite.page/fieldguide-edtech/ target="_blank">Organizing digital change at the university</a>
+                  </li>
+                
+                  <li>
+                    <a href=https://graphite.page/scholar-led-manifesto/ target="_blank">The scholar-led.network-Manifesto</a>
+                  </li>
+                
+              </ul>
+            
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="ms-nav-info">
+            <h3 class="ms-nav-section">More information</h3>
+
+            
+              <ul class="ms-nav-subnav">
+                
+                  <li>
+                    <a href=https://www.hiig.de/en/open-educational-resources/ target="_blank">OER overwiew by HIIG</a>
+                  </li>
+                
+                  <li>
+                    <a href=https://www.impactdistillery.com/graphite target="_blank">Graphite project website</a>
+                  </li>
+                
+              </ul>
+
+            
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+<!-- Navigation bar fixed to top -->
+<nav class="ms-navigation-top">
+  <div class="container">
+    <span class="ms-article-title">
+      Make science go viral
+    </span>
+
+    <a class="ms-brand" href="https://www.impactdistillery.com/graphite" target="_blank" rel="noreferrer noopener">
+      Runs on <object data="theme/images/graphite.svg" type="image/svg+xml"></object>
+    </a>
+
+    
+
+      <span id="navToggle" class="navbar-toggler-icon"></span>
+
+    
+
+  </div>
+</nav>
+
+
+
+    
+<!-- START: STUDY FRAME -->
+<div class="ms-header"
+     style="background-image: url(assets/images/gr-stocks-q8P8YoR6erg-unsplash.jpg);">
+  <div class="container">
+    <div class="card">
+      <div class="card-body">
+        <p class="author">Tinca Lukan</p>
+        <h1 class="card-title">Make science go viral</h1>
+        <p class="card-subtitle">How to effectively communicate research through short form video formats on social media platforms</p>
+      </div>
+    </div>
+  </div>
+</div>
+<footer class="ms-footer ms-footer-sticky"><div class="container">An open educational resouce by the Alexander von Humboldt Institute for Internet and Society.</div></footer>
+
+<div class="ms-toc"></div>
+<nav class="ms-tabs">
+  <div class="container">
+
+    <a class="ms-trigger-toc button d-flex d-lg-none">
+      Contents
+    </a>
+
+    <div class="dropdown d-xs-block d-lg-none">
+      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Full guide
+      </button>
+
+      <div class="dropdown-menu" aria-labelledby="dropdownMenuButton" role="tablist">
+        <div class="nav nav-pills" role="tablist">
+          
+          <a class="dropdown-item tab-item active" id="index-tab" data-toggle="tab" href="#index" role="tab" aria-controls="index" aria-expanded="true">
+            Full guide
+          </a>
+          
+          <a class="dropdown-item tab-item " id="resources-tab" data-toggle="tab" href="#resources" role="tab" aria-controls="resources" >
+            Resources
+          </a>
+          
+          <a class="dropdown-item tab-item " id="about-tab" data-toggle="tab" href="#about" role="tab" aria-controls="about" >
+            About the Toolkit
+          </a>
+          
+        </div>
+      </div>
+    </div>
+
+    <ul class="nav nav-tabs d-none d-lg-flex" id="masterTab" role="tablist" style="margin-left: 8.6% !important;">
+      
+      <li class="nav-item">
+        <a class="nav-link tab-item active" id="index-tab" data-toggle="tab" href="#index" role="tab" aria-controls="index" aria-expanded="true">
+          Full guide
+        </a>
+      </li>
+      
+      <li class="nav-item">
+        <a class="nav-link tab-item " id="resources-tab" data-toggle="tab" href="#resources" role="tab" aria-controls="resources" >
+          Resources
+        </a>
+      </li>
+      
+      <li class="nav-item">
+        <a class="nav-link tab-item " id="about-tab" data-toggle="tab" href="#about" role="tab" aria-controls="about" >
+          About the Toolkit
+        </a>
+      </li>
+      
+    </ul>
+
+    
+
+  </div>
+</nav>
+<div class="tab-content" id="masterTabContent">
+  
+  <div class="tab-pane fade active show" id="index" role="tabpanel" aria-labelledby="index-tab" aria-expanded="true">
+    
+  <section class="container ms-article-top">
+  <div class="ms-row ms-row-single">
+    <div class="ms-col-content">
+      <h2></h2>
+    </div>
+  </div>
+  <div class="ms-row">
+    <div class="ms-col-content">
+      <p><strong>Social media is very promising for science communication. By sharing scientific results online, researchers can improve the public perception of science and counteract the spread of misinformation online. While the benefits of sharing scientific research results on social media are obvious, engaging users with scientific content on these platforms is easier said than done.</strong></p>
+<p><strong>The goal of this toolkit is to empower scientists to become short form video storytellers to share ideas, spark curiosity and connect with the world.</strong></p>
+<p>Before we begin, we should emphasise the fact that scientists are already skilled content creators! You're already the creative force behind 6000-word content for major publishers like Taylor and Francis, Edward Elgar, Wiley and Sons and Elsevier – and your content deserves even more attention than it's getting today. This toolkit will help you shape your existing skill set to a new medium that takes about 30 seconds, is published on social media and is consumed by millions of people every day.</p>
+<p>When reading this toolkit, pay attention for sections marked by the 📌 symbol. They demonstrate the process of creating a science communication video using a concrete example. You can follow these steps and apply them to your own case as you read.</p>
+
+      
+        <h3>Keywords</h3>
+        <p>Science communication, video production, public engagment, science explained, outreach, impact, target audience</p>
+      
+
+      
+
+      
+
+      <p class="ms-buttons-article">
+          <a class="ms-button ms-button-toc"><i></i> Contents</a>
+          <a href="#read-full-article" class="ms-button ms-button-read-on"> Start the journey <i></i></a>
+      </p>
+    </div>
+    <div class="ms-col-marginal">
+      <div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+        
+        <div class="btn-group" role="group" aria-label="Share">
+  <span class="input-group-addon" id="btnGroupAddon">Share</span>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//graphite.page/short-video-guide" target="_blank"
+     class="btn btn-secondary" rel="noopener noreferrer"><i class="mdi mdi-facebook"></i> </a>
+  <a href="https://twitter.com/intent/tweet?text=https%3A//graphite.page/short-video-guide" target="_blank"
+    class="btn btn-secondary" rel="noopener noreferrer"><i class="mdi mdi-twitter"></i> </a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//graphite.page/short-video-guide" target="_blank"
+     class="btn btn-secondary" rel="noopener noreferrer"><i class="mdi mdi-linkedin"></i> </a>
+</div>
+      </div>
+      <aside>
+        
+          <p>
+            <span class="ms-date-publication"><strong>Publication:</strong>
+              January 2024</span>
+
+            
+            
+          </p>
+        
+
+        
+      </aside>
+      
+      
+        <aside>
+          <h3>Cite as</h3>
+          <p>Tinca Lukan (2024). Make Science Go Viral. How to Effectively Communicate Research Through Short Form Video Formats on Social Media Platforms. Alexander von Humboldt Institute for Internet and Society. https://graphite.page/short-video-guide</p>
+        </aside>
+      
+      
+      
+      
+        <aside>
+          <h3>Questions or Feedback?</h3>
+          <p><i class="mdi mdi-email-outline"></i>&nbsp; Send us an email to <a href="mailto:tinca.lukan@fdv.uni-lj.si"> tinca.lukan@fdv.uni-lj.si</a></p>
+        </aside>
+      
+      <a id="read-full-article"></a>
+    </div>
+  </div>
+</section>
+
+
+<article>
+  <div class="container">
+     </div>
+
+
+  
+
+    <div class="ms-chapter" style="background-image: url(assets/images/gr-stocks-q8P8YoR6erg-unsplash.jpg)">
+      <div class="container-fluid" >
+        <div class="container">
+          <div class="ms-row ms-row-full" id="partial_1">
+            <div class="ms-col-content">
+              
+  
+  <h2  id="heading-1">Why short form video?</h2>
+  
+    <p>Short form video is the present and future of science communication but we should be able to differentiate between good and bad apples.</p>
+  
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_2">
+  <div class="ms-col-content">
+    <p>As social media seamlessly integrates into our daily lives, educational opportunities are on the rise. The 9:16 aspect ratio short video format is the present and the future of digital content. The younger generation consumes almost all media, apps and social networks via their smartphone, which has become “a place within which we now live”<a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Miller et al. (2021) The global smartphone: Beyond a youth technology. UCL Press.</p><a class='mdi mdi-earth' href='https://doi.org/10.1080/00131881.2020.1755877' target='_blank' rel='noopener noreferrer'></a>" data-html="true"><i></i></a>. The popularity of short videos started with TikTok, and then Instagram and YouTube started dancing to the same tune.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_3">
+  <div class="ms-col-content">
+    <p><em>Figure component of graphic: insert a graphic that illustrates 9:16 video format</em></p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_4">
+  <div class="ms-col-content">
+    <p>Short form videos are increasingly being used for educational purposes, as research shows that people prefer watching videos to reading texts <a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Hayes, Adam. (2023). What Video Marketers Should Know in 2023, According to Wyzowl Research. HubSpot.</p><a class='mdi mdi-earth' href='https://blog.hubspot.com/marketing/state-of-video-marketing-new-data' target='_blank' rel='noopener noreferrer'></a>" data-html="true"><i></i></a>. In 2022, TikTok was the most downloaded entertainment app in the world with 672 million downloads <a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Statista (2023). Leading entertainment and video streaming apps worldwide in 2022, by downloads (in millions).</p><a class='mdi mdi-earth' href='https://www.statista.com/statistics/1285024/top-downloaded-entertainment-apps-worldwide/ ' target='_blank' rel='noopener noreferrer'></a>" data-html="true"><i></i></a>.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_5">
+  <div class="ms-col-content">
+    <p>Especially for Generation Z, TikTok has become the new search engine to find information about products and services, but also to get explanations on various topics <a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Huang, Kalley. (2022). For Gen Z, TikTok Is the New Search Engine. The New York Times.</p><a class='mdi mdi-earth' href='https://www.nytimes.com/2022/09/16/technology/gen-z-tiktok-search-engine.html' target='_blank' rel='noopener noreferrer'></a>" data-html="true"><i></i></a>. TikTok is the best platform for short form video science communication because it is driven by algorithms that smartly serve your content to those most likely to be interested in it.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_6">
+  <div class="ms-col-content">
+    <p>Critics argue that short form science communication can lack depth in intellectual rigour, and to some extent they have a valid point. But short form videos are great for planting a seed about a topic, spark curiosity and getting the audience to look deeper into the subject you are trying to communicate. Nevertheless, there are certain laws and rules that must be followed.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_7">
+  <div class="ms-col-content">
+    <p>Here is one example of bad practice and one example of good practice.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-plugin ms-plugin-video" id="partial_8">
+  <div class="ms-col-content">
+    
+
+
+  
+  <div class="embed-responsive embed-responsive-tiktok" id="video-tiktok-7131641439284366597">
+    <div class="tiktok" data-id="7131641439284366597">
+    </div>
+  </div>
+  
+  <div class="embed-responsive embed-responsive-tiktok" id="video-tiktok-7217074347540843782">
+    <div class="tiktok" data-id="7217074347540843782">
+    </div>
+  </div>
+  
+
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Two examples</strong>
+    
+    <br>Left: Example of a bad practice Right: Example of a good practice
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_9">
+  <div class="ms-col-content">
+    <p>Did you watch the first video until the end? Probably not. This video is an excerpt from an academic presentation put into the short video format. It shows that the attitude that viewers should watch your videos because of who you are or what you have to say leads to low engagement.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_10">
+  <div class="ms-col-content">
+    <p>Did you watch the second video until the end? Did you find this topic interesting? Probably yes. It engages the viewer with a direct look into the camera, uses captions, and explains a topic in simple language with visuals. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_11">
+  <div class="ms-col-content">
+    <p>Feeling a bit jittery because the world of engaging video production seems like uncharted territory? Video production is a craft that anyone can learn, and this toolkit provides a step-by-step guide to becoming a video communication professional yourself.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_12">
+  <div class="ms-col-content">
+    <p>In the next section, we'll delve into the specific steps required to create a captivating video – one that really grabs your audience's attention and keeps them hooked. We'll then go through each step in more detail and provide you with comprehensive insights and downloadable resources to supercharge your video-making journey.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+</div>
+
+
+  
+
+    <div class="ms-chapter" style="background-image: url(assets/images/gr-stocks-q8P8YoR6erg-unsplash.jpg)">
+      <div class="container-fluid" >
+        <div class="container">
+          <div class="ms-row ms-row-full" id="partial_13">
+            <div class="ms-col-content">
+              
+  
+  <h2  id="heading-13">How to create engaging short form videos?</h2>
+  
+    <p>This chapter provides 8 steps to follow in your video creation journey.</p>
+  
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_14">
+  <div class="ms-col-content">
+    <p>The journey to creating mesmerising and informative short form videos begins with the steps outlined below. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_15">
+  <div class="ms-col-content">
+    <p><strong>1. Define a topic</strong><br />
+Think of 10 interesting facts about your research, choose one and explain it. Another option is to come up with a learning outcome you want your audience to take away from your research and create a video about it. </p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-bookmark"><p><a href="#heading-23">Go to chapter</a></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_16">
+  <div class="ms-col-content">
+    <p><strong>2. Decide a communicative form of your video</strong><br />
+Pick a communicative form that is best suited to the topic you are addressing: educational, entertaining, visually satisfying or behind-the-science.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-bookmark"><p><a href="#heading-27">Go to chapter</a></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_17">
+  <div class="ms-col-content">
+    <p><strong>3. Structure and write a script</strong><br />
+It is productive to use a three-part structure: Start with a hook, delve into educational content, and end with a call to action. This structure paves the way for a script that tells a story, is compelling, concise and informative.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-bookmark"><p><a href="#heading-42">Go to chapter</a></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_18">
+  <div class="ms-col-content">
+    <p><strong>4. Storyboard</strong><br />
+Outline the visual scenes of the video based on the script. Decide where you want to insert visual material, captions, or other multimedia elements. </p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-bookmark"><p><a href="#heading-50">Go to chapter</a></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_19">
+  <div class="ms-col-content">
+    <p><strong>5. Record</strong><br />
+Record every scene of your storyboard. Your smartphone camera is good enough to film high-quality content. If you are the main actor in the video, you should follow the tips for acting.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-bookmark"><p><a href="#heading-59">Go to chapter</a></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_20">
+  <div class="ms-col-content">
+    <p><strong>6. Edit</strong><br />
+Use video editing applications like VN or CapCut. Add captions, cut out the quiet parts, cite your sources and check the quality.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-bookmark"><p><a href="#heading-71">Go to chapter</a></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_21">
+  <div class="ms-col-content">
+    <p><strong>7. Post</strong><br />
+Before posting your video to social media, make sure to add a compelling caption with links and resources for those who want to learn more about the topic you are sharing. Be platform agnostic: The short video format is supported by various social media platforms.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-bookmark"><p><a href="#heading-77">Go to chapter</a></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_22">
+  <div class="ms-col-content">
+    <p><strong>8. Engage with the community</strong><br />
+Follow other science communicators, reply to comments and direct messages, follow your followers back and engage in conversations.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-bookmark"><p><a href="#heading-82">Go to chapter</a></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_23">
+  <div class="ms-col-content">
+    <h3 id='heading-23' >1. Define a topic</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_24">
+  <div class="ms-col-content">
+    <p>Step one: define a clear topic of your video. Subsequently develop main message from the decided topic. Afterwards back this message with a few arguments or explanations. Another option is to brainstorm 10 interesting facts about your field, then zero in on one and explain it. Alternatively, ask yourself what key learning outcomes your audiences should take from your topic of experience and dedicate your video to explaining one of them.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-tool"><p>Suggested tools: Text editor, good old pen and paper</p></aside>
+  </div>
+</div>
+</div> <!-- close container -->
+<section>
+  <div class="container">
+    <div class="ms-row ms-row-two ms-plugin ms-plugin-infobox collapse" id="partial_25">
+      <div class="ms-col-content">
+        <h2>Define a topic</h2>
+<p>You develop a thesis you want to communicate in a video, in this case, the thesis is related to this toolkit which aims to encourage researchers to embrace science communication and emphasize the importance of improving communication skills for researchers.</p>
+      </div>
+      <div class="ms-col-marginal">
+        
+<aside class="ms-aside-caption">
+  <p><strong>Concrete example 📌</strong>
+    
+    <br>Demonstrating the process of creating a science communication video using a concrete example.
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+</section>
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_26">
+  <div class="ms-col-content">
+    <p>Once you have defined your topic, the next step is to determine the most suitable communicative form in which you'll present it.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_27">
+  <div class="ms-col-content">
+    <h3 id='heading-27' >2. Decide a communicative form of your video</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_28">
+  <div class="ms-col-content">
+    <p>In this step, your task is to select a communicative form that aligns with the topic you aim to address.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-tool"><p>Suggested tools: Others' science communication videos for inspiration</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_29">
+  <div class="ms-col-content">
+    <p>You have a plethora of content directions to explore and choose from. These formats are prevalent and there are overlaps between them:</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_30">
+  <div class="ms-col-content">
+    <ul>
+<li>Educational videos</li>
+<li>Entertaining videos</li>
+<li>Visually satisfying videos</li>
+<li>Behind-the-science videos</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-hint"><p>From content creator to content re-creator:<br />
+Imitation works great on social media, and it’s perfectly fine to be inspired by the content of others.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_31">
+  <div class="ms-col-content">
+    <p>Each of these communicative forms can spark inspiration for how you present your topic, and feel free to switch between them as needed. Now let’s delve into each of these communicative forms with interesting examples.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-bookmark"><p>Check out the list of short form video science communicators whose content could serve as inspiration <a href="#resources">in the resources section</a>.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_32">
+  <div class="ms-col-content">
+    <p><strong>Educational videos</strong> explicitly aim to educate and convey knowledge on a specific topic <a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Zheng, J., Schäfer, M. S., &amp; Allgaier, J. (2021). Reposting till Albert Einstein is TikTok famous: The memetic construction of science on TikTok. International Journal of Communication, 15, 3216-3247.</p><a class='mdi mdi-earth' href='https://ijoc.org/index.php/ijoc/article/view/14547/3497' target='_blank' rel='noopener noreferrer'></a>" data-html="true"><i></i></a>. In these videos a person speaks to a camera about a topic between 40 seconds to 3 minutes. If your goal is to stimulate discussion surrounding a topic, this format of lecture-style videos is the best fit <a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Habibi, S. A., &amp; Salim, L. (2021). Static vs. dynamic methods of delivery for science communication: A critical analysis of user engagement with science on social media. PLoS One, 16(3), e0248507.</p><a class='mdi mdi-earth' href='https://doi.org/10.1371/journal.pone.0248507' target='_blank' rel='noopener noreferrer'></a>" data-html="true"><i></i></a>. Educational videos can also take the form of book recommendations, which is one of the most popular genres on TikTok. </p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><p><strong>High engagement:</strong> These types of videos receive the highest number of comments in which people discuss with each other the chosen topic.</p></aside>
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-plugin ms-plugin-video" id="partial_33">
+  <div class="ms-col-content">
+    
+
+
+  
+  <div class="embed-responsive embed-responsive-tiktok" id="video-tiktok-7229866468433743109">
+    <div class="tiktok" data-id="7229866468433743109">
+    </div>
+  </div>
+  
+  <div class="embed-responsive embed-responsive-tiktok" id="video-tiktok-7282749947777256750">
+    <div class="tiktok" data-id="7282749947777256750">
+    </div>
+  </div>
+  
+
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Two examples</strong>
+    
+    <br>Educational videos
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_34">
+  <div class="ms-col-content">
+    <p><strong>Entertaining videos</strong> show surprising or shocking outcomes of scientific research often with humorous elements <a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Zheng, J., Schäfer, M. S., &amp; Allgaier, J. (2021). Reposting till Albert Einstein is TikTok famous: The memetic construction of science on TikTok. International Journal of Communication, 15, 3216-3247.</p><a class='mdi mdi-earth' href='https://ijoc.org/index.php/ijoc/article/view/14547/3497' target='_blank' rel='noopener noreferrer'></a>" data-html="true"><i></i></a>. These videos convey scientific facts through humour, acting scenes and exaggeration.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><p><strong>High views:</strong> If your goal is to reach the largest audience, the use of entertaining <br />
+experimental style videos is the best form.</p></aside>
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-plugin ms-plugin-video" id="partial_35">
+  <div class="ms-col-content">
+    
+
+
+  
+  <div class="embed-responsive embed-responsive-tiktok" id="video-tiktok-7191623348239994114">
+    <div class="tiktok" data-id="7191623348239994114">
+    </div>
+  </div>
+  
+  <div class="embed-responsive embed-responsive-tiktok" id="video-tiktok-7179337210502712619">
+    <div class="tiktok" data-id="7179337210502712619">
+    </div>
+  </div>
+  
+
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Two examples</strong>
+    
+    <br>Entertaining videos
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_36">
+  <div class="ms-col-content">
+    <p><strong>Visually satisfying videos</strong> emphasise the visuality and aesthetics of science. This particular style of communication truly shines when it comes to biology. It provides a captivating canvas to spotlight the world of animals, plants and microorganisms. <a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Zheng, J., Schäfer, M. S., &amp; Allgaier, J. (2021). Reposting till Albert Einstein is TikTok famous: The memetic construction of science on TikTok. International Journal of Communication, 15, 3216-3247.</p><a class='mdi mdi-earth' href='https://ijoc.org/index.php/ijoc/article/view/14547/3497' target='_blank' rel='noopener noreferrer'></a>" data-html="true"><i></i></a></p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><p><strong>High production value:</strong> These videos showcase attention to detail, including high-quality cinematography and sophisticated editing, engaging viewers to hit the replay button.</p></aside>
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-plugin ms-plugin-video" id="partial_37">
+  <div class="ms-col-content">
+    
+
+
+  
+  <div class="embed-responsive embed-responsive-tiktok" id="video-tiktok-7264113852785233154">
+    <div class="tiktok" data-id="7264113852785233154">
+    </div>
+  </div>
+  
+  <div class="embed-responsive embed-responsive-tiktok" id="video-tiktok-7275692136111049990">
+    <div class="tiktok" data-id="7275692136111049990">
+    </div>
+  </div>
+  
+
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Two examples</strong>
+    
+    <br>Visually satisfying videos
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_38">
+  <div class="ms-col-content">
+    <p><strong>Behind-the-science-videos</strong> offer a window into the life of a scientist, showcasing the experiences and the scientific process. These videos may demonstrate experiments, share intriguing fieldwork stories, and even aid in recruiting research participants. They can also provide a sneak peek into daily life as a scientist and add a personal touch to the content by sharing frustrations, challenges and survival tips related to this role. This communicative form complies with a long-standing demand in science communication to focus on science in the making <a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Shapin, S. (1992). Why the public ought to understand science-in-the-making. Public Understanding of Science, 1(1), 27–30.</p><a class='mdi mdi-earth' href='https://doi.org/10.1088/0963-6625/1/1/006' target='_blank' rel='noopener noreferrer'></a>" data-html="true"><i></i></a> but also brings you closer to being an influencer.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><p><strong>High community building:</strong> These types of videos make other scientists and academics in particular feel connected to you as a public figure.</p></aside>
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-plugin ms-plugin-video" id="partial_39">
+  <div class="ms-col-content">
+    
+
+
+  
+  <div class="embed-responsive embed-responsive-tiktok" id="video-tiktok-6954011763813649669">
+    <div class="tiktok" data-id="6954011763813649669">
+    </div>
+  </div>
+  
+  <div class="embed-responsive embed-responsive-tiktok" id="video-tiktok-7271766650586746144">
+    <div class="tiktok" data-id="7271766650586746144">
+    </div>
+  </div>
+  
+
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Two examples</strong>
+    
+    <br>Behind-the-science videos
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+
+  </div>
+</div>
+
+</div> <!-- close container -->
+<section>
+  <div class="container">
+    <div class="ms-row ms-row-two ms-plugin ms-plugin-infobox collapse" id="partial_40">
+      <div class="ms-col-content">
+        <h2>Choose a communicative form of your video</h2>
+<p>The aim of my video is to encourage scientists to embrace science communication and educate them on why this is important. Hence, I decided educational communicative form will be the best way to convey knowledge about the benefits of science communication. For inspiration, I opened my TikTok app and watched videos of how other researchers make educational videos.</p>
+      </div>
+      <div class="ms-col-marginal">
+        
+<aside class="ms-aside-caption">
+  <p><strong>Concrete example 📌</strong>
+    
+    <br>Demonstrating the process of creating a science communication video using a concrete example.
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+</section>
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_41">
+  <div class="ms-col-content">
+    <p>With a chosen topic and the communicative form for your video in place, the next step involves translating your idea into words and crafting a script that effectively conveys your intended message. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_42">
+  <div class="ms-col-content">
+    <h3 id='heading-42' >3. Structure and write a script</h3>
+<p>In this step, your task is to structure your video and write a script. It is productive to use a three-part structure: Start with a hook, delve into educational content, and end with a compelling call to action.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_43">
+  <div class="ms-col-content">
+    <ul>
+<li>🪝 Hook</li>
+<li>💡 Educate</li>
+<li>🫵 Call to action</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-tool"><p>Suggested tools: Text editor for script writing, ChatGPT or other AI writing tools for crafting hooks</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_44">
+  <div class="ms-col-content">
+    <p>🪝The hook grabs audiences’ attention. It refers to a question or statement right at the beginning of your video that will captivate your audience. In the age of short attention spans, getting straight to the point is crucial for engaging your audience.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-bookmark"><p>The art of crafting an engaging hook can be a challenging quest so check out the Hook Cheat Sheet to help you with your storytelling <a href="#resources">in the resources section</a>.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_45">
+  <div class="ms-col-content">
+    <p>💡The Educate section is a “show and tell” playground where you can reveal and communicate your scientific knowledge. It's important that audiences with no context or previous knowledge understand what you are saying so make sure you communicate as clearly as possible. Every spoken line should make sense and contribute to a coherent narrative. Try to avoid long-winded explanations and focus on the central theme. Inform and engage your audience without being patronising, and this part could include jokes and comedic narration. Also make sure your statements are accurate.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_46">
+  <div class="ms-col-content">
+    <p>🫵 The call to action is the last part of your video and directs your viewers to read (your) books, articles, blog posts if they want to learn more.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-hint"><p>Tip: Reading the script aloud as you edit will help you convey your ideas in a conversational tone. </p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_47">
+  <div class="ms-col-content">
+    <p>This tripartite structure of hook, educate and call to action paves the way for a script that tells a story, is captivating, accurate and informative.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+</div> <!-- close container -->
+<section>
+  <div class="container">
+    <div class="ms-row ms-row-two ms-plugin ms-plugin-infobox collapse" id="partial_48">
+      <div class="ms-col-content">
+        <h2>Structure and write a script</h2>
+<p><strong>Hook:</strong> <br />
+Freddy: Here are five mind-blowing reasons why you, as a researcher, should not be afraid of science communication and why it is important for you to improve your skills in this area.</p>
+<p><strong>Educate:</strong><br />
+Tinca: First of all, there is a science communicator in every scientist, and it's a craft that each and every one of you can learn.</p>
+<p>Freddy: Secondly, as experts, you are in a position to raise awareness of important issues throughout society. And you can do this with sound facts and scientific contextualisation. Every research topic is important in its own way and relevant to the public debate.</p>
+<p>Tinca: Thirdly, science communication also enhances your research as you look at your own topics from a different perspective,  translate them for new audiences and receive valuable feedback from others.</p>
+<p>Freddy: Fourth, clear communication helps to build and maintain trust in science. It helps reduce scepticism and promotes a positive relationship between scientists and society.</p>
+<p>Tinca: Lastly, science communication enhances scientific literacy, empowering people to critically evaluate information  and make informed decisions. This is important at a time when misinformation can spread rapidly.</p>
+<p><strong>Call to action:</strong> <br />
+Freddy: Finally, it's important to remember that science communication doesn't start after the completion of a research project or paper. It should be an integral part of every step of your work, from beginning to end. If you want to learn more about how to communicate science through short videos, check out the toolkit via the link in the bio. </p>
+      </div>
+      <div class="ms-col-marginal">
+        
+<aside class="ms-aside-caption">
+  <p><strong>Use case example 📌</strong>
+    
+    <br>Demonstrating the process of creating a science communication video using a concrete example.
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+</section>
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_49">
+  <div class="ms-col-content">
+    <p>Once you have your script with a captivating hook, it's time to dive into the creative realm of visual storytelling. In this next step, envision how you want your video to come to life visually by incorporating compelling visual elements.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_50">
+  <div class="ms-col-content">
+    <h3 id='heading-50' >4. Storyboard</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_51">
+  <div class="ms-col-content">
+    <p>Your storyboard is a creative roadmap that guides the production process. It consists of blank rectangular boxes on a sheet of paper that you can use to pre-visualise your video before the actual production. With a storyboard, you create a visual representation of each scene in a video that shows you what the final video will look like. This way you can define the flow of the story, the angles and the transitions between scenes. Outline a visual scene of the video in each box based on the script.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-tool"><p>Suggested tools: pen and paper, printable storyboard templates, Canva, Miro </p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_52">
+  <div class="ms-col-content">
+    <p>Storyboard helps you decide:</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_53">
+  <div class="ms-col-content">
+    <ul>
+<li>Are you in the centre of the video (are you not in the video at all)? </li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_54">
+  <div class="ms-col-content">
+    <ul>
+<li>What kind of background will be used?</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_55">
+  <div class="ms-col-content">
+    <ul>
+<li>Where do you place captions?</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_56">
+  <div class="ms-col-content">
+    <ul>
+<li>What kind of other visual material are you going to use?</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-bookmark"><p>Check out the Storyboard template <a href="#resources">in the resources section</a>.</p></aside>
+  </div>
+</div>
+</div> <!-- close container -->
+<section>
+  <div class="container">
+    <div class="ms-row ms-row-two ms-plugin ms-plugin-infobox collapse" id="partial_57">
+      <div class="ms-col-content">
+        <h2>Storyboard</h2>
+<p><img alt="World map displaying some … what?" src="assets/images/storyboard.png" /></p>
+      </div>
+      <div class="ms-col-marginal">
+        
+<aside class="ms-aside-caption">
+  <p><strong>Use case example 📌</strong>
+    
+    <br>Demonstrating the process of creating a science communication video using a concrete example.
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+</section>
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_58">
+  <div class="ms-col-content">
+    <p>With the script and storyboard in hand, it's time for the main event — showtime! Prepare to become a real movie director.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_59">
+  <div class="ms-col-content">
+    <h3 id='heading-59' >5. Record</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_60">
+  <div class="ms-col-content">
+    <p>But before you press the record button, let’s uncover some invaluable tips to make sure your video is picture-perfect.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-tool"><p>Suggested tools: your smartphone camera, hair clip, light ring</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_61">
+  <div class="ms-col-content">
+    <p><strong>Equipment tips:</strong></p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_62">
+  <div class="ms-col-content">
+    <ul>
+<li>Your smartphone camera is good enough for filming; Pro tip: clean the lens for clarity</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_63">
+  <div class="ms-col-content">
+    <ul>
+<li>Stabilise your camera; Pro tip: use a hair clip as a stand</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_64">
+  <div class="ms-col-content">
+    <ul>
+<li>Make sure your videos have good lighting; Pro tip: use a light ring</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_65">
+  <div class="ms-col-content">
+    <p><strong>Acting tips:</strong></p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-hint"><p>If you prefer not to be in front of the camera, you can explore Generative AI and use synthetic avatars as an alternative to representing your face.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_66">
+  <div class="ms-col-content">
+    <ul>
+<li>If you are the main protagonist of your video, make sure to keep a positive energy and act like you are talking to a friend; Pro tip: practice acting by talking to yourself in the mirror and speak with your hands</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_67">
+  <div class="ms-col-content">
+    <ul>
+<li>Have a confident gaze; Pro tip: look 1 centimetre below camera lens</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_68">
+  <div class="ms-col-content">
+    <ul>
+<li>Avoid verbal pauses “um” and “uh”; Pro tip: use post it notes to help you memorise your script</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+</div> <!-- close container -->
+<section>
+  <div class="container">
+    <div class="ms-row ms-row-two ms-plugin ms-plugin-infobox collapse" id="partial_69">
+      <div class="ms-col-content">
+        <h2>Record</h2>
+<p><img alt="World map displaying some … what?" src="assets/images/record.png" /></p>
+      </div>
+      <div class="ms-col-marginal">
+        
+<aside class="ms-aside-caption">
+  <p><strong>Use case example 📌</strong>
+    
+    <br>Demonstrating the process of creating a science communication video using a concrete example.
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+</section>
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_70">
+  <div class="ms-col-content">
+    <p>Now that you have all the material recorded, it’s time to edit it. This is a step that some love, and others hate. The great news is that editing short form videos isn't as intimidating as it sounds, and a plethora of user-friendly tools exist to make this stage easier. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_71">
+  <div class="ms-col-content">
+    <h3 id='heading-71' >6. Edit</h3>
+<p>Once you have recorded your clips, it’s time to stitch them together during the editing process. This can make or break your video as it defines some key aspects of the viewer experience, such as pacing and accessibility. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_72">
+  <div class="ms-col-content">
+    <p><strong>Trim silent intervals</strong><br />
+First, ensure you trim any silent intervals or pauses in speech.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-tool"><p>Suggested tools: VN, CapCut, Captions</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_73">
+  <div class="ms-col-content">
+    <p><strong>Add captions</strong><br />
+Captions are another important aspect to consider. They enhance the impact of your video by grabbing the viewer's attention and making the content more inclusive. They are particularly important for people with hearing impairments as they ensure they can engage with the content. Emerging dynamic captions, while visually appealing, have raised concerns with this group as they may not last long enough or be overly flashy. To address these concerns, it is advisable to display a full sentence in a single frame of the video to ensure that the message is conveyed cohesively and not broken down into individual words. Top tool for incorporating subtitles into your videos is the Captions application.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_74">
+  <div class="ms-col-content">
+    <p><strong>Add multimedia</strong><br />
+Third, add additional multimedia according to your storyboard. Add music to set the mood of your video, B-rolls or images to illustrate key points, on-screen text to summarise key messages, GIFs to add a little humour… Make use of the many stock libraries available on the Internet that offer royalty-free images, videos and audio. This will make your video even more appealing by activating different sensory channels.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+</div> <!-- close container -->
+<section>
+  <div class="container">
+    <div class="ms-row ms-row-two ms-plugin ms-plugin-infobox collapse" id="partial_75">
+      <div class="ms-col-content">
+        <h2>Edit</h2>
+<p><img alt="World map displaying some … what?" src="assets/images/edit.png" /></p>
+<p>Learn how to import, trim, incorporate B-rolls, add titles, apply effects, and more using the VN app by watching this <a href="https://www.youtube.com/watch?v=SQVyYHvkMnA">tutorial on YouTube</a>.</p>
+      </div>
+      <div class="ms-col-marginal">
+        
+<aside class="ms-aside-caption">
+  <p><strong>Use case example 📌</strong>
+    
+    <br>Demonstrating the process of creating a science communication video using a concrete example.
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+</section>
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_76">
+  <div class="ms-col-content">
+    <p>Editing— check. Are you thrilled with your final creation?</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-plugin ms-plugin-video" id="partial_77">
+  <div class="ms-col-content">
+    
+
+
+  
+  <div class="embed-responsive embed-responsive-tiktok" id="video-tiktok-7331384919052127521">
+    <div class="tiktok" data-id="7331384919052127521">
+    </div>
+  </div>
+  
+
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Final result</strong>
+    
+    <br>Educational video about why science communication matters
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_78">
+  <div class="ms-col-content">
+    <p>Even if not, I encourage you to unleash your creative videos into the world and learn as you go. This sets the stage for the next step: Sharing your video with the world.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_79">
+  <div class="ms-col-content">
+    <h3 id='heading-79' >7. Post</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_80">
+  <div class="ms-col-content">
+    <p>After you have finished editing the video, it’s time to share it far and wide by uploading it to different platforms. Be platform agnostic and post your video on different platforms: YouTube, Instagram, TikTok, Twitter, LinkedIn and Facebook all support this format.<br />
+Craft a captivating caption for your video and consider including links and resources for those who want to explore the topic you are addressing in more depth.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_81">
+  <div class="ms-col-content">
+    <p>You have now shared your video on your chosen social media platform(s), which means you can tick it off your to-do list.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_82">
+  <div class="ms-col-content">
+    <p>But, wait, you’re not done just yet. There's a critical last step: Engaging with your community. Ultimately, this is what it's all about, isn't it?</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_83">
+  <div class="ms-col-content">
+    <h3 id='heading-83' >8. Engage with the community</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_84">
+  <div class="ms-col-content">
+    <p>Once you post your video, it’s time to engage with people and communities on social media. If content is king, then community is queen. Follow other science communicators, reply to comments, follow your followers and engage in conversations.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+</div>
+
+
+  
+
+    <div class="ms-chapter" style="background-image: url(assets/images/gr-stocks-q8P8YoR6erg-unsplash.jpg)">
+      <div class="container-fluid" >
+        <div class="container">
+          <div class="ms-row ms-row-full" id="partial_85">
+            <div class="ms-col-content">
+              
+  
+  <h2  id="heading-85">Reflection and concluding remarks</h2>
+  
+    <p>Is science communication on social media for you?</p>
+  
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_86">
+  <div class="ms-col-content">
+    <p>While this toolkit promotes the use of short videos for science communication on social media, it also brings with it a number of challenges. This approach can come into conflict with deliberative principles and core norms of science, as it often involves self-promotion and self-branding <a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Zhang, A. L., &amp; Lu, H. (2023). Scientists as Influencers: The Role of Source Identity, Self-Disclosure, and Anti-Intellectualism in Science Communication on Social Media. Social Media+ Society, 9(2), 20563051231180623.</p><a class='mdi mdi-earth' href='https://doi.org/10.1177/20563051231180623' target='_blank' rel='noopener noreferrer'></a>" data-html="true"><i></i></a>. In addition, the boundaries between work and personal life can often become blurred <a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Bowman, T. D. (2015). Differences in personal and professional tweets of scholars. Aslib Journal of Information Management, 67(3), 356–371.</p><a class='mdi mdi-earth' href='https://doi.org/10.1108/AJIM-12-2014-0180' target='_blank' rel='noopener noreferrer'></a>" data-html="true"><i></i></a></p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_87">
+  <div class="ms-col-content">
+    <p>Essentially, it transforms the individual into a kind of influencer, thereby raising ethical questions about the persuasive and strategic aspects of science communication. There is a risk of being exposed to harassment and hostility. These factors highlight the need for careful reflection before fully embracing science communication via social media.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_88">
+  <div class="ms-col-content">
+    <p>If you go for it, be aware that viral fame is unlikely to happen overnight at first, given the way social media works, so it’s better to act on your own measure of success. Don’t let the perfect be the enemy of the good and keep experimenting. Embrace the wisdom of McKenzie Wark: there’s too many content creators and not enough form destroyers.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_89">
+  <div class="ms-col-content">
+    <p>Be a form disruptor, try out different styles, because in this realm, trial and error is king and there is no definitive right or wrong. But above all, enjoy the journey and have fun!</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_90">
+  <div class="ms-col-content">
+    <p>Happy creating! 👋</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_91">
+  <div class="ms-col-content">
+    
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+  </div>
+</article>
+  </div>
+  
+  <div class="tab-pane fade" id="resources" role="tabpanel" aria-labelledby="resources-tab" >
+    
+
+<section>
+  <div class="container">
+     <div class="ms-row ms-row-two ms-text" id="partial_92">
+  <div class="ms-col-content">
+    <h2 id='heading-92' >Resources</h2>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_93">
+  <div class="ms-col-content">
+    <p>Hey, creator! Here is a list of practical tools for creating mesmerising short form video for science communication. Feel free to use provided resources if necessary at different steps of your video creation process.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_94">
+  <div class="ms-col-content">
+    <h3 id='heading-94' >Downloads</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_95">
+  <div class="ms-col-content">
+    <p><strong>Inspiration list</strong></p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_96">
+  <div class="ms-col-content">
+    <p>Explore this list of short form video science communicators to find inspiration for determining your communicative form and niche. </p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-download"><p><a href="assets/tables/Inspiration file.csv">Download Inspiration List</a></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_97">
+  <div class="ms-col-content">
+    <p><strong>Hook cheat sheet</strong></p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_98">
+  <div class="ms-col-content">
+    <p>Because coming up with engaging hooks while avoiding senstationalism is hard, here's a list of possible hooks that might come in handy when creating science videos. </p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-download"><p><a href="assets/tables/Hook_Cheat_Sheet.csv">Download Hook Cheat Sheet</a></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_99">
+  <div class="ms-col-content">
+    <p><strong>Storyboard template</strong></p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_100">
+  <div class="ms-col-content">
+    <p>Your storyboard is a roadmap that directs the entire production journey. With a storyboard, you craft a visual narrative, outlining each scene to give you a sneak peek into the final look and feel of your video. It's your creative blueprint for bringing your ideas to life! </p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-download"><p><a href="assets/documents/storyboard.pdf">Download Storyboard</a></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_101">
+  <div class="ms-col-content">
+    <p><strong>Printable checklist</strong></p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_102">
+  <div class="ms-col-content">
+    <p>This 10-step checklist will help you create your first science video for social media. Here are the key steps you need to follow to create your first vertical cinematic masterpiece. 🙂</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-download"><p><a href="assets/documents/checklist.pdf">Download Checklist</a></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_103">
+  <div class="ms-col-content">
+    <h3 id='heading-103' >List of tools</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_104">
+  <div class="ms-col-content">
+    <p>Ready to create? Here is a list of possible tools that could be useful for your creative process.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-plugin ms-plugin-table" id="partial_105">
+  <div class="ms-col-content">
+    <table border="0" class="dataframe table table-hover">
+  <thead class="thead-inverse">
+    <tr style="text-align: left;">
+      <th>Name of tool</th>
+      <th>Where to use it</th>
+      <th>Price</th>
+      <th>Tips and what to be careful about</th>
+    </tr>
+  </thead>
+  <tbody class="tcol-head">
+    <tr>
+      <td><p>ChatGPT</p></td>
+      <td><p>In browser</p></td>
+      <td><p>Free</p></td>
+      <td><p>For crafting engaging hooks and for editing scripts</p></td>
+    </tr>
+    <tr>
+      <td><p>VN</p></td>
+      <td><p>Best used as a mobile app, also available as a desktop app</p></td>
+      <td><p>100 projects are free</p></td>
+      <td><p>Best video editing tool, it does not leave app’s watermarks on your video. There are many educational resources on how to use it for editing your video on YouTube: https://www.youtube.com/@VNVideoEditorApp/videos</p></td>
+    </tr>
+    <tr>
+      <td><p>CapCut</p></td>
+      <td><p>Best used as a mobile app, also available to use in browser</p></td>
+      <td><p>Free</p></td>
+      <td><p>Editing tool, developed by the company that also owns TikTok. Leaves watermark “CapCut” in the videos.</p></td>
+    </tr>
+    <tr>
+      <td><p>Adobe Express</p></td>
+      <td><p>Best used as mobile app, also available to use in browser</p></td>
+      <td><p>Free</p></td>
+      <td><p>Editing tool developed by Adobe. It has many AI powered features that make video editing faster.</p></td>
+    </tr>
+    <tr>
+      <td><p>Synthesia</p></td>
+      <td><p>AI video generating tool</p></td>
+      <td><p>The first video is free</p></td>
+      <td><p>For human-like AI avatars</p></td>
+    </tr>
+    <tr>
+      <td><p>Captions</p></td>
+      <td><p>Mobile App</p></td>
+      <td><p>12,50 Euros per month</p></td>
+      <td><p>For adding word-by-word captions of your video.<br><br>While it makes your video content available without adding sound on, it<br>does not address accessibility issues.</p></td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>List of tools</strong></p>
+</aside>
+
+
+<aside class="ms-aside-description">
+  <div><p>List of tools that could be useful for video creation</p></div>
+</aside>
+
+<aside class="ms-aside-download">
+  <p><a href="assets/tables/List_of_tools.csv">Download .csv</a></p>
+</aside>
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_106">
+  <div class="ms-col-content">
+    <h3 id='heading-106' >References</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-directory" id="partial_107">
+  <div class="ms-col-content">
+    
+<div class="ms-entry">
+  <p>
+    <p>Bowman, T. D. (2015). Differences in personal and professional tweets of scholars. Aslib Journal of Information Management, 67(3), 356–371. https://doi.org/10.1108/AJIM-12-2014-0180</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1108/AJIM-12-2014-0180" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Habibi, S. A., &amp; Salim, L. (2021). Static vs. dynamic methods of delivery for science communication: A critical analysis of user engagement with science on social media. PLoS One, 16(3), e0248507. https://doi.org/10.1371/journal.pone.0248507</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1371/journal.pone.0248507" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Hayes, Adam. (2023). What Video Marketers Should Know in 2023, According to Wyzowl Research. HubSpot. https://blog.hubspot.com/marketing/state-of-video-marketing-new-data</p>
+    
+    <a class="mdi mdi-earth" href="https://blog.hubspot.com/marketing/state-of-video-marketing-new-data" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Huang, Kalley. (2022). For Gen Z, TikTok Is the New Search Engine. The New York Times. https://www.nytimes.com/2022/09/16/technology/gen-z-tiktok-search-engine.html</p>
+    
+    <a class="mdi mdi-earth" href="https://www.nytimes.com/2022/09/16/technology/gen-z-tiktok-search-engine.html" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Miller et al. (2021) The global smartphone: Beyond a youth technology. UCL Press. https://doi.org/10.1080/00131881.2020.1755877</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1080/00131881.2020.1755877" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Shapin, S. (1992). Why the public ought to understand science-in-the-making. Public Understanding of Science, 1(1), 27–30. https://doi.org/10.1088/0963-6625/1/1/006</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1088/0963-6625/1/1/006" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Statista (2023). Leading entertainment and video streaming apps worldwide in 2022, by downloads (in millions). https://www.statista.com/statistics/1285024/top-downloaded-entertainment-apps-worldwide/</p>
+    
+    <a class="mdi mdi-earth" href="https://www.statista.com/statistics/1285024/top-downloaded-entertainment-apps-worldwide/ " target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Zhang, A. L., &amp; Lu, H. (2023). Scientists as Influencers: The Role of Source Identity, Self-Disclosure, and Anti-Intellectualism in Science Communication on Social Media. Social Media+ Society, 9(2), 20563051231180623. https://doi.org/10.1177/20563051231180623</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1177/20563051231180623" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Zheng, J., Schäfer, M. S., &amp; Allgaier, J. (2021). Reposting till Albert Einstein is TikTok famous: The memetic construction of science on TikTok. International Journal of Communication, 15, 3216-3247. </p>
+    
+    <a class="mdi mdi-earth" href="https://ijoc.org/index.php/ijoc/article/view/14547/3497" target="_blank"></a>
+    
+  </p>
+</div>
+
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-title">
+</aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_108">
+  <div class="ms-col-content">
+    
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+  </div>
+</section>
+  </div>
+  
+  <div class="tab-pane fade" id="about" role="tabpanel" aria-labelledby="about-tab" >
+    
+
+<section>
+  <div class="container">
+     <div class="ms-row ms-row-two ms-text" id="partial_109">
+  <div class="ms-col-content">
+    <h2 id='heading-109' >About the Toolkit</h2>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_110">
+  <div class="ms-col-content">
+    <p>Social media platforms are promising avenues for science communication. By disseminating scientific findings online, researchers have the opportunity to enhance public perception of science and counteract the proliferation of misinformation. However, effectively engaging users with scientific content on these platforms is a challenging task. The objective of this toolkit is to empower scientists, enabling them to evolve into proficient short form video storytellers. The aim is to facilitate the sharing of ideas, ignite curiosity, and foster meaningful connections with the audience.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><h3>Imprint</h3>
+<p>Alexander von Humboldt Institut für Internet und Gesellschaft<br><span class="light">Französische Str. 9<br>10117 Berlin</span></p>
+<p><span class="light">Responsible for the content according to §&nbsp;55&nbsp;Abs.&nbsp;2&nbsp;RStV: Dr. Karina Preiß</span></p>
+<p><span class="light"><a href="https://www.hiig.de/impressum" target="_blank" rel="nofollow noreferrer noopener">Imprint on hiig.de</a><br />
+</span></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_111">
+  <div class="ms-col-content">
+    <p>The foundation of this toolkit rests upon the author's personal journey of becoming a social science communicator on TikTok. Drawing from her own experiences, the guidelines address the gaps and challenges she encountered when embarking on the path of science communication through short form videos. By sharing insights gained from her experiences, the toolkit serves as a valuable resource to empower others venturing into the realm of science communication via short form video.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_112">
+  <div class="ms-col-content">
+    <h3 id='heading-112' >Author</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_113">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/Tinca-Lukan.jpg" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Tinca Lukan</strong>
+</p>
+<p class="grey">
+  University of Ljubljana and Alexander von Humbold Institut für Internet und Gesellschaft
+</p>
+
+<p>Tinca Lukan is a PhD researcher at the University of Ljubljana and a research fellow at the Alexander von Humboldt Institute for Internet and Society. Her research focuses on influencer cultures and science communication on social media platforms. She is actively engaged in science communication by analysing the internet on TikTok from a sociological perspective, using the handle Tinca_Lukan.</p>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+
+<aside class="ms-aside-link">
+  <p>
+    <a href=https://tincalukan.framer.website. target="_blank">
+       Visit website
+    </a>
+  </p>
+</aside>
+
+
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_114">
+  <div class="ms-col-content">
+    <p>Design and Support by <a href="https://www.larissawunderlich.de">Larissa Wunderlich</a> via the publication framework <a href="https://www.impactdistillery.com/graphite">graphite</a>.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_115">
+  <div class="ms-col-content">
+    
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+  </div>
+</section>
+  </div>
+  
+</div>
+<canvas id="confetti"></canvas>
+<!-- END: STUDY FRAME -->
+
+
+<!--
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+-->
+
+    <script src="/static/js/jquery.min.js"></script>
+    <script src="/static/js/popper.min.js"></script>
+<!--  Needed to calculate actual height   <script src="/static/js/jquery.actual.min.js"></script>-->
+    <script src="/static/js/bootstrap.min.js"></script>
+    <script src="/static/js/horst.js"></script>
+    <script src="/static/js/youtube.js"></script>
+    
+    
+    
+      <!-- Matomo -->
+      <script type="text/javascript">
+        var _paq = window._paq = window._paq || [];
+        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+          var u="https://piwik.wunderjewel.de/";
+          _paq.push(['setTrackerUrl', u+'matomo.php']);
+          _paq.push(['setSiteId', '4']);
+          var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+          g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+        })();
+      </script>
+      <!-- End Matomo Code -->
+    
+  </body>
+</html>
