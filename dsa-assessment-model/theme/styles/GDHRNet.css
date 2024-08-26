@@ -16630,7 +16630,7 @@ table .tcol-head tr td:first-child {
   content: "\F60C";
 }
 
-.mdi-subdirectory-arrow-right:before {
+.mdi-subdirectory-arrow-right::before, .ms-inline-bookmark i::before, .ms-col-marginal .ms-aside-bookmark p::before{
   content: "\F60D";
 }
 
