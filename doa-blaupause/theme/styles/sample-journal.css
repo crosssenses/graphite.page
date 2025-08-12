@@ -384,8 +384,9 @@ sup {
 }
 
 a {
-  color: #007ba3;
-  text-decoration: none;
+  color: inherit;
+  text-decoration:underline;
+  text-decoration-style: dotted;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
@@ -8367,7 +8368,10 @@ article .emphasis-primary {
 
 /* Inline notes */
 .ms-inline {
-  color: #007ba3;
+  /* color: #007ba3; */
+  color: inherit;
+  text-decoration:underline;
+  text-decoration-style: dotted;
 }
 .ms-inline.ms-inline-thanks {
   color: inherit;
