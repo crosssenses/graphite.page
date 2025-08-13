@@ -384,9 +384,8 @@ sup {
 }
 
 a {
+  text-decoration: none;
   color: inherit;
-  text-decoration:underline;
-  text-decoration-style: dotted;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
@@ -406,6 +405,16 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 a:not([href]):not([tabindex]):focus {
   outline: 0;
 }
+
+p > a[href] {
+  text-decoration: underline;
+}
+
+/* a[href]:not(.tabitem){  
+  color: inherit;
+  text-decoration:underline;
+  text-decoration-style: dotted;
+} */
 
 pre,
 code,
