@@ -34,6 +34,7 @@ function normalizeSlideHeights() {
 // Table of contents
 //-----------------------------------------------------------------
 var selector;
+var depth = 3
 
 function makeToC() {
   console.log("Creating TOC …");
@@ -65,7 +66,7 @@ function addReduced() {
   for (var i = 0; i < selector.length; i++) {
     if ($(selector[i]).attr("id")) {
       // Add elements to nav
-      for (var j = 2; j < 5; j++) {
+      for (var j = 2; j < depth + 2; j++) {
         if (selector[i].nodeName == "H" + j) {
           $("ul.ms-toc-abstract-entries").append(
             '<li class="nav-item side-nav ms-toc-abstract-entry ms-toc-abstract-entry ms-toc-abstract-entry-' +
@@ -86,7 +87,7 @@ function addDetailed() {
   for (var i = 0; i < selector.length; i++) {
     if ($(selector[i]).attr("id")) {
       // Add elements to nav
-      for (var j = 0; j < 4; j++) {
+      for (var j = 0; j < depth + 2; j++) {
         if (selector[i].nodeName == "H" + j) {
           $("ul.ms-toc-entries").append(
             '<li class="nav-item side-nav ms-toc-entry ms-toc-entry-level' +

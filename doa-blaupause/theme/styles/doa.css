@@ -406,7 +406,7 @@ a:not([href]):not([tabindex]):focus {
   outline: 0;
 }
 
-p > a[href]:not(.ms-button), li > a[href]:not(.tab-item) {
+p > a[href]:not(.ms-button), li > a[href]:not(.tab-item, .nav-link) {
   text-decoration: underline;
 }
 
@@ -8090,6 +8090,16 @@ object {
 .ms-toc .ms-toc-entries .ms-toc-entry {
   cursor: pointer;
   text-align: left;
+  padding: 5px 0 0;
+  line-height: 1em;
+  white-space: nowrap;
+
+  padding-right: 10px;
+}
+
+.ms-toc .ms-toc-entries .ms-toc-entry-level2,
+.ms-toc .ms-toc-entries .ms-toc-entry-level3{
+  padding-top: 10px;
 }
 .ms-toc .ms-toc-entries .ms-toc-entry-link {
   color: #637282;
@@ -8100,9 +8110,15 @@ object {
   font-size: 12px;
   text-align: left;
   padding: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
 }
 .ms-toc .ms-toc-entries .ms-toc-entry-level3 .ms-toc-entry-link {
   padding-left: 16px;
+}
+.ms-toc .ms-toc-entries .ms-toc-entry-level4 .ms-toc-entry-link {
+  padding-left: 30px;
 }
 .ms-toc .ms-toc-entries .ms-toc-entry-current .hp-toc-entry-link {
   color: #0070e0;
@@ -8144,7 +8160,7 @@ object {
   margin-bottom: -9px;
 }
 .ms-toc .ms-toc-abstract-entries .ms-toc-abstract-entry .nav-link {
-  padding: 0.721rem 1rem;
+  padding: 0.65rem 1rem;
 }
 .ms-toc .ms-toc-abstract-entries .ms-toc-abstract-entry.hp-toc-entry-is-title {
   width: 24px;
@@ -8156,12 +8172,16 @@ object {
   width: 24px;
 }
 .ms-toc .ms-toc-abstract-entries .ms-toc-abstract-entry-3 {
-  width: 10px;
+  width: 16px;
 }
 .ms-toc .ms-toc-abstract-entries .ms-toc-abstract-entry-4 {
-  width: 4px;
-  display: none;
+  width: 8px;
+  /* display: none; */
 }
+.ms-toc .ms-toc-abstract-entries .ms-toc-abstract-entry-4 .nav-link {
+  padding: 0.4rem 0.4rem;
+}
+
 .ms-toc .ms-toc-entries,
 .ms-toc .ms-toc-abstract-entries {
   position: absolute;
