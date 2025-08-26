@@ -8820,25 +8820,71 @@ table .tcol-head tr td:first-child {
 /* Table */
 /* Authors */
 /* MaterialDesignIcons.com */
+
 @font-face {
-  font-family: "Material Design Icons";
-  src: url("../fonts/icons/materialdesignicons-webfont.eot?v=2.0.46");
-  src: url("../fonts/icons/materialdesignicons-webfont.eot?#iefix&v=2.0.46") format("embedded-opentype"), url("../fonts/icons/materialdesignicons-webfont.woff2?v=2.0.46") format("woff2"), url("../fonts/icons/materialdesignicons-webfont.woff?v=2.0.46") format("woff"), url("../fonts/icons/materialdesignicons-webfont.ttf?v=2.0.46") format("truetype"), url("../fonts/icons/materialdesignicons-webfont.svg?v=2.0.46#materialdesigniconsregular") format("svg");
+  font-family: "Material Design Icons v2";
+  src: url("../fonts/icons/materialdesignicons-webfont-v2.eot?v=2.0.46");
+  src: url("../fonts/icons/materialdesignicons-webfont-v2.eot?#iefix&v=2.0.46") format("embedded-opentype"), url("../fonts/icons/materialdesignicons-webfont-v2.woff2?v=2.0.46") format("woff2"), url("../fonts/icons/materialdesignicons-webfont-v2.woff?v=2.0.46") format("woff"), url("../fonts/icons/materialdesignicons-webfont-v2.ttf?v=2.0.46") format("truetype"), url("../fonts/icons/materialdesignicons-webfont-v2.svg?v=2.0.46#materialdesigniconsregular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
+
+@font-face {
+  font-family: "Material Design Icons v7";
+  src: url("../fonts/icons/materialdesignicons-webfont-v7.ttf") format("truetype");
+  /* src: url("../fonts/icons/materialdesignicons-webfont-v7.woff2") format("woff2"), url("../fonts/icons/materialdesignicons-webfont-v7.woff") format("woff"), url("../fonts/icons/materialdesignicons-webfont-v7.ttf") format("truetype"); */
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Add FontAwesome for brand icons */
+@font-face  {
+  font-family: "Font Awesome 7 Brands";
+  src: url("../fonts/icons/fa-brands-400.woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Default: all icons from v2 */
 .mdi:before, .ms-navigation-top .ms-article-title:before, .ms-tabs .ms-trigger-toc:before, .ms-article-top .ms-button i:before, article .ms-text ul li:before, .ms-inline i:before, .ms-col-marginal aside p:before,
 .ms-col-marginal [class*=ms-aside] p:before, .carousel .carousel-item.play:before,
 .carousel .carousel-item.pause:before, .embed-responsive i:before,
 .mdi-set {
+  font-family: "Material Design Icons v2";
   display: inline-block;
-  font: normal normal normal 24px/1 "Material Design Icons";
   font-size: inherit;
   text-rendering: auto;
   line-height: inherit;
+  font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+/* New social icons from v7 */
+.mdi-mastodon:before{
+  font-family: "Material Design Icons v7";
+}
+
+.mdi-mastodon:before { content: "\F0AD1"; }
+
+
+/* Brand icons from FontAwesome for bluesky */
+.mdi-bluesky:before,
+.mdi-x:before {
+  font-family: "Font Awesome 7 Brands";
+ 
+  font-size: 0.8em; 
+}
+
+.mdi-bluesky:before { 
+  content: "\e671";
+}
+
+.mdi-x:before { 
+  content: "\e61b"; 
+}
+
+/* Other icons from v2 */
 
 .mdi-access-point:before {
   content: "\F002";
