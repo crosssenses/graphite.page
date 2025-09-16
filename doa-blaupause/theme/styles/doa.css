@@ -8404,6 +8404,7 @@ article .emphasis-primary {
 }
 .ms-inline.ms-inline-thanks {
   color: inherit;
+  text-decoration: none;
 }
 .ms-inline i {
   vertical-align: super;
