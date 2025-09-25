@@ -1,10 +1,11 @@
 # get input from commandline
-while getopts i:o:m: flag
+while getopts i:o:m:y flag
 do
     case "${flag}" in
         i) input=${OPTARG};;
         o) output=${OPTARG};;
         m) mode=${OPTARG};;
+        y) skipConfirm=true;;
     esac
 done
 
@@ -25,8 +26,14 @@ echo "                                                  "
 echo "**************************************************"
 echo "                                                  "
 
-read -p "Proceed with these variables? (Y/y)" -n 1 -r
-echo    # (optional) move to a new line
+# Check if skip confirmation flag is set
+if [[ $skipConfirm == true ]]; then
+    REPLY="Y"
+    echo "Auto-confirming with -y flag..."
+else
+    read -p "Proceed with these variables? (Y/y)" -n 1 -r
+    echo    # (optional) move to a new line
+fi
 
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
