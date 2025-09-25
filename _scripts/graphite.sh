@@ -74,7 +74,7 @@ then
 
   # commit build from above
   git add -A
-  git commit -m "copied all files for $output"
+  git commit -m "copied all files for $output [skip netlify]"
   git pull
   git push
 
