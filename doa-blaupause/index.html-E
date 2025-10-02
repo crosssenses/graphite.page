@@ -33,6 +33,8 @@
           
         }
       }
+       ,
+      "sameAs": "10.5281/zenodo.17240864"
       
     }
 </script>
@@ -284,6 +286,10 @@
     <div class="ms-col-marginal">
       <div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
         
+          <div class="btn-group mr-auto" role="group" aria-label="Download">
+            <a href="https://doi.org/10.5281/zenodo.17240864" class="ms-button ms-button-download" target="_blank" rel="noreferrer noopener"><i></i> PDF</a>
+          </div>
+        
         <div class="btn-group" role="group" aria-label="Share">
   <span class="input-group-addon" id="btnGroupAddon">Teilen</span>
   
@@ -310,12 +316,14 @@
         
 
         
+          <p><strong>DOI: </strong><a href="https://doi.org/10.5281/zenodo.17240864" target="_blank" rel="nofollow noreferrer" >10.5281/zenodo.17240864</a></p>
+        
       </aside>
       
       
         <aside>
           <h3>Empfohlene Zitation</h3>
-          <p>Henkes, L. M., Holscher Blackman, K. (2025).  <em>Wissenschaftliches Publizieren neu denken. Blaupause für gemeinschaftliches und faires Diamond Open Access</em>.</p>
+          <p>Henkes, L. M., &amp; Holscher Blackman, K. (2025).  <em>Wissenschaftliches Publizieren neu denken. Blaupause für gemeinschaftliches und faires Diamond Open Access</em>. https://doi.org/10.5281/zenodo.17240864</p>
         </aside>
       
       
@@ -375,7 +383,7 @@ Obwohl nicht separat dargestellt, sind Wissenschaftler:innen von zentraler Bedeu
   <div class="ms-col-content">
     <a href="#3Modal" type="button" data-toggle="modal" data-target="#3Modal">
 
-<img class="img-fluid" src="assets/images/figures/Diamond.png" alt="Die Grafik zeigt einen zentral platzierten Diamanten, der von sechs Akteursgruppen umgeben ist. Jede Akteursgruppe ist durch einen Pfeil mit dem Diamanten verbunden. Auf jedem Pfeil steht die jeweilige Hauptaufgabe der Akteursgruppe. Bei den Gruppen handelt es sich um Verlage, die für Organisationsstrukturen und Innovation zuständig sind; Initiativen und Projekte, die Netzwerke und Infrastrukturen gestalten; Forschungsförderung, die für Rahmenbedingungen und Standards sorgt; Fachvertretungen, die Stabilität und Reputation sichern; Zeitschriften, die Flexibilität besitzen und Pionierarbeit leisten; sowie wissenschaftliche Bibliotheken, die Expertise einbringen und Vermittlung übernehmen. Unterhalb des Diamanten steht der Text: „Verbindliches Engagement und geteilte Werte aller beteiligten Akteure“. Der Diamant symbolisiert das gemeinsame Ziel der Akteure: Diamond-Open-Access-Publizieren.">
+<object data="assets/images/figures/Diamond.svg" type="image/svg+xml" class="img-fluid"></object>
 
 </a>
 
@@ -439,7 +447,7 @@ Obwohl nicht separat dargestellt, sind Wissenschaftler:innen von zentraler Bedeu
       </div>
       <div class="modal-body">
         
-        <img class="img-fluid" src="assets/images/figures/Diamond.png" alt="Die Grafik zeigt einen zentral platzierten Diamanten, der von sechs Akteursgruppen umgeben ist. Jede Akteursgruppe ist durch einen Pfeil mit dem Diamanten verbunden. Auf jedem Pfeil steht die jeweilige Hauptaufgabe der Akteursgruppe. Bei den Gruppen handelt es sich um Verlage, die für Organisationsstrukturen und Innovation zuständig sind; Initiativen und Projekte, die Netzwerke und Infrastrukturen gestalten; Forschungsförderung, die für Rahmenbedingungen und Standards sorgt; Fachvertretungen, die Stabilität und Reputation sichern; Zeitschriften, die Flexibilität besitzen und Pionierarbeit leisten; sowie wissenschaftliche Bibliotheken, die Expertise einbringen und Vermittlung übernehmen. Unterhalb des Diamanten steht der Text: „Verbindliches Engagement und geteilte Werte aller beteiligten Akteure“. Der Diamant symbolisiert das gemeinsame Ziel der Akteure: Diamond-Open-Access-Publizieren.">
+        <object data="assets/images/figures/Diamond.svg" type="image/svg+xml" class="img-fluid"></object>
         
       </div>
     </div>
@@ -581,7 +589,7 @@ Obwohl nicht separat dargestellt, sind Wissenschaftler:innen von zentraler Bedeu
   <div class="ms-col-content">
     <a href="#12Modal" type="button" data-toggle="modal" data-target="#12Modal">
 
-<img class="img-fluid" src="assets/images/figures/Prozess.png" alt="Die Grafik zeigt eine Darstellung der Beziehungen zwischen den sechs Akteursgruppen (Zeitschriften, wissenschaftliche Bibliotheken, Verlage, Initiativen und Projekte, Forschungsförderung und Fachvertretungen) und den für gemeinschaftliches Diamond Open Access wichtigen Themenfeldern. Diese wurden im Rahmen des ELADOAH-Projekts durch Expert:inneninterviews und eine Literaturanalyse identifiziert. Die vier Themenfelder sind Finanzierung, Community, Governance sowie Qualität und Reputation. Die Pfeile, die von den Akteuren zu den Themenfeldern führen, stellen besonders relevante oder zu beachtende Verbindungen dar. Eine detaillierte Beschreibung dieser jeweiligen Verbindungen befindet sich in den jeweiligen Abschnitten zu den einzelnen Akteuren im unteren Abschnitt der Website. Auch die Themenfelder stehen miteinander in Verbindung, was ebenfalls weiter unten im Detail beschrieben wird. Unter den Akteursgruppen, die nebeneinander angeordnet sind, befindet sich der Diamant aus der vorherigen Graphik.">
+<object data="assets/images/figures/Prozess.svg" type="image/svg+xml" class="img-fluid"></object>
 
 </a>
 
@@ -645,7 +653,7 @@ Obwohl nicht separat dargestellt, sind Wissenschaftler:innen von zentraler Bedeu
       </div>
       <div class="modal-body">
         
-        <img class="img-fluid" src="assets/images/figures/Prozess.png" alt="Die Grafik zeigt eine Darstellung der Beziehungen zwischen den sechs Akteursgruppen (Zeitschriften, wissenschaftliche Bibliotheken, Verlage, Initiativen und Projekte, Forschungsförderung und Fachvertretungen) und den für gemeinschaftliches Diamond Open Access wichtigen Themenfeldern. Diese wurden im Rahmen des ELADOAH-Projekts durch Expert:inneninterviews und eine Literaturanalyse identifiziert. Die vier Themenfelder sind Finanzierung, Community, Governance sowie Qualität und Reputation. Die Pfeile, die von den Akteuren zu den Themenfeldern führen, stellen besonders relevante oder zu beachtende Verbindungen dar. Eine detaillierte Beschreibung dieser jeweiligen Verbindungen befindet sich in den jeweiligen Abschnitten zu den einzelnen Akteuren im unteren Abschnitt der Website. Auch die Themenfelder stehen miteinander in Verbindung, was ebenfalls weiter unten im Detail beschrieben wird. Unter den Akteursgruppen, die nebeneinander angeordnet sind, befindet sich der Diamant aus der vorherigen Graphik.">
+        <object data="assets/images/figures/Prozess.svg" type="image/svg+xml" class="img-fluid"></object>
         
       </div>
     </div>
@@ -1764,7 +1772,7 @@ FIDs sind beispielsweise Pollux für die Politikwissenschaft oder der FID Media 
 <p>Auch die direkte Förderung von Bibliotheken als Infrastrukturanbieter wird von der Community gefordert, damit diese Publikationsdienstleistungen nachhaltig aufbauen können. Außerdem wird darauf hingewiesen, dass einige Bibliotheken auch selbst als Verlage in Erscheinung treten und dann verschiedene Rollen ausbalancieren müssen.</p>
 <h3>DIAMOND-OPEN-ACCESS-VERLAGE</h3>
 <p>Ein Aspekt, der in Bezug auf die Verlagsarbeit besonders kontrovers diskutiert wird, ist die Zusammenarbeit mit kommerziellen Verlagen. Wie zuvor im Kontext von Verlagen erörtert, gibt es die Ansicht, dass Expertise und Dienstleistungen kommerzieller Verlage nicht ausgeschlossen werden sollten. Auch wenn Gemeinwohlorientierung als Kriterium für die Zusammenarbeit herangezogen wird, existiert kein allgemeingültiges Prüfverfahren und die Zusammenarbeit mit kommerziellen Verlagen weckt die Sorge, die eigene Unabhängigkeit zu verlieren. Vor diesem Hintergrund stellt sich die Frage, welche kommerziellen Verlage und Dienstleistungsanbieter grundsätzlich für eine Integration in die Open-Access-Community geeignet sind, wie eine solche Einbindung gestaltet werden kann und an welchen Punkten profitorientierte Marktlogiken eine Zusammenarbeit begrenzen oder gar ausschließen. Ein transparenter Umgang ist hier entscheidend.</p>
-<h3>OPEN-ACCESS-PROJEKTE, INITATIVEN UND INFRASTRUKTUREN</h3>
+<h3>OPEN-ACCESS-PROJEKTE, -INITATIVEN UND -INFRASTRUKTUREN</h3>
 <p>In der Open-Access-Community wird darüber diskutiert, ob Publikationsinfrastrukturen (wie PKP) und Informationsinfrastrukturen (wie DOAJ) als gemeinsame Akteursgruppe beschrieben oder getrennt betrachtet werden sollten. </p>
 <h3>FORSCHUNGSFÖRDERUNG</h3>
 <p>Die Community sieht die Forschungsförderung zwar in der Pflicht, einen Wandel der Forschungsevaluation anzustoßen und Diamond-Open-Access-Förderkriterien zu standardisieren, nimmt allerdings auch die Wissenschaft selbst in die Verantwortung. Dabei stellen sich zentrale Fragen: Was ist ein relevantes Publikationsorgan? Was wird als relevant betrachtet? Wie wird Erfolg gemessen?</p>
@@ -2047,7 +2055,7 @@ FIDs sind beispielsweise Pollux für die Politikwissenschaft oder der FID Media 
   <div class="ms-col-content">
     <a href="#142Modal" type="button" data-toggle="modal" data-target="#142Modal">
 
-<img class="img-fluid" src="assets/images/figures/Kontext.png" alt="Die Akteurskonstellation aus der ersten Grafik wird hier von drei konzentrischen Quadraten umgeben, die zentrale Rahmenbedingungen visualisieren. Diese basieren auf Erkenntnissen aus Literatur und früheren Publikationen. Von außen nach innen: 1) Gesetzliche Rahmenbedingung, die das Hochschulrecht und das öffentliche Haushaltsrecht beinhaltet; 2) Strukturelle Rahmenbedingung, die die wissenschaftliche Publikationskultur und eine limitierte Förderung (von Diamond Open Access) beschreibt; 3) Open-Access-Rahmenbedingung umfasst Bibliodiversität und allgemeine Bedingungen der Open-Access-Transformation. Die Akteure wirken auf die Rahmenbedingungen ein, die exemplarisch visualiserten Wechselwirkungen werden im folgenden Text aufgegriffen.">
+<object data="assets/images/figures/Kontext.svg" type="image/svg+xml" class="img-fluid"></object>
 
 </a>
 
@@ -2111,7 +2119,7 @@ FIDs sind beispielsweise Pollux für die Politikwissenschaft oder der FID Media 
       </div>
       <div class="modal-body">
         
-        <img class="img-fluid" src="assets/images/figures/Kontext.png" alt="Die Akteurskonstellation aus der ersten Grafik wird hier von drei konzentrischen Quadraten umgeben, die zentrale Rahmenbedingungen visualisieren. Diese basieren auf Erkenntnissen aus Literatur und früheren Publikationen. Von außen nach innen: 1) Gesetzliche Rahmenbedingung, die das Hochschulrecht und das öffentliche Haushaltsrecht beinhaltet; 2) Strukturelle Rahmenbedingung, die die wissenschaftliche Publikationskultur und eine limitierte Förderung (von Diamond Open Access) beschreibt; 3) Open-Access-Rahmenbedingung umfasst Bibliodiversität und allgemeine Bedingungen der Open-Access-Transformation. Die Akteure wirken auf die Rahmenbedingungen ein, die exemplarisch visualiserten Wechselwirkungen werden im folgenden Text aufgegriffen.">
+        <object data="assets/images/figures/Kontext.svg" type="image/svg+xml" class="img-fluid"></object>
         
       </div>
     </div>
@@ -2125,7 +2133,7 @@ FIDs sind beispielsweise Pollux für die Politikwissenschaft oder der FID Media 
     <p>Die Akteure sind nicht passiv oder handlungsunfähig in diese Rahmenbedingungen eingebunden, sondern können diese aktiv beeinflussen und gestalten.</p>
   </div>
   <div class="ms-col-marginal">
-    <aside class="ms-aside-hint"><p>Die dargestellten Einflussmöglichkeiten durch die Akteursgruppen sind beispielhaft herausgegriffen. Weitere Möglichkeiten gilt es natürlich auszuloten und in der Community zu entwickeln.</p></aside>
+    <aside class="ms-aside-hint"><p>Die dargestellten Einflussmöglichkeiten durch die Akteursgruppen sind beispielhaft herausgegriffen. Weitere Möglichkeiten gilt es auszuloten und in der Community zu entwickeln.</p></aside>
   </div>
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_144">
@@ -2832,15 +2840,6 @@ FIDs sind beispielsweise Pollux für die Politikwissenschaft oder der FID Media 
     <p>AuROA – Autor:innen und Rechtssicherheit für Open Access. (2022). Publizieren und Open Access in den Geisteswissenschaften: Erkenntnisse aus dem Projekt AuROA zu den Stakeholdern im Publikationsprozess. Essen. https://ualresearchonline.arts.ac.uk/id/eprint/21669</p>
     
     <a class="mdi mdi-earth" href="https://ualresearchonline.arts.ac.uk/id/eprint/21669/" target="_blank"></a>
-    
-  </p>
-</div>
-
-<div class="ms-entry">
-  <p>
-    <p>Averill, R. M., &amp; Major, J. (2020). What motivates higher education educators to innovate? Exploring competence, autonomy, and relatedness – and connections with wellbeing. <em>Educational Research, 62</em>(2), 146–161. https://doi.org/10.1080/00131881.2020.1755877</p>
-    
-    <a class="mdi mdi-earth" href="https://doi.org/10.1080/00131881.2020.1755877" target="_blank"></a>
     
   </p>
 </div>
