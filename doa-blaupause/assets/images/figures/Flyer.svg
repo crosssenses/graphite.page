@@ -1,0 +1,1549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 294.8 294.8">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        font-family: PTSans-Bold, 'PT Sans';
+      }
+
+      .cls-1, .cls-2, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        font-size: 4.45px;
+      }
+
+      .cls-1, .cls-12 {
+        fill: #fe9f4d;
+      }
+
+      .cls-1, .cls-5, .cls-7, .cls-13 {
+        letter-spacing: .02em;
+      }
+
+      .cls-14 {
+        fill: #f8d3af;
+      }
+
+      .cls-2, .cls-3, .cls-15, .cls-16, .cls-11 {
+        fill: #1a1a1a;
+      }
+
+      .cls-17, .cls-7 {
+        fill: #af7e04;
+      }
+
+      .cls-18 {
+        stroke: #659df2;
+      }
+
+      .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-18, .cls-19, .cls-21, .cls-22, .cls-23, .cls-26 {
+        stroke-width: .43px;
+      }
+
+      .cls-19 {
+        stroke: #8f7fee;
+      }
+
+      .cls-3 {
+        font-size: 9.9px;
+      }
+
+      .cls-20 {
+        stroke-dasharray: 0 2.1;
+      }
+
+      .cls-20, .cls-4, .cls-24, .cls-25 {
+        stroke: #231f20;
+      }
+
+      .cls-20, .cls-24, .cls-25 {
+        stroke-width: .53px;
+      }
+
+      .cls-27, .cls-5 {
+        fill: #8f7fee;
+      }
+
+      .cls-28 {
+        fill: #fff6b6;
+      }
+
+      .cls-21 {
+        stroke: #ff6464;
+      }
+
+      .cls-29, .cls-10 {
+        fill: #2dc75c;
+      }
+
+      .cls-22 {
+        stroke: #fe9f4d;
+      }
+
+      .cls-4 {
+        font-family: ScalaSansPro-Bold, 'Scala Sans Pro';
+        font-size: 4.92px;
+        stroke-width: .27px;
+      }
+
+      .cls-4, .cls-30, .cls-8 {
+        fill: #231f20;
+      }
+
+      .cls-31 {
+        fill-rule: evenodd;
+      }
+
+      .cls-23 {
+        stroke: #2dc75c;
+      }
+
+      .cls-24 {
+        stroke-dasharray: 0 2.13;
+      }
+
+      .cls-15 {
+        font-size: 7.92px;
+      }
+
+      .cls-15, .cls-30, .cls-32 {
+        font-family: PTSans-Regular, 'PT Sans';
+      }
+
+      .cls-6, .cls-33 {
+        fill: #ff6464;
+      }
+
+      .cls-30 {
+        font-size: 4.5px;
+      }
+
+      .cls-34 {
+        letter-spacing: 0em;
+      }
+
+      .cls-35 {
+        fill: #c6dcff;
+      }
+
+      .cls-36, .cls-9 {
+        fill: #659df2;
+      }
+
+      .cls-37 {
+        fill: #ffc6c6;
+      }
+
+      .cls-38 {
+        fill: #adf0c7;
+      }
+
+      .cls-39 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-40 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-41 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-42 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-43 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-44 {
+        letter-spacing: 0em;
+      }
+
+      .cls-45 {
+        fill: #dedaff;
+      }
+
+      .cls-32 {
+        fill: #858585;
+        font-size: 4.01px;
+      }
+
+      .cls-46 {
+        letter-spacing: .1em;
+      }
+
+      .cls-47 {
+        letter-spacing: .1em;
+      }
+
+      .cls-48 {
+        letter-spacing: .09em;
+      }
+
+      .cls-26 {
+        stroke: #af7e04;
+      }
+
+      .cls-49 {
+        letter-spacing: .02em;
+      }
+
+      .cls-11 {
+        font-size: 5.5px;
+      }
+
+      .cls-50 {
+        letter-spacing: .03em;
+      }
+    </style>
+  </defs>
+  <g id="Flyer">
+    <text class="cls-15" transform="translate(42.61 42.28)"><tspan x="0" y="0">Eine Blaupause für gemeinschaftliches Diamond Open Access</tspan></text>
+    <text class="cls-3" transform="translate(50.72 31)"><tspan x="0" y="0">Saat für Vielfalt und nachhaltiges Publizieren</tspan></text>
+    <g>
+      <g>
+        <path class="cls-31" d="M22.28,270.24l-.11-.07-.5-.19h0c-.06.03-.11.07-.16.12-.04.05-.06.11-.05.19,0,.05.02.09.04.12l.08.08.11.06.54.18c.05-.03.09-.07.12-.12.03-.05.04-.1.04-.16,0-.05-.01-.09-.04-.13l-.08-.09Z"/>
+        <path class="cls-31" d="M25.66,265.53h-6.61l-.02-2.96c0-.91.31-1.76.79-2.34.51-.61,1.16-1,1.93-1s1.42.39,1.9,1c.48.61.79,1.43.79,2.34v.73c.23,0,.43.21.43.46s-.2.46-.43.46v.43h.94v-2.06c0-1.24-.4-2.37-1.08-3.19v.03c-.65-.82-1.56-1.34-2.55-1.34s-1.93.52-2.58,1.31v.03c-.65.79-1.08,1.91-1.08,3.16v2.96h-.26c-.45,0-.83.38-.83.83v3.12c0,2.61,2.14,4.75,4.73,4.75s4.75-2.14,4.75-4.75v-3.12c0-.45-.38-.83-.83-.83ZM22.7,271.05c.03.07.05.14.05.23,0,.1-.02.19-.07.27-.05.08-.11.14-.18.2-.07.05-.16.09-.25.12-.09.03-.18.05-.28.05-.07,0-.15,0-.23,0-.08-.01-.16-.03-.23-.05-.08-.02-.15-.06-.22-.1-.07-.04-.13-.09-.19-.15l.34-.22c.05.08.13.13.22.16.09.03.18.05.27.04l.12-.02.11-.05s.06-.05.08-.08c.02-.03.03-.07.03-.11,0-.05-.02-.09-.04-.13-.03-.03-.06-.07-.11-.09l-.19-.07-.48-.15c-.08-.03-.15-.06-.21-.1-.06-.04-.11-.09-.16-.15-.04-.06-.07-.14-.09-.23-.01-.07,0-.14,0-.2.01-.06.04-.12.07-.17l.11-.14.14-.11c-.19-.1-.29-.26-.32-.49-.02-.13,0-.25.03-.35.04-.11.1-.2.18-.27.08-.08.18-.14.29-.18.11-.04.22-.07.34-.08.18-.02.36,0,.53.07.17.06.31.16.41.3h0s-.36.39-.36.39c-.06-.09-.14-.16-.24-.2-.1-.05-.19-.07-.29-.06l-.14.03-.12.07s-.06.06-.08.11c-.02.04-.03.09-.02.14,0,.06.02.11.06.15.03.04.08.08.13.11l.68.28c.09.04.17.09.24.14.07.05.13.12.17.19.04.07.06.16.06.26,0,.11-.03.21-.09.3-.06.09-.13.16-.22.21.08.05.13.11.16.17Z"/>
+      </g>
+      <text class="cls-4" transform="translate(30.48 261.94) scale(.93 1)"><tspan class="cls-46" x="0" y="0">ELAD</tspan><tspan class="cls-48" x="13.49" y="0">O</tspan><tspan class="cls-47" x="17.72" y="0">AH</tspan></text>
+    </g>
+    <text class="cls-30" transform="translate(30.71 268.44)"><tspan x="0" y="0">Eine Kooperation von Alexander von Humboldt Institut für Internet </tspan><tspan x="0" y="5.4">und Gesellschaft und Verfassungsblog, ge</tspan><tspan class="cls-44" x="80.03" y="5.4">f</tspan><tspan x="81.42" y="5.4">örde</tspan><tspan class="cls-50" x="90.07" y="5.4">r</tspan><tspan x="91.73" y="5.4">t</tspan><tspan class="cls-40" x="93.25" y="5.4"> </tspan><tspan class="cls-43" x="94.4" y="5.4">durch das </tspan><tspan x="113.72" y="5.4">BMFTR.</tspan></text>
+    <g id="Lizenz">
+      <text class="cls-32" transform="translate(276.81 237.23) rotate(-90)"><tspan class="cls-42" x="0" y="0">C</tspan><tspan class="cls-41" x="2.19" y="0">C</tspan><tspan class="cls-34" x="4.32" y="0" xml:space="preserve"> B</tspan><tspan class="cls-39" x="7.74" y="0">Y</tspan><tspan class="cls-34" x="9.88" y="0" xml:space="preserve"> 4.0</tspan></text>
+    </g>
+    <text class="cls-30" transform="translate(193.14 268.43)"><tspan x="0" y="0">Vollständiges Modell unter</tspan><tspan x="-4.5" y="5.4">graphite.page/doa-blaupause</tspan></text>
+    <g id="QR_Graphite" data-name="QR Graphite">
+      <g id="Rectangle_136" data-name="Rectangle 136">
+        <rect class="cls-16" x="249.61" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_137" data-name="Rectangle 137">
+        <rect class="cls-16" x="249.61" y="248.36" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="248.55" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_138" data-name="Rectangle 138">
+        <rect class="cls-16" x="249.61" y="249.45" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="249.63" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_139" data-name="Rectangle 139">
+        <rect class="cls-16" x="249.61" y="250.54" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="250.72" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_140" data-name="Rectangle 140">
+        <rect class="cls-16" x="249.61" y="251.62" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="251.8" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_141" data-name="Rectangle 141">
+        <rect class="cls-16" x="249.61" y="252.71" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="252.89" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_142" data-name="Rectangle 142">
+        <rect class="cls-16" x="249.61" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_143" data-name="Rectangle 143">
+        <rect class="cls-16" x="249.61" y="259.23" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="259.41" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_144" data-name="Rectangle 144">
+        <rect class="cls-16" x="249.61" y="261.4" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="261.58" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_145" data-name="Rectangle 145">
+        <rect class="cls-16" x="249.61" y="262.48" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="262.67" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_146" data-name="Rectangle 146">
+        <rect class="cls-16" x="249.61" y="263.57" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="263.75" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_147" data-name="Rectangle 147">
+        <rect class="cls-16" x="249.61" y="264.66" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="264.84" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_148" data-name="Rectangle 148">
+        <rect class="cls-16" x="249.61" y="266.83" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="267.01" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_149" data-name="Rectangle 149">
+        <rect class="cls-16" x="249.61" y="267.91" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="268.1" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_150" data-name="Rectangle 150">
+        <rect class="cls-16" x="249.61" y="269" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="269.18" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_151" data-name="Rectangle 151">
+        <rect class="cls-16" x="249.61" y="270.09" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="270.27" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_152" data-name="Rectangle 152">
+        <rect class="cls-16" x="249.61" y="271.17" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="271.35" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_153" data-name="Rectangle 153">
+        <rect class="cls-16" x="249.61" y="272.26" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="272.44" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_154" data-name="Rectangle 154">
+        <rect class="cls-16" x="249.61" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="249.79" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_155" data-name="Rectangle 155">
+        <rect class="cls-16" x="250.7" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="250.88" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_156" data-name="Rectangle 156">
+        <rect class="cls-16" x="250.7" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="250.88" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_157" data-name="Rectangle 157">
+        <rect class="cls-16" x="250.7" y="259.23" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="250.88" y="259.41" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_158" data-name="Rectangle 158">
+        <rect class="cls-16" x="250.7" y="260.31" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="250.88" y="260.49" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_159" data-name="Rectangle 159">
+        <rect class="cls-16" x="250.7" y="262.48" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="250.88" y="262.67" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_160" data-name="Rectangle 160">
+        <rect class="cls-16" x="250.7" y="263.57" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="250.88" y="263.75" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_161" data-name="Rectangle 161">
+        <rect class="cls-16" x="250.7" y="264.66" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="250.88" y="264.84" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_162" data-name="Rectangle 162">
+        <rect class="cls-16" x="250.7" y="266.83" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="250.88" y="267.01" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_163" data-name="Rectangle 163">
+        <rect class="cls-16" x="250.7" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="250.88" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_164" data-name="Rectangle 164">
+        <rect class="cls-16" x="251.78" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="251.96" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_165" data-name="Rectangle 165">
+        <rect class="cls-16" x="251.78" y="249.45" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="251.96" y="249.63" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_166" data-name="Rectangle 166">
+        <rect class="cls-16" x="251.78" y="250.54" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="251.96" y="250.72" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_167" data-name="Rectangle 167">
+        <rect class="cls-16" x="251.78" y="251.62" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="251.96" y="251.8" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_168" data-name="Rectangle 168">
+        <rect class="cls-16" x="251.78" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="251.96" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_169" data-name="Rectangle 169">
+        <rect class="cls-16" x="251.78" y="255.97" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="251.96" y="256.15" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_170" data-name="Rectangle 170">
+        <rect class="cls-16" x="251.78" y="266.83" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="251.96" y="267.01" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_171" data-name="Rectangle 171">
+        <rect class="cls-16" x="251.78" y="269" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="251.96" y="269.18" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_172" data-name="Rectangle 172">
+        <rect class="cls-16" x="251.78" y="270.09" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="251.96" y="270.27" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_173" data-name="Rectangle 173">
+        <rect class="cls-16" x="251.78" y="271.17" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="251.96" y="271.35" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_174" data-name="Rectangle 174">
+        <rect class="cls-16" x="251.78" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="251.96" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_175" data-name="Rectangle 175">
+        <rect class="cls-16" x="252.87" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="253.05" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_176" data-name="Rectangle 176">
+        <rect class="cls-16" x="252.87" y="249.45" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="253.05" y="249.63" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_177" data-name="Rectangle 177">
+        <rect class="cls-16" x="252.87" y="250.54" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="253.05" y="250.72" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_178" data-name="Rectangle 178">
+        <rect class="cls-16" x="252.87" y="251.62" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="253.05" y="251.8" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_179" data-name="Rectangle 179">
+        <rect class="cls-16" x="252.87" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="253.05" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_180" data-name="Rectangle 180">
+        <rect class="cls-16" x="252.87" y="258.14" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="253.05" y="258.32" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_181" data-name="Rectangle 181">
+        <rect class="cls-16" x="252.87" y="259.23" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="253.05" y="259.41" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_182" data-name="Rectangle 182">
+        <rect class="cls-16" x="252.87" y="260.31" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="253.05" y="260.49" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_183" data-name="Rectangle 183">
+        <rect class="cls-16" x="252.87" y="262.48" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="253.05" y="262.67" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_184" data-name="Rectangle 184">
+        <rect class="cls-16" x="252.87" y="263.57" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="253.05" y="263.75" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_185" data-name="Rectangle 185">
+        <rect class="cls-16" x="252.87" y="266.83" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="253.05" y="267.01" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_186" data-name="Rectangle 186">
+        <rect class="cls-16" x="252.87" y="269" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="253.05" y="269.18" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_187" data-name="Rectangle 187">
+        <rect class="cls-16" x="252.87" y="270.09" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="253.05" y="270.27" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_188" data-name="Rectangle 188">
+        <rect class="cls-16" x="252.87" y="271.17" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="253.05" y="271.35" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_189" data-name="Rectangle 189">
+        <rect class="cls-16" x="252.87" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="253.05" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_190" data-name="Rectangle 190">
+        <rect class="cls-16" x="253.95" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="254.13" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_191" data-name="Rectangle 191">
+        <rect class="cls-16" x="253.95" y="249.45" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="254.13" y="249.63" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_192" data-name="Rectangle 192">
+        <rect class="cls-16" x="253.95" y="250.54" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="254.13" y="250.72" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_193" data-name="Rectangle 193">
+        <rect class="cls-16" x="253.95" y="251.62" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="254.13" y="251.8" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_194" data-name="Rectangle 194">
+        <rect class="cls-16" x="253.95" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="254.13" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_195" data-name="Rectangle 195">
+        <rect class="cls-16" x="253.95" y="258.14" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="254.13" y="258.32" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_196" data-name="Rectangle 196">
+        <rect class="cls-16" x="253.95" y="259.23" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="254.13" y="259.41" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_197" data-name="Rectangle 197">
+        <rect class="cls-16" x="253.95" y="262.48" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="254.13" y="262.67" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_198" data-name="Rectangle 198">
+        <rect class="cls-16" x="253.95" y="263.57" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="254.13" y="263.75" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_199" data-name="Rectangle 199">
+        <rect class="cls-16" x="253.95" y="266.83" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="254.13" y="267.01" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_200" data-name="Rectangle 200">
+        <rect class="cls-16" x="253.95" y="269" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="254.13" y="269.18" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_201" data-name="Rectangle 201">
+        <rect class="cls-16" x="253.95" y="270.09" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="254.13" y="270.27" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_202" data-name="Rectangle 202">
+        <rect class="cls-16" x="253.95" y="271.17" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="254.13" y="271.35" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_203" data-name="Rectangle 203">
+        <rect class="cls-16" x="253.95" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="254.13" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_204" data-name="Rectangle 204">
+        <rect class="cls-16" x="255.04" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="255.22" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_205" data-name="Rectangle 205">
+        <rect class="cls-16" x="255.04" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="255.22" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_206" data-name="Rectangle 206">
+        <rect class="cls-16" x="255.04" y="257.05" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="255.22" y="257.23" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_207" data-name="Rectangle 207">
+        <rect class="cls-16" x="255.04" y="258.14" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="255.22" y="258.32" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_208" data-name="Rectangle 208">
+        <rect class="cls-16" x="255.04" y="259.23" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="255.22" y="259.41" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_209" data-name="Rectangle 209">
+        <rect class="cls-16" x="255.04" y="260.31" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="255.22" y="260.49" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_210" data-name="Rectangle 210">
+        <rect class="cls-16" x="255.04" y="261.4" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="255.22" y="261.58" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_211" data-name="Rectangle 211">
+        <rect class="cls-16" x="255.04" y="262.48" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="255.22" y="262.67" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_212" data-name="Rectangle 212">
+        <rect class="cls-16" x="255.04" y="263.57" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="255.22" y="263.75" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_213" data-name="Rectangle 213">
+        <rect class="cls-16" x="255.04" y="264.66" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="255.22" y="264.84" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_214" data-name="Rectangle 214">
+        <rect class="cls-16" x="255.04" y="266.83" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="255.22" y="267.01" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_215" data-name="Rectangle 215">
+        <rect class="cls-16" x="255.04" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="255.22" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_216" data-name="Rectangle 216">
+        <rect class="cls-16" x="256.13" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_217" data-name="Rectangle 217">
+        <rect class="cls-16" x="256.13" y="248.36" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="248.55" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_218" data-name="Rectangle 218">
+        <rect class="cls-16" x="256.13" y="249.45" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="249.63" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_219" data-name="Rectangle 219">
+        <rect class="cls-16" x="256.13" y="250.54" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="250.72" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_220" data-name="Rectangle 220">
+        <rect class="cls-16" x="256.13" y="251.62" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="251.8" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_221" data-name="Rectangle 221">
+        <rect class="cls-16" x="256.13" y="252.71" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="252.89" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_222" data-name="Rectangle 222">
+        <rect class="cls-16" x="256.13" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_223" data-name="Rectangle 223">
+        <rect class="cls-16" x="256.13" y="255.97" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="256.15" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_224" data-name="Rectangle 224">
+        <rect class="cls-16" x="256.13" y="258.14" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="258.32" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_225" data-name="Rectangle 225">
+        <rect class="cls-16" x="256.13" y="260.31" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="260.49" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_226" data-name="Rectangle 226">
+        <rect class="cls-16" x="256.13" y="262.48" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="262.67" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_227" data-name="Rectangle 227">
+        <rect class="cls-16" x="256.13" y="264.66" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="264.84" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_228" data-name="Rectangle 228">
+        <rect class="cls-16" x="256.13" y="266.83" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="267.01" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_229" data-name="Rectangle 229">
+        <rect class="cls-16" x="256.13" y="267.91" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="268.1" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_230" data-name="Rectangle 230">
+        <rect class="cls-16" x="256.13" y="269" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="269.18" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_231" data-name="Rectangle 231">
+        <rect class="cls-16" x="256.13" y="270.09" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="270.27" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_232" data-name="Rectangle 232">
+        <rect class="cls-16" x="256.13" y="271.17" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="271.35" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_233" data-name="Rectangle 233">
+        <rect class="cls-16" x="256.13" y="272.26" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="272.44" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_234" data-name="Rectangle 234">
+        <rect class="cls-16" x="256.13" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="256.31" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_235" data-name="Rectangle 235">
+        <rect class="cls-16" x="257.21" y="255.97" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="257.39" y="256.15" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_236" data-name="Rectangle 236">
+        <rect class="cls-16" x="257.21" y="257.05" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="257.39" y="257.23" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_237" data-name="Rectangle 237">
+        <rect class="cls-16" x="257.21" y="258.14" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="257.39" y="258.32" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_238" data-name="Rectangle 238">
+        <rect class="cls-16" x="257.21" y="259.23" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="257.39" y="259.41" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_239" data-name="Rectangle 239">
+        <rect class="cls-16" x="257.21" y="261.4" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="257.39" y="261.58" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_240" data-name="Rectangle 240">
+        <rect class="cls-16" x="257.21" y="264.66" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="257.39" y="264.84" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_241" data-name="Rectangle 241">
+        <rect class="cls-16" x="258.3" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="258.48" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_242" data-name="Rectangle 242">
+        <rect class="cls-16" x="258.3" y="248.36" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="258.48" y="248.55" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_243" data-name="Rectangle 243">
+        <rect class="cls-16" x="258.3" y="249.45" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="258.48" y="249.63" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_244" data-name="Rectangle 244">
+        <rect class="cls-16" x="258.3" y="251.62" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="258.48" y="251.8" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_245" data-name="Rectangle 245">
+        <rect class="cls-16" x="258.3" y="252.71" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="258.48" y="252.89" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_246" data-name="Rectangle 246">
+        <rect class="cls-16" x="258.3" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="258.48" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_247" data-name="Rectangle 247">
+        <rect class="cls-16" x="258.3" y="254.88" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="258.48" y="255.06" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_248" data-name="Rectangle 248">
+        <rect class="cls-16" x="258.3" y="255.97" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="258.48" y="256.15" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_249" data-name="Rectangle 249">
+        <rect class="cls-16" x="258.3" y="257.05" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="258.48" y="257.23" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_250" data-name="Rectangle 250">
+        <rect class="cls-16" x="258.3" y="258.14" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="258.48" y="258.32" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_251" data-name="Rectangle 251">
+        <rect class="cls-16" x="258.3" y="260.31" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="258.48" y="260.49" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_252" data-name="Rectangle 252">
+        <rect class="cls-16" x="258.3" y="261.4" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="258.48" y="261.58" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_253" data-name="Rectangle 253">
+        <rect class="cls-16" x="258.3" y="264.66" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="258.48" y="264.84" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_254" data-name="Rectangle 254">
+        <rect class="cls-16" x="258.3" y="265.74" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="258.48" y="265.92" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_255" data-name="Rectangle 255">
+        <rect class="cls-16" x="258.3" y="266.83" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="258.48" y="267.01" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_256" data-name="Rectangle 256">
+        <rect class="cls-16" x="258.3" y="271.17" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="258.48" y="271.35" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_257" data-name="Rectangle 257">
+        <rect class="cls-16" x="259.38" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="259.56" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_258" data-name="Rectangle 258">
+        <rect class="cls-16" x="259.38" y="252.71" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="259.56" y="252.89" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_259" data-name="Rectangle 259">
+        <rect class="cls-16" x="259.38" y="257.05" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="259.56" y="257.23" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_260" data-name="Rectangle 260">
+        <rect class="cls-16" x="259.38" y="260.31" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="259.56" y="260.49" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_261" data-name="Rectangle 261">
+        <rect class="cls-16" x="259.38" y="264.66" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="259.56" y="264.84" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_262" data-name="Rectangle 262">
+        <rect class="cls-16" x="259.38" y="265.74" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="259.56" y="265.92" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_263" data-name="Rectangle 263">
+        <rect class="cls-16" x="259.38" y="266.83" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="259.56" y="267.01" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_264" data-name="Rectangle 264">
+        <rect class="cls-16" x="259.38" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="259.56" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_265" data-name="Rectangle 265">
+        <rect class="cls-16" x="260.47" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="260.65" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_266" data-name="Rectangle 266">
+        <rect class="cls-16" x="260.47" y="248.36" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="260.65" y="248.55" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_267" data-name="Rectangle 267">
+        <rect class="cls-16" x="260.47" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="260.65" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_268" data-name="Rectangle 268">
+        <rect class="cls-16" x="260.47" y="254.88" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="260.65" y="255.06" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_269" data-name="Rectangle 269">
+        <rect class="cls-16" x="260.47" y="255.97" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="260.65" y="256.15" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_270" data-name="Rectangle 270">
+        <rect class="cls-16" x="260.47" y="258.14" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="260.65" y="258.32" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_271" data-name="Rectangle 271">
+        <rect class="cls-16" x="260.47" y="260.31" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="260.65" y="260.49" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_272" data-name="Rectangle 272">
+        <rect class="cls-16" x="260.47" y="261.4" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="260.65" y="261.58" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_273" data-name="Rectangle 273">
+        <rect class="cls-16" x="260.47" y="269" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="260.65" y="269.18" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_274" data-name="Rectangle 274">
+        <rect class="cls-16" x="260.47" y="270.09" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="260.65" y="270.27" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_275" data-name="Rectangle 275">
+        <rect class="cls-16" x="260.47" y="272.26" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="260.65" y="272.44" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_276" data-name="Rectangle 276">
+        <rect class="cls-16" x="260.47" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="260.65" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_277" data-name="Rectangle 277">
+        <rect class="cls-16" x="261.56" y="250.54" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="261.74" y="250.72" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_278" data-name="Rectangle 278">
+        <rect class="cls-16" x="261.56" y="251.62" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="261.74" y="251.8" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_279" data-name="Rectangle 279">
+        <rect class="cls-16" x="261.56" y="254.88" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="261.74" y="255.06" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_280" data-name="Rectangle 280">
+        <rect class="cls-16" x="261.56" y="257.05" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="261.74" y="257.23" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_281" data-name="Rectangle 281">
+        <rect class="cls-16" x="261.56" y="259.23" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="261.74" y="259.41" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_282" data-name="Rectangle 282">
+        <rect class="cls-16" x="261.56" y="261.4" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="261.74" y="261.58" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_283" data-name="Rectangle 283">
+        <rect class="cls-16" x="261.56" y="262.48" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="261.74" y="262.67" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_284" data-name="Rectangle 284">
+        <rect class="cls-16" x="261.56" y="263.57" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="261.74" y="263.75" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_285" data-name="Rectangle 285">
+        <rect class="cls-16" x="261.56" y="267.91" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="261.74" y="268.1" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_286" data-name="Rectangle 286">
+        <rect class="cls-16" x="261.56" y="269" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="261.74" y="269.18" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_287" data-name="Rectangle 287">
+        <rect class="cls-16" x="261.56" y="270.09" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="261.74" y="270.27" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_288" data-name="Rectangle 288">
+        <rect class="cls-16" x="261.56" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="261.74" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_289" data-name="Rectangle 289">
+        <rect class="cls-16" x="262.64" y="250.54" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="262.82" y="250.72" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_290" data-name="Rectangle 290">
+        <rect class="cls-16" x="262.64" y="251.62" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="262.82" y="251.8" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_291" data-name="Rectangle 291">
+        <rect class="cls-16" x="262.64" y="252.71" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="262.82" y="252.89" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_292" data-name="Rectangle 292">
+        <rect class="cls-16" x="262.64" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="262.82" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_293" data-name="Rectangle 293">
+        <rect class="cls-16" x="262.64" y="258.14" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="262.82" y="258.32" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_294" data-name="Rectangle 294">
+        <rect class="cls-16" x="262.64" y="261.4" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="262.82" y="261.58" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_295" data-name="Rectangle 295">
+        <rect class="cls-16" x="262.64" y="264.66" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="262.82" y="264.84" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_296" data-name="Rectangle 296">
+        <rect class="cls-16" x="262.64" y="265.74" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="262.82" y="265.92" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_297" data-name="Rectangle 297">
+        <rect class="cls-16" x="262.64" y="266.83" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="262.82" y="267.01" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_298" data-name="Rectangle 298">
+        <rect class="cls-16" x="262.64" y="272.26" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="262.82" y="272.44" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_299" data-name="Rectangle 299">
+        <rect class="cls-16" x="262.64" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="262.82" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_300" data-name="Rectangle 300">
+        <rect class="cls-16" x="263.73" y="254.88" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="263.91" y="255.06" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_301" data-name="Rectangle 301">
+        <rect class="cls-16" x="263.73" y="257.05" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="263.91" y="257.23" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_302" data-name="Rectangle 302">
+        <rect class="cls-16" x="263.73" y="260.31" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="263.91" y="260.49" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_303" data-name="Rectangle 303">
+        <rect class="cls-16" x="263.73" y="261.4" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="263.91" y="261.58" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_304" data-name="Rectangle 304">
+        <rect class="cls-16" x="263.73" y="264.66" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="263.91" y="264.84" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_305" data-name="Rectangle 305">
+        <rect class="cls-16" x="263.73" y="266.83" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="263.91" y="267.01" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_306" data-name="Rectangle 306">
+        <rect class="cls-16" x="263.73" y="271.17" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="263.91" y="271.35" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_307" data-name="Rectangle 307">
+        <rect class="cls-16" x="263.73" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="263.91" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_308" data-name="Rectangle 308">
+        <rect class="cls-16" x="264.81" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="265" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_309" data-name="Rectangle 309">
+        <rect class="cls-16" x="264.81" y="249.45" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="265" y="249.63" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_310" data-name="Rectangle 310">
+        <rect class="cls-16" x="264.81" y="250.54" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="265" y="250.72" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_311" data-name="Rectangle 311">
+        <rect class="cls-16" x="264.81" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="265" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_312" data-name="Rectangle 312">
+        <rect class="cls-16" x="264.81" y="257.05" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="265" y="257.23" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_313" data-name="Rectangle 313">
+        <rect class="cls-16" x="264.81" y="262.48" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="265" y="262.67" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_314" data-name="Rectangle 314">
+        <rect class="cls-16" x="264.81" y="264.66" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="265" y="264.84" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_315" data-name="Rectangle 315">
+        <rect class="cls-16" x="264.81" y="265.74" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="265" y="265.92" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_316" data-name="Rectangle 316">
+        <rect class="cls-16" x="264.81" y="266.83" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="265" y="267.01" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_317" data-name="Rectangle 317">
+        <rect class="cls-16" x="264.81" y="269" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="265" y="269.18" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_318" data-name="Rectangle 318">
+        <rect class="cls-16" x="264.81" y="272.26" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="265" y="272.44" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_319" data-name="Rectangle 319">
+        <rect class="cls-16" x="264.81" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="265" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_320" data-name="Rectangle 320">
+        <rect class="cls-16" x="265.9" y="248.36" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="266.08" y="248.55" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_321" data-name="Rectangle 321">
+        <rect class="cls-16" x="265.9" y="250.54" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="266.08" y="250.72" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_322" data-name="Rectangle 322">
+        <rect class="cls-16" x="265.9" y="254.88" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="266.08" y="255.06" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_323" data-name="Rectangle 323">
+        <rect class="cls-16" x="265.9" y="258.14" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="266.08" y="258.32" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_324" data-name="Rectangle 324">
+        <rect class="cls-16" x="265.9" y="259.23" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="266.08" y="259.41" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_325" data-name="Rectangle 325">
+        <rect class="cls-16" x="265.9" y="260.31" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="266.08" y="260.49" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_326" data-name="Rectangle 326">
+        <rect class="cls-16" x="265.9" y="261.4" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="266.08" y="261.58" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_327" data-name="Rectangle 327">
+        <rect class="cls-16" x="265.9" y="262.48" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="266.08" y="262.67" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_328" data-name="Rectangle 328">
+        <rect class="cls-16" x="265.9" y="263.57" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="266.08" y="263.75" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_329" data-name="Rectangle 329">
+        <rect class="cls-16" x="265.9" y="265.74" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="266.08" y="265.92" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_330" data-name="Rectangle 330">
+        <rect class="cls-16" x="265.9" y="267.91" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="266.08" y="268.1" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_331" data-name="Rectangle 331">
+        <rect class="cls-16" x="265.9" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="266.08" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_332" data-name="Rectangle 332">
+        <rect class="cls-16" x="266.99" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="267.17" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_333" data-name="Rectangle 333">
+        <rect class="cls-16" x="266.99" y="251.62" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="267.17" y="251.8" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_334" data-name="Rectangle 334">
+        <rect class="cls-16" x="266.99" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="267.17" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_335" data-name="Rectangle 335">
+        <rect class="cls-16" x="266.99" y="255.97" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="267.17" y="256.15" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_336" data-name="Rectangle 336">
+        <rect class="cls-16" x="266.99" y="258.14" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="267.17" y="258.32" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_337" data-name="Rectangle 337">
+        <rect class="cls-16" x="266.99" y="261.4" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="267.17" y="261.58" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_338" data-name="Rectangle 338">
+        <rect class="cls-16" x="266.99" y="262.48" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="267.17" y="262.67" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_339" data-name="Rectangle 339">
+        <rect class="cls-16" x="266.99" y="264.66" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="267.17" y="264.84" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_340" data-name="Rectangle 340">
+        <rect class="cls-16" x="266.99" y="265.74" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="267.17" y="265.92" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_341" data-name="Rectangle 341">
+        <rect class="cls-16" x="266.99" y="266.83" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="267.17" y="267.01" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_342" data-name="Rectangle 342">
+        <rect class="cls-16" x="266.99" y="267.91" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="267.17" y="268.1" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_343" data-name="Rectangle 343">
+        <rect class="cls-16" x="266.99" y="269" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="267.17" y="269.18" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_344" data-name="Rectangle 344">
+        <rect class="cls-16" x="266.99" y="272.26" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="267.17" y="272.44" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_345" data-name="Rectangle 345">
+        <rect class="cls-16" x="266.99" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="267.17" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_346" data-name="Rectangle 346">
+        <rect class="cls-16" x="268.07" y="255.97" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="268.25" y="256.15" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_347" data-name="Rectangle 347">
+        <rect class="cls-16" x="268.07" y="257.05" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="268.25" y="257.23" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_349" data-name="Rectangle 349">
+        <rect class="cls-16" x="268.07" y="264.66" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="268.25" y="264.84" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_350" data-name="Rectangle 350">
+        <rect class="cls-16" x="268.07" y="269" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="268.25" y="269.18" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_351" data-name="Rectangle 351">
+        <rect class="cls-16" x="268.07" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="268.25" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_352" data-name="Rectangle 352">
+        <rect class="cls-16" x="269.16" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="269.34" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_353" data-name="Rectangle 353">
+        <rect class="cls-16" x="269.16" y="248.36" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="269.34" y="248.55" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_354" data-name="Rectangle 354">
+        <rect class="cls-16" x="269.16" y="249.45" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="269.34" y="249.63" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_355" data-name="Rectangle 355">
+        <rect class="cls-16" x="269.16" y="250.54" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="269.34" y="250.72" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_356" data-name="Rectangle 356">
+        <rect class="cls-16" x="269.16" y="251.62" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="269.34" y="251.8" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_357" data-name="Rectangle 357">
+        <rect class="cls-16" x="269.16" y="252.71" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="269.34" y="252.89" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_358" data-name="Rectangle 358">
+        <rect class="cls-16" x="269.16" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="269.34" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_359" data-name="Rectangle 359">
+        <rect class="cls-16" x="269.16" y="255.97" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="269.34" y="256.15" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_360" data-name="Rectangle 360">
+        <rect class="cls-16" x="269.16" y="258.14" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="269.34" y="258.32" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_361" data-name="Rectangle 361">
+        <rect class="cls-16" x="269.16" y="263.57" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="269.34" y="263.75" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_362" data-name="Rectangle 362">
+        <rect class="cls-16" x="269.16" y="264.66" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="269.34" y="264.84" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_363" data-name="Rectangle 363">
+        <rect class="cls-16" x="269.16" y="266.83" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="269.34" y="267.01" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_364" data-name="Rectangle 364">
+        <rect class="cls-16" x="269.16" y="269" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="269.34" y="269.18" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_365" data-name="Rectangle 365">
+        <rect class="cls-16" x="269.16" y="270.09" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="269.34" y="270.27" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_366" data-name="Rectangle 366">
+        <rect class="cls-16" x="269.16" y="272.26" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="269.34" y="272.44" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_367" data-name="Rectangle 367">
+        <rect class="cls-16" x="269.16" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="269.34" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_368" data-name="Rectangle 368">
+        <rect class="cls-16" x="270.24" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="270.43" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_369" data-name="Rectangle 369">
+        <rect class="cls-16" x="270.24" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="270.43" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_370" data-name="Rectangle 370">
+        <rect class="cls-16" x="270.24" y="255.97" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="270.43" y="256.15" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_371" data-name="Rectangle 371">
+        <rect class="cls-16" x="270.24" y="259.23" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="270.43" y="259.41" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_372" data-name="Rectangle 372">
+        <rect class="cls-16" x="270.24" y="261.4" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="270.43" y="261.58" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_373" data-name="Rectangle 373">
+        <rect class="cls-16" x="270.24" y="262.48" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="270.43" y="262.67" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_374" data-name="Rectangle 374">
+        <rect class="cls-16" x="270.24" y="264.66" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="270.43" y="264.84" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_375" data-name="Rectangle 375">
+        <rect class="cls-16" x="270.24" y="269" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="270.43" y="269.18" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_376" data-name="Rectangle 376">
+        <rect class="cls-16" x="270.24" y="272.26" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="270.43" y="272.44" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_377" data-name="Rectangle 377">
+        <rect class="cls-16" x="271.33" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="271.51" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_378" data-name="Rectangle 378">
+        <rect class="cls-16" x="271.33" y="249.45" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="271.51" y="249.63" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_379" data-name="Rectangle 379">
+        <rect class="cls-16" x="271.33" y="250.54" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="271.51" y="250.72" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_380" data-name="Rectangle 380">
+        <rect class="cls-16" x="271.33" y="251.62" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="271.51" y="251.8" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_381" data-name="Rectangle 381">
+        <rect class="cls-16" x="271.33" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="271.51" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_382" data-name="Rectangle 382">
+        <rect class="cls-16" x="271.33" y="255.97" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="271.51" y="256.15" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_383" data-name="Rectangle 383">
+        <rect class="cls-16" x="271.33" y="260.31" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="271.51" y="260.49" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_384" data-name="Rectangle 384">
+        <rect class="cls-16" x="271.33" y="261.4" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="271.51" y="261.58" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_385" data-name="Rectangle 385">
+        <rect class="cls-16" x="271.33" y="264.66" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="271.51" y="264.84" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_386" data-name="Rectangle 386">
+        <rect class="cls-16" x="271.33" y="265.74" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="271.51" y="265.92" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_387" data-name="Rectangle 387">
+        <rect class="cls-16" x="271.33" y="266.83" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="271.51" y="267.01" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_388" data-name="Rectangle 388">
+        <rect class="cls-16" x="271.33" y="267.91" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="271.51" y="268.1" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_389" data-name="Rectangle 389">
+        <rect class="cls-16" x="271.33" y="269" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="271.51" y="269.18" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_390" data-name="Rectangle 390">
+        <rect class="cls-16" x="271.33" y="270.09" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="271.51" y="270.27" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_391" data-name="Rectangle 391">
+        <rect class="cls-16" x="271.33" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="271.51" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_392" data-name="Rectangle 392">
+        <rect class="cls-16" x="272.42" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="272.6" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_393" data-name="Rectangle 393">
+        <rect class="cls-16" x="272.42" y="249.45" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="272.6" y="249.63" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_394" data-name="Rectangle 394">
+        <rect class="cls-16" x="272.42" y="250.54" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="272.6" y="250.72" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_395" data-name="Rectangle 395">
+        <rect class="cls-16" x="272.42" y="251.62" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="272.6" y="251.8" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_396" data-name="Rectangle 396">
+        <rect class="cls-16" x="272.42" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="272.6" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_397" data-name="Rectangle 397">
+        <rect class="cls-16" x="272.42" y="260.31" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="272.6" y="260.49" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_398" data-name="Rectangle 398">
+        <rect class="cls-16" x="272.42" y="261.4" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="272.6" y="261.58" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_399" data-name="Rectangle 399">
+        <rect class="cls-16" x="272.42" y="263.57" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="272.6" y="263.75" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_400" data-name="Rectangle 400">
+        <rect class="cls-16" x="272.42" y="264.66" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="272.6" y="264.84" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_401" data-name="Rectangle 401">
+        <rect class="cls-16" x="272.42" y="269" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="272.6" y="269.18" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_402" data-name="Rectangle 402">
+        <rect class="cls-16" x="272.42" y="270.09" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="272.6" y="270.27" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_403" data-name="Rectangle 403">
+        <rect class="cls-16" x="272.42" y="272.26" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="272.6" y="272.44" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_404" data-name="Rectangle 404">
+        <rect class="cls-16" x="272.42" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="272.6" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_405" data-name="Rectangle 405">
+        <rect class="cls-16" x="273.5" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="273.68" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_406" data-name="Rectangle 406">
+        <rect class="cls-16" x="273.5" y="249.45" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="273.68" y="249.63" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_407" data-name="Rectangle 407">
+        <rect class="cls-16" x="273.5" y="250.54" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="273.68" y="250.72" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_408" data-name="Rectangle 408">
+        <rect class="cls-16" x="273.5" y="251.62" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="273.68" y="251.8" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_409" data-name="Rectangle 409">
+        <rect class="cls-16" x="273.5" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="273.68" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_410" data-name="Rectangle 410">
+        <rect class="cls-16" x="273.5" y="255.97" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="273.68" y="256.15" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_411" data-name="Rectangle 411">
+        <rect class="cls-16" x="273.5" y="257.05" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="273.68" y="257.23" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_412" data-name="Rectangle 412">
+        <rect class="cls-16" x="273.5" y="260.31" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="273.68" y="260.49" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_413" data-name="Rectangle 413">
+        <rect class="cls-16" x="273.5" y="261.4" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="273.68" y="261.58" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_414" data-name="Rectangle 414">
+        <rect class="cls-16" x="273.5" y="262.48" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="273.68" y="262.67" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_415" data-name="Rectangle 415">
+        <rect class="cls-16" x="273.5" y="263.57" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="273.68" y="263.75" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_416" data-name="Rectangle 416">
+        <rect class="cls-16" x="273.5" y="267.91" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="273.68" y="268.1" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_417" data-name="Rectangle 417">
+        <rect class="cls-16" x="273.5" y="269" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="273.68" y="269.18" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_418" data-name="Rectangle 418">
+        <rect class="cls-16" x="273.5" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="273.68" y="273.53" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_419" data-name="Rectangle 419">
+        <rect class="cls-16" x="274.59" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="274.77" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_420" data-name="Rectangle 420">
+        <rect class="cls-16" x="274.59" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="274.77" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_421" data-name="Rectangle 421">
+        <rect class="cls-16" x="274.59" y="255.97" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="274.77" y="256.15" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_422" data-name="Rectangle 422">
+        <rect class="cls-16" x="274.59" y="259.23" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="274.77" y="259.41" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_423" data-name="Rectangle 423">
+        <rect class="cls-16" x="274.59" y="260.31" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="274.77" y="260.49" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_424" data-name="Rectangle 424">
+        <rect class="cls-16" x="274.59" y="261.4" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="274.77" y="261.58" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_425" data-name="Rectangle 425">
+        <rect class="cls-16" x="274.59" y="263.57" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="274.77" y="263.75" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_426" data-name="Rectangle 426">
+        <rect class="cls-16" x="274.59" y="264.66" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="274.77" y="264.84" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_427" data-name="Rectangle 427">
+        <rect class="cls-16" x="274.59" y="272.26" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="274.77" y="272.44" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_428" data-name="Rectangle 428">
+        <rect class="cls-16" x="275.68" y="247.28" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="275.86" y="247.46" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_429" data-name="Rectangle 429">
+        <rect class="cls-16" x="275.68" y="248.36" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="275.86" y="248.55" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_430" data-name="Rectangle 430">
+        <rect class="cls-16" x="275.68" y="249.45" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="275.86" y="249.63" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_431" data-name="Rectangle 431">
+        <rect class="cls-16" x="275.68" y="250.54" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="275.86" y="250.72" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_432" data-name="Rectangle 432">
+        <rect class="cls-16" x="275.68" y="251.62" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="275.86" y="251.8" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_433" data-name="Rectangle 433">
+        <rect class="cls-16" x="275.68" y="252.71" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="275.86" y="252.89" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_434" data-name="Rectangle 434">
+        <rect class="cls-16" x="275.68" y="253.8" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="275.86" y="253.98" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_435" data-name="Rectangle 435">
+        <rect class="cls-16" x="275.68" y="255.97" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="275.86" y="256.15" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_436" data-name="Rectangle 436">
+        <rect class="cls-16" x="275.68" y="257.05" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="275.86" y="257.23" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_437" data-name="Rectangle 437">
+        <rect class="cls-16" x="275.68" y="259.23" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="275.86" y="259.41" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_438" data-name="Rectangle 438">
+        <rect class="cls-16" x="275.68" y="260.31" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="275.86" y="260.49" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_439" data-name="Rectangle 439">
+        <rect class="cls-16" x="275.68" y="261.4" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="275.86" y="261.58" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_440" data-name="Rectangle 440">
+        <rect class="cls-16" x="275.68" y="264.66" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="275.86" y="264.84" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_441" data-name="Rectangle 441">
+        <rect class="cls-16" x="275.68" y="265.74" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="275.86" y="265.92" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_442" data-name="Rectangle 442">
+        <rect class="cls-16" x="275.68" y="266.83" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="275.86" y="267.01" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_443" data-name="Rectangle 443">
+        <rect class="cls-16" x="275.68" y="269" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="275.86" y="269.18" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_444" data-name="Rectangle 444">
+        <rect class="cls-16" x="275.68" y="272.26" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="275.86" y="272.44" width=".72" height=".72"/>
+      </g>
+      <g id="Rectangle_445" data-name="Rectangle 445">
+        <rect class="cls-16" x="275.68" y="273.35" width="1.09" height="1.09"/>
+        <rect class="cls-16" x="275.86" y="273.53" width=".72" height=".72"/>
+      </g>
+    </g>
+    <g id="Model">
+      <g>
+        <line class="cls-25" x1="204.06" y1="66.21" x2="204.06" y2="66.21"/>
+        <line class="cls-24" x1="201.93" y1="66.21" x2="92.28" y2="66.21"/>
+        <line class="cls-25" x1="91.22" y1="66.21" x2="91.22" y2="66.21"/>
+        <line class="cls-20" x1="90.07" y1="67.97" x2="35.38" y2="151.58"/>
+        <line class="cls-25" x1="34.8" y1="152.46" x2="34.8" y2="152.46"/>
+        <line class="cls-20" x1="35.95" y1="154.22" x2="90.64" y2="237.84"/>
+        <line class="cls-25" x1="91.22" y1="238.72" x2="91.22" y2="238.72"/>
+        <line class="cls-24" x1="93.35" y1="238.72" x2="202.99" y2="238.72"/>
+        <line class="cls-25" x1="204.06" y1="238.72" x2="204.06" y2="238.72"/>
+        <line class="cls-20" x1="205.21" y1="236.96" x2="259.9" y2="153.34"/>
+        <line class="cls-25" x1="260.48" y1="152.46" x2="260.48" y2="152.46"/>
+        <line class="cls-20" x1="259.32" y1="150.7" x2="204.63" y2="67.09"/>
+      </g>
+      <g>
+        <text class="cls-2" transform="translate(99.27 67.83)"><tspan x="0" y="0">Verlage</tspan></text>
+        <rect class="cls-45" x="85.79" y="58" width="41.57" height="17.07" rx="2.23" ry="2.23"/>
+        <text class="cls-8" transform="translate(99.27 67.83)"><tspan x="0" y="0">Verlage</tspan></text>
+      </g>
+      <g>
+        <text class="cls-2" transform="translate(179.62 65.11)"><tspan x="0" y="0">Initiativen</tspan><tspan x="-2.44" y="5.34">und Projekte</tspan></text>
+        <rect class="cls-28" x="168.54" y="57.96" width="41.57" height="17.07" rx="2.23" ry="2.23"/>
+        <text class="cls-8" transform="translate(179.62 65.11)"><tspan x="0" y="0">Initiativen</tspan><tspan x="-2.44" y="5.34">und Projekte</tspan></text>
+      </g>
+      <g>
+        <text class="cls-2" transform="translate(172.53 239.74)"><tspan x="0" y="0">Fachvertretungen</tspan></text>
+        <rect class="cls-37" x="168.54" y="229.92" width="41.57" height="17.07" rx="2.23" ry="2.23"/>
+        <text class="cls-8" transform="translate(172.53 239.74)"><tspan x="0" y="0">Fachvertretungen</tspan></text>
+      </g>
+      <g>
+        <text class="cls-2" transform="translate(94.54 239.86)"><tspan x="0" y="0">Zeitschriften</tspan></text>
+        <rect class="cls-14" x="85.8" y="230.04" width="41.57" height="17.07" rx="2.23" ry="2.23"/>
+        <text class="cls-8" transform="translate(94.54 239.86)"><tspan x="0" y="0">Zeitschriften</tspan></text>
+      </g>
+      <g>
+        <text class="cls-2" transform="translate(244.85 153.96)"><tspan x="0" y="0">Forschungs-</tspan><tspan x="2.16" y="5.34">förderung</tspan></text>
+        <rect class="cls-35" x="235.63" y="146.81" width="41.57" height="17.07" rx="2.23" ry="2.23"/>
+        <text class="cls-8" transform="translate(244.85 153.96)"><tspan x="0" y="0">Forschungs-</tspan><tspan x="2.16" y="5.34">förderung</tspan></text>
+      </g>
+      <g>
+        <text class="cls-2" transform="translate(20.66 153.96)"><tspan x="0" y="0">Wissenschaftliche</tspan><tspan x="4.9" y="5.34">Bibliotheken</tspan></text>
+        <rect class="cls-38" x="16.89" y="146.81" width="41.57" height="17.07" rx="2.23" ry="2.23"/>
+        <text class="cls-8" transform="translate(20.66 153.96)"><tspan x="0" y="0">Wissenschaftliche</tspan><tspan x="4.9" y="5.34">Bibliotheken</tspan></text>
+      </g>
+      <path d="M138.7,126.12l18.4-.02c4,1.65,8.13,3.06,12.05,4.89,2.96,3.78,6.54,7.25,9.5,11,.28.35.75.83.61,1.3l-30.63,30.66c-.27.18-.58.38-.92.25-10.37-10.04-20.52-20.34-30.76-30.53-.67-.61-.19-1.07.24-1.61,3.01-3.81,6.64-7.35,9.68-11.17l11.83-4.76ZM139.27,127.73l-8.03,6.95,7.91,6.14h17.23s8.03-6.14,8.03-6.14l-8.03-6.94h-17.11ZM167.07,131.74l-6.11-2.3,4.78,4.26c.17-.29,1.46-1.77,1.32-1.95ZM134.59,129.55l-5.76,2.19c-.1.14,1.07,1.76,1.31,1.72l4.45-3.91ZM122.14,138.88l6.52-4.26c.12-.12,0-.2-.05-.3-.11-.19-1.12-1.55-1.22-1.55l-5.24,6.1ZM173.75,138.88l-5.24-6.1c-.1,0-1.11,1.35-1.22,1.55-.06.1-.17.17-.05.3l6.52,4.26ZM165.57,136l-7.14,5.41,10.14,4.38-3-9.79ZM136.89,141.29c.13-.18-.65-.71-.82-.85-1.38-1.12-4.06-3.4-5.48-4.2-.12-.07-.23-.16-.38-.13l-3.57,9.33,10.25-4.15ZM176.86,143.02l-9.33-6.22,2.88,9.45,6.45-3.23ZM124.79,145.79l3.34-8.87-9.1,6.05,5.76,2.82ZM155.09,142.45h-14.28l7.2,7.73,7.08-7.73ZM137.46,142.79l-10.37,4.2,7.37,3.74,3-7.94ZM146.45,151.09l-7.37-7.95-3,7.95h10.37ZM159.81,151.09l-3-7.95-7.37,7.95h10.37ZM168.11,147.52l-9.56-4.38,2.88,7.6,6.68-3.22ZM143.57,167.91l-9.34-15.37-12.43-6.29,21.77,21.66ZM174.1,146.25l-12.43,6.29c-2.95,5.02-6.26,9.87-9.15,14.92-.08.15-.22.26-.18.45l21.77-21.66ZM147.26,170.67v-17.8l-.17-.17h-10.77l10.94,17.97ZM159.58,152.7h-10.71v17.51l10.71-17.51Z"/>
+      <text class="cls-10" transform="translate(65.22 130.63)"><tspan class="cls-13"><tspan x="0" y="0">Expertise und </tspan></tspan><tspan class="cls-49"><tspan x="2.31" y="5.34">Vermittlung</tspan></tspan></text>
+      <text class="cls-6" transform="translate(175.21 210.63)"><tspan class="cls-13"><tspan x="0" y="0">Stabilität und </tspan></tspan><tspan class="cls-49"><tspan x="3.19" y="5.34">Reputation</tspan></tspan></text>
+      <text class="cls-9" transform="translate(189.65 130.63)"><tspan class="cls-49"><tspan x="0" y="0">Rahmenbedingungen </tspan></tspan><tspan class="cls-13"><tspan x="7.38" y="5.34">und Standards</tspan></tspan></text>
+      <text class="cls-7" transform="translate(174.49 91.65)"><tspan x="0" y="0">Netzwerke und</tspan><tspan x="-.12" y="5.34">Infrastrukturen</tspan></text>
+      <text class="cls-5" transform="translate(82.56 91.65)"><tspan x="0" y="0">Organisationsstrukturen</tspan><tspan x="9.06" y="5.34">und Innovation</tspan></text>
+      <text class="cls-1" transform="translate(90.77 210.63)"><tspan x="0" y="0">Flexibilität und </tspan><tspan x="2.92" y="5.34">Pionierarbeit</tspan></text>
+      <line class="cls-22" x1="106.58" y1="229.97" x2="106.58" y2="217.98"/>
+      <g>
+        <polyline class="cls-22" points="106.58 204.94 106.58 143.14 110.84 143.14"/>
+        <polygon class="cls-12" points="110.4 144.63 112.98 143.14 110.4 141.65 110.4 144.63"/>
+      </g>
+      <g>
+        <polyline class="cls-21" points="189.33 204.94 189.33 143.14 184.87 143.14"/>
+        <polygon class="cls-33" points="185.31 141.65 182.73 143.14 185.31 144.63 185.31 141.65"/>
+      </g>
+      <line class="cls-21" x1="189.33" y1="229.97" x2="189.33" y2="217.98"/>
+      <line class="cls-19" x1="106.6" y1="87.24" x2="106.6" y2="75.25"/>
+      <line class="cls-26" x1="189.33" y1="87.24" x2="189.33" y2="75.25"/>
+      <g>
+        <polyline class="cls-19" points="106.59 98.68 106.59 112.75 137.38 112.75 137.38 120.08"/>
+        <polygon class="cls-27" points="135.89 119.64 137.38 122.22 138.87 119.64 135.89 119.64"/>
+      </g>
+      <g>
+        <line class="cls-23" x1="94.33" y1="130.63" x2="120.78" y2="130.63"/>
+        <polygon class="cls-29" points="120.34 132.12 122.93 130.63 120.34 129.13 120.34 132.12"/>
+      </g>
+      <g>
+        <line class="cls-18" x1="187.47" y1="130.63" x2="176.06" y2="130.63"/>
+        <polygon class="cls-36" points="176.5 129.13 173.91 130.63 176.5 132.12 176.5 129.13"/>
+      </g>
+      <g>
+        <polyline class="cls-26" points="189.33 98.68 189.33 112.75 157.68 112.75 157.68 120.08"/>
+        <polygon class="cls-17" points="156.18 119.64 157.68 122.22 159.17 119.64 156.18 119.64"/>
+      </g>
+      <polyline class="cls-23" points="58.76 155.27 78.96 155.27 79.22 137.98"/>
+      <polyline class="cls-18" points="235.24 155.27 212.02 155.27 211.83 137.98"/>
+      <text class="cls-11" transform="translate(116.47 182.88)"><tspan x="0" y="0">Verbindliches Engagement</tspan><tspan x="9.34" y="6.6">und geteilte Werte</tspan><tspan x="2.62" y="13.2">aller beteiligten Akteure</tspan></text>
+    </g>
+  </g>
+</svg>
