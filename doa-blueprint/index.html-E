@@ -1,0 +1,3409 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/Article">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Place this data between the <head> tags of your website -->
+<title>Rethinking Scholarly Publishing</title>
+
+<!-- Google structured data -->
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ScholarlyArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "url": "https://graphite.page/doa-blueprint"
+      },
+      "headline": "Rethinking Scholarly Publishing",
+      "alternativeHeadline": "Blueprint for Collaborative and Fair Diamond Open Access",
+      "image": "https://graphite.page/doa-blueprint/assets/images/social.png",
+      "datePublished": "August 2025",
+      "copyrightYear": "2025",
+      "author": {
+        "@type": "Person",
+        "name": "Lena Marie Henkes &amp; Katherina Holscher Blackman"
+      },
+      "keywords": "Diamond Open Access, Scholarly Publishing, Scholar-led, Open Access, Open Science",
+      "publisher": {
+        "@type": "Organization",
+        "name": "A blueprint of the ELADOAH research project",
+        "logo": {
+          "@type": "ImageObject"
+          
+        }
+      }
+      
+    }
+</script>
+
+<meta name="description" content="Blueprint for Collaborative and Fair Diamond Open Access" />
+<meta name="author" content="A blueprint of the ELADOAH research project">
+
+<!-- Schema.org markup for Google+ -->
+<meta itemprop="name" content="Rethinking Scholarly Publishing">
+<meta itemprop="description" content="Blueprint for Collaborative and Fair Diamond Open Access">
+<meta itemprop="image" content="https://graphite.page/doa-blueprint/assets/images/social.png">
+
+<!-- Twitter Card data -->
+<meta name="twitter:title" content="Rethinking Scholarly Publishing">
+<meta name="twitter:description" content="Blueprint for Collaborative and Fair Diamond Open Access">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:creator" content="@author_handle">
+<!-- Twitter Summary card images must be at least 120x120px -->
+<meta name="twitter:image" content="https://graphite.page/doa-blueprint/assets/images/social.png">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="Rethinking Scholarly Publishing" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://graphite.page/doa-blueprint" />
+<meta property="og:image" content="https://graphite.page/doa-blueprint/assets/images/social.png" />
+<meta property="og:description" content="Blueprint for Collaborative and Fair Diamond Open Access" /> 
+<meta property="og:site_name" content="graphite – Enhanced publications for a digital environment" />
+
+<!--
+<meta name="twitter:site" content="@publisher_handle">
+<meta property="fb:admins" content="Facebook numeric ID" />
+-->
+    
+      <link rel="stylesheet" href="theme/styles/doa.css">
+    
+  </head>
+  <body>
+
+    
+
+
+
+
+
+  <div id="navContent" style="display: none;">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-6">
+
+          
+            <div class="ms-nav-info">
+              <p>This blueprint was created as part of the research project Acquisition Logic as Diamond Open Access Obstacle (ELADOAH), a cooperation between the Alexander von Humboldt Institute for Internet and Society (HIIG) and Verfassungsblog.</p>
+<p>This publication was created with Graphite, an open-source framework for digital publishing.</p>
+            </div>
+          
+        </div>
+
+        <div class="col-md-3">
+          <div class="ms-nav-info">
+            <h3 class="ms-nav-section">More Graphite Publications</h3>
+
+            
+              <ul class="ms-nav-subnav">
+                
+                  <li>
+                    <a href=https://graphite.page/scholar-led-manifest target="_blank">Das Scholar-led.network-Manifest</a>
+                  </li>
+                
+                  <li>
+                    <a href=https://graphite.page/fieldguide-edtech target="_blank">Organizing Digital Change at the University</a>
+                  </li>
+                
+                  <li>
+                    <a href=https://graphite.page/short-video-guide/ target="_blank">Making science go viral</a>
+                  </li>
+                
+              </ul>
+            
+          </div>
+        </div>
+
+        <div class="col-md-3">
+          <div class="ms-nav-info">
+            <h3 class="ms-nav-section">More Information</h3>
+
+            
+              <ul class="ms-nav-subnav">
+                
+                  <li>
+                    <a href=https://www.hiig.de/project/eladoah/ target="_blank">ELADOAH Project Page</a>
+                  </li>
+                
+                  <li>
+                    <a href=https://www.impactdistillery.com/graphite target="_blank">Graphite Project Website</a>
+                  </li>
+                
+              </ul>
+
+            
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+<!-- Navigation bar fixed to top -->
+<nav class="ms-navigation-top">
+  <div class="container">
+    <span class="ms-article-title">
+      Rethinking Scholarly Publishing
+    </span>
+
+    <a class="ms-brand" href="https://www.impactdistillery.com/graphite" target="_blank" rel="noreferrer noopener">
+      Runs on <object data="theme/images/graphite.svg" type="image/svg+xml"></object>
+    </a>
+
+    
+
+      <span id="navToggle" class="navbar-toggler-icon"></span>
+
+    
+
+  </div>
+</nav>
+
+
+
+    
+<!-- START: STUDY FRAME -->
+<div class="ms-header"
+     style="background-image: url(assets/images/header.jpg);">
+  <div class="container">
+    <div class="card">
+      <div class="card-body">
+        <p class="author">Lena Marie Henkes &amp; Katherina Holscher Blackman</p>
+        <h1 class="card-title">Rethinking Scholarly Publishing</h1>
+        <p class="card-subtitle">Blueprint for Collaborative and Fair Diamond Open Access</p>
+      </div>
+    </div>
+  </div>
+</div>
+<footer class="ms-footer ms-footer-sticky"><div class="container">A blueprint of the ELADOAH research project</div></footer>
+
+<div class="ms-toc"></div>
+<nav class="ms-tabs">
+  <div class="container">
+
+    <a class="ms-trigger-toc button d-flex d-lg-none">
+      Contents
+    </a>
+
+    <div class="dropdown d-xs-block d-lg-none">
+      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Blueprint
+      </button>
+
+      <div class="dropdown-menu" aria-labelledby="dropdownMenuButton" role="tablist">
+        <div class="nav nav-pills" role="tablist">
+          
+          <a class="dropdown-item tab-item active" id="index-tab" data-toggle="tab" href="#index" role="tab" aria-controls="index" aria-expanded="true">
+            Blueprint
+          </a>
+          
+          <a class="dropdown-item tab-item " id="community-tab" data-toggle="tab" href="#community" role="tab" aria-controls="community" >
+            Community
+          </a>
+          
+          <a class="dropdown-item tab-item " id="resources-tab" data-toggle="tab" href="#resources" role="tab" aria-controls="resources" >
+            Resources
+          </a>
+          
+          <a class="dropdown-item tab-item " id="about-tab" data-toggle="tab" href="#about" role="tab" aria-controls="about" >
+            About the Project
+          </a>
+          
+        </div>
+      </div>
+    </div>
+
+    <ul class="nav nav-tabs d-none d-lg-flex" id="masterTab" role="tablist" style="margin-left: 8.6% !important;">
+      
+      <li class="nav-item">
+        <a class="nav-link tab-item active" id="index-tab" data-toggle="tab" href="#index" role="tab" aria-controls="index" aria-expanded="true">
+          Blueprint
+        </a>
+      </li>
+      
+      <li class="nav-item">
+        <a class="nav-link tab-item " id="community-tab" data-toggle="tab" href="#community" role="tab" aria-controls="community" >
+          Community
+        </a>
+      </li>
+      
+      <li class="nav-item">
+        <a class="nav-link tab-item " id="resources-tab" data-toggle="tab" href="#resources" role="tab" aria-controls="resources" >
+          Resources
+        </a>
+      </li>
+      
+      <li class="nav-item">
+        <a class="nav-link tab-item " id="about-tab" data-toggle="tab" href="#about" role="tab" aria-controls="about" >
+          About the Project
+        </a>
+      </li>
+      
+    </ul>
+
+    
+
+  </div>
+</nav>
+<div class="tab-content" id="masterTabContent">
+  
+  <div class="tab-pane fade active show" id="index" role="tabpanel" aria-labelledby="index-tab" aria-expanded="true">
+    
+  <section class="container ms-article-top">
+  <div class="ms-row ms-row-single">
+    <div class="ms-col-content">
+      <h2></h2>
+    </div>
+  </div>
+  <div class="ms-row">
+    <div class="ms-col-content">
+      <p>The blueprint for scholarly publishing developed as part of the ELADOAH project focuses on a collaborative and values-oriented vision of Diamond Open Access. It shows how Diamond Open Access can be designed as a community project of six different stakeholder groups and what specific expertise each of these groups contributes.</p>
+
+      
+        <h3>Keywords</h3>
+        <p>Diamond Open Access, Scholarly Publishing, Scholar-led, Open Access, Open Science</p>
+      
+
+      
+
+      <!-- 
+        <h3>License</h3>
+        <p>This text is published under the <a href='https://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener noreferrer'>Creative Commons Attribution 4.0</a> license. Unrestricted use, distribution and reproduction in any medium is permitted, provided the original work is properly cited.</p>
+       -->
+
+      <p class="ms-buttons-article">
+          <a class="ms-button ms-button-toc"><i></i> Table of Contents</a>
+          <a href="#read-full-article" class="ms-button ms-button-read-on"> Explore Blueprint <i></i></a>
+      </p>
+    </div>
+    <div class="ms-col-marginal">
+      <div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+        
+        <div class="btn-group" role="group" aria-label="Share">
+  <span class="input-group-addon" id="btnGroupAddon">Share</span>
+  
+    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//graphite.page/doa-blueprint" target="_blank"
+       class="btn btn-secondary" rel="noopener noreferrer"><i class="mdi mdi-linkedin"></i> </a>
+  
+    <a href="https://bsky.app/intent/compose?text=https%3A//graphite.page/doa-blueprint" target="_blank"
+       class="btn btn-secondary" rel="noopener noreferrer"><i class="mdi mdi-bluesky"></i> </a>
+  
+    <a href="https://mastodon.social/share?text=https%3A//graphite.page/doa-blueprint" target="_blank"
+       class="btn btn-secondary" rel="noopener noreferrer"><i class="mdi mdi-mastodon"></i> </a>
+  
+</div>
+      </div>
+      <aside>
+        
+          <p>
+            <span class="ms-date-publication"><strong>Published:</strong>
+              August 2025</span>
+
+            
+            
+          </p>
+        
+
+        
+      </aside>
+      
+      
+        <aside>
+          <h3>Recommended Citation</h3>
+          <p>Henkes, L. M., Holscher Blackman, K. (2025).  <em>Rethinking Scholarly Publishing. Blueprint for Collaborative and Fair Diamond Open Access</em>.</p>
+        </aside>
+      
+      
+        <aside>
+          <h3>License</h3>
+          <p>This text is published under the <a href='https://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener noreferrer'>Creative Commons Attribution 4.0</a> license. Unrestricted use, distribution and reproduction in any medium is permitted, provided the original work is properly cited.</p>
+        </aside>
+      
+      
+      
+        <aside>
+          <h3>Questions or suggestions?</h3>
+          <p><i class="mdi mdi-email-outline"></i>&nbsp; Write an email to <a href="mailto:lena.henkes@hiig.de"> lena.henkes@hiig.de</a></p>
+        </aside>
+      
+      <a id="read-full-article"></a>
+    </div>
+  </div>
+</section>
+
+
+<article>
+  <div class="container">
+     </div>
+
+
+  
+
+    <div class="ms-chapter" style="background-image: url(assets/images/chapter.jpg)">
+      <div class="container-fluid" >
+        <div class="container">
+          <div class="ms-row ms-row-full" id="partial_1">
+            <div class="ms-col-content">
+              
+  
+  <h2  id="heading-1">Introduction to the Community</h2>
+  
+    <p>Shared Values, Stakeholder Groups and Expertise</p>
+  
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_2">
+  <div class="ms-col-content">
+    <p>Six stakeholder groups are involved in a vision of collaborative and fair Diamond Open Access: academic libraries, Diamond Open Access publishers, Open Access projects, initiatives and infrastructures, research funding, scientific associations, and Diamond Open Access journals. These six groups are based on the stakeholder mapping of the AuROA project (<a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>AuROA – Autor:innen und Rechtssicherheit für Open Access. (2022). Publizieren und Open Access in den Geisteswissenschaften: Erkenntnisse aus dem Projekt AuROA zu den Stakeholdern im Publikationsprozess.</p><a class='mdi mdi-earth' href='https://ualresearchonline.arts.ac.uk/id/eprint/21669/' target='_blank' rel='noopener noreferrer'></a>" data-html="true">2022<i></i></a>), which in turn emerged from surveys of authors, workshops, other events, and personal discussions. Stakeholders in the Open Access publication process in the humanities were identified and adapted by us with regard to organisational and funding issues of Diamond Open Access.<a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Henkes, L. M., Wrzesinski, M., &amp; Holscher Blackman, K. (2025). Open Access gemeinsam gemacht: Kollaborative Ansätze des wissenschaftlichen Publizierens. <em>Zenodo</em>.</p><a class='mdi mdi-earth' href='https://doi.org/10.5281/ZENODO.14800427' target='_blank' rel='noopener noreferrer'></a>" data-html="true"><i></i></a></p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-hint"><p><strong>Researchers</strong> are not designated as a separate stakeholder group, as unlike the other groups, they do not operate in an organised manner and are usually not involved in funding issues.<br />
+Although not separately represented, researchers are of central importance for Diamond Open Access. Their contribution in the sense of a scholar-led approach is included in other stakeholder groups such as journals and publishers, for example as authors, reviewers or members of scientific boards.</p></aside>
+<aside class="ms-aside-keystatement"><p>Details about the stakeholders</p></aside>
+<aside class="ms-aside-bookmark"><p><a href="#akteure">Chapter Stakeholders</a></p></aside>
+  </div>
+</div>
+
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_3">
+  <div class="ms-col-content">
+    <a href="#3Modal" type="button" data-toggle="modal" data-target="#3Modal">
+
+<object data="assets/images/figures/Diamond_EN.svg" type="image/svg+xml" class="img-fluid"></object>
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Stakeholder Groups of the Diamond Open Access Community</strong>
+      
+        <br>Six stakeholder groups and their individual contributions to fair and collaborative Diamond Open Access
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>Alexander von Humboldt Institute for Internet and Society (HIIG) | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#3Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/figures/Diamond_EN.png"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/doa-blueprintassets/images/figures/Diamond_EN.png&summary=Six+stakeholder+groups+and+their+individual+contributions+to+fair+and+collaborative+Diamond+Open+Access&title=Stakeholder+Groups+of+the+Diamond+Open+Access+Community"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+      <a href="https://bsky.app/intent/compose?text=https%3A//graphite.page/doa-blueprintassets/images/figures/Diamond_EN.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-bluesky"></i>
+      </a>
+    
+      <a href="https://mastodon.social/share?text=https%3A//graphite.page/doa-blueprintassets/images/figures/Diamond_EN.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-mastodon"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="3Modal" tabindex="-1" role="dialog" aria-labelledby="3ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Stakeholder Groups of the Diamond Open Access Community</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <object data="assets/images/figures/Diamond_EN.svg" type="image/svg+xml" class="img-fluid"></object>
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+<div class="ms-row ms-row-two ms-text" id="partial_4">
+  <div class="ms-col-content">
+    <p>The six stakeholder groups are closely interconnected and work together on fair Diamond Open Access. Diamond Open Access is understood in the sense of the definition by Hahn et al. (<a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Hahn, D., Hehn, J., Hopp, C., &amp; Pruschak, G. (2023). Mapping the Swiss Landscape of Diamond Open Access Journals. The PLATO Study on Scholar-Led Publishing. <em>Zenodo</em>.</p><a class='mdi mdi-earth' href='https://doi.org/10.5281/zenodo.7461728' target='_blank' rel='noopener noreferrer'></a>" data-html="true">2023, p. 8<i></i></a>): </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-plugin ms-plugin-quote" id="partial_5">
+  <div class="ms-col-content">
+    
+<div>
+  <blockquote class="blockquote">
+    <p>&ldquo;<strong>Diamond OA is based on the idea of sharing knowledge and on a commitment to social values such as embracing diversity (in subjects, disciplines, and languages) and equity in access and participation. In this way, Diamond OA stands for the autonomy of scholarly publishing and providing service to research communities without commercial interests.</strong>&rdquo;</p>
+  </blockquote>
+</div>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-author">
+  <p>
+    <strong>Hahn et al., 2023, p. 8</strong>
+    
+    <br>DOI: <a href='https://zenodo.org/records/7461728'>10.5281/zenodo.7461728</a>
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_6">
+  <div class="ms-col-content">
+    <p>The goal of the entire process is collaboratively supported Diamond Open Access publishing, characterised by a scholar-led approach, shared values and principles, and the binding commitment of all participating stakeholder groups. This so-called values-based publishing puts a non-profit orientation and orientation towards the common good in the foreground. The focus is on transparency and fairness in the sense of free access, fair working conditions and fair licenses. We therefore also speak of commons-based Diamond Open Access. Successful collaboration in such a collaborative model is based on principles such as reliability, clear division of tasks, open communication, a discourse space for different perspectives, and active networking within the Open Access community.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-hint"><p>For the representation in the graphic, two particularly noteworthy tasks were selected. They are based on <a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Henkes, L. M., Wrzesinski, M., &amp; Holscher Blackman, K. (2025). Open Access gemeinsam gemacht: Kollaborative Ansätze des wissenschaftlichen Publizierens. <em>Zenodo</em>.</p><a class='mdi mdi-earth' href='https://doi.org/10.5281/ZENODO.14800427' target='_blank' rel='noopener noreferrer'></a>" data-html="true">the analyzed literature as well as our interview study<i></i></a> and are intended to illustrate the central tasks of the respective stakeholder groups.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_7">
+  <div class="ms-col-content">
+    
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_8">
+  <div class="ms-col-content">
+    <p>All stakeholders can make a concrete, individual contribution to such a commons-based publication model, as illustrated by the individual arrows in the graphic. The following section explains the stakeholder groups and their individual tasks in more detail. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+</div>
+
+
+  
+
+    <div class="ms-chapter" style="background-image: url(assets/images/chapter.jpg)">
+      <div class="container-fluid" >
+        <div class="container">
+          <div class="ms-row ms-row-full" id="partial_9">
+            <div class="ms-col-content">
+              
+  
+  <h2  id="heading-9">A Collaborative Process</h2>
+  
+    <p>Stakeholders and Central Topics of Diamond Open Access and their Interrelations</p>
+  
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_10">
+  <div class="ms-col-content">
+    <p>We understand Diamond Open Access as the result of a collaborative process. It is crucial to make the individual stakeholder groups and their contributions to key topics visible. Central topics through which Diamond Open Access becomes tangible as a holistic model are: sustainable funding, robust governance and organisational principles, quality, reputation and transparency, as well as networks and community work. We have identified these topics through literature research and interviews and conducted four thematic multi-stakeholder workshops each to deepen the discussion. </p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-hint"><p>The arrows shown mark particularly relevant or previously little-noticed connections between stakeholder groups and topics as well as between the topics themselves. This is a selection. However, it is clear that all stakeholder groups collaborate with regard to the topics. Other, sometimes equally important connections are explained in the following subsections on the six different stakeholder groups.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_11">
+  <div class="ms-col-content">
+    <p>The four central Diamond Open Access topics are influenced by the various stakeholder groups. On the other hand, there are also connections between the topics, which are represented by the arrows. These relationships are explained in more detail in the Topics subsection. </p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><p>More on the Topics</p></aside>
+<aside class="ms-aside-bookmark"><p><a href="#themenfelder">Chapter Topics</a></p></aside>
+  </div>
+</div>
+
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_12">
+  <div class="ms-col-content">
+    <a href="#12Modal" type="button" data-toggle="modal" data-target="#12Modal">
+
+<object data="assets/images/figures/Prozess_EN.svg" type="image/svg+xml" class="img-fluid"></object>
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Collaborative Diamond Open Access Publishing as a Process</strong>
+      
+        <br>The Interaction of Stakeholder Groups and Central Topics <br><br> <i>Note</i>: For better readability use the <a href='' data-toggle='modal' data-target='#12Modal'>full screen mode</a>.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#12Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/figures/Prozess_EN.png"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/doa-blueprintassets/images/figures/Prozess_EN.png&summary=The+Interaction+of+Stakeholder+Groups+and+Central+Topics+%3Cbr%3E%3Cbr%3E+%3Ci%3ENote%3C%2Fi%3E%3A+For+better+readability+use+the+%3Ca+href%3D%27%27+data-toggle%3D%27modal%27+data-target%3D%27%2312Modal%27%3Efull+screen+mode%3C%2Fa%3E.&title=Collaborative+Diamond+Open+Access+Publishing+as+a+Process"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+      <a href="https://bsky.app/intent/compose?text=https%3A//graphite.page/doa-blueprintassets/images/figures/Prozess_EN.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-bluesky"></i>
+      </a>
+    
+      <a href="https://mastodon.social/share?text=https%3A//graphite.page/doa-blueprintassets/images/figures/Prozess_EN.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-mastodon"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="12Modal" tabindex="-1" role="dialog" aria-labelledby="12ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Collaborative Diamond Open Access Publishing as a Process</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <object data="assets/images/figures/Prozess_EN.svg" type="image/svg+xml" class="img-fluid"></object>
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+<div class="ms-row ms-row-two ms-text" id="partial_13">
+  <div class="ms-col-content">
+    <h3 id='akteure' >Stakeholders</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_14">
+  <div class="ms-col-content">
+    <p>In the following, we present the specific expertise of the six participating stakeholder groups. Each group brings special skills and perspectives to a collaborative publication project.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_15">
+  <div class="ms-col-content">
+    <p>Each actor is first introduced using brief examples. We then examine the respective participation opportunities using three different categories:</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_16">
+  <div class="ms-col-content">
+    <ul>
+<li><strong>Teamwork:</strong> What steps can the stakeholder group take within their own institution to promote collaborative structures?</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_17">
+  <div class="ms-col-content">
+    <ul>
+<li><strong>Sustainability:</strong> How can the group contribute to making Diamond Open Access sustainable in the long term?</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_18">
+  <div class="ms-col-content">
+    <ul>
+<li><strong>Contribution:</strong> What concrete content or structural contributions can the stakeholder group bring to a collaborative publication structure based on their expertise?</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_19">
+  <div class="ms-col-content">
+    <h4 id='zeitschriften' ><span style="color:#fe9f4d"><strong>Diamond Open Access Journals</strong></span></h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_20">
+  <div class="ms-col-content">
+    <p><span class="ms-inline ms-inline-glossary">Diamond Open Access Journals<i></i></span> play an important role in the Diamond Open Access transformation in many disciplines. On the one hand, long-term funding of infrastructure and personnel is a central prerequisite for their work. At the same time, they can carry out pioneering work through their flexible structures by developing new solution approaches, with particular attention to the needs of their own subject area. They can also contribute to the reputation of Diamond Open Access by involving renowned researchers.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-glossary"><p>Diamond Open Access journals can be scholar-led and include both journals originally founded as Diamond Open Access as well as journals converted ('flipped') from other publication models. These can appear both exclusively digitally or in a combined online and print version. Examples of Diamond Open Access journals include the Internet Policy Review or the Open Gender Journal. Researchers are involved in journals as authors and reviewers.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_21">
+  <div class="ms-col-content">
+    <h5 id='heading-21' ><img class="img-fluid" src="assets/images/icons/Icon-Akteur-zeitschriften.svg" style="max-height: 2em"> <span style="color:#fe9f4d">Teamwork</span></h5>
+<ul>
+<li>Journals can particularly utilise their flexible and efficient structures to initiate changes and carry out Diamond Open Access advocacy work. Many editors have independently acquired their knowledge on Open Access topics. This enables them to understand the perspective of people and institutions who are not yet familiar with Diamond Open Access and to communicate the advantages in a particularly comprehensible and convincing way.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_22">
+  <div class="ms-col-content">
+    <ul>
+<li>Through their experiences in editorial work, they can develop governance structures ('good practices') for editorial teams and write recommendations ('use cases') on transformation and flipping processes.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_23">
+  <div class="ms-col-content">
+    <ul>
+<li>It is of central importance that journals involve actors less familiar with Diamond Open Access in the transformation process and actively shape it.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_24">
+  <div class="ms-col-content">
+    <h5 id='heading-24' ><img class="img-fluid" src="assets/images/icons/Icon-Nachhaltigkeit-zeitschriften.svg" style="max-height: 2em"> <span style="color:#fe9f4d">Sustainability</span></h5>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_25">
+  <div class="ms-col-content">
+    <ul>
+<li>Journals can promote the sustainability of Diamond Open Access particularly through reputation – for example by involving renowned international researchers in editorial boards or as guest editors. </li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_26">
+  <div class="ms-col-content">
+    <ul>
+<li>Instead of quantitative metrics, content quality and target-group-specific addressing should take centre stage. This can be increased, for example, by indexing publications in subject-specific databases, as certain quality criteria must be met in this process. </li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_27">
+  <div class="ms-col-content">
+    <ul>
+<li>Another central point for the community is the transparent communication of internal quality criteria (for example peer review procedures), ethics guidelines and production processes, in order to build trust and sustainably strengthen the perception of the publication. Targeted public relations work also contributes to this by increasing visibility and relevance.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_28">
+  <div class="ms-col-content">
+    <ul>
+<li>Ultimately, an internal definition of precise Diamond Open Access goals and a clear division of tasks by the editors is required.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_29">
+  <div class="ms-col-content">
+    <h5 id='heading-29' ><img class="img-fluid" src="assets/images/icons/Icon-Beitrag-zeitschriften.svg" style="max-height: 2em"> <span style="color:#fe9f4d">Contribution</span></h5>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_30">
+  <div class="ms-col-content">
+    <ul>
+<li>The pioneering work of journals could consist of developing experimental solutions to advance Diamond Open Access – for example through innovative publication formats. Since no standard solutions for Diamond Open Access exist so far, independent testing enables experience to be gathered and this in turn to be brought into collaborative models. </li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_31">
+  <div class="ms-col-content">
+    <ul>
+<li>Journals possess particular expertise in the publishing process and in internal quality assurance procedures. Sharing this knowledge with other stakeholder groups in a collaborative publication project represents an essential contribution. In addition, they can provide infrastructures for publishing processes and editorial work. </li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_32">
+  <div class="ms-col-content">
+    <h4 id='bibliotheken' ><span style="color:#2CC75D"><strong>Academic Libraries</strong></span></h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_33">
+  <div class="ms-col-content">
+    <p><span class="ms-inline ms-inline-glossary">Academic Libraries<i></i></span> can be located between science and publication service providers as well as publishing and funding institutions. Through this position, they have insight into the perspectives of various actors involved in the publication process and can thereby assume a mediating role. At the same time, they bring numerous legal, technical and editorial expertises to a collaborative publication project.  </p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-glossary"><p>This stakeholder group includes traditional academic libraries that are often affiliated with universities (such as TIB Konstanz, Heidelberg University Library, Bremen State and University Library). Even though libraries act as Open Access publishers themselves in special cases, they are understood here with regard to their main task of providing science, research and teaching with reliable information.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_34">
+  <div class="ms-col-content">
+    <h5 id='heading-34' ><img class="img-fluid" src="assets/images/icons/Icon-Akteur-Bibliotheken.svg" style="max-height: 2em"> <span style="color:#2CC75D">Teamwork</span></h5>
+<ul>
+<li>In a first step, it is about critically questioning one's own structures and processes. Academic libraries can also do this by first appealing to their own values as a library and awakening motivation within the library to advocate for the expansion of Diamond Open Access based on their own values.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_35">
+  <div class="ms-col-content">
+    <ul>
+<li>In this context, there is also the question of the information budget of libraries. Quite specifically, a first step would be to conduct an inventory in one's own library, create transparency and examine: Who publishes where? What is actually supported? What proportion of this is Diamond Open Access? What do we want to continue funding? In this way, funds in the budget can be made visible and it can be prevented that only funds left over at the end are used for Diamond Open Access. On this basis, the acquisition logic of a library, i.e. the strategy according to which it maintains and expands its databases, must also be put to the test. In this way, for example, smaller Diamond Open Access initiatives and journals can be supported or recommended, instead of investing a large proportion of funds in DEAL contracts and APCs/BPCs.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-hint"><p>The information budget includes all funds available to a library for information provision. This also includes expenses for publishing and other costs, e.g. for publication infrastructures (<a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Pampel, H. (2019). Auf dem Weg zum Informationsbudget. Zur Notwendigkeit von Monitoringverfahren für wissenschaftliche Publikationen und deren Kosten. <em>Arbeitspapier [PDF]. 2 MB</em>.</p><a class='mdi mdi-earth' href='https://doi.org/10.2312/OS.HELMHOLTZ.006' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Pampel, 2019<i></i></a>).</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_36">
+  <div class="ms-col-content">
+    
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_37">
+  <div class="ms-col-content">
+    <h5 id='heading-37' ><img class="img-fluid" src="assets/images/icons/Icon-Nachhaltigkeit-Bibliotheken.svg" style="max-height: 2em"> <span style="color:#2CC75D">Sustainability</span></h5>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_38">
+  <div class="ms-col-content">
+    <ul>
+<li>To promote Diamond Open Access sustainably, academic libraries can commit themselves to long-term funding of explicitly collaborative and fair Diamond Open Access. However, budget and constitutional questions regarding the funding of Diamond Open Access with public funds are still unresolved and create legal uncertainty for institutions and publications. An in-depth legal review by Verfassungsblog suggests that academic freedom and university autonomy within the framework of economic considerations in acquisition have been neglected as much as the tasks assigned to universities and academic libraries.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_39">
+  <div class="ms-col-content">
+    <ul>
+<li>Network work and collaboration with other libraries are also of central importance. This includes, for example, joint action in consortia – not least with regard to negotiating power with large publishers – and promoting the reuse and continuation of successful consortial models. Community work within one's own institution and in partnership with other libraries is also essential. Together with other libraries, universities and publishers, the development of overarching publication infrastructures can be initiated.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_40">
+  <div class="ms-col-content">
+    <h5 id='heading-40' ><img class="img-fluid" src="assets/images/icons/Icon-Beitrag-Bibliotheken.svg" style="max-height: 2em"> <span style="color:#2CC75D">Contribution</span></h5>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_41">
+  <div class="ms-col-content">
+    <ul>
+<li>Academic libraries possess numerous expertise that they can contribute to a collaborative model in the form of advisory services. These include, for example, information services for researchers on legal and technical questions, optimisation of work flows or services for education about publication ethics. The development of mechanisms for recruiting young talent for editorial teams and the development of recommendations for editors on journal flipping are also concrete approaches to contribute expertise.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-example"><p><strong>Examples of information and advisory services</strong>:<br />
+Licence information, advice on simplifying workflows and shortening publication periods through direct channels,<br />
+advice on publication ethics, for example via <a href="https://publicationethics.org/">COPE</a> (providing an ombudsperson)</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_42">
+  <div class="ms-col-content">
+    
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_43">
+  <div class="ms-col-content">
+    <ul>
+<li>In addition to such advisory services, academic libraries can also provide editorial resources and technical infrastructures. </li>
+<li>Apart from providing such advisory services, academic libraries can also provide editorial resources and technical infrastructures.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-example"><p><strong>Examples of editorial and technical resources</strong>:<br />
+Copyediting, metadata management, hosting</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_44">
+  <div class="ms-col-content">
+    <ul>
+<li>Also the reputation of Diamond Open Access publications can be strengthened by libraries, for example through increased promotion and recommendation of Diamond Open Access. Libraries can recommend journal flipping to journal publishers or contribute to making Diamond Open Access more attractive to researchers by optimising workflows and processes.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_45">
+  <div class="ms-col-content">
+    <ul>
+<li>Not least, libraries can engage in educational work by making Diamond Open Access visible as an alternative to commercial publishing and at the same time advising on central questions such as costs, dependencies and the preservation of scientific integrity.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_46">
+  <div class="ms-col-content">
+    <p>However, it is essential to integrate libraries into the governance structures of collaborative publication projects so that they are appreciated by other stakeholder groups as equal partners and not merely perceived as funders. This is also evident in our interview study.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-plugin ms-plugin-quote" id="partial_47">
+  <div class="ms-col-content">
+    
+<div class="tab-content" id="quote_47_myTabContent">
+  <div class="tab-pane fade show active" id="quote_47_quote" role="tabpanel"
+       aria-labelledby="quote_47_quote-tab">
+    <blockquote class="blockquote">
+      <p>&ldquo;And many, or the feedback from many, that we receive there is actually that [the librarians] very much welcome this, because they thereby also feel more actively involved and [are] not just, as they say in English, the Purseholders, i.e. funders.&rdquo;</p>
+    </blockquote>
+  </div>
+  <div class="tab-pane fade" id="quote_47_quoteOriginal" role="tabpanel"
+       aria-labelledby="quote_47_quoteOriginal-tab">
+    <blockquote class="blockquote">
+      <p>&ldquo;Und viele, oder die Rückmeldung von vielen, die wir dort erhalten, ist tatsächlich, dass [die Bibliothekar:innen] das sehr begrüßen, weil sie sich dadurch eben auch mehr aktiv eingebunden fühlen und eben nicht nur, wie man im Englischen sagt, die Purseholders, also Geldgeber [sind].&rdquo;</p>
+    </blockquote>
+  </div>
+</div>
+<ul class="nav nav-tabs" id="quote_47_myTab" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="quote_47_quote-tab" data-toggle="tab"
+       href="#quote_47_quote" role="tab" aria-controls="quote_47_quote" aria-expanded="true">
+      Translated quote
+    </a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="quote_47_quoteOriginal-tab" data-toggle="tab"
+       href="#quote_47_quoteOriginal" role="tab" aria-controls="quote_47_quoteOriginal">
+      Original version
+    </a>
+  </li>
+</ul>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-author">
+  <p>
+    <strong>Expert</strong>
+    
+    <br>Transcription 10, Para. 9
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_48">
+  <div class="ms-col-content">
+    <h4 id='verlage' ><span style="color:#8F7FEE"><strong>Diamond Open Access Publishers</strong></span></h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_49">
+  <div class="ms-col-content">
+    <p><span class="ms-inline ms-inline-glossary">Diamond Open Access Publishers<i></i></span>  are, in some cases, academically led and have made diamond open access publishing their central mission — without operating for profit. Here too, the lack of funding for editorial work poses a major challenge. These publishers possess particular expertise in organisational structures and have the potential to drive innovation, as they operate outside of traditional publishing logics (<a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Deville, J., Sondervan, J., Stone, G., &amp; Wennström, S. (2019). Rebels with a Cause? Supporting Library and Academic-led Open Access Publishing. <em>LIBER Quarterly: The Journal of the Association of European Research Libraries, 29</em>(1), 1–28.</p><a class='mdi mdi-earth' href='https://doi.org/10.18352/lq.10277' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Deville et al., 2019, p. 5<i></i></a>).</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-glossary"><p>Diamond Open Access publishers include university presses, small and medium-sized publishers with Diamond Open Access offerings, as well as publishers that publish exclusively Diamond Open Access. Examples include Open Book Publishers (OBP), Punctum Books, Meson Press or Language Science Press. This also includes publishers that exclusively publish Open Access monographs. Cooperation with commercial publishers may be possible here, provided that the public welfare orientation is maintained and researchers remain in the lead. Researchers are involved here as authors and reviewers.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_50">
+  <div class="ms-col-content">
+    <h5 id='heading-50' ><img class="img-fluid" src="assets/images/icons/Icon-Akteur-Verlage.svg" style="max-height: 2em"> <span style="color:#8F7FEE">Teamwork</span></h5>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_51">
+  <div class="ms-col-content">
+    <ul>
+<li>A particular strength of publishers lies in their experience in the publication process, which they can pass on to publications with advisory needs, for example.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_52">
+  <div class="ms-col-content">
+    <ul>
+<li>They can also provide a legal form as a basis for a collaborative publication structure.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_53">
+  <div class="ms-col-content">
+    <ul>
+<li>One form of community engagement can be sharing information about one's own operational and financial foundations, and creating transparency around services, costs, and pricing. This can also contribute internally to avoiding self-exploitation that can arise from a lack of cost transparency (Expert Interview Study, Transcription 2, Para. 65).</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_54">
+  <div class="ms-col-content">
+    <h5 id='heading-54' ><img class="img-fluid" src="assets/images/icons/Icon-Nachhaltigkeit-Verlage.svg" style="max-height: 2em"> <span style="color:#8F7FEE">Sustainability</span></h5>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_55">
+  <div class="ms-col-content">
+    <ul>
+<li>Publishers can contribute to the sustainability of Diamond Open Access by strengthening the reputation of the open publication form. This can be achieved through establishing quality standards with editorial teams and transparency in the publishing process.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_56">
+  <div class="ms-col-content">
+    <ul>
+<li>In addition, they can help to make visible the strengths of small, university or locally operating publishers in contrast to large commercial providers.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_57">
+  <div class="ms-col-content">
+    <ul>
+<li>A contribution to sustainability can also be "co-editing", i.e. sharing resources, costs and infrastructures with other publishers (<a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Maniero do Amaral, F. B., &amp; Furnival, A. C. M. (2023). Os modelos de negócio para a publicação de livros em acesso aberto por editoras universitárias brasileiras (Business models for publishing open access books used by Brazilian university presses). <em>RDBCI: Revista Digital de Biblioteconomia e Ciência Da Informação, 21</em>, 1–15.</p><a class='mdi mdi-earth' href='https://doi.org/10.20396/rdbci.v21i00.8673169' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Maniero do Amaral &amp; Furnival, 2023, p. 6-8<i></i></a>).</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_58">
+  <div class="ms-col-content">
+    <h5 id='heading-58' ><img class="img-fluid" src="assets/images/icons/Icon-Beitrag-Verlage.svg" style="max-height: 2em"> <span style="color:#8F7FEE">Contribution</span></h5>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_59">
+  <div class="ms-col-content">
+    <ul>
+<li>Like journals, publishers can carry out pioneering and advocacy work through their rather flexible and efficient structures. Small, agile publishers can convince others of the Diamond model, as the transition to Gold Open Access has already shown (<a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Henkes, L. M., Wrzesinski, M., &amp; Holscher Blackman, K. (2025). Open Access gemeinsam gemacht: Kollaborative Ansätze des wissenschaftlichen Publizierens. <em>Zenodo</em>.</p><a class='mdi mdi-earth' href='https://doi.org/10.5281/ZENODO.14800427' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Henkes et al., 2025, p. 38<i></i></a>). One of the interviewed experts says:</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-plugin ms-plugin-quote" id="partial_60">
+  <div class="ms-col-content">
+    
+<div class="tab-content" id="quote_60_myTabContent">
+  <div class="tab-pane fade show active" id="quote_60_quote" role="tabpanel"
+       aria-labelledby="quote_60_quote-tab">
+    <blockquote class="blockquote">
+      <p>&ldquo;So that smaller, agile publishers then also simply accept the experiment and then have a look, and whether it [referring to Diamond Open Access] works, and if it doesn't work, then you have to find another way and then you can also feed that back into the community.&rdquo;</p>
+    </blockquote>
+  </div>
+  <div class="tab-pane fade" id="quote_60_quoteOriginal" role="tabpanel"
+       aria-labelledby="quote_60_quoteOriginal-tab">
+    <blockquote class="blockquote">
+      <p>&ldquo;So, dass so kleinere, agile Verlage dann halt auch einfach das Experiment annehmen und dann halt mal gucken, und ob es [bezogen auf Diamond Open Access] funktioniert, und wenns halt nicht funktioniert, dann muss man halt wieder einen anderen Weg finden und dann kann man das halt auch dann wieder in die Community so reintragen.&rdquo;</p>
+    </blockquote>
+  </div>
+</div>
+<ul class="nav nav-tabs" id="quote_60_myTab" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="quote_60_quote-tab" data-toggle="tab"
+       href="#quote_60_quote" role="tab" aria-controls="quote_60_quote" aria-expanded="true">
+      Translated quote
+    </a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="quote_60_quoteOriginal-tab" data-toggle="tab"
+       href="#quote_60_quoteOriginal" role="tab" aria-controls="quote_60_quoteOriginal">
+      Original version
+    </a>
+  </li>
+</ul>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-author">
+  <p>
+    <strong>Expert</strong>
+    
+    <br>Transcription 2, Para. 61
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_61">
+  <div class="ms-col-content">
+    <ul>
+<li>Through their well-established editorial work, publishers can set standards in collaborative projects to ensure high quality.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_62">
+  <div class="ms-col-content">
+    <ul>
+<li>Cooperation with commercial publishers and service providers for exchanging expertise in publishing and governance can take place, provided certain criteria are considered. Central is the preservation of individual independence, the scholar-led approach, cost transparency and a shared understanding of scholarly publishing as a service to society. Concretely, this means that rights to the work continue to lie with the authors and that there is an orientation towards discipline- and cross-country standards.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_63">
+  <div class="ms-col-content">
+    <h4 id='projekte' ><span style="color:#D3AB05"><strong>Open Access Projects, Initiatives and Infrastructures</strong></span></h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_64">
+  <div class="ms-col-content">
+    <p><span class="ms-inline ms-inline-glossary">Open Access Projects and Initiatives<i></i></span> have the means and/or networks to bring the scholarly community together and encourage exchange of experience. They can therefore engage particularly in areas such as community work and the active further development of Diamond Open Access. Openly available infrastructures and corresponding services can also enable actors with limited resources to educate themselves and publish in the field of Diamond Open Access. Projects, initiatives and infrastructures can be institutionalised to varying degrees – from models firmly integrated into existing structures to informal associations supported by researchers or the community.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-glossary"><p>Projects include, for example, the Open Access Network, KOALA, SeDOA or research projects such as ELADOAH.<br><br />
+Initiatives include, among others, ENABLE!, non-institutionalised scholar-led initiatives such as the Radical Open Access Collective, the <a href="https://graphite.page/scholar-led-manifest/">scholar-led.network focus group</a> as well as institution-supported initiatives such as the AG Universitätsverlage or the Alliance of Science Organisations.<br><br />
+Infrastructures can be classified as, for example, repositories, publication infrastructures (e.g. Public Knowledge Project (PKP) or PubPub) or information infrastructures such as the DOAJ.</p></aside>
+<aside class="ms-aside-hint"><p>Projects and initiatives can develop into permanent infrastructure over time. For example, the Open Access Network is to <a href="https://open-access.network/services/news?tx_news_pi1%5Baction%5D=detail&amp;tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Bnews%5D=1498&amp;cHash=cc2c7d101596e86a8626e4d3ba1a657e">transition into an association</a> after the end of funding by the BMFTR. <a href="https://diamond-open-access.de">SeDOA</a> was also founded with the goal of creating a permanent publication infrastructure.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_65">
+  <div class="ms-col-content">
+    <h5 id='heading-65' ><img class="img-fluid" src="assets/images/icons/Icon-Akteur-Projekte.svg" style="max-height: 2em"> <span style="color:#D3AB05">Teamwork</span></h5>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_66">
+  <div class="ms-col-content">
+    <ul>
+<li>Within the framework of collaborative Diamond Open Access publishing, initiatives and projects can particularly advocate for the development of community-led infrastructures in order to actively prevent possible dependence on commercial providers (<a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Barnes, L., &amp; Gatti, R. (2019, Juni). Bibliodiversity in Practice: Developing Community-Owned, Open Infrastructures to Unleash Open Access Publishing. <em>ELPUB 2019 23rd edition of the International Conference on Electronic Publishing</em>.</p><a class='mdi mdi-earth' href='https://doi.org/10.4000/proceedings.elpub.2019.21' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Barnes &amp; Gatti, 2019<i></i></a>).</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_67">
+  <div class="ms-col-content">
+    <ul>
+<li>At the same time, it is important to find ways to jointly use technical expertise as well as existing community-led infrastructures, tools and services.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-example"><p>e.g. databases, metadata, metrics, publishing platforms</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_68">
+  <div class="ms-col-content">
+    <h5 id='heading-68' ><img class="img-fluid" src="assets/images/icons/Icon-Nachhaltigkeit-Projekte.svg" style="max-height: 2em"> <span style="color:#D3AB05">Sustainability</span></h5>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_69">
+  <div class="ms-col-content">
+    <ul>
+<li>The institutionalisation of community work in existing structures is an important aspect for achieving sustainability.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_70">
+  <div class="ms-col-content">
+    <ul>
+<li>Projects, initiatives and infrastructures can provide special support services through training and skills development in the field of Diamond Open Access.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_71">
+  <div class="ms-col-content">
+    <ul>
+<li>They can also educate academic disciplines that have few points of contact or a small budget about Diamond Open Access.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_72">
+  <div class="ms-col-content">
+    <ul>
+<li>In addition to educational work, lobbying and promoting Diamond Open Access models to political actors or universities is also part of this, as one interviewed person emphasises.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-plugin ms-plugin-quote" id="partial_73">
+  <div class="ms-col-content">
+    
+<div class="tab-content" id="quote_73_myTabContent">
+  <div class="tab-pane fade show active" id="quote_73_quote" role="tabpanel"
+       aria-labelledby="quote_73_quote-tab">
+    <blockquote class="blockquote">
+      <p>&ldquo;So I do believe that different expertises are needed in these non-profit organisational forms to really make it fly. So, clearly money. But yes, we know that journals are confronted with many challenges simultaneously and need support there. In that respect I believe [...] that projects can be a useful addition there, especially when it comes to lobbying. With the political actors, at the universities, so with the leaders of institutions and the like, to repeatedly wave the flag for Diamond Open Access and be able to make the advantages clear again and again, because I believe it takes time and a lot of lobbying, because the scene is also developing further and then you have to keep looking at where we actually stand.&rdquo;</p>
+    </blockquote>
+  </div>
+  <div class="tab-pane fade" id="quote_73_quoteOriginal" role="tabpanel"
+       aria-labelledby="quote_73_quoteOriginal-tab">
+    <blockquote class="blockquote">
+      <p>&ldquo;Also ich glaube schon, dass es unterschiedliche Expertisen braucht in diesen gemeinwirtschaftlichen Organisationsformen, um das wirklich zum Fliegen zu bringen. Also, klar Geld. Aber ja, wir wissen, dass die Zeitschrift mit vielen Herausforderungen gleichzeitig konfrontiert sind und da Support brauchen. Insofern glaube ich [...], dass Projekte da eine sinnvolle Ergänzung sein können, gerade auch was die Lobbyarbeit angeht. Bei den politischen Akteuren, bei den Hochschulen, also bei den Leitenden von Institutionen und dergleichen, immer wieder auch ja quasi die Fahne schwenken für Diamond Open Access und die Vorteile immer wieder klar machen können, weil ich glaube, es braucht Zeit und viel Lobbyarbeit, weil sich die Szene auch weiterentwickelt und dann immer wieder geschaut werden muss, wo stehen wir eigentlich?&rdquo;</p>
+    </blockquote>
+  </div>
+</div>
+<ul class="nav nav-tabs" id="quote_73_myTab" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="quote_73_quote-tab" data-toggle="tab"
+       href="#quote_73_quote" role="tab" aria-controls="quote_73_quote" aria-expanded="true">
+      Translated quote
+    </a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="quote_73_quoteOriginal-tab" data-toggle="tab"
+       href="#quote_73_quoteOriginal" role="tab" aria-controls="quote_73_quoteOriginal">
+      Original version
+    </a>
+  </li>
+</ul>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-author">
+  <p>
+    <strong>Expert</strong>
+    
+    <br>Transcription 14, Para. 35
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_74">
+  <div class="ms-col-content">
+    <h5 id='heading-74' ><img class="img-fluid" src="assets/images/icons/Icon-Beitrag-Projekte.svg" style="max-height: 2em"> <span style="color:#D3AB05">Contribution</span></h5>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_75">
+  <div class="ms-col-content">
+    <ul>
+<li>As "awareness platforms", initiatives and projects can promote exchange among authors who are interested in establishing collaborative publication structures, sharing experiences and maintaining networks.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_76">
+  <div class="ms-col-content">
+    <ul>
+<li>Initiating, supporting and promoting collaborative structures such as consortial funding is also one of the strengths of this stakeholder group.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_77">
+  <div class="ms-col-content">
+    <ul>
+<li>Finally, projects, initiatives and infrastructures can take a leading role in advancing Diamond Open Access. The example of the national service centre for Diamond Open Access (<a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Servicestelle Diamond Open Access (SeDOA). (2025). Projektinformationen.</p><a class='mdi mdi-earth' href='https://diamond-open-access.de' target='_blank' rel='noopener noreferrer'></a>" data-html="true">SeDOA<i></i></a>) demonstrates this particularly well:</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-plugin ms-plugin-quote" id="partial_78">
+  <div class="ms-col-content">
+    
+<div class="tab-content" id="quote_78_myTabContent">
+  <div class="tab-pane fade show active" id="quote_78_quote" role="tabpanel"
+       aria-labelledby="quote_78_quote-tab">
+    <blockquote class="blockquote">
+      <p>&ldquo;The DFG-funded project <em>SeDOA</em> aims to increase the efficiency of Diamond Open Access (DOA) publishing in Germany through better coordination and optimisation of decentralised services, provision of central information as well as innovations.&rdquo;</p>
+    </blockquote>
+  </div>
+  <div class="tab-pane fade" id="quote_78_quoteOriginal" role="tabpanel"
+       aria-labelledby="quote_78_quoteOriginal-tab">
+    <blockquote class="blockquote">
+      <p>&ldquo;Das DFG-geförderte Projekt <em>SeDOA</em> hat zum Ziel, die Effizienz des Diamond Open Access (DOA) Publizierens in Deutschland durch bessere Koordinierung und Optimierung von dezentralen Dienstleistungen, Bereitstellung zentraler Informationen sowie Innovationen zu steigern.&rdquo;</p>
+    </blockquote>
+  </div>
+</div>
+<ul class="nav nav-tabs" id="quote_78_myTab" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="quote_78_quote-tab" data-toggle="tab"
+       href="#quote_78_quote" role="tab" aria-controls="quote_78_quote" aria-expanded="true">
+      Translated quote
+    </a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="quote_78_quoteOriginal-tab" data-toggle="tab"
+       href="#quote_78_quoteOriginal" role="tab" aria-controls="quote_78_quoteOriginal">
+      Original version
+    </a>
+  </li>
+</ul>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-author">
+  <p>
+    <strong>Servicestelle Diamond Open Access (SeDOA)</strong>
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_79">
+  <div class="ms-col-content">
+    <h4 id='foerderung' ><span style="color:#649DF1"><strong>Research Funding</strong></span></h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_80">
+  <div class="ms-col-content">
+    <p><span class="ms-inline ms-inline-glossary">Research Funding<i></i></span> can make a decisive contribution to the dissemination of collaborative Diamond Open Access – particularly through precise guidelines and standards for improving Diamond Open Access funding. It can also initiate urgently needed science policy changes.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-glossary"><p>Research funding here refers primarily to public funding institutions. In addition, private or business-related foundations also contribute to research funding, but these are only touched upon marginally here.</p></aside>
+<aside class="ms-aside-example"><p>At national level, these include, for example, the Deutsche Forschungsgemeinschaft or the Federal Ministry for Research, Technology and Aerospace.<br />
+At international level, funding programmes of the European Union or UNESCO should be mentioned. Diamond Open Access funding initiatives by individual federal states also exist at state level.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_81">
+  <div class="ms-col-content">
+    <h5 id='heading-81' ><img class="img-fluid" src="assets/images/icons/Icon-Akteur-Foerderung.svg" style="max-height: 2em"> <span style="color:#649DF1">Teamwork</span></h5>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_82">
+  <div class="ms-col-content">
+    <ul>
+<li>To realise Diamond Open Access as a collaborative project, the frameworks for funding must be improved. To this end, research funders can use their contacts with political decision-makers and lobby.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_83">
+  <div class="ms-col-content">
+    <ul>
+<li>However, advocacy work for Diamond Open Access must be carried out not only in science policy, but also directly with researchers. Many continue to decide against publishing their research results in Diamond Open Access. At the same time, funders orient themselves towards the publication venues of the researchers they fund. For example, the Deutsche Forschungsgemeinschaft supports Diamond Open Access monographs with only <a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Davison, S. (2025, Mai 1). Two Years On: A Conversation with DFG on Supporting Open Access Books. <em>OAPEN - Online library of open access books</em>.</p><a class='mdi mdi-earth' href='https://doi.org/10.58079/13USN' target='_blank' rel='noopener noreferrer'></a>" data-html="true">4% of the total funding amount in its Open Access publications funding programme.<i></i></a> To win researchers over to Diamond Open Access, investments in science communication by research funders are also required.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-hint"><p>According to a <a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Bosman, J., Frantsvåg, J. E., Kramer, B., Langlais, P.-C., &amp; Proudman, V. (2021). OA Diamond Journals Study. Part 1: Findings. <em>Zenodo</em>.</p><a class='mdi mdi-earth' href='https://doi.org/10.5281/ZENODO.4558704' target='_blank' rel='noopener noreferrer'></a>" data-html="true">study by cOAlition S<i></i></a> on the global Open Access journal landscape, only 8-9% of the journals studied are published Diamond Open Access.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_84">
+  <div class="ms-col-content">
+    
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_85">
+  <div class="ms-col-content">
+    <h5 id='heading-85' ><img class="img-fluid" src="assets/images/icons/Icon-Nachhaltigkeit-Foerderung.svg" style="max-height: 2em"> <span style="color:#649DF1">Sustainability</span></h5>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_86">
+  <div class="ms-col-content">
+    <ul>
+<li>To ensure sustainable funding, funding institutions must permanently support not only publications but also editorial teams and <a href="https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/infrastruktur/lis/lis-foerderangebote/forschungssoftwareinfrastrukturen">infrastructures</a>, and above all independently of projects. The importance of project-independent funding is also visible in our interview study.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-plugin ms-plugin-quote" id="partial_87">
+  <div class="ms-col-content">
+    
+<div class="tab-content" id="quote_87_myTabContent">
+  <div class="tab-pane fade show active" id="quote_87_quote" role="tabpanel"
+       aria-labelledby="quote_87_quote-tab">
+    <blockquote class="blockquote">
+      <p>&ldquo;A major shortcoming in terms of sustainability is that, naturally, in the entire scientific field, as also here, much of what happens is initially project-based. And many funders, who I believe would also fundamentally have an interest in funding Diamond Open Access long-term, are not allowed to provide funding that is not project-based. Like the DFG, which knows very precisely that it produces the dilemma of funding infrastructures on a project basis in the entire area where it's about scientific infrastructures, which actually can't work at all, because infrastructures are something permanent.&rdquo;</p>
+    </blockquote>
+  </div>
+  <div class="tab-pane fade" id="quote_87_quoteOriginal" role="tabpanel"
+       aria-labelledby="quote_87_quoteOriginal-tab">
+    <blockquote class="blockquote">
+      <p>&ldquo;Ein großes Manko bei der Nachhaltigkeit ist, dass natürlich im gesamten Wissenschaftsbereich, so auch hier, vieles was passiert erst mal projektbasiert ist. Und viele Geldgeber, die grundsätzlich auch glaube ich ein Interesse daran hätten, Diamond Open Access langfristig zu finanzieren, keine Förderung machen dürfen, die nicht projektbasiert ist. Also wie die DFG, die ja sehr genau weiß, dass sie sozusagen in dem gesamten Bereich, wo es um wissenschaftliche Infrastrukturen geht, immer das Dilemma produziert, Infrastrukturen projektbasiert zu finanzieren, was sozusagen eigentlich gar nicht gehen kann, weil Infrastrukturen was Dauerhaftes sind.&rdquo;</p>
+    </blockquote>
+  </div>
+</div>
+<ul class="nav nav-tabs" id="quote_87_myTab" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="quote_87_quote-tab" data-toggle="tab"
+       href="#quote_87_quote" role="tab" aria-controls="quote_87_quote" aria-expanded="true">
+      Translated quote
+    </a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="quote_87_quoteOriginal-tab" data-toggle="tab"
+       href="#quote_87_quoteOriginal" role="tab" aria-controls="quote_87_quoteOriginal">
+      Original version
+    </a>
+  </li>
+</ul>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-author">
+  <p>
+    <strong>Expert</strong>
+    
+    <br>Transcript 9, Para. 21
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_88">
+  <div class="ms-col-content">
+    <ul>
+<li>To enable sustainable funding, existing funding logics should be critically questioned in order to invest financial resources specifically in systemic and structural support for publications. An exchange with funding institutions from other countries and federal states is also sensible. Concretely, this can mean prioritising small initiatives such as KOALA over DEAL contracts. Furthermore, funding should not primarily focus on paying APCs or supporting hybrid Open Access models, but should focus on Diamond Open Access. In this way, impulses can also be set for funding and institutionalising community structures.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-hint"><p>As an example of this approach, research funders could consider the <a href="https://openbookcollective.org">Open Book Collective</a>, which supports Diamond Open Access monographs both in financial aspects and in process adjustments.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_89">
+  <div class="ms-col-content">
+    <ul>
+<li>Finally, research funding can also act as an incubator for new initiatives and support journals, books or infrastructures with limited start-up funding within a realistic timeframe.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_90">
+  <div class="ms-col-content">
+    
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_91">
+  <div class="ms-col-content">
+    <h5 id='heading-91' ><img class="img-fluid" src="assets/images/icons/Icon-Beitrag-Foerderung.svg" style="max-height: 2em"> <span style="color:#649DF1">Contribution</span></h5>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_92">
+  <div class="ms-col-content">
+    <ul>
+<li>To make a concrete contribution to collaborative and fair Diamond Open Access, research funders can develop, standardise and communicate common funding criteria ("common good criteria"). These should be negotiated together with the specialist communities and coordinated nationally and internationally. Cooperation with other national and international research funders is essential for this. A concrete approach would be to include the existence and quality of longer-term funding concepts as an evaluation criterion.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_93">
+  <div class="ms-col-content">
+    <ul>
+<li>A drastic but effective step would be to establish a commitment to Diamond Open Access publishing or, alternatively, to establish a minimum share of public funding for collaborative Diamond Open Access.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_94">
+  <div class="ms-col-content">
+    <ul>
+<li>Last but not least, research funders can also contribute to changing research evaluation. The decisive factor is to move away from purely quantitative metrics such as the Journal Impact Factor and to include qualitative metrics such as target-group-specific addressing in order to be able to appropriately evaluate and support research.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_95">
+  <div class="ms-col-content">
+    <h4 id='fachvertretungen' ><span style="color:#FF6465"><strong>Scientific Societies</strong></span></h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_96">
+  <div class="ms-col-content">
+    <p><span class="ms-inline ms-inline-glossary">Scientific Societies<i></i></span> play a key role in the reputation of collaborative Diamond Open Access publications. They can bring the reputation of their respective discipline into collaborative projects whilst simultaneously taking a pioneering role for Diamond Open Access within their discipline. In addition, they can create continuity through long-term positions.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-glossary"><p>Scientific societies or learned societies represent the interests of individual academic disciplines, some also supra-regionally, whilst other disciplines are less formally organised. Subject-Specific Information Services (FIDs) assume a particular interface function, acting between libraries, journals and scientific societies.<br />
+Individual researchers also engage in the context of scientific societies.</p></aside>
+<aside class="ms-aside-example"><p>Scientific societies include, for example, the Gesellschaft Deutscher Chemiker or the Deutsche Zoologische Gesellschaft.<br><br />
+FIDs include, for example, Pollux for political science or the FID Media for communication and media studies.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_97">
+  <div class="ms-col-content">
+    <h5 id='heading-97' ><img class="img-fluid" src="assets/images/icons/Icon-Akteur-Fachvertretungen.svg" style="max-height: 2em"> <span style="color:#FF6465">Teamwork</span></h5>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_98">
+  <div class="ms-col-content">
+    <ul>
+<li>Scientific societies can begin by enquiring about the Diamond Open Access status in their own community. This stocktaking can form the starting point for advocacy work within their own discipline. Scientific societies can spread Diamond Open Access within their own discipline by clarifying the relevance of the open publication form and demanding active engagement from researchers. This can be done, for example, through an ambassador model in which individual researchers within the discipline inform and educate about Diamond Open Access. Continuing education opportunities can also help to increase motivation for Diamond Open Access. Due to their proximity to researchers and editors, scientific societies are also particularly suitable as multipliers, for example as contact persons for journal flipping.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_99">
+  <div class="ms-col-content">
+    <ul>
+<li>Not all scientific societies are equally well positioned with regard to Diamond Open Access. This is also shown by our interview study.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-plugin ms-plugin-quote" id="partial_100">
+  <div class="ms-col-content">
+    
+<div class="tab-content" id="quote_100_myTabContent">
+  <div class="tab-pane fade show active" id="quote_100_quote" role="tabpanel"
+       aria-labelledby="quote_100_quote-tab">
+    <blockquote class="blockquote">
+      <p>&ldquo;And there are areas and disciplines where it works. That's linguistics, that's geology here. In a certain sense it's physics and/or maths. But various scientific societies somehow don't move forward, but wait for something to happen or perhaps also try to find problems rather than solutions.&rdquo;</p>
+    </blockquote>
+  </div>
+  <div class="tab-pane fade" id="quote_100_quoteOriginal" role="tabpanel"
+       aria-labelledby="quote_100_quoteOriginal-tab">
+    <blockquote class="blockquote">
+      <p>&ldquo;Und es gibt Bereiche und Disziplinen, in denen es funktioniert. Das ist die Sprachwissenschaft, das ist hier die Geologie. In gewisser Hinsicht ist es Physik und/oder Mathe. Aber verschiedene Fachcommunities gehen irgendwie nicht nach vorne, sondern warten darauf, dass was passiert oder probieren vielleicht auch eher Probleme zu finden als Lösungen.&rdquo;</p>
+    </blockquote>
+  </div>
+</div>
+<ul class="nav nav-tabs" id="quote_100_myTab" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="quote_100_quote-tab" data-toggle="tab"
+       href="#quote_100_quote" role="tab" aria-controls="quote_100_quote" aria-expanded="true">
+      Translated quote
+    </a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="quote_100_quoteOriginal-tab" data-toggle="tab"
+       href="#quote_100_quoteOriginal" role="tab" aria-controls="quote_100_quoteOriginal">
+      Original version
+    </a>
+  </li>
+</ul>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-author">
+  <p>
+    <strong>Expert</strong>
+    
+    <br>Transcript 4, Para. 3
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_101">
+  <div class="ms-col-content">
+    <p>Here, subject information services and individual researchers can work to mobilise thematically related scientific societies more strongly for the topic of Diamond Open Access.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_102">
+  <div class="ms-col-content">
+    <ul>
+<li>Scientific societies can also exert influence at the international level by maintaining contacts with international representatives of the same discipline, encouraging exchange and promoting, for example, the shared use of infrastructures.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_103">
+  <div class="ms-col-content">
+    <h5 id='heading-103' ><img class="img-fluid" src="assets/images/icons/Icon-Nachhaltigkeit-Fachvertretungen.svg" style="max-height: 2em"> <span style="color:#FF6465">Sustainability</span></h5>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_104">
+  <div class="ms-col-content">
+    <ul>
+<li>As an interface between science and the information sector, scientific societies can assume a bridging function and initiate permanent cooperation between these two areas.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_105">
+  <div class="ms-col-content">
+    <ul>
+<li>As our interview study shows, they can contribute to continuity and stability in collaborative publication projects.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-plugin ms-plugin-quote" id="partial_106">
+  <div class="ms-col-content">
+    
+<div class="tab-content" id="quote_106_myTabContent">
+  <div class="tab-pane fade show active" id="quote_106_quote" role="tabpanel"
+       aria-labelledby="quote_106_quote-tab">
+    <blockquote class="blockquote">
+      <p>&ldquo;Therefore I do believe that it's good if scientific societies also get involved a bit more strongly [...] and they also often have, perhaps also a business office and so on, where there's simply a bit more continuity. Well, I believe you generally need some kind of good mix of people from the information sector and from science, who commit more strongly and work together long-term.&rdquo;</p>
+    </blockquote>
+  </div>
+  <div class="tab-pane fade" id="quote_106_quoteOriginal" role="tabpanel"
+       aria-labelledby="quote_106_quoteOriginal-tab">
+    <blockquote class="blockquote">
+      <p>&ldquo;Von daher glaube ich schon, dass es gut ist, wenn auch Fachgesellschaften sich da ein bisschen stärker einbringen [...] und die haben ja auch oft, vielleicht auch eine Geschäftsstelle und so, wo einfach ein bisschen mehr Kontinuität ist. Naja, ich glaube, man braucht generell irgendwie eine gute Mischung aus Leuten aus dem Informationsbereich und aus der Wissenschaft, die sich stärker committen und längerfristig zusammenarbeiten.&rdquo;</p>
+    </blockquote>
+  </div>
+</div>
+<ul class="nav nav-tabs" id="quote_106_myTab" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="quote_106_quote-tab" data-toggle="tab"
+       href="#quote_106_quote" role="tab" aria-controls="quote_106_quote" aria-expanded="true">
+      Translated quote
+    </a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="quote_106_quoteOriginal-tab" data-toggle="tab"
+       href="#quote_106_quoteOriginal" role="tab" aria-controls="quote_106_quoteOriginal">
+      Original version
+    </a>
+  </li>
+</ul>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-author">
+  <p>
+    <strong>Expert</strong>
+    
+    <br>Transcript 3, Para. 35
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_107">
+  <div class="ms-col-content">
+    <p>However, it should be noted that not all scientific societies are professionally organised or have long-term positions and an office.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_108">
+  <div class="ms-col-content">
+    <ul>
+<li>By budgeting fixed funds for collaborative Diamond Open Access, scientific societies can – according to their individual financial possibilities – support the sustainable funding of a collaborative project.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_109">
+  <div class="ms-col-content">
+    <ul>
+<li>In addition to an inventory of the spread of Diamond Open Access in one's own discipline, it is equally important to define clear goals for this publication form.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_110">
+  <div class="ms-col-content">
+    <h5 id='heading-110' ><img class="img-fluid" src="assets/images/icons/Icon-Beitrag-Fachvertretungen.svg" style="max-height: 2em"> <span style="color:#FF6465">Contribution</span></h5>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_111">
+  <div class="ms-col-content">
+    <ul>
+<li>For collaborative Diamond Open Access publications in the respective field, respected scientific societies can create trustworthiness and reputation. Concretely, this can be done, for example, through a direct connection of the publication to the scientific societiy. This in turn increases the willingness of researchers to publish Diamond Open Access.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_112">
+  <div class="ms-col-content">
+    <ul>
+<li>Scientific societies of individual disciplines should take a stronger pioneering role and develop creative solutions. A certain willingness to take risks is also required, for example in journal flipping.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_113">
+  <div class="ms-col-content">
+    <ul>
+<li>Furthermore, scientific societies can contribute particularly to the governance structures of a collaborative publication project – for example, if they are the carriers of the corresponding Diamond Open Access publication venues.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+</div> <!-- close container -->
+<section>
+  <div class="container">
+    <div class="ms-row ms-row-two ms-plugin ms-plugin-infobox collapse" id="partial_114">
+      <div class="ms-col-content">
+        <p><strong>Below are some discussion points that are repeatedly raised in the community – sorted by stakeholder groups. These are not exhaustive and do not necessarily reflect the opinion of the authors. Rather, they are intended to provide food for thought and encourage further exchange.</strong></p>
+<h4>DIAMOND OPEN ACCESS JOURNALS</h4>
+<p>There is uncertainty in the community about which criteria a publisher-operated Open Access journal must meet to be classified as "Diamond". There is therefore a need for a uniform and official definition of the term.</p>
+<p>Furthermore, it is discussed whether platforms with peer-reviewed multimedia content should also be counted among the "journals" stakeholder group and whether the term "journal" is defined too narrowly in this context. The debate also raises the question of whether journals in their current form will still be required in the future. In this scenario, there would also be no need for publishers, but only an editorial board that ensures the quality of the contributions. This type of publishing could break through previous acquisition and market logic.</p>
+<h3>ACADEMIC LIBRARIES</h3>
+<p>Academic libraries are also dependent on financial frameworks and institutional requirements from the university or college, which limits decision-making scope. Acquisition funds are finite and in some cases must be concentrated on basic information provision. In addition, a high proportion of libraries' information budget is tied up in DEAL contracts (as opposed to a small budget for Diamond Open Access), which reinforces existing dependencies and reputation mechanisms. (<a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Fischer, G., Neufend, M., &amp; Kindling, M. (2024, November 27). DEAL ≠ Diamond. Ein Diskussionsbeitrag zur Souveränität des wissenschaftlichen Publikationswesens. <em>Open Access Blog Berlin</em>.</p><a class='mdi mdi-earth' href='https://doi.org/10.59350/ab01a-dj116' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Fischer, Neufend, &amp; Kindling, 2024<i></i></a>)</p>
+<p>Like all other actors, academic libraries are also dependent on large publishers and existing reputation mechanisms (e.g. high relevance of metrics such as the Journal Impact Factor). Researchers frequently decide against a Diamond Open Access publication for supposed reputation reasons, even though certain Diamond Open Access journals or publishers are highly regarded in their discipline. Another problem is that funding institutions and appointment committees rate publications with large renowned publishers higher. To loosen the scope of action of libraries, these frameworks must change. On the other hand, academic libraries can set impulses to initiate change and break through the self-reinforcing system:</p>
+<p>– Promote Diamond Open Access within the academic community<br />
+– Initiate discourses on the evaluation of scholarly publications<br />
+– Foster networking and exchange between researchers and Open Access stakeholders<br />
+– Support (successful) but endangered Diamond Open Access publications</p>
+<p>Direct funding of libraries as infrastructure providers is also demanded by the community so that they can sustainably build up publication services. It is also pointed out that some libraries also appear as publishers themselves and then have to balance different roles.</p>
+<h3>DIAMOND OPEN ACCESS PUBLISHERS</h3>
+<p>One particularly controversial aspect of publishing work is the collaboration with commercial publishers. As previously discussed in the context of publishers, there is the view that the expertise and services of commercial publishers should not be categorically excluded. Even when orientation toward the public good is used as a criterion for collaboration, there is no universally applicable assessment framework, and working with commercial publishers raises concerns about losing one’s own independence. Against this background, the question arises as to which commercial publishers and service providers are fundamentally suitable for integration into the Open Access community, how such integration can be structured, and at what points profit-driven market logic limits or even excludes collaboration. Transparency is crucial in this regard.</p>
+<h3>OPEN ACCESS PROJEKTS, INITATIVES UND INFRASTRUCTURES</h3>
+<p>Within the Open Access community, there is an ongoing discussion about whether publication infrastructures (such as PKP) and information infrastructures (such as DOAJ) should be described as a single stakeholder group or considered separately.</p>
+<h3>RESEARCH FUNDING</h3>
+<p>The community does see research funders as having a responsibility to initiate a shift in research evaluation and to standardise funding criteria for Diamond Open Access, but it also holds the academic community itself accountable. This raises key questions: What constitutes a relevant publication venue? What is considered relevant? How is success measured?</p>
+<p>One option for rethinking the funding of Diamond Open Access has been proposed by the German National Academy of Sciences Leopoldina, which suggests a direct funding mechanism focused on scholarly societies (<a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Tautz, D., Holzer, A., Schmidt, K., Buchner, J., Grötschel, M., &amp; Jurburg, S. (2025). Ein neues Verfahren zur direkten Finanzierung wissenschaftlicher Publikationen (Diskussion Nr. 38). <em>Nationale Akademie der Wissenschaften Leopoldina</em>.</p><a class='mdi mdi-earth' href='https://doi.org/10.26164/leopoldina_03_01261' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Tautz et al., 2025<i></i></a>). </p>
+<h3>SCIENTIFIC SOCIETIES</h3>
+<p>Subject representatives are viewed by parts of the community as rather conservative in their commitment to Diamond Open Access. Against this background, the question arises whether it is worth the time and resources to more strongly motivate subject representatives toward Diamond Open Access, and which actors might be suitable to engage them, especially when they have had little exposure to the topic. This role could potentially be filled by subject-specific information services (Fachinformationsdienste) or individual researchers.</p>
+<p>A central challenge for the dissemination of Diamond Open Access is that subject representatives often publish their own journals and show little interest in supporting external Diamond Open Access journals. Conversely, there are journals that, despite close thematic alignment, have little to no connection with the relevant subject representatives. Furthermore, subject representatives are not equally relevant for all journals. This raises the question of how scientific societies can become more attractive partners for journals.</p>
+<p>Furthermore, the question arises of how journals from scientific societies can gain popularity and reputation in order to compete with leading journals from commercial publishers. Open questions here are: What do professional journals need to gain significance? What goals do we want to achieve? How is success defined and discussed?</p>
+<p>Furthermore, the community points to the different structure and varying degree of organisation of scientific societies. Since not all scientific societies are professionally set up and can create long-term positions, academic libraries could instead provide stability within the framework of a collaborative model.</p>
+      </div>
+      <div class="ms-col-marginal">
+        
+<aside class="ms-aside-caption">
+  <p><strong>Further Discussions in the Community</strong>
+    
+    <br>The adjacent suggestions resulted from the various multi-stakeholder workshops that were conducted in preparation for the blueprint.
+    
+  </p>
+</aside>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+      </div>
+    </div>
+    
+    <button class="btn btn-primary toggleInfobox" type="button" style="display: none;" 
+            data-text-expand="Read More"
+            data-text-collapse="Collapse">Read More</button>
+    
+  </div>
+</section>
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_115">
+  <div class="ms-col-content">
+    <h3 id='themenfelder' >Topics</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_116">
+  <div class="ms-col-content">
+    <p>The four central topics identified in the report from literature and interviews were discussed in individual workshops with the Open Access community in order to bring together different needs, interests and experiences. Sustainable funding has repeatedly emerged as particularly central, as it ultimately forms the basis for all other dimensions of collaborative and fair Diamond Open Access publishing.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_117">
+  <div class="ms-col-content">
+    <p>To understand scholarly publishing as a holistic model, it also requires robust governance, quality and reputation of publications as well as structured community work. These areas are closely intertwined, as the arrows in the graphic above also illustrate. As already mentioned, reliable funding is a prerequisite for functioning community work, governance structures and high publication quality. Conversely, increased reputation can open up new funding opportunities. At the same time, it is important to integrate funding stakeholder groups such as academic libraries into governance structures and grant them participation rights. Furthermore, the Open Access community can strengthen the quality and reputation of publications by actively supporting alternative qualitative reputation mechanisms. Governance structures must be designed in such a way that they promote the institutionalisation of community structures, whilst the community can simultaneously influence the design of these organisational structures.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><p>Four topics and their interactions</p></aside>
+<aside class="ms-aside-bookmark"><p><a  type="button" data-toggle="modal" data-target="#12Modal"> Open graphic</a></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_118">
+  <div class="ms-col-content">
+    <h4 id='finanzierung' ><strong>Sustainable Funding</strong></h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_119">
+  <div class="ms-col-content">
+    <p>To address these challenges, institutionalisation of funding structures as well as cost awareness and transparency are crucial. But diversification of funding sources and community-led funding approaches can also be means to secure reliable funding and prevent dependencies on commercial providers. Critical engagement with current developments, such as cost-intensive DEAL contracts or funding policy requirements to support Diamond Open Access, is also relevant. Furthermore, fair working conditions and the exit from unpaid, voluntary work in collaborative publication projects should move more to the centre of attention.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_120">
+  <div class="ms-col-content">
+    <p>Overall, it should be considered that there can be no universal funding model for all collaborative publication projects, as requirements and frameworks can differ greatly from project to project and bibliodiversity should be regarded as a strength. According to the Open Access community, however, individual stakeholder groups can contribute to solving funding problems in a collaborative model. Provided legal concerns are clarified, libraries can actively decide to finance Diamond Open Access. scientific societies could likewise be more directly involved in funding and university presses could open their infrastructures for publication by other institutions. Initial successful funding rounds by KOALA demonstrate the functionality of consortial funding models and could lower the barriers for future broader financial participation by journals and libraries. Research funders could also contribute to improving Diamond Open Access funding with more precise guidelines. In particular, a focus on promoting successful collaborative approaches is an important next step. Financial commitment from stakeholder groups and clear and visible positioning of funding institutions towards Diamond Open Access as well as active advocacy work and targeted public relations can be crucial in winning new funders.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_121">
+  <div class="ms-col-content">
+    <h4 id='governance' ><strong>Governance structures and organisational principles</strong></h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_122">
+  <div class="ms-col-content">
+    <p>The topic of governance deals with prerequisites, opportunities and potential challenges of jointly organising Diamond Open Access publication models. The term governance is not uncontroversial in the Open Access community, as it is sometimes negatively connotated. Some voices even question the use of the term entirely. Unclear aspects include, for example, whether governance encompasses overarching control elements or concrete decision-making processes. The risks of complex governance structures (such as a slowing down of processes) as well as the degree of formalisation of organisational structures are also assessed differently. However, a certain structure and common editorial standards are necessary to overcome challenges such as voluntary work and long-term personnel management. For this reason, we consciously use the term governance within the framework of our model. Since the community expressly supports a diversity of organisational forms, collaborative models can exhibit different governance structures, including both horizontal and vertical forms of cooperation (<a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Adema, J., &amp; Moore, S. A. (2018). Collectivity and collaboration: Imagining new forms of communality to create resilience in scholar-led publishing. <em>Insights: The UKSG Journal, 31</em>(0), 3.</p><a class='mdi mdi-earth' href='https://doi.org/10.1629/uksg.399' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Adema &amp; Moore, 2018, S. 3–4<i></i></a>). </p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-hint"><p>According to expert interviews, the spectrum ranges from informal exchange groups in loose interest communities to formalised organisations. There, participation rights are linked to financial involvement, whereby the areas of funding and governance are closely connected (e.g. Open Book Collective). In addition, strongly formalised governance structures can develop from loose associations over time. (<a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Henkes, L. M., Wrzesinski, M., &amp; Holscher Blackman, K. (2025). Open Access gemeinsam gemacht: Kollaborative Ansätze des wissenschaftlichen Publizierens. <em>Zenodo</em>.</p><a class='mdi mdi-earth' href='https://doi.org/10.5281/ZENODO.14800427' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Henkes et al. 2025, p.42<i></i></a>)</p></aside>
+<aside class="ms-aside-example"><p>Examples of non-profit organised publication structures are projects such as COPIM, the Open Book Collective or the OA Publishing Collective.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_123">
+  <div class="ms-col-content">
+    <p>In the organisation of Diamond Open Access, cooperation and collaboration—particularly in the area of infrastructures—are central concerns for the Open Access community. This includes the exchange of knowledge and the use and further development of existing services and open-source infrastructures. A tension becomes apparent here between decentrally organised community infrastructures and the centralisation of services. In selected areas, centralising infrastructures can make sense in terms of efficient resource use, provided that their development and operation remain in the hands of non-profit actors.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_124">
+  <div class="ms-col-content">
+    <p>As already mentioned, essential principles for successful collaboration are shared values and principles, transparency, commitment, a clear division of tasks, regular communication, an open discourse space for different perspectives and active community work. A continuing readiness to review and adapt processes is essential, particularly when it becomes apparent that existing structures are no longer effective. Libraries in particular, due to their expertise and experience, are well positioned to contribute to governance structures, and therefore, like other key stakeholders, should be actively involved in the governance structure of a collaborative publishing project from the outset. Open Access publishers can contribute their experience with organisational structures, as well as a foundational legal framework that can serve as the basis for a collaborative publishing initiative. A specific legal form is not prescribed and can be chosen according to the needs of the collaborative organisation. However, it is essential that the business model includes, from the very beginning, dedicated capacities for innovation, networking, and professionalisation as integral components.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-hint"><p>This is based on an understanding of academic knowledge as a "common good" and a corresponding orientation of scholarly publishing toward the public good. (<a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Henkes, L. M., Wrzesinski, M., &amp; Holscher Blackman, K. (2025). Open Access gemeinsam gemacht: Kollaborative Ansätze des wissenschaftlichen Publizierens. <em>Zenodo</em>.</p><a class='mdi mdi-earth' href='https://doi.org/10.5281/ZENODO.14800427' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Henkes et al. 2025, p. 42<i></i></a>)</p></aside>
+<aside class="ms-aside-example"><p>Examples of legal forms can be a gGmbH (non-profit limited liability company), an association, a cooperative or a commercial business operation of a university. But other legal forms are also conceivable.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_125">
+  <div class="ms-col-content">
+    <p>The role of profit-oriented actors in Diamond Open Access organisational models has been critically examined. At the same time, cooperation with small commercial publishers could contribute to the consolidation of governance structures, as long as the scholarly-led approach is maintained.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><p>See also</p></aside>
+<aside class="ms-aside-bookmark"><p><a href="#verlage">Chapter Publishers</a></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_126">
+  <div class="ms-col-content">
+    <h4 id='qualitaet' ><strong>Quality and Reputation</strong></h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_127">
+  <div class="ms-col-content">
+    <p>Quality and reputation are central prerequisites for the success of collaborative Diamond Open Access publication projects. They are crucial for securing funders for funding on the one hand and motivating researchers to choose Diamond Open Access publications on the other. Since established publishers are often automatically associated with high reputation, collaborative publication projects must develop targeted measures to create trust, visibility and recognition in addition to secured funding. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_128">
+  <div class="ms-col-content">
+    <p>Reputation can be ensured through consistent internal quality assurance procedures and transparent communication of these. Clear standards and community involvement must be ensured already in the founding phase of collaborative publication projects. Ensuring a high quality standard is also crucial during ongoing operations. This includes, for example, transparency about production processes and peer review procedures, orientation towards discipline- or cross-country standards, compliance with ethical guidelines as well as reliable technical infrastructures. In this way, collaborative Diamond Open Access publications can distinguish themselves from dubious offerings such as <span class="ms-inline ms-inline-glossary">Predatory Publishing<i></i></span>. </p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-glossary"><p>Predatory Publishing refers to publication practices that proceed pseudo-scientifically and disregard basic standards of scholarly work, such as through lack of peer review procedures and violation of ethical standards. The focus is usually on maximising publication numbers and soliciting publication fees from authors. (<a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Elmore, S. A., &amp; Weston, E. H. (2020). Predatory Journals: What They Are and How to Avoid Them. <em>Toxicologic Pathology, 48</em>(4), 607–610.</p><a class='mdi mdi-earth' href='https://doi.org/10.1177/0192623320920209' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Elmore &amp; Weston, 2020<i></i></a>)</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_129">
+  <div class="ms-col-content">
+    <p>In collaborative publication projects, professionalisation strategies, supported by stakeholder groups such as academic libraries, can significantly increase the quality and reputation of Diamond Open Access. These include, for example, the optimisation of work flows and the shortening of publication periods. Additional impulses come from editorial standards introduced by publishers and the involvement of renowned researchers, for example within the framework of scientific boards of journals. The participation of respected scientific societies also contributes to increasing reputation, as already described. Institutional affiliation with scientific societies or universities or research institutions can additionally provide visibility and prestige. </p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><p>See also</p></aside>
+<aside class="ms-aside-bookmark"><p><a href="#fachvertretungen">Chapter Scientific Societies</a></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_130">
+  <div class="ms-col-content">
+    <p>To make Diamond Open Access visible as a model and strengthen it permanently, transparent communication about internal quality assurance procedures and targeted public relations work are crucial. This also includes good communication of possible advantages of Diamond Open Access, such as increased visibility and an increased citation rate of freely accessible publications (<a tabindex="0" data-trigger="click hover" class="ms-inline ms-inline-reference" data-toggle="popover" data-placement="top" title="Cited Source" data-content="<p>Huang, C.-K., Neylon, C., Montgomery, L., Hosking, R., Diprose, J. P., Handcock, R. N., &amp; Wilson, K. (2024). Open access research outputs receive more diverse citations. <em>Scientometrics, 129</em>(2), 825–845.</p><a class='mdi mdi-earth' href='https://doi.org/10.1007/s11192-023-04894-0' target='_blank' rel='noopener noreferrer'></a>" data-html="true">Huang, Neylon &amp; Montgomery, 2024<i></i></a>). In this way, researchers in earlier career stages can also be motivated for Diamond Open Access publications. For these to be viewed as fundamentally equivalent to publications from renowned publishing houses, a change in research evaluation and new procedures that measure the quality of research more strongly according to professional relevance, qualitative assessments and target-group-specific addressing are urgently required.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><p>See also</p></aside>
+<aside class="ms-aside-bookmark"><p><a href="#foerderung">Chapter Research Funding</a></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_131">
+  <div class="ms-col-content">
+    <h4 id='netzwerk' ><strong>Networks and Community</strong></h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_132">
+  <div class="ms-col-content">
+    <p>Collaborative Diamond Open Access publications require structured network and community work. They benefit from the involvement of scientific societies, which can support the visibility and reputation of publications. The motivation of researchers as carriers of content is crucial for promoting Diamond Open Access in their own field and making successful projects visible. In addition to scientific societies, the Open Access community and its diverse projects, initiatives and infrastructures also play a central role, as these educate about collaborative Diamond Open Access, convey expertise and provide community-led publication and information infrastructures. Such community-led infrastructures are crucial on the one hand to avoid dependencies on profit-oriented solutions from large publishers. On the other hand, they enable resource conservation, cost efficiency and professionalisation of work flows. </p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><p>See also</p></aside>
+<aside class="ms-aside-bookmark"><p><a href="#qualitaet">Chapter Quality and Reputation</a></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_133">
+  <div class="ms-col-content">
+    <p>Community work faces numerous challenges. The unequal spread of Diamond Open Access and the different needs of scientific societies make it difficult to organise comprehensive advisory services and develop a shared understanding of collaborative publishing. It remains open whether specific Open Access communities within individual disciplines are required or whether priority should be given to coordinating international networks. The lack of long-term funding and the absence of institutionalisation of community structures also make it difficult to build stable community structures – impulses from science policy and research funding are also necessary here.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_134">
+  <div class="ms-col-content">
+    <p>For successful collaborative publication projects, institutionalised structures, transparency and open communication are central prerequisites. Financial and time resources for network and community work must be explicitly planned in a collaborative governance model. At the same time, community work also depends on individual actors and their personal relationships. "Successful failure" is understood as a learning process to continuously improve advice and structures. To realise collaborative approaches requires more courage and willingness to innovate instead of the (compared to the debate about Gold Open Access) often critical and emotional debate. Here, for example, publishers and journals can take a pioneering role by doing pioneering work and developing experimental solutions.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-hint"><p>Within the community, conflicts can arise about the orientation and further development of publication organs. To constructively address these tensions, willingness to compromise, suitable moderation services as well as forums and platforms for the joint development of consensus are necessary.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_135">
+  <div class="ms-col-content">
+    <p>"The community" are ultimately researchers themselves, who are closely integrated into collaborative publication structures and support the respective publication organ. In this way, science can be motivated to operate its own communication organ for its community.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+</div>
+
+
+  
+
+    <div class="ms-chapter" style="background-image: url(assets/images/Chapter.jpg)">
+      <div class="container-fluid" >
+        <div class="container">
+          <div class="ms-row ms-row-full" id="partial_136">
+            <div class="ms-col-content">
+              
+  
+  <h2  id="heading-136">What factors influence stakeholder actions?</h2>
+  
+    <p>Legal, Structural and Open Access Frameworks</p>
+  
+  
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+
+<div class="container">
+<div class="ms-row ms-row-two ms-text" id="partial_137">
+  <div class="ms-col-content">
+    <p>As already became clear in the further discussion of the stakeholder groups, they cannot act completely freely. Their actions are embedded in various frameworks that influence their possibilities and decisions. These can be divided into three categories:</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-hint"><p>The frameworks were developed based on literature and interviews and refined through discussions in the context of the multi-stakeholder workshops.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_138">
+  <div class="ms-col-content">
+    
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_139">
+  <div class="ms-col-content">
+    <ul>
+<li><strong>Open Access conditions</strong> describe fundamental characteristics of the Open Access landscape, such as bibliodiversity, but also conditions of the Open Access transformation, such as the power of commercial publishers, which is also evident in DEAL contracts.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_140">
+  <div class="ms-col-content">
+    <ul>
+<li><strong>Structural frameworks</strong> concern the scholarly publication culture as a whole, for example existing metrics of research evaluation or the fundamental problem of limited funding.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_141">
+  <div class="ms-col-content">
+    <ul>
+<li><strong>Legal frameworks</strong> include higher education law and public budget law. These not only set the legal framework for stakeholder action, but also influence the funding of Diamond Open Access with public funds as well as the acquisition logic of individual funding institutions.</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_142">
+  <div class="ms-col-content">
+    <a href="#142Modal" type="button" data-toggle="modal" data-target="#142Modal">
+
+<object data="assets/images/figures/Kontext_EN.svg" type="image/svg+xml" class="img-fluid"></object>
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Multi-layered frameworks</strong>
+      
+        <br>Mutual influence dynamics between stakeholder groups and frameworks
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#142Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/figures/Kontext_EN.png"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/doa-blueprintassets/images/figures/Kontext_EN.png&summary=Mutual+influence+dynamics+between+stakeholder+groups+and+frameworks&title=Multi-layered+frameworks"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+      <a href="https://bsky.app/intent/compose?text=https%3A//graphite.page/doa-blueprintassets/images/figures/Kontext_EN.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-bluesky"></i>
+      </a>
+    
+      <a href="https://mastodon.social/share?text=https%3A//graphite.page/doa-blueprintassets/images/figures/Kontext_EN.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-mastodon"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="142Modal" tabindex="-1" role="dialog" aria-labelledby="142ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Multi-layered frameworks</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <object data="assets/images/figures/Kontext_EN.svg" type="image/svg+xml" class="img-fluid"></object>
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+<div class="ms-row ms-row-two ms-text" id="partial_143">
+  <div class="ms-col-content">
+    <p>The stakeholder groups are not passively or helplessly embedded in these frameworks, but can actively influence and shape them.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-hint"><p>The opportunities for influence by the stakeholder groups shown are selected as examples. Further possibilities must of course be explored and developed in the community.</p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_144">
+  <div class="ms-col-content">
+    <p>Open Access frameworks can be co-shaped by all stakeholder groups by committing themselves to a diverse publication landscape and formulating clear goals for Diamond Open Access – first within their own institution and then within the framework of a collaborative publication project. Funding institutions such as libraries can specifically increase funds for Diamond Open Access in relation to funds for APCs or DEAL contracts and thus directly influence transformation conditions.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_145">
+  <div class="ms-col-content">
+    <p>Structural frameworks can also be influenced. For example, research funders can help shape science policy requirements through lobbying and initiate project-independent funding models. Close cooperation of all six stakeholder groups is necessary for a change in research evaluation. This involves defining from within science what counts as a reputable publication venue and how scholarly success should be measured. <a href="https://coara.eu/">Individual initiatives such as CoARA</a> are already setting important impulses in this regard.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_146">
+  <div class="ms-col-content">
+    <p>Even though legal framework conditions are difficult to change, Open Access projects and initiatives can provide food for thought and initiate reforms. An example is the legal opinion developed by Verfassungsblog in the ELADOAH project, which critically examines the economic efficiency of Diamond Open Access financing.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_147">
+  <div class="ms-col-content">
+    
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+  </div>
+</article>
+  </div>
+  
+  <div class="tab-pane fade" id="community" role="tabpanel" aria-labelledby="community-tab" >
+    
+
+<section>
+  <div class="container">
+     <div class="ms-row ms-row-two ms-text" id="partial_148">
+  <div class="ms-col-content">
+    <h2 id='heading-148' >Community</h2>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_149">
+  <div class="ms-col-content">
+    <p>The ELADOAH project team thanks all participants of the four multi-stakeholder workshops as well as our final workshop for valuable suggestions, comments and critical discussions on our blueprint:</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_150">
+  <div class="ms-col-content">
+    <ul>
+<li><strong>Elena Di Rosa</strong>, Verfassungsblog, elenadirosa@verfassungsblog.de </li>
+<li><strong>Anita Eppelin</strong>, Technische Informationsbibliothek (TIB)</li>
+<li><strong>Gerrit Fröhlich</strong>, Leibniz-Institut für Psychologie (ZPID), gf@leibniz-psychology.org</li>
+<li><strong>Dorothee Graf</strong>, Universitätsbibliothek Duisburg-Essen</li>
+<li><strong>Anne-Christine</strong> Günther, Technische Universität Darmstadt, Universitäts- und Landesbibliothek Darmstadt</li>
+<li><strong>Kathleen Heft</strong>, Fachinformationsdienst Sozial- und Kulturanthropologie</li>
+<li><strong>Fabian Hennig</strong>, KOALA-AV</li>
+<li><strong>Alexandra Jobmann</strong>, Bibliothek der HafenCity Universität Hamburg, Mitglied der ENABLE!-Community, alexandra.jobmann@hcu-hamburg.de</li>
+<li><strong>Ben Kaden</strong>, Fachhochschule Potsdam</li>
+<li><strong>Isabella Kalte</strong>, On_Culture, International Graduate Centre for the Study of Culture (GCSC), isabella.kalte@gcsc.uni-giessen.de</li>
+<li><strong>Stefan Milius</strong>, Lehrstuhl für Theoretische Informatik, Friedrich-Alexander-Universität, Erlangen-Nürnberg, mail@stefan-milius.eu</li>
+<li><strong>Simona Noreik</strong>, Bibliothek der Hochschule Hannover</li>
+<li><strong>Andrea Perthen</strong>, Technische Universität Darmstadt</li>
+<li><strong>Regina Pfeifenberger</strong>, Pollux – Fachinformationsdienst Politikwissenschaft</li>
+<li><strong>Jochen Schirrwagen</strong>, Universitätsbibliothek RWTH Aachen, schirrwagen@ub.rwth-aachen.de</li>
+<li><strong>Bernhard Schubert</strong>, Universitätsbibliothek Wien, bernhard.schubert@univie.ac.at</li>
+<li><strong>Katharina Schulz</strong>, Fachhochschule Potsdam</li>
+<li><strong>Jana Sonnenstuhl</strong>, Leibniz-Institut für Festkörper- und Werkstoffforschung Dresden</li>
+<li><strong>Katja Wermbter</strong>, Technische Universität Braunschweig, Universitätsbibliothek</li>
+<li><strong>Marcel Wrzesinski</strong>, Charité – Universitätsmedizin Berlin, Medizinische Bibliothek</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_151">
+  <div class="ms-col-content">
+    <p>Furthermore, our special thanks go to the experts who enriched our workshops with their input:</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_152">
+  <div class="ms-col-content">
+    <ul>
+<li><strong>Kathrin Ganz</strong>, Margherita-von-Brentano-Zentrum (Freie Universität Berlin)</li>
+<li><strong>Linda Martin</strong>, Carl von Ossietzky Universität Oldenburg</li>
+<li><strong>Kai Matuszkiewicz</strong>, Fachinformationsdienst Kommunikations- und Medienwissenschaf (Philipps-Universität Marburg)</li>
+<li><strong>Klaus Rummler</strong>, Pädagogische Hochschule Zürich</li>
+<li><strong>Jasmin Schmitz</strong>, ZB MED – Informationszentrum Lebenswissenschaften</li>
+<li><strong>Tobias Steiner</strong>, Thoth Open Metadata und Copim Community</li>
+<li><strong>Karin Silvia Stork</strong>, KOALA-AV</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_153">
+  <div class="ms-col-content">
+    <p>We would also like to thank all participants of the following events who also helped to improve our blueprint with their critical discussions:</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_154">
+  <div class="ms-col-content">
+    <ul>
+<li><strong><a href="https://www.ema.uzh.ch/en/register/plato-workshoptag.html">Diamond Open Access Workshop Day</a></strong>, PLATO-Projekt, Bern, 21.03.2025</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_155">
+  <div class="ms-col-content">
+    <ul>
+<li><strong><a href="https://www.leopoldina.org/veranstaltungen/veranstaltung/event/3250/">Diskussion-Symposium zur Zukunft der Finanzierung wissenschaftlicher Publikationen</a></strong>, Nationale Akademie der Wissenschaften Leopoldina, Halle (Saale), 02.06.2025</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_156">
+  <div class="ms-col-content">
+    <ul>
+<li><strong>Sitzung der Fokusgruppe Kostenkontrolle</strong>, Online, 17.06.2025</li>
+</ul>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_157">
+  <div class="ms-col-content">
+    <p>Special thanks go to the respective organizers Daniela Hahn (UZH Universität Zürich), Diethard Tautz (Nationale Akademie der Wissenschaften Leopoldina) and Juliane Finger (ZBW – Leibniz-Informationszentrum Wirtschaft) for the organization and invitation. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_158">
+  <div class="ms-col-content">
+    <p>Our interview study, which forms the basis for our blueprint, would not have been possible so quickly and smoothly without the dedicated participation of our interview partners. For this we say heartfelt thanks!</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_159">
+  <div class="ms-col-content">
+    
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+  </div>
+</section>
+  </div>
+  
+  <div class="tab-pane fade" id="resources" role="tabpanel" aria-labelledby="resources-tab" >
+    
+
+<section>
+  <div class="container">
+     <div class="ms-row ms-row-two ms-text" id="partial_160">
+  <div class="ms-col-content">
+    <h2 id='heading-160' >Resources</h2>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_161">
+  <div class="ms-col-content">
+    <p>Here you will find individual elements and visualizations of our blueprint for download. In addition, we provide you with supplementary materials below. These include both project publications that form the basis for the blueprint, as well as materials for legal classification (Verfassungsblog).</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_162">
+  <div class="ms-col-content">
+    <h4 id='heading-162' >Individual Elements of the Blueprint for Download</h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_163">
+  <div class="ms-col-content">
+    <p>Here you will find the visualization of the blueprint as an overall graphic as well as, via slider navigation, the three individual graphics that represent the blueprint in its core elements. You are welcome to use these for your presentations or publications.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_164">
+  <div class="ms-col-content">
+    <p><em>The graphics are licensed under CC BY 4.0 license and can be freely used with attribution.</em></p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div id="carousel-165" class="slides-norm-height carousel slide" data-ride="carousel" data-interval="false">
+  
+  <div class="carousel-inner">
+  
+    <div class="carousel-item active">
+      
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_165_1">
+  <div class="ms-col-content">
+    <a href="#165_1Modal" type="button" data-toggle="modal" data-target="#165_1Modal">
+
+<object data="assets/images/figures/Gesamtgraphik_EN.svg" type="image/svg+xml" class="img-fluid"></object>
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Overall Graphic of the Blueprint</strong>
+      
+        <br>Diamond Open Access Model: Actors, Topics and Framework Conditions<br><br><i>Note</i>: Use the download button below to download.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#165_1Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/figures/Gesamtgraphik_EN.png"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/doa-blueprintassets/images/figures/Gesamtgraphik_EN.png&summary=Diamond+Open+Access+Model%3A+Actors%2C+Topics+and+Framework+Conditions%3Cbr%3E%3Cbr%3E%3Ci%3ENote%3C%2Fi%3E%3A+Use+the+download+button+below+to+download.&title=Overall+Graphic+of+the+Blueprint"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+      <a href="https://bsky.app/intent/compose?text=https%3A//graphite.page/doa-blueprintassets/images/figures/Gesamtgraphik_EN.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-bluesky"></i>
+      </a>
+    
+      <a href="https://mastodon.social/share?text=https%3A//graphite.page/doa-blueprintassets/images/figures/Gesamtgraphik_EN.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-mastodon"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="165_1Modal" tabindex="-1" role="dialog" aria-labelledby="165_1ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Overall Graphic of the Blueprint</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <object data="assets/images/figures/Gesamtgraphik_EN.svg" type="image/svg+xml" class="img-fluid"></object>
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+    </div>
+  
+    <div class="carousel-item ">
+      
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_165_2">
+  <div class="ms-col-content">
+    <a href="#165_2Modal" type="button" data-toggle="modal" data-target="#165_2Modal">
+
+<object data="assets/images/figures/Diamond_EN.svg" type="image/svg+xml" class="img-fluid"></object>
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Actors of the Diamond Open Access Community</strong>
+      
+        <br>Six stakeholder groups and their individual contributions to fair and collaborative Diamond Open Access<br><br><i>Note</i>: Use the download button below to download.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#165_2Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/figures/Diamond_EN.png"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/doa-blueprintassets/images/figures/Diamond_EN.png&summary=Six+stakeholder+groups+and+their+individual+contributions+to+fair+and+collaborative+Diamond+Open+Access%3Cbr%3E%3Cbr%3E%3Ci%3ENote%3C%2Fi%3E%3A+Use+the+download+button+below+to+download.&title=Actors+of+the+Diamond+Open+Access+Community"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+      <a href="https://bsky.app/intent/compose?text=https%3A//graphite.page/doa-blueprintassets/images/figures/Diamond_EN.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-bluesky"></i>
+      </a>
+    
+      <a href="https://mastodon.social/share?text=https%3A//graphite.page/doa-blueprintassets/images/figures/Diamond_EN.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-mastodon"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="165_2Modal" tabindex="-1" role="dialog" aria-labelledby="165_2ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Actors of the Diamond Open Access Community</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <object data="assets/images/figures/Diamond_EN.svg" type="image/svg+xml" class="img-fluid"></object>
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+    </div>
+  
+    <div class="carousel-item ">
+      
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_165_3">
+  <div class="ms-col-content">
+    <a href="#165_3Modal" type="button" data-toggle="modal" data-target="#165_3Modal">
+
+<object data="assets/images/figures/Prozess_EN.svg" type="image/svg+xml" class="img-fluid"></object>
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Collaborative Diamond Open Access Publishing as a Process</strong>
+      
+        <br>The Interaction of Actors and Central Topics <br><br><i>Note</i>: Use the download button below to download.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#165_3Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/figures/Prozess_EN.png"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/doa-blueprintassets/images/figures/Prozess_EN.png&summary=The+Interaction+of+Actors+and+Central+Topics+%3Cbr%3E%3Cbr%3E%3Ci%3ENote%3C%2Fi%3E%3A+Use+the+download+button+below+to+download.&title=Collaborative+Diamond+Open+Access+Publishing+as+a+Process"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+      <a href="https://bsky.app/intent/compose?text=https%3A//graphite.page/doa-blueprintassets/images/figures/Prozess_EN.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-bluesky"></i>
+      </a>
+    
+      <a href="https://mastodon.social/share?text=https%3A//graphite.page/doa-blueprintassets/images/figures/Prozess_EN.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-mastodon"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="165_3Modal" tabindex="-1" role="dialog" aria-labelledby="165_3ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Collaborative Diamond Open Access Publishing as a Process</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <object data="assets/images/figures/Prozess_EN.svg" type="image/svg+xml" class="img-fluid"></object>
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+    </div>
+  
+    <div class="carousel-item ">
+      
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_165_4">
+  <div class="ms-col-content">
+    <a href="#165_4Modal" type="button" data-toggle="modal" data-target="#165_4Modal">
+
+<object data="assets/images/figures/Kontext_EN.svg" type="image/svg+xml" class="img-fluid"></object>
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Multi-layered Framework Conditions</strong>
+      
+        <br>Mutual Influence Dynamics between Actors and Framework Conditions <br><br><i>Note</i>: Use the download button below to download.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#165_4Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/figures/Kontext_EN.png"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/doa-blueprintassets/images/figures/Kontext_EN.png&summary=Mutual+Influence+Dynamics+between+Actors+and+Framework+Conditions+%3Cbr%3E%3Cbr%3E%3Ci%3ENote%3C%2Fi%3E%3A+Use+the+download+button+below+to+download.&title=Multi-layered+Framework+Conditions"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+      <a href="https://bsky.app/intent/compose?text=https%3A//graphite.page/doa-blueprintassets/images/figures/Kontext_EN.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-bluesky"></i>
+      </a>
+    
+      <a href="https://mastodon.social/share?text=https%3A//graphite.page/doa-blueprintassets/images/figures/Kontext_EN.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-mastodon"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="165_4Modal" tabindex="-1" role="dialog" aria-labelledby="165_4ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Multi-layered Framework Conditions</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <object data="assets/images/figures/Kontext_EN.svg" type="image/svg+xml" class="img-fluid"></object>
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+    </div>
+  
+  </div>
+  <ol class="carousel-indicators">
+    
+      <li data-target="#carousel-165"
+          data-slide-to="0" class="active"></li>
+    
+      <li data-target="#carousel-165"
+          data-slide-to="1"></li>
+    
+      <li data-target="#carousel-165"
+          data-slide-to="2"></li>
+    
+      <li data-target="#carousel-165"
+          data-slide-to="3"></li>
+    
+    </ol>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_166">
+  <div class="ms-col-content">
+    <p>The blueprint was presented at the ELADOAH final event on August 27, 2025 and subsequently presented as part of the poster session at the Open Access Days 2025.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_167">
+  <div class="ms-col-content">
+    <table>
+<tr>
+<td><i class="mdi mdi-calendar"></i></td><td>Abschlussevent: <a href="https://www.hiig.de/events/abschlussveranstaltung-diamond-open-access-gemeinsam-gestalten/">Diamond Open Access gemeinsam gestalten?</a></td>
+</tr>
+<tr>
+<td><i class="mdi mdi-video"></i></td><td>Aufzeichnung Podiumsdiskussion: <a href="https://www.hiig.de/events/digitaler-salon-paywall-oder-payback/">Paywall oder Payback: Wem gehört die Wissenschaft?</a></td>
+</tr>
+<tr>
+<td><i class="mdi mdi-image"></i></td><td>Poster: Gemeinschaftliches Diamond Open Access (upcoming)</td>
+</tr>
+<tr>
+</table>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_168">
+  <div class="ms-col-content">
+    <h4 id='heading-168' >Further Materials</h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_169">
+  <div class="ms-col-content">
+    <p>Here are listed further materials such as publications or workshops that have provided ideas and foundations for the blueprint.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_170">
+  <div class="ms-col-content">
+    <p><strong>Foundations: Collaborative Scholarly Publishing</strong></p>
+<table>
+<tr>
+<td><i class="mdi mdi-file-document"></i></td><td>Blogartikel: <a href="https://www.hiig.de/diamond-oa/">Diamond OA: For a Colorful, Digital Publication Landscape</a></td>
+</tr>
+<tr>
+<td><i class="mdi mdi-file-document"></i></td><td>Blogartikel: <a href="https://verfassungsblog.de/gemeinschaftsgarten/">Community Gardens</a></td>
+</tr>
+<tr>
+<td><i class="mdi mdi-video"></i></td><td>Short videos: (Diamond) Open Access and ELADOAH (upcoming)</td>
+</tr>
+</table>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_171">
+  <div class="ms-col-content">
+    <p><strong>Related to the Blueprint: Publications, Interviews, and Workshops</strong></p>
+<table>
+<tr>
+<td><i class="mdi mdi-book-open"></i></td><td>Bericht: <a href="https://doi.org/10.5281/zenodo.14800427">Open Access gemeinsam gemacht: Kollaborative Ansätze des wissenschaftlichen Publizierens</a></td>
+</tr>
+<tr>
+<td><i class="mdi mdi-hangouts"></i></td><td><a href="https://doi.org/10.5281/zenodo.14937111">Interviewleitfaden zum Bericht</a></td>
+</tr>
+<tr>
+<td><i class="mdi mdi-presentation"></i></td><td><a href="https://doi.org/10.5281/zenodo.13838985">Präsentation des Berichts bei den Open-Access-Tagen 2024</a></td>
+</tr>
+<tr>
+<td><i class="mdi mdi-file-document"></i></td><td>Blogartikel: <a href="https://www.zbw-mediatalk.eu/de/2024/10/diamond-open-access-organisieren-und-finanzieren-wie-kann-das-gemeinschaftlich-gelingen/">Diamond Open Access organisieren und finanzieren: Wie kann das gemeinschaftlich gelingen?</a></td>
+</tr>
+<tr>
+<td><i class="mdi mdi-file-document"></i></td><td>Blogartikel: Imagining academic publishing differently: Collective open access models in Germany (upcoming)</td>
+</tr>
+</table>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_172">
+  <div class="ms-col-content">
+    <p><strong>Legal Perspectives (Project Results on Verfassungsblog)</strong></p>
+<table>
+<tr>
+<td><i class="mdi mdi-shield-half-full"></i></td><td>Rechtsgutachten: Wirtschaftlichkeit der Diamond-Open-Access-Finanzierung (upcoming)</a></td>
+</tr>
+<tr>
+<td><i class="mdi mdi-file-document-box"></i></td><td>Blog-Symposium: Wem gehört die Wissenschaft? (upcoming)</a></td>
+</tr>
+<tr>
+</table>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_173">
+  <div class="ms-col-content">
+    <h4 id='heading-173' >References</h4>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-directory" id="partial_174">
+  <div class="ms-col-content">
+    
+<div class="ms-entry">
+  <p>
+    <p>Adema, J., &amp; Moore, S. A. (2018). Collectivity and collaboration: Imagining new forms of communality to create resilience in scholar-led publishing. <em>Insights: The UKSG Journal, 31</em>(0), 3. https://doi.org/10.1629/uksg.399</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1629/uksg.399" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Maniero do Amaral, F. B., &amp; Furnival, A. C. M. (2023). Os modelos de negócio para a publicação de livros em acesso aberto por editoras universitárias brasileiras (Business models for publishing open access books used by Brazilian university presses). <em>RDBCI: Revista Digital de Biblioteconomia e Ciência Da Informação, 21</em>, 1–15. https://doi.org/10.20396/rdbci.v21i00.8673169</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.20396/rdbci.v21i00.8673169" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>AuROA – Autor:innen und Rechtssicherheit für Open Access. (2022). Publizieren und Open Access in den Geisteswissenschaften: Erkenntnisse aus dem Projekt AuROA zu den Stakeholdern im Publikationsprozess. Essen. https://ualresearchonline.arts.ac.uk/id/eprint/21669</p>
+    
+    <a class="mdi mdi-earth" href="https://ualresearchonline.arts.ac.uk/id/eprint/21669/" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Averill, R. M., &amp; Major, J. (2020). What motivates higher education educators to innovate? Exploring competence, autonomy, and relatedness – and connections with wellbeing. <em>Educational Research, 62</em>(2), 146–161. https://doi.org/10.1080/00131881.2020.1755877</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1080/00131881.2020.1755877" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Barnes, L., &amp; Gatti, R. (2019, Juni). Bibliodiversity in Practice: Developing Community-Owned, Open Infrastructures to Unleash Open Access Publishing. <em>ELPUB 2019 23rd edition of the International Conference on Electronic Publishing</em>. https://doi.org/10.4000/proceedings.elpub.2019.21</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.4000/proceedings.elpub.2019.21" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Bosman, J., Frantsvåg, J. E., Kramer, B., Langlais, P.-C., &amp; Proudman, V. (2021). OA Diamond Journals Study. Part 1: Findings. <em>Zenodo</em>. https://doi.org/10.5281/ZENODO.4558704</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.5281/ZENODO.4558704" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Davison, S. (2025, Mai 1). Two Years On: A Conversation with DFG on Supporting Open Access Books. <em>OAPEN - Online library of open access books</em>. https://doi.org/10.58079/13USN</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.58079/13USN" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Deville, J., Sondervan, J., Stone, G., &amp; Wennström, S. (2019). Rebels with a Cause? Supporting Library and Academic-led Open Access Publishing. <em>LIBER Quarterly: The Journal of the Association of European Research Libraries, 29</em>(1), 1–28. https://doi.org/10.18352/lq.10277</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.18352/lq.10277" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Elmore, S. A., &amp; Weston, E. H. (2020). Predatory Journals: What They Are and How to Avoid Them. <em>Toxicologic Pathology, 48</em>(4), 607–610. https://doi.org/10.1177/0192623320920209</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1177/0192623320920209" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Fischer, G., Neufend, M., &amp; Kindling, M. (2024, November 27). DEAL ≠ Diamond. Ein Diskussionsbeitrag zur Souveränität des wissenschaftlichen Publikationswesens. <em>Open Access Blog Berlin</em>. https://doi.org/10.59350/ab01a-dj116</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.59350/ab01a-dj116" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Hahn, D., Hehn, J., Hopp, C., &amp; Pruschak, G. (2023). Mapping the Swiss Landscape of Diamond Open Access Journals. The PLATO Study on Scholar-Led Publishing. <em>Zenodo</em>. https://doi.org/10.5281/zenodo.7461728</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.5281/zenodo.7461728" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Henkes, L. M., Wrzesinski, M., &amp; Holscher Blackman, K. (2025). Open Access gemeinsam gemacht: Kollaborative Ansätze des wissenschaftlichen Publizierens. <em>Zenodo</em>. https://doi.org/10.5281/ZENODO.14800427</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.5281/ZENODO.14800427" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Huang, C.-K., Neylon, C., Montgomery, L., Hosking, R., Diprose, J. P., Handcock, R. N., &amp; Wilson, K. (2024). Open access research outputs receive more diverse citations. <em>Scientometrics, 129</em>(2), 825–845. https://doi.org/10.1007/s11192-023-04894-0</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.1007/s11192-023-04894-0" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Pampel, H. (2019). Auf dem Weg zum Informationsbudget. Zur Notwendigkeit von Monitoringverfahren für wissenschaftliche Publikationen und deren Kosten. <em>Arbeitspapier [PDF]. 2 MB</em>. https://doi.org/10.2312/OS.HELMHOLTZ.006</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.2312/OS.HELMHOLTZ.006" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Projekt AuROA. (2022). Publizieren und Open Access in den Geisteswissenschaften: Erkenntnisse aus dem Projekt AuROA zu den Stakeholdern im Publikationsprozess. https://openresearch.community/documents/auroa-publizieren-und-open-access-in-den-geisteswissenschaften</p>
+    
+    <a class="mdi mdi-earth" href="https://openresearch.community/documents/auroa-publizieren-und-open-access-in-den-geisteswissenschaften" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Schönbrodt, F. (2025). RESQUE: A Research Quality Evaluation scheme for psychological research. <em>The RESQUE Framework</em>. https://www.resque.info/</p>
+    
+    <a class="mdi mdi-earth" href="https://www.resque.info/" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Servicestelle Diamond Open Access (SeDOA). (2025). Projektinformationen. https://diamond-open-access.de</p>
+    
+    <a class="mdi mdi-earth" href="https://diamond-open-access.de" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Stäcker, T., Apel, J., Arning, U., Burschel, P., Christof, J., Effinger, M., Elsner, C., Finger, J., Günther, A.-C., Hagedoorn, J. M., Jansky, C., Kaiser, M., Meinecke, I., Mischke, D., Pieper, D., Riesenweber, C., Rißler-Pipka, N., Schmitz, J., Schobert, D., … Ziegler, B. (2025). SeDOA – Servicestelle Diamond Open Access. https://doi.org/10.5281/ZENODO.15043759</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.5281/ZENODO.15043759" target="_blank"></a>
+    
+  </p>
+</div>
+
+<div class="ms-entry">
+  <p>
+    <p>Tautz, D., Holzer, A., Schmidt, K., Buchner, J., Grötschel, M., &amp; Jurburg, S. (2025). Ein neues Verfahren zur direkten Finanzierung wissenschaftlicher Publikationen (Diskussion Nr. 38). <em>Nationale Akademie der Wissenschaften Leopoldina</em>. https://doi.org/10.26164/leopoldina_03_01261</p>
+    
+    <a class="mdi mdi-earth" href="https://doi.org/10.26164/leopoldina_03_01261" target="_blank"></a>
+    
+  </p>
+</div>
+
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-title">
+</aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_175">
+  <div class="ms-col-content">
+    
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+  </div>
+</section>
+  </div>
+  
+  <div class="tab-pane fade" id="about" role="tabpanel" aria-labelledby="about-tab" >
+    
+
+<section>
+  <div class="container">
+     <div class="ms-row ms-row-two ms-text" id="partial_176">
+  <div class="ms-col-content">
+    <h2 id='heading-176' >About the Project</h2>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_177">
+  <div class="ms-col-content">
+    <p>The project Acquisition Logic as Diamond Open Access Obstacle (ELADOAH) is a cooperation between the Alexander von Humboldt Institute for Internet and Society (HIIG) and Verfassungsblog. Public funds often cannot be used for already freely available content, which prevents libraries from supporting open journals and books. At the same time, science is turning away from large publishers to realize collaborative publication projects and avoid high access costs. In this context, ELADOAH investigates how Diamond Open Access publications can be financed in the long term in Germany and how sustainable and equitable access to research results can be designed in the future.</p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><h3>Imprint</h3>
+<p>Alexander von Humboldt Institut für Internet und Gesellschaft<br><span class="light">Französische Str. 9<br>10117 Berlin</span></p>
+<p><span class="light">Responsible for content according to §&nbsp;55&nbsp;para.&nbsp;2&nbsp;RStV: Dr. Karina Preiß</span></p>
+<p><span class="light"><a href="https://www.hiig.de/impressum">Imprint on hiig.de</a></a><br />
+</span></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_178">
+  <div class="ms-col-content">
+    <p>ELADOAH examines these questions through two sub-projects. On the one hand, HIIG analyzes existing and emerging commons-based financing and organizational models and creates a report on collaborative approaches to scholarly publishing. Verfassungsblog uses a legal opinion to examine to what extent public budget law actually stands in the way of financing Diamond Open Access publications and how this obstacle can possibly be overcome. In addition, the ELADOAH project team is working together with the community to develop a blueprint for collaborative Diamond Open Access, which is published on this website. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_179">
+  <div class="ms-col-content">
+    <p>The project is funded by the Federal Ministry for Research, Technology and Aerospace (BMFTR) within the framework of the <a href="https://www.bmftr.bund.de/SharedDocs/Bekanntmachungen/DE/2022/12/2022-12-07-Bekanntmachung-Open-Access.html">Directive for the promotion of projects to establish a living open access culture in German research and scientific practice</a> (16KOA027). </p>
+  </div>
+  <div class="ms-col-marginal">
+    <aside class="ms-aside-keystatement"><p><img src="assets/images/BMFTR_Logo.png" style="max-width: 200px;" /></p></aside>
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_180">
+  <div class="ms-col-content">
+    <h3 id='heading-180' >Project Partners</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_181">
+  <div class="ms-col-content">
+    <p><strong>Alexander von Humboldt Institut für Internet und Gesellschaft</strong></p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_182">
+  <div class="ms-col-content">
+    <p>The ELADOAH project is located in the <a href="https://www.hiig.de/research/wissen-und-gesellschaft/">Knowledge &amp; Society Research Programme</a> at the Alexander von Humboldt Institute for Internet and Society. This research programme examines the transformation of knowledge production, organization and dissemination brought about by digital innovations. In addition to knowledge infrastructures, innovations in higher education and the social impact of research are also considered. The Alexander von Humboldt Institute for Internet and Society was founded in 2011 as the first institute in Germany to focus on the study of interactions between technological innovations and social processes. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_183">
+  <div class="ms-col-content">
+    <p><strong>Verfassungsblog</strong></p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_184">
+  <div class="ms-col-content">
+    <p>The <a href="https://verfassungsblog.de/">Verfassungsblog</a> is a global forum for debates at the interface between science and society with a focus on public law – international, interdisciplinary and open access. In addition to ELADOAH, Verfassungsblog focuses on analyzing threats to the rule of law and democracy by authoritarian-populist forces in Germany (e.g. Thuringia), Europe (e.g. Hungary and Poland), the USA and beyond. Over the years, more than 4,000 national and international experts have contributed to the content of Verfassungsblog, which was founded in 2009.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_185">
+  <div class="ms-col-content">
+    <h3 id='heading-185' >Acknowledgments</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_186">
+  <div class="ms-col-content">
+    <p>The authors thank all current and former members of the ELADOAH project team for their joint work, valuable feedback and dedicated support. Special thanks go to <span class="ms-inline ms-inline-thanks">Evin Dalkilic<i></i></span>, head of the Verfassungsblog sub-project, and <span class="ms-inline ms-inline-thanks">Marcel Wrzesinski<i></i></span>, who led ELADOAH until December 2024. Heartfelt thanks also to Frédéric Dubois, who has been supporting us with advice and action since the beginning of 2025.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_187">
+  <div class="ms-col-content">
+    <p>Our thanks also go to the team of the Knowledge &amp; Society Research Programme (HIIG) as well as Laura Rothfritz, Georg Fischer and Maike Neufend for their support in creating the interview guide and codebook. We thank <span class="ms-inline ms-inline-thanks">Larissa Wunderlich<i></i></span> for the design and implementation of this website, and the <span class="ms-inline ms-inline-thanks">HIIG Communications and Events Team<i></i></span> for communicating our publications, events and presentations.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_188">
+  <div class="ms-col-content">
+    <p>Without the funding from the Federal Ministry for Research, Technology and Aerospace (BMFTR), the research project would not have been possible. </p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_189">
+  <div class="ms-col-content">
+    <h3 id='heading-189' >Authors</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_190">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/Lena-Henkes.jpg" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Lena Marie Henkes</strong>
+</p>
+<p class="grey">
+  Alexander von Humbold Institut für Internet und Gesellschaft
+</p>
+
+<p>Lena Marie Henkes is a research associate in the 'Knowledge and Society' research programme and coordinator of the BMFTR-funded project 'Acquisition Logic as Diamond Open Access Obstacle' (ELADOAH). She has a background in political science as well as communication and media studies. Her research interests include Open Access, Open Science and political communication.</p>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+
+<aside class="ms-aside-link">
+  <p>
+    <a href=https://www.hiig.de/henkes-lena/ target="_blank">
+       Visit Website
+    </a>
+  </p>
+</aside>
+
+
+
+
+
+  </div>
+</div>
+
+
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_191">
+  <div class="ms-col-pre">
+    <img class="img-fluid" src="assets/images/authors/Katherina-Holscher.png" alt="">
+  </div>
+  <div class="ms-col-content">
+    <p>
+  <strong>Katherina Holscher Blackman</strong>
+</p>
+<p class="grey">
+  Alexander von Humbold Institut für Internet und Gesellschaft
+</p>
+
+<p>Katherina Holscher Blackman is a research associate in the 'Knowledge and Society' research programme in the projects 'Acquisition Logic as Diamond Open Access Obstacle' (ELADOAH) and 'Capacities and Competencies in Dealing with Hate Speech and Hostility to Science' (KAPAZ). She studied social and cultural anthropology at the Free University of Berlin. Her main research topics include Open Access, environmental education and psychological anthropology.</p>
+
+  </div>
+  <div class="ms-col-marginal">
+    
+
+<aside class="ms-aside-link">
+  <p>
+    <a href=https://www.hiig.de/katherina-holscher-blackman/ target="_blank">
+       Visit Website
+    </a>
+  </p>
+</aside>
+
+
+
+
+
+  </div>
+</div>
+
+<div class="ms-row ms-row-two ms-text" id="partial_192">
+  <div class="ms-col-content">
+    
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+  </div>
+</section>
+  </div>
+  
+</div>
+<canvas id="confetti"></canvas>
+<!-- END: STUDY FRAME -->
+
+
+<!--
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+-->
+
+    <script src="/static/js/jquery.min.js"></script>
+    <script src="/static/js/popper.min.js"></script>
+<!--  Needed to calculate actual height   <script src="/static/js/jquery.actual.min.js"></script>-->
+    <script src="/static/js/bootstrap.min.js"></script>
+    <script src="/static/js/horst.js"></script>
+    <script src="/static/js/youtube.js"></script>
+    
+      <script src="/static/js/confetti.js"></script>
+    
+    
+    
+      <!-- Matomo -->
+      <script type="text/javascript">
+        var _paq = window._paq = window._paq || [];
+        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+          var u="https://piwik.wunderjewel.de/";
+          _paq.push(['setTrackerUrl', u+'matomo.php']);
+          _paq.push(['setSiteId', '4']);
+          var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+          g.type='text/javascript'; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+        })();
+      </script>
+      <!-- End Matomo Code -->
+    
+  </body>
+</html>

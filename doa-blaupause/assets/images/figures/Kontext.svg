@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1422.75 1076.19">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #d3ab05;
+      }
+
+      .cls-3 {
+        fill: #f8d3af;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-2, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        font-family: PTSans-Bold, 'PT Sans';
+        font-weight: 700;
+      }
+
+      .cls-4, .cls-5, .cls-2, .cls-12, .cls-13, .cls-10 {
+        font-size: 14px;
+      }
+
+      .cls-4, .cls-14, .cls-13 {
+        fill: #fe9f4d;
+      }
+
+      .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27 {
+        fill: none;
+      }
+
+      .cls-15, .cls-17 {
+        stroke: #659df2;
+      }
+
+      .cls-15, .cls-18, .cls-20, .cls-21, .cls-22, .cls-23, .cls-26, .cls-27 {
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-15, .cls-18, .cls-20, .cls-21, .cls-26 {
+        stroke-width: 1.63px;
+      }
+
+      .cls-5, .cls-28 {
+        fill: #2dc75c;
+      }
+
+      .cls-16, .cls-17, .cls-24 {
+        stroke-dasharray: 5 5;
+      }
+
+      .cls-16, .cls-17, .cls-24, .cls-25 {
+        stroke-width: 2px;
+      }
+
+      .cls-16, .cls-20 {
+        stroke: #2dc75c;
+      }
+
+      .cls-29 {
+        fill: #8f7fee;
+      }
+
+      .cls-30, .cls-6, .cls-7, .cls-8 {
+        fill: #1a1a1a;
+      }
+
+      .cls-30, .cls-7 {
+        font-size: 21.05px;
+      }
+
+      .cls-30, .cls-31 {
+        font-family: PTSans-Regular, 'PT Sans';
+      }
+
+      .cls-32 {
+        fill: #fff6b6;
+      }
+
+      .cls-18 {
+        stroke: #ff6464;
+      }
+
+      .cls-19 {
+        stroke: #1a1a1a;
+        stroke-width: .77px;
+      }
+
+      .cls-6, .cls-9 {
+        font-size: 17px;
+      }
+
+      .cls-21 {
+        stroke: #fe9f4d;
+      }
+
+      .cls-22 {
+        stroke-dasharray: 0 8.09;
+      }
+
+      .cls-22, .cls-23, .cls-27 {
+        stroke: #231f20;
+        stroke-width: 2.03px;
+      }
+
+      .cls-33 {
+        fill: #fff;
+      }
+
+      .cls-8 {
+        font-size: 21px;
+      }
+
+      .cls-34 {
+        fill: #c6dcff;
+      }
+
+      .cls-23 {
+        stroke-dasharray: 0 8.06;
+      }
+
+      .cls-35 {
+        fill: #f4c708;
+      }
+
+      .cls-36, .cls-10 {
+        fill: #659df2;
+      }
+
+      .cls-37 {
+        fill: #ffc6c6;
+      }
+
+      .cls-24 {
+        stroke: #d3ab05;
+      }
+
+      .cls-38 {
+        fill: #adf0c7;
+      }
+
+      .cls-25 {
+        stroke: #f4c708;
+      }
+
+      .cls-39 {
+        fill: #ff6464;
+      }
+
+      .cls-9 {
+        fill: #231f20;
+      }
+
+      .cls-40 {
+        fill: #dedaff;
+      }
+
+      .cls-26 {
+        stroke: #8f7fee;
+      }
+    </style>
+  </defs>
+  <g id="Akteur-Modell">
+    <g>
+      <g>
+        <line class="cls-27" x1="885.11" y1="332.28" x2="885.11" y2="332.28"/>
+        <line class="cls-23" x1="877.05" y1="332.28" x2="534.72" y2="332.28"/>
+        <line class="cls-27" x1="530.69" y1="332.28" x2="530.69" y2="332.28"/>
+        <line class="cls-22" x1="526.26" y1="339.05" x2="355.69" y2="599.81"/>
+        <line class="cls-27" x1="353.48" y1="603.2" x2="353.48" y2="603.2"/>
+        <line class="cls-22" x1="357.91" y1="609.97" x2="528.47" y2="870.74"/>
+        <line class="cls-27" x1="530.69" y1="874.13" x2="530.69" y2="874.13"/>
+        <line class="cls-23" x1="538.74" y1="874.13" x2="881.08" y2="874.13"/>
+        <line class="cls-27" x1="885.11" y1="874.13" x2="885.11" y2="874.13"/>
+        <line class="cls-22" x1="889.54" y1="867.35" x2="1060.1" y2="606.59"/>
+        <line class="cls-27" x1="1062.32" y1="603.2" x2="1062.32" y2="603.2"/>
+        <line class="cls-22" x1="1057.89" y1="596.43" x2="887.32" y2="335.66"/>
+      </g>
+      <g>
+        <text class="cls-6" transform="translate(523.19 337.38)"><tspan x="0" y="0">Verlage</tspan></text>
+        <rect class="cls-40" x="471.76" y="299.87" width="158.74" height="65.2" rx="8.5" ry="8.5"/>
+        <text class="cls-9" transform="translate(523.19 337.38)"><tspan x="0" y="0">Verlage</tspan></text>
+      </g>
+      <g>
+        <text class="cls-6" transform="translate(827.88 327.18)"><tspan x="0" y="0">Initiativen </tspan><tspan x="-7.18" y="20.4">und Projekte</tspan></text>
+        <rect class="cls-32" x="787.72" y="299.87" width="158.74" height="65.2" rx="8.5" ry="8.5"/>
+        <text class="cls-9" transform="translate(827.88 327.18)"><tspan x="0" y="0">Initiativen </tspan><tspan x="-7.18" y="20.4">und Projekte</tspan></text>
+      </g>
+      <g>
+        <text class="cls-6" transform="translate(802.94 880.02)"><tspan x="0" y="0">Fachvertretungen</tspan></text>
+        <rect class="cls-37" x="787.72" y="842.51" width="158.74" height="65.2" rx="8.5" ry="8.5"/>
+        <text class="cls-9" transform="translate(802.94 880.02)"><tspan x="0" y="0">Fachvertretungen</tspan></text>
+      </g>
+      <g>
+        <text class="cls-6" transform="translate(505.16 880.02)"><tspan x="0" y="0">Zeitschriften</tspan></text>
+        <rect class="cls-3" x="471.75" y="842.51" width="158.74" height="65.2" rx="8.5" ry="8.5"/>
+        <text class="cls-9" transform="translate(505.16 880.02)"><tspan x="0" y="0">Zeitschriften</tspan></text>
+      </g>
+      <g>
+        <text class="cls-6" transform="translate(1012 608.92)"><tspan x="0" y="0">Forschungs-</tspan><tspan x="8.25" y="20.4">förderung</tspan></text>
+        <rect class="cls-34" x="976.8" y="581.61" width="158.74" height="65.2" rx="8.5" ry="8.5"/>
+        <text class="cls-9" transform="translate(1012 608.92)"><tspan x="0" y="0">Forschungs-</tspan><tspan x="8.25" y="20.4">förderung</tspan></text>
+      </g>
+      <g>
+        <text class="cls-6" transform="translate(303.78 608.92)"><tspan x="0" y="0">Wissenschaftliche</tspan><tspan x="18.71" y="20.4">Bibliotheken</tspan></text>
+        <rect class="cls-38" x="289.38" y="581.61" width="158.74" height="65.2" rx="8.5" ry="8.5"/>
+        <text class="cls-9" transform="translate(303.78 608.92)"><tspan x="0" y="0">Wissenschaftliche</tspan><tspan x="18.71" y="20.4">Bibliotheken</tspan></text>
+      </g>
+      <path d="M673.77,522.06l70.24-.08c15.28,6.3,31.05,11.67,45.99,18.67,11.3,14.45,24.96,27.68,36.29,42,1.07,1.35,2.88,3.15,2.34,4.97l-116.96,117.07c-1.03.67-2.23,1.46-3.5.95-39.58-38.34-78.35-77.66-117.44-116.59-2.56-2.33-.74-4.07.9-6.15,11.51-14.56,25.36-28.06,36.95-42.66l45.17-18.17ZM675.96,528.21l-30.65,26.52,30.22,23.44h65.79s30.65-23.44,30.65-23.44l-30.67-26.5h-65.34ZM782.09,543.52l-23.31-8.8,18.25,16.26c.65-1.12,5.58-6.75,5.06-7.46ZM658.06,535.16l-21.99,8.36c-.38.52,4.08,6.72,4.99,6.55l17-14.91ZM610.55,570.78l24.88-16.26c.44-.47,0-.75-.21-1.14-.41-.74-4.28-5.9-4.66-5.9l-20.01,23.3ZM807.61,570.78l-20.01-23.3c-.38,0-4.25,5.16-4.66,5.9-.21.38-.65.67-.21,1.14l24.88,16.26ZM776.37,559.79l-27.27,20.67,38.7,16.72-11.44-37.39ZM666.85,580.02c.49-.67-2.48-2.73-3.12-3.25-5.25-4.28-15.49-12.97-20.92-16.03-.47-.26-.88-.6-1.46-.51l-13.64,35.63,39.14-15.84ZM819.48,586.62l-35.62-23.75,11,36.07,24.63-12.32ZM620.66,597.18l12.76-33.87-34.74,23.09,21.99,10.77ZM736.35,584.42h-54.54l27.5,29.52,27.05-29.52ZM669.05,585.74l-39.58,16.05,28.13,14.29,11.45-30.34ZM703.36,617.41l-28.15-30.35-11.44,30.35h39.59ZM754.38,617.41l-11.44-30.35-28.15,30.35h39.59ZM786.05,603.77l-36.5-16.71,11.01,29.02,25.49-12.31ZM692.36,681.63l-35.65-58.69-47.47-24,83.13,82.69ZM808.92,598.94l-47.47,24c-11.28,19.18-23.89,37.68-34.96,56.97-.32.56-.85.97-.7,1.72l83.13-82.69ZM706.44,692.19v-67.96l-.66-.66h-41.13l41.79,68.62ZM753.5,623.57h-40.91v66.86l40.91-66.86Z"/>
+      <g>
+        <polyline class="cls-21" points="551.12 842.57 551.12 585.74 567.37 585.74"/>
+        <polygon class="cls-14" points="565.71 591.44 575.57 585.74 565.71 580.05 565.71 591.44"/>
+      </g>
+      <g>
+        <polyline class="cls-18" points="867.09 842.57 867.09 585.74 850.08 585.74"/>
+        <polygon class="cls-39" points="851.74 580.05 841.88 585.74 851.74 591.44 851.74 580.05"/>
+      </g>
+      <g>
+        <polyline class="cls-26" points="674.25 504.93 674.25 451.54 551.16 451.54 551.2 366.76"/>
+        <polygon class="cls-29" points="679.95 503.27 674.25 513.13 668.56 503.27 679.95 503.27"/>
+      </g>
+      <g>
+        <polyline class="cls-15" points="816.42 542.62 917.76 542.62 918.47 613.9 978.29 613.9"/>
+        <polygon class="cls-36" points="818.09 548.31 808.22 542.62 818.09 536.92 818.09 548.31"/>
+      </g>
+      <g>
+        <polyline class="cls-25" points="742.3 503.08 742.3 451.54 867.09 451.54 867.09 366.76"/>
+        <polygon class="cls-35" points="749.28 501.04 742.3 513.13 735.31 501.04 749.28 501.04"/>
+      </g>
+      <g>
+        <polyline class="cls-20" points="449.21 613.9 498.4 613.9 499.34 542.62 605.35 542.62"/>
+        <polygon class="cls-28" points="603.68 548.31 613.54 542.62 603.68 536.92 603.68 548.31"/>
+      </g>
+      <text class="cls-8" transform="translate(588.9 747.28)"><tspan x="0" y="0">Verbindliches Engagement</tspan><tspan x="35.67" y="25.2">und geteilte Werte</tspan><tspan x="10.02" y="50.4">aller beteiligten Akteure</tspan></text>
+    </g>
+    <g>
+      <polyline class="cls-16" points="126.16 770.27 368.75 770.27 368.75 649.27"/>
+      <polygon class="cls-28" points="127.91 776.26 117.55 770.27 127.91 764.29 127.91 776.26"/>
+    </g>
+    <g>
+      <polyline class="cls-24" points="1386.71 235.14 867.09 235.14 867.09 297.48"/>
+      <polygon class="cls-1" points="1384.95 229.15 1395.32 235.14 1384.95 241.12 1384.95 229.15"/>
+    </g>
+    <g>
+      <text class="cls-4" transform="translate(161.73 757.51)"><tspan x="0" y="0">Mittel für Diamond Open Access gezielt</tspan><tspan x="15.39" y="16.8">im Verhältnis zu Geldern für APCs </tspan><tspan x="31.93" y="33.6">oder DEAL-Verträge erhöhen</tspan></text>
+      <rect class="cls-33" x="153.23" y="737.11" width="253.46" height="66.33"/>
+      <text class="cls-5" transform="translate(161.73 757.51)"><tspan x="0" y="0">Mittel für Diamond Open Access gezielt</tspan><tspan x="15.39" y="16.8">im Verhältnis zu Geldern für APCs </tspan><tspan x="31.93" y="33.6">oder DEAL-Verträge erhöhen</tspan></text>
+    </g>
+    <g>
+      <polyline class="cls-17" points="1347.58 768.24 1058.8 768.24 1058.8 649.27"/>
+      <polygon class="cls-36" points="1345.83 762.25 1356.19 768.24 1345.83 774.22 1345.83 762.25"/>
+    </g>
+    <g>
+      <text class="cls-4" transform="translate(1072.31 223.5)"><tspan x="0" y="0">Rechtsgutachten zur </tspan><tspan x="-3.14" y="16.8">Wirtschaftlichkeit der </tspan><tspan x="-45.93" y="33.6">Diamond-Open-Access-Finanzierung</tspan></text>
+      <rect class="cls-33" x="1017.88" y="203.09" width="235.01" height="66.33"/>
+      <text class="cls-2" transform="translate(1072.31 223.5)"><tspan x="0" y="0">Rechtsgutachten zur </tspan><tspan x="-3.14" y="16.8">Wirtschaftlichkeit der </tspan><tspan x="-45.93" y="33.6">Diamond-Open-Access-Finanzierung</tspan></text>
+    </g>
+    <g>
+      <text class="cls-4" transform="translate(1031.79 757.51)"><tspan x="0" y="0">Wissenschaftspolitische Vorgaben </tspan><tspan x="-9.47" y="16.8">mitgestalten und projektunabhängige</tspan><tspan x="29.65" y="33.6">Fördermodelle anstoßen</tspan></text>
+      <rect class="cls-33" x="1013.82" y="737.11" width="243.13" height="66.33"/>
+      <text class="cls-10" transform="translate(1031.79 757.51)"><tspan x="0" y="0">Wissenschaftspolitische Vorgaben </tspan><tspan x="-9.47" y="16.8">mitgestalten und projektunabhängige</tspan><tspan x="29.65" y="33.6">Fördermodelle anstoßen</tspan></text>
+    </g>
+  </g>
+  <g>
+    <text class="cls-7" transform="translate(28.06 64.36)"><tspan x="0" y="0">RAHMENBEDINGUNGEN</tspan></text>
+    <text></text>
+    <text class="cls-30" transform="translate(28.06 91.63)"><tspan x="0" y="0">Entwickelt aus Literatur und </tspan><tspan x="0" y="25.27">vorherigen Publikationen</tspan></text>
+  </g>
+  <polyline class="cls-19" points="30.85 380.92 30.85 1047.96 1401.35 1047.96 1401.35 37.69 1285.44 37.69"/>
+  <polyline class="cls-19" points="71.34 415.32 71.34 1004.36 1361.31 1004.36 1361.31 86.88 1008.35 86.88"/>
+  <polyline class="cls-19" points="111.83 449.72 111.83 960.76 1321.27 960.76 1321.27 136.07 725.77 136.07"/>
+  <g>
+    <text class="cls-13" transform="translate(612.22 120.44)"><tspan class="cls-11"><tspan x="0" y="0">Open Access</tspan></tspan><tspan class="cls-31"><tspan x="-21.27" y="16.8">Bibliodiversität und</tspan></tspan><tspan class="cls-31"><tspan x="-8.49" y="33.6">Transformation</tspan></tspan></text>
+    <rect class="cls-33" x="582.44" y="100.03" width="134.3" height="65.94"/>
+    <text class="cls-12" transform="translate(612.22 120.44)"><tspan class="cls-11"><tspan x="0" y="0">Open Access</tspan></tspan><tspan class="cls-31"><tspan x="-21.27" y="16.8">Bibliodiversität und</tspan></tspan><tspan class="cls-31"><tspan x="-8.49" y="33.6">Transformation</tspan></tspan></text>
+  </g>
+  <g>
+    <text class="cls-13" transform="translate(865.77 72.7)"><tspan class="cls-11"><tspan x="0" y="0">Strukturell</tspan></tspan><tspan class="cls-31"><tspan x="-77.82" y="16.8">Wissenschaftliche Publikationskultur</tspan></tspan><tspan class="cls-31"><tspan x="-41.36" y="33.6">und limitierte Förderung</tspan></tspan></text>
+    <rect class="cls-33" x="779.44" y="52.29" width="236.96" height="65.94"/>
+    <text class="cls-12" transform="translate(865.77 72.7)"><tspan class="cls-11"><tspan x="0" y="0">Strukturell</tspan></tspan><tspan class="cls-31"><tspan x="-77.82" y="16.8">Wissenschaftliche Publikationskultur</tspan></tspan><tspan class="cls-31"><tspan x="-41.36" y="33.6">und limitierte Förderung</tspan></tspan></text>
+  </g>
+  <g>
+    <text class="cls-13" transform="translate(1141.87 24.96)"><tspan class="cls-11"><tspan x="0" y="0">Rechtlich</tspan></tspan><tspan class="cls-31"><tspan x="-71" y="16.8">Hochschulrecht und öffentliches </tspan></tspan><tspan class="cls-31"><tspan x="-17.01" y="33.6">Haushaltsrecht</tspan></tspan></text>
+    <rect class="cls-33" x="1062.36" y="4.55" width="214.7" height="65.94"/>
+    <text class="cls-12" transform="translate(1141.87 24.96)"><tspan class="cls-11"><tspan x="0" y="0">Rechtlich</tspan></tspan><tspan class="cls-31"><tspan x="-71" y="16.8">Hochschulrecht und öffentliches </tspan></tspan><tspan class="cls-31"><tspan x="-17.01" y="33.6">Haushaltsrecht</tspan></tspan></text>
+  </g>
+</svg>
