@@ -252,15 +252,15 @@
         
           
           
-            <li class="nav-item font-weight-bold current ml-2">
-              DE
+            <li class="nav-item ml-2">
+              <a href=https://graphite.page/doa-blaupause/ target="_blank" style="color: inherit">DE</a>
             </li>
           
         
           
           
-            <li class="nav-item ml-2">
-              <a href=https://graphite.page/doa-blueprint/ target="_blank" style="color: inherit">EN</a>
+            <li class="nav-item font-weight-bold current ml-2">
+              EN
             </li>
           
         
