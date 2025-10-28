@@ -38,6 +38,8 @@ var selector;
 // Control variable for TOC building behavior
 // Set to true to build TOC on all tabs, false to build only on index tab
 var buildTocOnAllTabs = true;
+
+// Control variable for TOC depth (number of heading levels to include)
 var TocDepth = 3;
 
 function makeToC() {
@@ -73,7 +75,7 @@ function addReduced() {
   for (var i = 0; i < selector.length; i++) {
     if ($(selector[i]).attr("id")) {
       // Add elements to nav
-      for (var j = 2; j < TocDepth + 2; j++) {
+      for (var j = 2; j < 2 + TocDepth; j++) {
         if (selector[i].nodeName == "H" + j) {
           $("ul.ms-toc-abstract-entries").append(
             '<li class="nav-item side-nav ms-toc-abstract-entry ms-toc-abstract-entry ms-toc-abstract-entry-' +
@@ -94,7 +96,7 @@ function addDetailed() {
   for (var i = 0; i < selector.length; i++) {
     if ($(selector[i]).attr("id")) {
       // Add elements to nav
-      for (var j = 0; j < TocDepth + 2; j++) {
+      for (var j = 2; j < 2 + TocDepth; j++) {
         if (selector[i].nodeName == "H" + j) {
           $("ul.ms-toc-entries").append(
             '<li class="nav-item side-nav ms-toc-entry ms-toc-entry-level' +
@@ -136,7 +138,7 @@ function collapseOversizedMarginals() {
       //                console.log('Asides:', $(this), heightAsides)
       var heightContent = $(this)
         .children(".ms-col-content")
-        .children("p")
+        .children("p, ul, ol, table")
         .height();
       //                console.log('Content:', $(this), heightContent)
 
@@ -232,9 +234,8 @@ function collapseOversizedInfobox() {
       // if collapse set to true, adjust class and show button
       if (canOverflow) {
         $(this).addClass("infobox-overflowing");
-        $(this).after(
-          '<button class="btn btn-primary toggleInfobox" type="button">Expand infobox</button>'
-        );
+        // Show the pre-rendered button
+        $(this).parent().find(".toggleInfobox").show();
       }
       enableListener();
     }
@@ -279,7 +280,7 @@ function changeToTab(prevTab, targetTab, noscroll = false) {
   setTimeout(collapseOversizedMarginals, 300);
 
   // keep position if changing quote tabs, otherwise scroll below fixed tabbar
-  if (!noscroll && typeof firstElementClass !== "undefined") {
+  if (!noscroll) {
     setTimeout(function () {
       scrollBy(0, -offset);
       $(firstElementClass)[0].scrollIntoView(true);
@@ -307,22 +308,19 @@ function handleAnchorLinks(hashValue) {
       // console.log("Clicked a heading");
 
       var tabID = "#" + targetElement.parents(".tab-pane").attr("id");
-
+      
       if (tabID && tabID !== "#") {
         // Switch to the correct tab first
         var targetTab = $("a[href='" + tabID + "']");
         if (targetTab.length > 0) {
           changeToTab(activeTab, targetTab);
-
+          
           // Scroll to the heading with 100px offset after tab switch
-          setTimeout(function () {
+          setTimeout(function() {
             var elementTop = targetElement.offset().top;
-            $("html, body").animate(
-              {
-                scrollTop: elementTop - 100,
-              },
-              300
-            );
+            $('html, body').animate({
+              scrollTop: elementTop - 100
+            }, 300);
           }, 300);
         }
       } else {
@@ -330,16 +328,13 @@ function handleAnchorLinks(hashValue) {
         if (buildTocOnAllTabs) {
           makeToC();
         }
-
+        
         // Scroll to the heading with 100px offset
-        setTimeout(function () {
+        setTimeout(function() {
           var elementTop = targetElement.offset().top;
-          $("html, body").animate(
-            {
-              scrollTop: elementTop - 100,
-            },
-            300
-          );
+          $('html, body').animate({
+            scrollTop: elementTop - 100
+          }, 300);
         }, 100);
       }
     } else {
@@ -405,8 +400,13 @@ function enableListener() {
   $(".toggleInfobox")
     .unbind("click")
     .click(function () {
-      $(this).prev().toggleClass("show-collapsed");
-      $(this).toggleText("Collapse infobox", "Expand infobox");
+      var $button = $(this);
+      var $infobox = $button.prev();
+      $infobox.toggleClass("show-collapsed");
+      // Toggle button text using data attributes
+      var textCollapse = $button.data('text-collapse') || 'Collapse infobox';
+      var textExpand = $button.data('text-expand') || 'Expand infobox';
+      $button.toggleText(textCollapse, textExpand);
     });
 
   // Jump to headline in right tab with offset
@@ -469,48 +469,48 @@ function enableListener() {
 function fixModalCarouselConflicts() {
   // Store original modal positions
   var modalOriginalParents = {};
-
+  
   // Handle modal show event
-  $("body").on("show.bs.modal", ".modal", function (e) {
+  $('body').on('show.bs.modal', '.modal', function (e) {
     var modal = $(this);
-    var modalId = modal.attr("id");
-
+    var modalId = modal.attr('id');
+    
     // Check if modal is inside a carousel
-    var carousel = modal.closest(".carousel");
+    var carousel = modal.closest('.carousel');
     if (carousel.length > 0) {
       // Store original parent and position
       modalOriginalParents[modalId] = {
         parent: modal.parent(),
-        nextSibling: modal.next()[0], // Store DOM element for insertBefore
+        nextSibling: modal.next()[0] // Store DOM element for insertBefore
       };
-
+      
       // Move modal to body to avoid carousel containment
-      modal.appendTo("body");
-
+      modal.appendTo('body');
+      
       // Ensure modal has proper z-index
-      modal.css("z-index", "1060");
+      modal.css('z-index', '1060');
     }
   });
-
+  
   // Handle modal hidden event
-  $("body").on("hidden.bs.modal", ".modal", function (e) {
+  $('body').on('hidden.bs.modal', '.modal', function (e) {
     var modal = $(this);
-    var modalId = modal.attr("id");
-
+    var modalId = modal.attr('id');
+    
     // Check if we moved this modal
     if (modalOriginalParents[modalId]) {
       var originalInfo = modalOriginalParents[modalId];
-
+      
       // Move modal back to original position
       if (originalInfo.nextSibling) {
         originalInfo.parent[0].insertBefore(modal[0], originalInfo.nextSibling);
       } else {
         originalInfo.parent.append(modal);
       }
-
+      
       // Reset z-index
-      modal.css("z-index", "");
-
+      modal.css('z-index', '');
+      
       // Clean up stored info
       delete modalOriginalParents[modalId];
     }
@@ -553,4 +553,7 @@ $(function () {
   enableListener();
 });
 
-$(window).on("resize orientationchange", normalizeSlideHeights);
+$(window).on(
+    'resize orientationchange',
+    normalizeSlideHeights
+);
