@@ -247,6 +247,26 @@
     </ul>
 
     
+    <ul class="nav justify-content-end d-none d-lg-flex">
+      
+        
+          
+          
+            <li class="nav-item font-weight-bold current ml-2">
+              DE
+            </li>
+          
+        
+          
+          
+            <li class="nav-item ml-2">
+              <a href=https://graphite.page/doa-blueprint/ target="_blank" style="color: inherit">EN</a>
+            </li>
+          
+        
+      
+    </ul>
+    
 
   </div>
 </nav>
@@ -271,10 +291,10 @@
 
       
 
-      <!-- 
+      
         <h3>License</h3>
         <p>This text is published under the <a href='https://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener noreferrer'>Creative Commons Attribution 4.0</a> license. Unrestricted use, distribution and reproduction in any medium is permitted, provided the original work is properly cited.</p>
-       -->
+      
 
       <p class="ms-buttons-article">
           <a class="ms-button ms-button-toc"><i></i> Table of Contents</a>
@@ -318,11 +338,6 @@
           <p>Henkes, L. M., Holscher Blackman, K. (2025).  <em>Rethinking Scholarly Publishing. Blueprint for Collaborative and Fair Diamond Open Access</em>.</p>
         </aside>
       
-      
-        <aside>
-          <h3>License</h3>
-          <p>This text is published under the <a href='https://creativecommons.org/licenses/by/4.0/' target='_blank' rel='noopener noreferrer'>Creative Commons Attribution 4.0</a> license. Unrestricted use, distribution and reproduction in any medium is permitted, provided the original work is properly cited.</p>
-        </aside>
       
       
       
@@ -708,7 +723,7 @@ Although not separately represented, researchers are of central importance for D
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_21">
   <div class="ms-col-content">
-    <h5 id='heading-21' ><img class="img-fluid" src="assets/images/icons/Icon-Akteur-zeitschriften.svg" style="max-height: 2em"> <span style="color:#fe9f4d">Teamwork</span></h5>
+    <h5 id='heading-21' ><img class="img-fluid" src="assets/images/icons/Icon-Akteur-zeitschriften.png" style="max-height: 2em"> <span style="color:#fe9f4d">Teamwork</span></h5>
 <ul>
 <li>Journals can particularly utilise their flexible and efficient structures to initiate changes and carry out Diamond Open Access advocacy work. Many editors have independently acquired their knowledge on Open Access topics. This enables them to understand the perspective of people and institutions who are not yet familiar with Diamond Open Access and to communicate the advantages in a particularly comprehensible and convincing way.</li>
 </ul>
@@ -739,7 +754,7 @@ Although not separately represented, researchers are of central importance for D
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_24">
   <div class="ms-col-content">
-    <h5 id='heading-24' ><img class="img-fluid" src="assets/images/icons/Icon-Nachhaltigkeit-zeitschriften.svg" style="max-height: 2em"> <span style="color:#fe9f4d">Sustainability</span></h5>
+    <h5 id='heading-24' ><img class="img-fluid" src="assets/images/icons/Icon-Nachhaltigkeit-zeitschriften.png" style="max-height: 2em"> <span style="color:#fe9f4d">Sustainability</span></h5>
   </div>
   <div class="ms-col-marginal">
     
@@ -787,7 +802,7 @@ Although not separately represented, researchers are of central importance for D
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_29">
   <div class="ms-col-content">
-    <h5 id='heading-29' ><img class="img-fluid" src="assets/images/icons/Icon-Beitrag-zeitschriften.svg" style="max-height: 2em"> <span style="color:#fe9f4d">Contribution</span></h5>
+    <h5 id='heading-29' ><img class="img-fluid" src="assets/images/icons/Icon-Beitrag-zeitschriften.png" style="max-height: 2em"> <span style="color:#fe9f4d">Contribution</span></h5>
   </div>
   <div class="ms-col-marginal">
     
@@ -831,7 +846,7 @@ Although not separately represented, researchers are of central importance for D
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_34">
   <div class="ms-col-content">
-    <h5 id='heading-34' ><img class="img-fluid" src="assets/images/icons/Icon-Akteur-Bibliotheken.svg" style="max-height: 2em"> <span style="color:#2CC75D">Teamwork</span></h5>
+    <h5 id='heading-34' ><img class="img-fluid" src="assets/images/icons/Icon-Akteur-Bibliotheken.png" style="max-height: 2em"> <span style="color:#2CC75D">Teamwork</span></h5>
 <ul>
 <li>In a first step, it is about critically questioning one's own structures and processes. Academic libraries can also do this by first appealing to their own values as a library and awakening motivation within the library to advocate for the expansion of Diamond Open Access based on their own values.</li>
 </ul>
@@ -860,7 +875,7 @@ Although not separately represented, researchers are of central importance for D
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_37">
   <div class="ms-col-content">
-    <h5 id='heading-37' ><img class="img-fluid" src="assets/images/icons/Icon-Nachhaltigkeit-Bibliotheken.svg" style="max-height: 2em"> <span style="color:#2CC75D">Sustainability</span></h5>
+    <h5 id='heading-37' ><img class="img-fluid" src="assets/images/icons/Icon-Nachhaltigkeit-Bibliotheken.png" style="max-height: 2em"> <span style="color:#2CC75D">Sustainability</span></h5>
   </div>
   <div class="ms-col-marginal">
     
@@ -888,7 +903,7 @@ Although not separately represented, researchers are of central importance for D
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_40">
   <div class="ms-col-content">
-    <h5 id='heading-40' ><img class="img-fluid" src="assets/images/icons/Icon-Beitrag-Bibliotheken.svg" style="max-height: 2em"> <span style="color:#2CC75D">Contribution</span></h5>
+    <h5 id='heading-40' ><img class="img-fluid" src="assets/images/icons/Icon-Beitrag-Bibliotheken.png" style="max-height: 2em"> <span style="color:#2CC75D">Contribution</span></h5>
   </div>
   <div class="ms-col-marginal">
     
@@ -1026,7 +1041,7 @@ Copyediting, metadata management, hosting</p></aside>
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_50">
   <div class="ms-col-content">
-    <h5 id='heading-50' ><img class="img-fluid" src="assets/images/icons/Icon-Akteur-Verlage.svg" style="max-height: 2em"> <span style="color:#8F7FEE">Teamwork</span></h5>
+    <h5 id='heading-50' ><img class="img-fluid" src="assets/images/icons/Icon-Akteur-Verlage.png" style="max-height: 2em"> <span style="color:#8F7FEE">Teamwork</span></h5>
   </div>
   <div class="ms-col-marginal">
     
@@ -1064,7 +1079,7 @@ Copyediting, metadata management, hosting</p></aside>
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_54">
   <div class="ms-col-content">
-    <h5 id='heading-54' ><img class="img-fluid" src="assets/images/icons/Icon-Nachhaltigkeit-Verlage.svg" style="max-height: 2em"> <span style="color:#8F7FEE">Sustainability</span></h5>
+    <h5 id='heading-54' ><img class="img-fluid" src="assets/images/icons/Icon-Nachhaltigkeit-Verlage.png" style="max-height: 2em"> <span style="color:#8F7FEE">Sustainability</span></h5>
   </div>
   <div class="ms-col-marginal">
     
@@ -1102,7 +1117,7 @@ Copyediting, metadata management, hosting</p></aside>
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_58">
   <div class="ms-col-content">
-    <h5 id='heading-58' ><img class="img-fluid" src="assets/images/icons/Icon-Beitrag-Verlage.svg" style="max-height: 2em"> <span style="color:#8F7FEE">Contribution</span></h5>
+    <h5 id='heading-58' ><img class="img-fluid" src="assets/images/icons/Icon-Beitrag-Verlage.png" style="max-height: 2em"> <span style="color:#8F7FEE">Contribution</span></h5>
   </div>
   <div class="ms-col-marginal">
     
@@ -1213,7 +1228,7 @@ Infrastructures can be classified as, for example, repositories, publication inf
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_65">
   <div class="ms-col-content">
-    <h5 id='heading-65' ><img class="img-fluid" src="assets/images/icons/Icon-Akteur-Projekte.svg" style="max-height: 2em"> <span style="color:#D3AB05">Teamwork</span></h5>
+    <h5 id='heading-65' ><img class="img-fluid" src="assets/images/icons/Icon-Akteur-Projekte.png" style="max-height: 2em"> <span style="color:#D3AB05">Teamwork</span></h5>
   </div>
   <div class="ms-col-marginal">
     
@@ -1241,7 +1256,7 @@ Infrastructures can be classified as, for example, repositories, publication inf
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_68">
   <div class="ms-col-content">
-    <h5 id='heading-68' ><img class="img-fluid" src="assets/images/icons/Icon-Nachhaltigkeit-Projekte.svg" style="max-height: 2em"> <span style="color:#D3AB05">Sustainability</span></h5>
+    <h5 id='heading-68' ><img class="img-fluid" src="assets/images/icons/Icon-Nachhaltigkeit-Projekte.png" style="max-height: 2em"> <span style="color:#D3AB05">Sustainability</span></h5>
   </div>
   <div class="ms-col-marginal">
     
@@ -1343,7 +1358,7 @@ Infrastructures can be classified as, for example, repositories, publication inf
 
 <div class="ms-row ms-row-two ms-text" id="partial_74">
   <div class="ms-col-content">
-    <h5 id='heading-74' ><img class="img-fluid" src="assets/images/icons/Icon-Beitrag-Projekte.svg" style="max-height: 2em"> <span style="color:#D3AB05">Contribution</span></h5>
+    <h5 id='heading-74' ><img class="img-fluid" src="assets/images/icons/Icon-Beitrag-Projekte.png" style="max-height: 2em"> <span style="color:#D3AB05">Contribution</span></h5>
   </div>
   <div class="ms-col-marginal">
     
@@ -1451,7 +1466,7 @@ At international level, funding programmes of the European Union or UNESCO shoul
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_81">
   <div class="ms-col-content">
-    <h5 id='heading-81' ><img class="img-fluid" src="assets/images/icons/Icon-Akteur-Foerderung.svg" style="max-height: 2em"> <span style="color:#649DF1">Teamwork</span></h5>
+    <h5 id='heading-81' ><img class="img-fluid" src="assets/images/icons/Icon-Akteur-Foerderung.png" style="max-height: 2em"> <span style="color:#649DF1">Teamwork</span></h5>
   </div>
   <div class="ms-col-marginal">
     
@@ -1487,7 +1502,7 @@ At international level, funding programmes of the European Union or UNESCO shoul
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_85">
   <div class="ms-col-content">
-    <h5 id='heading-85' ><img class="img-fluid" src="assets/images/icons/Icon-Nachhaltigkeit-Foerderung.svg" style="max-height: 2em"> <span style="color:#649DF1">Sustainability</span></h5>
+    <h5 id='heading-85' ><img class="img-fluid" src="assets/images/icons/Icon-Nachhaltigkeit-Foerderung.png" style="max-height: 2em"> <span style="color:#649DF1">Sustainability</span></h5>
   </div>
   <div class="ms-col-marginal">
     
@@ -1587,7 +1602,7 @@ At international level, funding programmes of the European Union or UNESCO shoul
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_91">
   <div class="ms-col-content">
-    <h5 id='heading-91' ><img class="img-fluid" src="assets/images/icons/Icon-Beitrag-Foerderung.svg" style="max-height: 2em"> <span style="color:#649DF1">Contribution</span></h5>
+    <h5 id='heading-91' ><img class="img-fluid" src="assets/images/icons/Icon-Beitrag-Foerderung.png" style="max-height: 2em"> <span style="color:#649DF1">Contribution</span></h5>
   </div>
   <div class="ms-col-marginal">
     
@@ -1644,7 +1659,7 @@ FIDs include, for example, Pollux for political science or the FID Media for com
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_97">
   <div class="ms-col-content">
-    <h5 id='heading-97' ><img class="img-fluid" src="assets/images/icons/Icon-Akteur-Fachvertretungen.svg" style="max-height: 2em"> <span style="color:#FF6465">Teamwork</span></h5>
+    <h5 id='heading-97' ><img class="img-fluid" src="assets/images/icons/Icon-Akteur-Fachvertretungen.png" style="max-height: 2em"> <span style="color:#FF6465">Teamwork</span></h5>
   </div>
   <div class="ms-col-marginal">
     
@@ -1744,7 +1759,7 @@ FIDs include, for example, Pollux for political science or the FID Media for com
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_103">
   <div class="ms-col-content">
-    <h5 id='heading-103' ><img class="img-fluid" src="assets/images/icons/Icon-Nachhaltigkeit-Fachvertretungen.svg" style="max-height: 2em"> <span style="color:#FF6465">Sustainability</span></h5>
+    <h5 id='heading-103' ><img class="img-fluid" src="assets/images/icons/Icon-Nachhaltigkeit-Fachvertretungen.png" style="max-height: 2em"> <span style="color:#FF6465">Sustainability</span></h5>
   </div>
   <div class="ms-col-marginal">
     
@@ -1854,7 +1869,7 @@ FIDs include, for example, Pollux for political science or the FID Media for com
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_110">
   <div class="ms-col-content">
-    <h5 id='heading-110' ><img class="img-fluid" src="assets/images/icons/Icon-Beitrag-Fachvertretungen.svg" style="max-height: 2em"> <span style="color:#FF6465">Contribution</span></h5>
+    <h5 id='heading-110' ><img class="img-fluid" src="assets/images/icons/Icon-Beitrag-Fachvertretungen.png" style="max-height: 2em"> <span style="color:#FF6465">Contribution</span></h5>
   </div>
   <div class="ms-col-marginal">
     
