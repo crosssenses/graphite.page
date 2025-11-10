@@ -8271,6 +8271,12 @@ h5 {
   background-attachment: fixed;
   background-color: #2061C7;
 }
+/* Fix iOS issue with cover and fixed background */
+@supports (-webkit-overflow-scrolling: touch) {
+  .ms-chapter {
+    background-attachment: scroll;
+  }
+}
 .ms-chapter .container-fluid {
   background-repeat: no-repeat;
   background-size: cover;
