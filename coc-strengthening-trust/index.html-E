@@ -258,6 +258,26 @@
         </ul>
 
         
+        <ul class="nav justify-content-end d-none d-lg-flex">
+            
+            
+
+            
+            <li class="nav-item ml-2">
+                <a href=https://graphite.page/coc-vertrauen-schaffen/ target="_blank" style="color: inherit">DE</a>
+            </li>
+            
+            
+
+            
+            <li class="nav-item font-weight-bold current ml-2">
+                EN
+            </li>
+            
+            
+            
+        </ul>
+        
 
     </div>
 </nav>
@@ -274,8 +294,8 @@
   </div>
   <div class="ms-row">
     <div class="ms-col-content">
-      <p>Providers of digital services such as Meta and TikTok have a significant influence on human-machine interaction in the governance of online content. The Code of Conduct sets out key obligations to promote the responsible, rights-preserving, and transparent design of (partially) automated systems and to share best practices. The aim is to strengthen trust in these systems and their collaboration with human moderators, minimize risks such as overblocking and underblocking, and preserve the autonomy, security, and fundamental rights of all parties involved.</p>
-<p>The Code complements existing legal frameworks such as the Digital Services Act (DSA)<em> and the Artificial Intelligence Act (AIA)</em>, but goes beyond them: It sets industry-specific guidelines that incorporate human rights, sensitivity to discrimination, and civil society perspectives. In this way, it addresses gaps in transparency, accountability, participation, and the protection of marginalized groups. Normative principles such as the protection of fundamental rights, non-discrimination, and participation are translated into concrete measures and reinforced through cooperative voluntary commitments.</p>
+      <p>Providers of digital services such as Meta and TikTok have a significant influence on human-machine interaction in the governance of online content. The Code of Conduct sets out key obligations to promote the responsible, rights-preserving, and transparent design of (partially) automated systems and to share best practices. The aim is to strengthen trust in these systems and their collaboration with human moderators, minimise risks such as overblocking and underblocking, and preserve the autonomy, security, and fundamental rights of all parties involved.</p>
+<p>The Code complements existing legal frameworks such as the Digital Services Act (DSA)<em> and the Artificial Intelligence Act (AIA)</em>, but goes beyond them: It sets industry-specific guidelines that incorporate human rights, sensitivity to discrimination, and civil society perspectives. In this way, it addresses gaps in transparency, accountability, participation, and the protection of marginalised groups. Normative principles such as the protection of fundamental rights, non-discrimination, and participation are translated into concrete measures and reinforced through cooperative voluntary commitments.</p>
 
       
 
@@ -1747,7 +1767,7 @@ Decisions that have a collective impact on entire groups or subject areas should
   <div class="container">
      <div class="ms-row ms-row-two ms-text" id="partial_64">
   <div class="ms-col-content">
-    <h2 id='heading-64' >Project Background</h2>
+    <h2 id='heading-64' >Context &amp; Development</h2>
   </div>
   <div class="ms-col-marginal">
     
@@ -1847,13 +1867,870 @@ This graphite publication was realised with the help of <a href="https://www.hii
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_73">
   <div class="ms-col-content">
-    <h3 id='heading-73' >Further resources on content moderation</h3>
+    <h3 id='heading-73' >Collages</h3>
   </div>
   <div class="ms-col-marginal">
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_74">
+<div id="carousel-74" class="slides-norm-height carousel slide" data-ride="carousel" data-interval="false">
+  
+  <div class="carousel-inner">
+  
+    <div class="carousel-item active">
+      
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_74_1">
+  <div class="ms-col-content">
+    <a href="#74_1Modal" type="button" data-toggle="modal" data-target="#74_1Modal">
+
+<img class="img-fluid" src="assets/images/collage_code1.jpg" alt="The image shows a collage made up of various cut-out graphics. Recognisable elements include eyes, abstract shapes, the letter H, a planet and a hand scan. The dominant colours are lilac, light yellow, red and orange, with green and blue accents.">
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Collage zu Code 1</strong>
+      
+        <br>Recognition of various factors that influence the degree of automation<br><br><i>Hinweis</i>: Zum Download den untenstehenden Downloadbutton nutzen.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#74_1Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/collage_code1.jpg"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//graphite.page/doa-blaupauseassets/images/collage_code1.jpg"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-facebook"></i>
+      </a>
+    
+      <a href="https://twitter.com/intent/tweet?text=https%3A//graphite.page/doa-blaupauseassets/images/collage_code1.jpg&title=Collage+zu+Code+1"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-twitter"></i>
+      </a>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/doa-blaupauseassets/images/collage_code1.jpg&summary=Recognition+of+various+factors+that+influence+the+degree+of+automation%3Cbr%3E%3Cbr%3E%3Ci%3EHinweis%3C%2Fi%3E%3A+Zum+Download+den+untenstehenden+Downloadbutton+nutzen.&title=Collage+zu+Code+1"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="74_1Modal" tabindex="-1" role="dialog" aria-labelledby="74_1ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Collage zu Code 1</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <img class="img-fluid" src="assets/images/collage_code1.jpg" alt="The image shows a collage made up of various cut-out graphics. Recognisable elements include eyes, abstract shapes, the letter H, a planet and a hand scan. The dominant colours are lilac, light yellow, red and orange, with green and blue accents.">
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+    </div>
+  
+    <div class="carousel-item ">
+      
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_74_2">
+  <div class="ms-col-content">
+    <a href="#74_2Modal" type="button" data-toggle="modal" data-target="#74_2Modal">
+
+<img class="img-fluid" src="assets/images/collage_code2.jpg" alt="The image shows an abstract collage of geographical shapes that have been cut out and reassembled. A naked figure is seen reaching down and covering the shapes with their hands. The letter U can be seen at the bottom left. The dominant colours are lilac, blue, and green.">
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Collage zu Code 2</strong>
+      
+        <br>Responsible delegation<br><br><i>Hinweis</i>: Zum Download den untenstehenden Downloadbutton nutzen.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#74_2Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/collage_code2.jpg"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//graphite.page/doa-blaupauseassets/images/collage_code2.jpg"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-facebook"></i>
+      </a>
+    
+      <a href="https://twitter.com/intent/tweet?text=https%3A//graphite.page/doa-blaupauseassets/images/collage_code2.jpg&title=Collage+zu+Code+2"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-twitter"></i>
+      </a>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/doa-blaupauseassets/images/collage_code2.jpg&summary=Responsible+delegation%3Cbr%3E%3Cbr%3E%3Ci%3EHinweis%3C%2Fi%3E%3A+Zum+Download+den+untenstehenden+Downloadbutton+nutzen.&title=Collage+zu+Code+2"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="74_2Modal" tabindex="-1" role="dialog" aria-labelledby="74_2ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Collage zu Code 2</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <img class="img-fluid" src="assets/images/collage_code2.jpg" alt="The image shows an abstract collage of geographical shapes that have been cut out and reassembled. A naked figure is seen reaching down and covering the shapes with their hands. The letter U can be seen at the bottom left. The dominant colours are lilac, blue, and green.">
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+    </div>
+  
+    <div class="carousel-item ">
+      
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_74_3">
+  <div class="ms-col-content">
+    <a href="#74_3Modal" type="button" data-toggle="modal" data-target="#74_3Modal">
+
+<img class="img-fluid" src="assets/images/collage_code3.jpg" alt="The image shows a collage made up of various cut-out elements. Old film cameras, a wheel from a horse-drawn carriage, a single eye, folded hands and the face of a woman with one closed eye can be seen. Further to the right is a drawing of an explorer with one eye covering his face, standing in front of a file collection on a computer screen.">
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Collage zu Code 3</strong>
+      
+        <br>Emergency mechanisms for human intervention<br><br><i>Hinweis</i>: Zum Download den untenstehenden Downloadbutton nutzen.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#74_3Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/collage_code3.jpg"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//graphite.page/doa-blaupauseassets/images/collage_code3.jpg"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-facebook"></i>
+      </a>
+    
+      <a href="https://twitter.com/intent/tweet?text=https%3A//graphite.page/doa-blaupauseassets/images/collage_code3.jpg&title=Collage+zu+Code+3"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-twitter"></i>
+      </a>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/doa-blaupauseassets/images/collage_code3.jpg&summary=Emergency+mechanisms+for+human+intervention%3Cbr%3E%3Cbr%3E%3Ci%3EHinweis%3C%2Fi%3E%3A+Zum+Download+den+untenstehenden+Downloadbutton+nutzen.&title=Collage+zu+Code+3"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="74_3Modal" tabindex="-1" role="dialog" aria-labelledby="74_3ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Collage zu Code 3</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <img class="img-fluid" src="assets/images/collage_code3.jpg" alt="The image shows a collage made up of various cut-out elements. Old film cameras, a wheel from a horse-drawn carriage, a single eye, folded hands and the face of a woman with one closed eye can be seen. Further to the right is a drawing of an explorer with one eye covering his face, standing in front of a file collection on a computer screen.">
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+    </div>
+  
+    <div class="carousel-item ">
+      
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_74_4">
+  <div class="ms-col-content">
+    <a href="#74_4Modal" type="button" data-toggle="modal" data-target="#74_4Modal">
+
+<img class="img-fluid" src="assets/images/collage_code4.jpg" alt="The image shows a close-up of a woman's face, with an eye distorted by adhesive tape visible in the background. The woman's lip is punctured by a needle. In the centre is a broken red lipstick on a spoon. In front of this is a series of three images of the same dancer. To the right of the spoon is the letter A, and abstract shapes emerge from the eyes. The dominant colours are red, blue, and light skin tones.">
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Collage zu Code 4</strong>
+      
+        <br>Suspension of automated moderation when complexity is indicated<br><br><i>Hinweis</i>: Zum Download den untenstehenden Downloadbutton nutzen.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#74_4Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/collage_code4.jpg"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//graphite.page/doa-blaupauseassets/images/collage_code4.jpg"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-facebook"></i>
+      </a>
+    
+      <a href="https://twitter.com/intent/tweet?text=https%3A//graphite.page/doa-blaupauseassets/images/collage_code4.jpg&title=Collage+zu+Code+4"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-twitter"></i>
+      </a>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/doa-blaupauseassets/images/collage_code4.jpg&summary=Suspension+of+automated+moderation+when+complexity+is+indicated%3Cbr%3E%3Cbr%3E%3Ci%3EHinweis%3C%2Fi%3E%3A+Zum+Download+den+untenstehenden+Downloadbutton+nutzen.&title=Collage+zu+Code+4"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="74_4Modal" tabindex="-1" role="dialog" aria-labelledby="74_4ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Collage zu Code 4</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <img class="img-fluid" src="assets/images/collage_code4.jpg" alt="The image shows a close-up of a woman's face, with an eye distorted by adhesive tape visible in the background. The woman's lip is punctured by a needle. In the centre is a broken red lipstick on a spoon. In front of this is a series of three images of the same dancer. To the right of the spoon is the letter A, and abstract shapes emerge from the eyes. The dominant colours are red, blue, and light skin tones.">
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+    </div>
+  
+    <div class="carousel-item ">
+      
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_74_5">
+  <div class="ms-col-content">
+    <a href="#74_5Modal" type="button" data-toggle="modal" data-target="#74_5Modal">
+
+<img class="img-fluid" src="assets/images/collage_code5.jpg" alt="The image shows an assortment of abstract graphics that have been cut out and reassembled into a collage. Among them are eyes, abstract shapes, the letter N, an orchid blossom in the background, the outline of a person and a face composed of text editor characters. The dominant colours are violet, various shades of yellow, beige, green, blue and white.">
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Collage zu Code 5</strong>
+      
+        <br>Human-centered interface design & psychological support<br><br><i>Hinweis</i>: Zum Download den untenstehenden Downloadbutton nutzen.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#74_5Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/collage_code5.jpg"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//graphite.page/doa-blaupauseassets/images/collage_code5.jpg"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-facebook"></i>
+      </a>
+    
+      <a href="https://twitter.com/intent/tweet?text=https%3A//graphite.page/doa-blaupauseassets/images/collage_code5.jpg&title=Collage+zu+Code+5"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-twitter"></i>
+      </a>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/doa-blaupauseassets/images/collage_code5.jpg&summary=Human-centered+interface+design+%26+psychological+support%3Cbr%3E%3Cbr%3E%3Ci%3EHinweis%3C%2Fi%3E%3A+Zum+Download+den+untenstehenden+Downloadbutton+nutzen.&title=Collage+zu+Code+5"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="74_5Modal" tabindex="-1" role="dialog" aria-labelledby="74_5ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Collage zu Code 5</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <img class="img-fluid" src="assets/images/collage_code5.jpg" alt="The image shows an assortment of abstract graphics that have been cut out and reassembled into a collage. Among them are eyes, abstract shapes, the letter N, an orchid blossom in the background, the outline of a person and a face composed of text editor characters. The dominant colours are violet, various shades of yellow, beige, green, blue and white.">
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+    </div>
+  
+    <div class="carousel-item ">
+      
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_74_6">
+  <div class="ms-col-content">
+    <a href="#74_6Modal" type="button" data-toggle="modal" data-target="#74_6Modal">
+
+<img class="img-fluid" src="assets/images/collage_code6.jpg" alt="The image shows a collage made up of various cut-out graphics. Blurred faces, an iris and pupil, the Leaning Tower of Pisa, the word 'computer' covering the eyes, the word 'in' and some abstract shapes can be seen. The dominant colours are blue, light yellow and black, with white shades.">
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Collage zu Code 6</strong>
+      
+        <br>Balancing data protection and contextual information<br><br><i>Hinweis</i>: Zum Download den untenstehenden Downloadbutton nutzen.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#74_6Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/collage_code6.jpg"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//graphite.page/doa-blaupauseassets/images/collage_code6.jpg"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-facebook"></i>
+      </a>
+    
+      <a href="https://twitter.com/intent/tweet?text=https%3A//graphite.page/doa-blaupauseassets/images/collage_code6.jpg&title=Collage+zu+Code+6"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-twitter"></i>
+      </a>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/doa-blaupauseassets/images/collage_code6.jpg&summary=Balancing+data+protection+and+contextual+information%3Cbr%3E%3Cbr%3E%3Ci%3EHinweis%3C%2Fi%3E%3A+Zum+Download+den+untenstehenden+Downloadbutton+nutzen.&title=Collage+zu+Code+6"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="74_6Modal" tabindex="-1" role="dialog" aria-labelledby="74_6ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Collage zu Code 6</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <img class="img-fluid" src="assets/images/collage_code6.jpg" alt="The image shows a collage made up of various cut-out graphics. Blurred faces, an iris and pupil, the Leaning Tower of Pisa, the word 'computer' covering the eyes, the word 'in' and some abstract shapes can be seen. The dominant colours are blue, light yellow and black, with white shades.">
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+    </div>
+  
+    <div class="carousel-item ">
+      
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_74_7">
+  <div class="ms-col-content">
+    <a href="#74_7Modal" type="button" data-toggle="modal" data-target="#74_7Modal">
+
+<img class="img-fluid" src="assets/images/collage_code7.jpg" alt="The image shows a collage made up of various cut-out graphics. A pair of eyes, an indistinguishable figure, the words 'du' and 'the', and other shapes can be seen. An abstract ring of intertwined red lines is centred in the image. Blue is also a dominant colour.">
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Collage zu Code 7</strong>
+      
+        <br>Fairness and nondiscrimination<br><br><i>Hinweis</i>: Zum Download den untenstehenden Downloadbutton nutzen.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#74_7Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/collage_code7.jpg"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//graphite.page/doa-blaupauseassets/images/collage_code7.jpg"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-facebook"></i>
+      </a>
+    
+      <a href="https://twitter.com/intent/tweet?text=https%3A//graphite.page/doa-blaupauseassets/images/collage_code7.jpg&title=Collage+zu+Code+7"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-twitter"></i>
+      </a>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/doa-blaupauseassets/images/collage_code7.jpg&summary=Fairness+and+nondiscrimination%3Cbr%3E%3Cbr%3E%3Ci%3EHinweis%3C%2Fi%3E%3A+Zum+Download+den+untenstehenden+Downloadbutton+nutzen.&title=Collage+zu+Code+7"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="74_7Modal" tabindex="-1" role="dialog" aria-labelledby="74_7ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Collage zu Code 7</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <img class="img-fluid" src="assets/images/collage_code7.jpg" alt="The image shows a collage made up of various cut-out graphics. A pair of eyes, an indistinguishable figure, the words 'du' and 'the', and other shapes can be seen. An abstract ring of intertwined red lines is centred in the image. Blue is also a dominant colour.">
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+    </div>
+  
+    <div class="carousel-item ">
+      
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_74_8">
+  <div class="ms-col-content">
+    <a href="#74_8Modal" type="button" data-toggle="modal" data-target="#74_8Modal">
+
+<img class="img-fluid" src="assets/images/collage_code8.jpg" alt="The image shows a collage made up of various cut-out graphics. Four faces facing each other can be seen. Abstract shapes or eyes covering their eyes render them all unrecognisable. Two hands appear at the top. One is holding an abstract shape. At the bottom are the letters 'L' and 'O', with a complete flower, including roots, between them, as if taken from a botany book. The dominant colours are light yellow and shades of pink and blue.">
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Collage zu Code 8</strong>
+      
+        <br>Training and continuing education for moderators<br><br><i>Hinweis</i>: Zum Download den untenstehenden Downloadbutton nutzen.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#74_8Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/collage_code8.jpg"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//graphite.page/doa-blaupauseassets/images/collage_code8.jpg"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-facebook"></i>
+      </a>
+    
+      <a href="https://twitter.com/intent/tweet?text=https%3A//graphite.page/doa-blaupauseassets/images/collage_code8.jpg&title=Collage+zu+Code+8"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-twitter"></i>
+      </a>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/doa-blaupauseassets/images/collage_code8.jpg&summary=Training+and+continuing+education+for+moderators%3Cbr%3E%3Cbr%3E%3Ci%3EHinweis%3C%2Fi%3E%3A+Zum+Download+den+untenstehenden+Downloadbutton+nutzen.&title=Collage+zu+Code+8"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="74_8Modal" tabindex="-1" role="dialog" aria-labelledby="74_8ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Collage zu Code 8</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <img class="img-fluid" src="assets/images/collage_code8.jpg" alt="The image shows a collage made up of various cut-out graphics. Four faces facing each other can be seen. Abstract shapes or eyes covering their eyes render them all unrecognisable. Two hands appear at the top. One is holding an abstract shape. At the bottom are the letters 'L' and 'O', with a complete flower, including roots, between them, as if taken from a botany book. The dominant colours are light yellow and shades of pink and blue.">
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+    </div>
+  
+    <div class="carousel-item ">
+      
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_74_9">
+  <div class="ms-col-content">
+    <a href="#74_9Modal" type="button" data-toggle="modal" data-target="#74_9Modal">
+
+<img class="img-fluid" src="assets/images/collage_code9.jpg" alt="The image shows a collage made up of various cut-out graphics. Among the images are mushrooms, a frog, a parrot, an open mouth, a clock, a magnifying glass, a skyscraper, a satellite dish, lines of code, a belt and the letter O, with the shape of a circle appearing many times. The collage is very colourful. The dominant colours are red, green, beige, and various shades of pink.">
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Collage zu Code 9</strong>
+      
+        <br>Continuous feedback system<br><br><i>Hinweis</i>: Zum Download den untenstehenden Downloadbutton nutzen.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#74_9Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/collage_code9.jpg"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//graphite.page/doa-blaupauseassets/images/collage_code9.jpg"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-facebook"></i>
+      </a>
+    
+      <a href="https://twitter.com/intent/tweet?text=https%3A//graphite.page/doa-blaupauseassets/images/collage_code9.jpg&title=Collage+zu+Code+9"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-twitter"></i>
+      </a>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/doa-blaupauseassets/images/collage_code9.jpg&summary=Continuous+feedback+system%3Cbr%3E%3Cbr%3E%3Ci%3EHinweis%3C%2Fi%3E%3A+Zum+Download+den+untenstehenden+Downloadbutton+nutzen.&title=Collage+zu+Code+9"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="74_9Modal" tabindex="-1" role="dialog" aria-labelledby="74_9ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Collage zu Code 9</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <img class="img-fluid" src="assets/images/collage_code9.jpg" alt="The image shows a collage made up of various cut-out graphics. Among the images are mushrooms, a frog, a parrot, an open mouth, a clock, a magnifying glass, a skyscraper, a satellite dish, lines of code, a belt and the letter O, with the shape of a circle appearing many times. The collage is very colourful. The dominant colours are red, green, beige, and various shades of pink.">
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+    </div>
+  
+    <div class="carousel-item ">
+      
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_74_10">
+  <div class="ms-col-content">
+    <a href="#74_10Modal" type="button" data-toggle="modal" data-target="#74_10Modal">
+
+<img class="img-fluid" src="assets/images/collage_code10.jpg" alt="The image shows a collage made up of various cut-out graphics. The shadows of three people can be seen, as well as a person in a suit, a single eye, a person in a lab coat at an old computer, a microscope, illustrations of research findings, a production hall and the letter P. The dominant colours are beige, grey and greenish tones, with blue and red accents.">
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Collage zu Code 10</strong>
+      
+        <br>Transparency, comprehensibility, and explainability<br><br><i>Hinweis</i>: Zum Download den untenstehenden Downloadbutton nutzen.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#74_10Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/collage_code10.jpg"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//graphite.page/doa-blaupauseassets/images/collage_code10.jpg"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-facebook"></i>
+      </a>
+    
+      <a href="https://twitter.com/intent/tweet?text=https%3A//graphite.page/doa-blaupauseassets/images/collage_code10.jpg&title=Collage+zu+Code+10"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-twitter"></i>
+      </a>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/doa-blaupauseassets/images/collage_code10.jpg&summary=Transparency%2C+comprehensibility%2C+and+explainability%3Cbr%3E%3Cbr%3E%3Ci%3EHinweis%3C%2Fi%3E%3A+Zum+Download+den+untenstehenden+Downloadbutton+nutzen.&title=Collage+zu+Code+10"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="74_10Modal" tabindex="-1" role="dialog" aria-labelledby="74_10ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Collage zu Code 10</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <img class="img-fluid" src="assets/images/collage_code10.jpg" alt="The image shows a collage made up of various cut-out graphics. The shadows of three people can be seen, as well as a person in a suit, a single eye, a person in a lab coat at an old computer, a microscope, illustrations of research findings, a production hall and the letter P. The dominant colours are beige, grey and greenish tones, with blue and red accents.">
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+    </div>
+  
+  </div>
+  <ol class="carousel-indicators">
+    
+      <li data-target="#carousel-74"
+          data-slide-to="0" class="active"></li>
+    
+      <li data-target="#carousel-74"
+          data-slide-to="1"></li>
+    
+      <li data-target="#carousel-74"
+          data-slide-to="2"></li>
+    
+      <li data-target="#carousel-74"
+          data-slide-to="3"></li>
+    
+      <li data-target="#carousel-74"
+          data-slide-to="4"></li>
+    
+      <li data-target="#carousel-74"
+          data-slide-to="5"></li>
+    
+      <li data-target="#carousel-74"
+          data-slide-to="6"></li>
+    
+      <li data-target="#carousel-74"
+          data-slide-to="7"></li>
+    
+      <li data-target="#carousel-74"
+          data-slide-to="8"></li>
+    
+      <li data-target="#carousel-74"
+          data-slide-to="9"></li>
+    
+    </ol>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_75">
+  <div class="ms-col-content">
+    <h3 id='heading-75' >Further resources on content moderation</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_76">
   <div class="ms-col-content">
     <table>
 <tr>
@@ -1865,15 +2742,15 @@ This graphite publication was realised with the help of <a href="https://www.hii
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_75">
+<div class="ms-row ms-row-two ms-text" id="partial_77">
   <div class="ms-col-content">
-    <h3 id='heading-75' >Legal References</h3>
+    <h3 id='heading-77' >Legal References</h3>
   </div>
   <div class="ms-col-marginal">
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_76">
+<div class="ms-row ms-row-two ms-text" id="partial_78">
   <div class="ms-col-content">
     <p><strong>Artificial Intelligence Act (AI Act) from 2024</strong> <br />
 Regulation (EU) 2024/1689 of the european parliament and of the council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act). <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679#tit_1">https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679#tit_1</a> </p>
@@ -1882,7 +2759,7 @@ Regulation (EU) 2024/1689 of the european parliament and of the council of 13 Ju
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_77">
+<div class="ms-row ms-row-two ms-text" id="partial_79">
   <div class="ms-col-content">
     <p><strong>Digital Services Act (DSA) from 2022</strong><br />
 Regulation (EU) No 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act). <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R2065#tit_1">https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32022R2065#tit_1</a></p>
@@ -1891,7 +2768,7 @@ Regulation (EU) No 2022/2065 of the European Parliament and of the Council of 19
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_78">
+<div class="ms-row ms-row-two ms-text" id="partial_80">
   <div class="ms-col-content">
     <p><strong>General Data Protection Regulation (GDPR) from 2016</strong><br />
 Regulation (EU) No 2016/679 of the european parliament and of the council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation). <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679#tit_1">https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679#tit_1</a></p>
@@ -1910,23 +2787,23 @@ Regulation (EU) No 2016/679 of the european parliament and of the council of 27 
 
 <section>
   <div class="container">
-     <div class="ms-row ms-row-two ms-text" id="partial_79">
+     <div class="ms-row ms-row-two ms-text" id="partial_81">
   <div class="ms-col-content">
-    <h2 id='heading-79' >About the project</h2>
+    <h2 id='heading-81' >About the research project</h2>
   </div>
   <div class="ms-col-marginal">
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_80">
+<div class="ms-row ms-row-two ms-text" id="partial_82">
   <div class="ms-col-content">
-    <h3 id='heading-80' >Human in the Loop?</h3>
+    <h3 id='heading-82' >Human in the Loop?</h3>
   </div>
   <div class="ms-col-marginal">
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_81">
+<div class="ms-row ms-row-two ms-text" id="partial_83">
   <div class="ms-col-content">
     <p>Automated decisions and AI systems are becoming increasingly important in our digital world. A well-known example is granting of loans, where banks use technological systems to automatically assess the creditworthiness of applicants. Content moderation on digital platforms such as Instagram, YouTube and TikTok is also increasingly automated. Here, algorithms evaluate users' posts, images and videos and flag them as approved or inappropriate, depending on their content. The greater the responsibility, the more critical the role of automated systems becomes - in the cockpit of an aeroplane, for example. Technologies such as the autopilot or warning mechanisms help pilots make safety-related decisions. </p>
   </div>
@@ -1938,7 +2815,7 @@ Regulation (EU) No 2016/679 of the european parliament and of the council of 27 
 </span></p></aside>
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_82">
+<div class="ms-row ms-row-two ms-text" id="partial_84">
   <div class="ms-col-content">
     <p>It should be noted that such (partially) automated decisions are often not error-free. For example, they contain and reproduce unintentional biases from training data. In addition, machines lack the ability to replicate human contextual understanding. This means that individual, machine-based decisions are often not appropriate to people's individual situations. For this reason, there have long been calls for humans to be meaningfully involved in such processes, so that they can play a specific role in monitoring and improving technological systems.</p>
   </div>
@@ -1946,7 +2823,7 @@ Regulation (EU) No 2016/679 of the european parliament and of the council of 27 
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_83">
+<div class="ms-row ms-row-two ms-text" id="partial_85">
   <div class="ms-col-content">
     <p>In this context, the research project <a href="https://www.hiig.de/en/project/human-in-the-loop/">Human in the Loop? Autonomy and Automation in Socio-technical Systems</a> investigates to what extent the active and targeted involvement of humans can influence and change (partially) automated decision-making processes. The central questions are: How can meaningful human-machine interaction be designed in complex application contexts? What is the role of human judgement in the verification and quality assurance of automated processes? How can we ensure that the decision-making process is not only legally compliant, but also transparent and traceable? And what are the requirements for the design of human-machine interaction when, in addition to technical systems and human decision-makers, the specific context of use and the social and organisational environment are also taken into account?</p>
   </div>
@@ -1954,15 +2831,15 @@ Regulation (EU) No 2016/679 of the european parliament and of the council of 27 
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_84">
+<div class="ms-row ms-row-two ms-text" id="partial_86">
   <div class="ms-col-content">
-    <h3 id='heading-84' >Acknowledgments</h3>
+    <h3 id='heading-86' >Acknowledgments</h3>
   </div>
   <div class="ms-col-marginal">
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_85">
+<div class="ms-row ms-row-two ms-text" id="partial_87">
   <div class="ms-col-content">
     <p>The research project is funded by Stiftung Mercator with a duration from october 2023 to september 2027.</p>
   </div>
@@ -1970,16 +2847,16 @@ Regulation (EU) No 2016/679 of the european parliament and of the council of 27 
     <aside class="ms-aside-keystatement"><p><img src="assets/images/Stiftung_Mercator_logo.png" style="max-width: 200px;" /></p></aside>
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_86">
+<div class="ms-row ms-row-two ms-text" id="partial_88">
   <div class="ms-col-content">
-    <h3 id='heading-86' >Authors</h3>
+    <h3 id='heading-88' >Authors</h3>
   </div>
   <div class="ms-col-marginal">
     
   </div>
 </div>
 
-<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_87">
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_89">
   <div class="ms-col-pre">
     <img class="img-fluid" src="assets/images/authors/matthias-kettemann_profile-coc.jpg" alt="">
   </div>
@@ -2013,7 +2890,7 @@ Regulation (EU) No 2016/679 of the european parliament and of the council of 27 
 </div>
 
 
-<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_88">
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_90">
   <div class="ms-col-pre">
     <img class="img-fluid" src="assets/images/authors/katharina-mosene_profile-coc.jpg" alt="">
   </div>
@@ -2047,7 +2924,7 @@ Regulation (EU) No 2016/679 of the european parliament and of the council of 27 
 </div>
 
 
-<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_89">
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_91">
   <div class="ms-col-pre">
     <img class="img-fluid" src="assets/images/authors/maurice-stenzel_profile-coc.jpg" alt="">
   </div>
@@ -2081,7 +2958,7 @@ Regulation (EU) No 2016/679 of the european parliament and of the council of 27 
 </div>
 
 
-<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_90">
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_92">
   <div class="ms-col-pre">
     <img class="img-fluid" src="assets/images/authors/philipp-mahlow_profile-coc.jpg" alt="">
   </div>
@@ -2115,7 +2992,7 @@ Regulation (EU) No 2016/679 of the european parliament and of the council of 27 
 </div>
 
 
-<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_91">
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_93">
   <div class="ms-col-pre">
     <img class="img-fluid" src="assets/images/authors/daniel-pothmann_profile-coc.jpg" alt="">
   </div>
@@ -2149,7 +3026,7 @@ Regulation (EU) No 2016/679 of the european parliament and of the council of 27 
 </div>
 
 
-<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_92">
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_94">
   <div class="ms-col-pre">
     <img class="img-fluid" src="assets/images/authors/sarah-spitz_profile-coc.jpg" alt="">
   </div>
@@ -2182,7 +3059,7 @@ Regulation (EU) No 2016/679 of the european parliament and of the council of 27 
   </div>
 </div>
 
-<div class="ms-row ms-row-two ms-text" id="partial_93">
+<div class="ms-row ms-row-two ms-text" id="partial_95">
   <div class="ms-col-content">
     
   </div>
