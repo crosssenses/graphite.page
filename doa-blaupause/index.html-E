@@ -186,96 +186,108 @@
 
 <div class="ms-toc"></div>
 <nav class="ms-tabs">
-  <div class="container">
+    <div class="container">
 
-    <a class="ms-trigger-toc button d-flex d-lg-none">
-      Inhalt
-    </a>
+        <a class="ms-trigger-toc button d-flex d-lg-none">
+            Inhalt
+        </a>
 
-    <div class="dropdown d-xs-block d-lg-none">
-      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        Blaupause
-      </button>
+        <div class="dropdown d-xs-block d-lg-none">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
+                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Blaupause
+            </button>
 
-      <div class="dropdown-menu" aria-labelledby="dropdownMenuButton" role="tablist">
-        <div class="nav nav-pills" role="tablist">
-          
-          <a class="dropdown-item tab-item active" id="index-tab" data-toggle="tab" href="#index" role="tab" aria-controls="index" aria-expanded="true">
-            Blaupause
-          </a>
-          
-          <a class="dropdown-item tab-item " id="community-tab" data-toggle="tab" href="#community" role="tab" aria-controls="community" >
-            Community
-          </a>
-          
-          <a class="dropdown-item tab-item " id="resources-tab" data-toggle="tab" href="#resources" role="tab" aria-controls="resources" >
-            Ressourcen
-          </a>
-          
-          <a class="dropdown-item tab-item " id="about-tab" data-toggle="tab" href="#about" role="tab" aria-controls="about" >
-            Zum Projekt
-          </a>
-          
+            
+            
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton" role="tablist">
+                <div class="nav nav-pills" role="tablist">
+                    
+                    <a class="dropdown-item tab-item active" id="index-tab"
+                        data-toggle="tab" href="#index" role="tab" aria-controls="index" aria-expanded="true" >
+                        Blaupause
+                    </a>
+                    
+                    <a class="dropdown-item tab-item " id="community-tab"
+                        data-toggle="tab" href="#community" role="tab" aria-controls="community" >
+                        Community
+                    </a>
+                    
+                    <a class="dropdown-item tab-item " id="resources-tab"
+                        data-toggle="tab" href="#resources" role="tab" aria-controls="resources" >
+                        Ressourcen
+                    </a>
+                    
+                    <a class="dropdown-item tab-item " id="about-tab"
+                        data-toggle="tab" href="#about" role="tab" aria-controls="about" >
+                        Zum Projekt
+                    </a>
+                    
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
 
-    <ul class="nav nav-tabs d-none d-lg-flex" id="masterTab" role="tablist" style="margin-left: 8.6% !important;">
-      
-      <li class="nav-item">
-        <a class="nav-link tab-item active" id="index-tab" data-toggle="tab" href="#index" role="tab" aria-controls="index" aria-expanded="true">
-          Blaupause
-        </a>
-      </li>
-      
-      <li class="nav-item">
-        <a class="nav-link tab-item " id="community-tab" data-toggle="tab" href="#community" role="tab" aria-controls="community" >
-          Community
-        </a>
-      </li>
-      
-      <li class="nav-item">
-        <a class="nav-link tab-item " id="resources-tab" data-toggle="tab" href="#resources" role="tab" aria-controls="resources" >
-          Ressourcen
-        </a>
-      </li>
-      
-      <li class="nav-item">
-        <a class="nav-link tab-item " id="about-tab" data-toggle="tab" href="#about" role="tab" aria-controls="about" >
-          Zum Projekt
-        </a>
-      </li>
-      
-    </ul>
+        <ul class="nav nav-tabs d-none d-lg-flex" id="masterTab" role="tablist" style="margin-left: 8.6% !important;">
+            
+            <li class="nav-item">
+                <a class="nav-link tab-item active" id="index-tab"
+                    data-toggle="tab" href="#index" role="tab" aria-controls="index" aria-expanded="true" >
+                    Blaupause
+                </a>
+            </li>
+            
+            <li class="nav-item">
+                <a class="nav-link tab-item " id="community-tab"
+                    data-toggle="tab" href="#community" role="tab" aria-controls="community" >
+                    Community
+                </a>
+            </li>
+            
+            <li class="nav-item">
+                <a class="nav-link tab-item " id="resources-tab"
+                    data-toggle="tab" href="#resources" role="tab" aria-controls="resources" >
+                    Ressourcen
+                </a>
+            </li>
+            
+            <li class="nav-item">
+                <a class="nav-link tab-item " id="about-tab"
+                    data-toggle="tab" href="#about" role="tab" aria-controls="about" >
+                    Zum Projekt
+                </a>
+            </li>
+            
+        </ul>
 
-    
-    <ul class="nav justify-content-end d-none d-lg-flex">
-      
         
-          
-          
+        <ul class="nav justify-content-end d-none d-lg-flex">
+            
+            
+
+            
             <li class="nav-item font-weight-bold current ml-2">
-              DE
+                DE
             </li>
-          
-        
-          
-          
-            <li class="nav-item ml-2">
-              <a href=https://graphite.page/doa-blueprint/ target="_blank" style="color: inherit">EN</a>
-            </li>
-          
-        
-      
-    </ul>
-    
+            
+            
 
-  </div>
+            
+            <li class="nav-item ml-2">
+                <a href=https://graphite.page/doa-blueprint/ target="_blank" style="color: inherit">EN</a>
+            </li>
+            
+            
+            
+        </ul>
+        
+
+    </div>
 </nav>
 <div class="tab-content" id="masterTabContent">
-  
-  <div class="tab-pane fade active show" id="index" role="tabpanel" aria-labelledby="index-tab" aria-expanded="true">
     
+    <div class="tab-pane fade active show" id="index" role="tabpanel"
+        aria-labelledby="index-tab" aria-expanded="true" >
+        
   <section class="container ms-article-top">
   <div class="ms-row ms-row-single">
     <div class="ms-col-content">
@@ -2213,10 +2225,11 @@ FIDs sind beispielsweise Pollux für die Politikwissenschaft oder der FID Media 
 </div>
   </div>
 </article>
-  </div>
-  
-  <div class="tab-pane fade" id="community" role="tabpanel" aria-labelledby="community-tab" >
+    </div>
     
+    <div class="tab-pane fade" id="community" role="tabpanel"
+        aria-labelledby="community-tab" >
+        
 
 <section>
   <div class="container">
@@ -2242,7 +2255,7 @@ FIDs sind beispielsweise Pollux für die Politikwissenschaft oder der FID Media 
 <li><strong>Elena Di Rosa</strong>, Verfassungsblog, elenadirosa@verfassungsblog.de </li>
 <li><strong>Anita Eppelin</strong>, Technische Informationsbibliothek (TIB)</li>
 <li><strong>Gerrit Fröhlich</strong>, Leibniz-Institut für Psychologie (ZPID), gf@leibniz-psychology.org</li>
-<li><strong>Dorothee Graf</strong>, Universitätsbibliothek Duisburg-Essen</li>
+<li><strong>Dorothee Graf</strong>, Universitätsbibliothek Duisburg-Essen, Mitglied der ENABLE!-Community</li>
 <li><strong>Anne-Christine</strong> Günther, Technische Universität Darmstadt, Universitäts- und Landesbibliothek Darmstadt</li>
 <li><strong>Kathleen Heft</strong>, Fachinformationsdienst Sozial- und Kulturanthropologie</li>
 <li><strong>Fabian Hennig</strong>, KOALA-AV</li>
@@ -2353,10 +2366,11 @@ FIDs sind beispielsweise Pollux für die Politikwissenschaft oder der FID Media 
 </div>
   </div>
 </section>
-  </div>
-  
-  <div class="tab-pane fade" id="resources" role="tabpanel" aria-labelledby="resources-tab" >
+    </div>
     
+    <div class="tab-pane fade" id="resources" role="tabpanel"
+        aria-labelledby="resources-tab" >
+        
 
 <section>
   <div class="container">
@@ -3038,10 +3052,11 @@ FIDs sind beispielsweise Pollux für die Politikwissenschaft oder der FID Media 
 </div>
   </div>
 </section>
-  </div>
-  
-  <div class="tab-pane fade" id="about" role="tabpanel" aria-labelledby="about-tab" >
+    </div>
     
+    <div class="tab-pane fade" id="about" role="tabpanel"
+        aria-labelledby="about-tab" >
+        
 
 <section>
   <div class="container">
@@ -3239,8 +3254,8 @@ FIDs sind beispielsweise Pollux für die Politikwissenschaft oder der FID Media 
 </div>
   </div>
 </section>
-  </div>
-  
+    </div>
+    
 </div>
 <canvas id="confetti"></canvas>
 <!-- END: STUDY FRAME -->
