@@ -8070,7 +8070,7 @@ object {
 .ms-toc {
   font-size: 15px;
   position: fixed;
-  z-index: 800;
+  z-index: 999;
   top: 52vh !important;
   left: 0;
   width: 32px;

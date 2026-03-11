@@ -254,10 +254,10 @@ function changeToTab(prevTab, targetTab, noscroll = false) {
   // Show tab manually to avoid collsion with carousel
   // (bootstraps throws error, used try catch to continue script)
   try {
-    prevTab.removeClass("active fade show");
+    prevTab.removeClass("active show");
     $(prevTab.attr("href")).removeClass("active");
 
-    targetTab.addClass("active fade show");
+    targetTab.addClass("active show");
     $(targetTab.attr("href")).addClass("active");
   } catch (err) {
     console.log("Changing tab errors: ", err);

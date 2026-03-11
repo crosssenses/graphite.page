@@ -388,7 +388,7 @@
   <div class="ms-col-content">
     <a href="#5Modal" type="button" data-toggle="modal" data-target="#5Modal">
 
-<img class="img-fluid" src="assets/images/figures/SurveyData.png" alt="">
+<img class="img-fluid" src="assets/images/figures/SurveyData.png" alt="Die Abbildungs zeigt die Visualisierung der Studienelemente, bestehend aus X, Y und Z.">
 
 </a>
 
@@ -399,12 +399,18 @@
 <aside class="ms-aside-caption">
   <p><strong>Survey data</strong>
       
+        <br>Der Aufbau der Studie im Überblick. Die Abbildung zeigt die Visualisierung der Studienelemente, bestehend aus X, Y und Z.
+      
   </p>
 </aside>
 
 
 
 
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
 
 
 <div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
@@ -417,7 +423,7 @@
   <div class="btn-group" role="group" aria-label="Share">
     <span class="input-group-addon" id="btnGroupAddon">Share</span>
     
-      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/navigating-resilienceassets/images/figures/SurveyData.png&title=Survey+data"
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/navigating-resilienceassets/images/figures/SurveyData.png&summary=Der+Aufbau+der+Studie+im+%C3%9Cberblick.+Die+Abbildung+zeigt+die+Visualisierung+der+Studienelemente%2C+bestehend+aus+X%2C+Y+und+Z.&title=Survey+data"
          target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
         <i class="mdi mdi-linkedin"></i>
       </a>
@@ -446,7 +452,7 @@
       </div>
       <div class="modal-body">
         
-        <img class="img-fluid" src="assets/images/figures/SurveyData.png" alt="">
+        <img class="img-fluid" src="assets/images/figures/SurveyData.png" alt="Die Abbildungs zeigt die Visualisierung der Studienelemente, bestehend aus X, Y und Z.">
         
       </div>
     </div>
@@ -632,6 +638,8 @@
 <aside class="ms-aside-caption">
   <p><strong>Three phases of resilience</strong>
       
+        <br>The coping during a crisis is preceded by anticipation and followed by adaptation. These phases repeat and overlap with the occurrence of multiple crises.
+      
   </p>
 </aside>
 
@@ -650,7 +658,7 @@
   <div class="btn-group" role="group" aria-label="Share">
     <span class="input-group-addon" id="btnGroupAddon">Share</span>
     
-      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/navigating-resilienceassets/images/figures/ResiliencePhases.png&title=Three+phases+of+resilience"
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/navigating-resilienceassets/images/figures/ResiliencePhases.png&summary=The+coping+during+a+crisis+is+preceded+by+anticipation+and+followed+by+adaptation.+These+phases+repeat+and+overlap+with+the+occurrence+of+multiple+crises.&title=Three+phases+of+resilience"
          target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
         <i class="mdi mdi-linkedin"></i>
       </a>
@@ -2020,7 +2028,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
   <div class="ms-col-content">
     <a href="#104Modal" type="button" data-toggle="modal" data-target="#104Modal">
 
-<img class="img-fluid" src="assets/images/figures/Resilience-Creativity-Canvas.png" alt="">
+<img class="img-fluid" src="assets/images/figures/CanvasStructure.png" alt="">
 
 </a>
 
@@ -2029,7 +2037,9 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
   <div class="ms-col-marginal">
     
 <aside class="ms-aside-caption">
-  <p><strong>Resilience & Creativity Canvas</strong>
+  <p><strong>Structure of the canvas</strong>
+      
+        <br>The coping during a crisis is preceded by anticipation and followed by adaptation. These phases repeat and overlap with the occurrence of multiple crises.
       
   </p>
 </aside>
@@ -2044,22 +2054,22 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
 	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#104Modal">
       <i class="mdi mdi-fullscreen"></i>
 	</button>
-    <a class="btn btn-secondary" href="assets/images/figures/Resilience-Creativity-Canvas.png"><i class="mdi mdi-download"></i></a>
+    <a class="btn btn-secondary" href="assets/images/figures/CanvasStructure.png"><i class="mdi mdi-download"></i></a>
   </div>
   <div class="btn-group" role="group" aria-label="Share">
     <span class="input-group-addon" id="btnGroupAddon">Share</span>
     
-      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/navigating-resilienceassets/images/figures/Resilience-Creativity-Canvas.png&title=Resilience+%26+Creativity+Canvas"
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/navigating-resilienceassets/images/figures/CanvasStructure.png&summary=The+coping+during+a+crisis+is+preceded+by+anticipation+and+followed+by+adaptation.+These+phases+repeat+and+overlap+with+the+occurrence+of+multiple+crises.&title=Structure+of+the+canvas"
          target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
         <i class="mdi mdi-linkedin"></i>
       </a>
     
-      <a href="https://bsky.app/intent/compose?text=https%3A//graphite.page/navigating-resilienceassets/images/figures/Resilience-Creativity-Canvas.png"
+      <a href="https://bsky.app/intent/compose?text=https%3A//graphite.page/navigating-resilienceassets/images/figures/CanvasStructure.png"
          target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
         <i class="mdi mdi-bluesky"></i>
       </a>
     
-      <a href="https://mastodon.social/share?text=https%3A//graphite.page/navigating-resilienceassets/images/figures/Resilience-Creativity-Canvas.png"
+      <a href="https://mastodon.social/share?text=https%3A//graphite.page/navigating-resilienceassets/images/figures/CanvasStructure.png"
          target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
         <i class="mdi mdi-mastodon"></i>
       </a>
@@ -2071,14 +2081,14 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title">Resilience & Creativity Canvas</h5>
+        <h5 class="modal-title">Structure of the canvas</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
         
-        <img class="img-fluid" src="assets/images/figures/Resilience-Creativity-Canvas.png" alt="">
+        <img class="img-fluid" src="assets/images/figures/CanvasStructure.png" alt="">
         
       </div>
     </div>
@@ -2200,17 +2210,81 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     <aside class="ms-aside-hint"><p>To work with the canvas using pen and paper, we recommend printing the canvas in the format of A1. Of course, you can also download the digital version (LINK) to start your reflection process.</p></aside>
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_116">
+
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_116">
   <div class="ms-col-content">
-    <h4 id='heading-116' ><strong>Step 2: Define a crisis scenario and get started</strong></h4>
+    <a href="#116Modal" type="button" data-toggle="modal" data-target="#116Modal">
+
+<img class="img-fluid" src="assets/images/figures/Resilience-Creativity-Canvas.png" alt="">
+
+</a>
+
+
   </div>
   <div class="ms-col-marginal">
     
+<aside class="ms-aside-caption">
+  <p><strong>Resilience & Creativity Canvas</strong>
+      
+  </p>
+</aside>
+
+
+
+
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#116Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/figures/Resilience-Creativity-Canvas.png"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/navigating-resilienceassets/images/figures/Resilience-Creativity-Canvas.png&title=Resilience+%26+Creativity+Canvas"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+      <a href="https://bsky.app/intent/compose?text=https%3A//graphite.page/navigating-resilienceassets/images/figures/Resilience-Creativity-Canvas.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-bluesky"></i>
+      </a>
+    
+      <a href="https://mastodon.social/share?text=https%3A//graphite.page/navigating-resilienceassets/images/figures/Resilience-Creativity-Canvas.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-mastodon"></i>
+      </a>
+    
   </div>
 </div>
+
+<div class="modal fade" id="116Modal" tabindex="-1" role="dialog" aria-labelledby="116ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Resilience & Creativity Canvas</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <img class="img-fluid" src="assets/images/figures/Resilience-Creativity-Canvas.png" alt="">
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
 <div class="ms-row ms-row-two ms-text" id="partial_117">
   <div class="ms-col-content">
-    <p>Once you have selected the right canvas for you, you need to decide on one specific crisis as your use case. It can either be a previous or a possible future crisis. The more you specify the crisis scenario of your use case, the easier it will be to work through the canvas. Possible examples include learning management system outage during exam week, power black out during the semester or health pandemic requiring a sudden switch to digital teaching.</p>
+    <h4 id='heading-117' ><strong>Step 2: Define a crisis scenario and get started</strong></h4>
   </div>
   <div class="ms-col-marginal">
     
@@ -2218,13 +2292,21 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_118">
   <div class="ms-col-content">
+    <p>Once you have selected the right canvas for you, you need to decide on one specific crisis as your use case. It can either be a previous or a possible future crisis. The more you specify the crisis scenario of your use case, the easier it will be to work through the canvas. Possible examples include learning management system outage during exam week, power black out during the semester or health pandemic requiring a sudden switch to digital teaching.</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_119">
+  <div class="ms-col-content">
     <p>To reflect your practices of resilience and creativity across the three phases of resilience, the canvas features five dimensions that structure the process:</p>
   </div>
   <div class="ms-col-marginal">
     <aside class="ms-aside-hint"><p>While there is no prescribed order of how to work through the canvas, we recommend working through each of the dimensions across all three phases of resilience. All questions are designed as prompts to help you identify key bottlenecks, enabling structures and actionable changes for your specific role.</p></aside>
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_119">
+<div class="ms-row ms-row-two ms-text" id="partial_120">
   <div class="ms-col-content">
     <ul>
 <li><strong>Infrastructure &amp; Resources</strong> refers to the technical setup for learning processes (including specific tools), specialised training opportunities for different target groups and purposes as well as the actual use of existing resources before, during and after a crisis.</li>
@@ -2234,7 +2316,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_120">
+<div class="ms-row ms-row-two ms-text" id="partial_121">
   <div class="ms-col-content">
     <ul>
 <li><strong>Collaboration &amp; Communication</strong> concerns the processes and structures for interdisciplinary and multi-level collaboration, lines of communication as well as forms of cooperation within and beyond your higher education institution.</li>
@@ -2244,7 +2326,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_121">
+<div class="ms-row ms-row-two ms-text" id="partial_122">
   <div class="ms-col-content">
     <ul>
 <li><strong>Roles &amp; Responsibilities</strong> relate to the combination and inclusion of multiple perspectives, the allocation of work packages and tasks as well as the distribution of responsibilities.</li>
@@ -2254,7 +2336,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_122">
+<div class="ms-row ms-row-two ms-text" id="partial_123">
   <div class="ms-col-content">
     <ul>
 <li><strong>Context</strong> refers to the impact of regional and national contextual factors on resilience and creativity practices.</li>
@@ -2264,7 +2346,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_123">
+<div class="ms-row ms-row-two ms-text" id="partial_124">
   <div class="ms-col-content">
     <ul>
 <li><strong>Identity</strong> concerns the impact of your higher education institution’s self-understanding on resilience and creativity practices.</li>
@@ -2274,15 +2356,15 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_124">
+<div class="ms-row ms-row-two ms-text" id="partial_125">
   <div class="ms-col-content">
-    <h4 id='heading-124' ><strong>Step 3: Use the personas</strong></h4>
+    <h4 id='heading-125' ><strong>Step 3: Use the personas</strong></h4>
   </div>
   <div class="ms-col-marginal">
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_125">
+<div class="ms-row ms-row-two ms-text" id="partial_126">
   <div class="ms-col-content">
     <p>You may come across questions you cannot answer right away or you might need some inspiration when you start working with the canvas. In these cases, the four personas we have developed provide orientation. They help you work through each role-specific version of the canvas and offer different perspectives to guide your thinking. Take a look and get inspired:</p>
   </div>
@@ -2290,7 +2372,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_126">
+<div class="ms-row ms-row-two ms-text" id="partial_127">
   <div class="ms-col-content">
     <table>
   <tr>
@@ -2323,13 +2405,13 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     <div class="ms-chapter" style="background-image: url(assets/images/chapter.jpg)">
       <div class="container-fluid" >
         <div class="container">
-          <div class="ms-row ms-row-full" id="partial_127">
+          <div class="ms-row ms-row-full" id="partial_128">
             <div class="ms-col-content">
               
   
-    <p class="authors" id="heading-127">Collective reflection</p>
+    <p class="authors" id="heading-128">Collective reflection</p>
   
-  <h2  id="heading-127">Strengthening your institution’s resilience together</h2>
+  <h2  id="heading-128">Strengthening your institution’s resilience together</h2>
   
   
             </div>
@@ -2340,7 +2422,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
   
 
 <div class="container">
-<div class="ms-row ms-row-two ms-text" id="partial_128">
+<div class="ms-row ms-row-two ms-text" id="partial_129">
   <div class="ms-col-content">
     <p><strong>Using the Resilience &amp; Creativity Canvas for collective reflection enables higher education institutions to facilitate an extensive exchange around resilience and creativity across all relevant stakeholder groups. The provided materials offer a step-by-step guide to conduct a workshop to initiate a multileveled reflection process.</strong></p>
   </div>
@@ -2348,7 +2430,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_129">
+<div class="ms-row ms-row-two ms-text" id="partial_130">
   <div class="ms-col-content">
     <p>As resilience and creativity require ongoing interaction between different people and their environment, it is crucial to consider the variety of perspectives that come into play within higher education institutions. Decisions made by higher education leadership influence strategic orientation as well as technical infrastructure, while the latter also has an impact on teaching practices. Teaching practices, in turn, contribute to a higher education institution’s strategic orientation, all the while challenging its technical infrastructures. All of these complex relations need to be considered when reflecting a higher education institution’s resilience and creativity. </p>
   </div>
@@ -2356,7 +2438,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_130">
+<div class="ms-row ms-row-two ms-text" id="partial_131">
   <div class="ms-col-content">
     <p>To account for this diversity of perspectives, the Resilience &amp; Creativity Canvas can also be used for collective reflection in a workshop within your higher education institution. In bringing together multiple stakeholder groups, you can reflect how<em> infrastructure and resources</em> are set up and allocated, how <em>collaboration and communication</em> shape practices and how different <em>roles and responsibilities </em>contribute to resilience and creativity, all the while keeping in mind your institution’s unique <em>context </em>and<em> identity</em>.</p>
   </div>
@@ -2364,15 +2446,15 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_131">
+<div class="ms-row ms-row-two ms-text" id="partial_132">
   <div class="ms-col-content">
-    <h3 id='heading-131' >Step 1: Identify relevant stakeholders</h3>
+    <h3 id='heading-132' >Step 1: Identify relevant stakeholders</h3>
   </div>
   <div class="ms-col-marginal">
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_132">
+<div class="ms-row ms-row-two ms-text" id="partial_133">
   <div class="ms-col-content">
     <p>At the beginning of your collective reflection process, you need to decide who to involve. Based on our research, we recommend to include at least the following perspectives, as these represent distinct roles in shaping resilient and creative teaching: decision-making, implementation and technical as well as pedagogical enablement:</p>
   </div>
@@ -2380,7 +2462,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_133">
+<div class="ms-row ms-row-two ms-text" id="partial_134">
   <div class="ms-col-content">
     <ul>
 <li><strong>Decision making:</strong> Include those whose roles are closely connected to formal decision-making related to teaching development (e.g., strategic direction, mandates, resource allocation). Depending on your institutional structures, this may include (vice-)presidents, (vice-)chancellors (e.g., for teaching, digitalisation, infrastructure, internationalisation), as well as leadership of central units that shape teaching-related decisions (e.g., heads of IT units or teaching development/e-learning centres).</li>
@@ -2390,7 +2472,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     <aside class="ms-aside-hint"><p>Beyond these four perspectives, it can also prove beneficial to include students in this collective reflection process, especially since they are a stakeholder group that is often neglected in institution-wide processes. Therefore, approaching the General Students’ Committee could be a good first step.</p></aside>
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_134">
+<div class="ms-row ms-row-two ms-text" id="partial_135">
   <div class="ms-col-content">
     <ul>
 <li><strong>Implementing teaching:</strong> Include professors and lecturers who deliver teaching in practice. When selecting participants for the workshop, consider that some teaching staff hold additional roles (e.g., deans, study programme directors, members of academic self-governance), which can add valuable insight into both implementation and decision-making dynamics.</li>
@@ -2400,7 +2482,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_135">
+<div class="ms-row ms-row-two ms-text" id="partial_136">
   <div class="ms-col-content">
     <ul>
 <li><strong>Technical enablement:</strong> Include staff who provide and stabilise the technical infrastructure and support teaching depends on (e.g., learning management support, system administrators, service desk). If possible, include both hands-on staff and leadership of IT units to represent operational realities and strategic constraints (capacity, priorities, governance).</li>
@@ -2410,7 +2492,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_136">
+<div class="ms-row ms-row-two ms-text" id="partial_137">
   <div class="ms-col-content">
     <ul>
 <li><strong>Pedagogical enablement:</strong> Include staff who translate teaching goals into workable formats, templates, training, and course design support (e.g., instructional designers, people working in teaching and learning centres). Including both unit leadership (strategic perspective) and staff working directly with teaching staff (operational perspective) helps capture what is feasible and what is needed.</li>
@@ -2420,7 +2502,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_137">
+<div class="ms-row ms-row-two ms-text" id="partial_138">
   <div class="ms-col-content">
     <p>Roles in higher education often overlap. Naturally, participants may bring in insights from their different roles during the discussion. For completing the canvas, however, we recommend that everyone chooses one main perspective for the reflection process, so the outputs remain clear and comparable across stakeholder groups. Additionally, make sure to involve at least three people of each stakeholder group.</p>
   </div>
@@ -2428,17 +2510,9 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_138">
-  <div class="ms-col-content">
-    <h3 id='heading-138' >Step 2: Conduct the collective reflection workshop</h3>
-  </div>
-  <div class="ms-col-marginal">
-    
-  </div>
-</div>
 <div class="ms-row ms-row-two ms-text" id="partial_139">
   <div class="ms-col-content">
-    <p>Starting this collective reflection process to better understand how your higher education institution navigates through the three phases of resilience (anticipation, coping, adaptation) is not something you can complete in one workshop. However, it can serve as a starting point and inspire further conversations to start rethinking existing structures and processes.</p>
+    <h3 id='heading-139' >Step 2: Conduct the collective reflection workshop</h3>
   </div>
   <div class="ms-col-marginal">
     
@@ -2446,13 +2520,21 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_140">
   <div class="ms-col-content">
-    <p>To facilitate this collective reflection process at your higher education institution, feel free to download the following open educational resources (CC-BY 4.0):</p>
+    <p>Starting this collective reflection process to better understand how your higher education institution navigates through the three phases of resilience (anticipation, coping, adaptation) is not something you can complete in one workshop. However, it can serve as a starting point and inspire further conversations to start rethinking existing structures and processes.</p>
   </div>
   <div class="ms-col-marginal">
     
   </div>
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_141">
+  <div class="ms-col-content">
+    <p>To facilitate this collective reflection process at your higher education institution, feel free to download the following open educational resources (CC-BY 4.0):</p>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_142">
   <div class="ms-col-content">
     <ul>
 <li><strong>Concept</strong>: the <a href="https://docs.google.com/document/d/1CpPT2S4qOJzHhm0XRPjaI2ul45FM6xDKeIXOVJncCCY/edit?usp=sharing">workshop playbook</a> provides a detailed guideline of how to conduct the workshop within your institution to best facilitate the collective reflection process.</li>
@@ -2462,7 +2544,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_142">
+<div class="ms-row ms-row-two ms-text" id="partial_143">
   <div class="ms-col-content">
     <ul>
 <li><strong>Materials</strong>: the additional materials include four role-specific versions of the canvas to account for the different perspectives mentioned above. According to those perspective, we have developed four personas to provide orientation and inspiration as well as workshop cards to support the discussion. Download and print out all materials here.</li>
@@ -2472,15 +2554,15 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_143">
+<div class="ms-row ms-row-two ms-text" id="partial_144">
   <div class="ms-col-content">
-    <h3 id='heading-143' >Step 3: Establish a continuous reflection process</h3>
+    <h3 id='heading-144' >Step 3: Establish a continuous reflection process</h3>
   </div>
   <div class="ms-col-marginal">
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_144">
+<div class="ms-row ms-row-two ms-text" id="partial_145">
   <div class="ms-col-content">
     <p>Following the workshop, you will not only have revealed different perspectives on how your institution navigates through the three phases of resilience but also defined actionable next steps. To make sure that this conversation does not vanish, never to be seen again, think about how you can continue this reflection process to strengthen your institution’s resilience through creativity long-term:</p>
   </div>
@@ -2488,7 +2570,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_145">
+<div class="ms-row ms-row-two ms-text" id="partial_146">
   <div class="ms-col-content">
     <ul>
 <li>What existing structures can be used to continue this reflection process?</li>
@@ -2498,7 +2580,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_146">
+<div class="ms-row ms-row-two ms-text" id="partial_147">
   <div class="ms-col-content">
     <ul>
 <li>Who do you need to ensure the actionable next steps can be implemented?</li>
@@ -2508,7 +2590,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_147">
+<div class="ms-row ms-row-two ms-text" id="partial_148">
   <div class="ms-col-content">
     <ul>
 <li>What are the milestones you want to achieve and by when?</li>
@@ -2518,7 +2600,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_148">
+<div class="ms-row ms-row-two ms-text" id="partial_149">
   <div class="ms-col-content">
     <ul>
 <li>Who is responsible for evaluating the workshop results and for organising further meetings to continue reflection?</li>
@@ -2537,15 +2619,15 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
 
 <section>
   <div class="container">
-     <div class="ms-row ms-row-two ms-text" id="partial_149">
+     <div class="ms-row ms-row-two ms-text" id="partial_150">
   <div class="ms-col-content">
-    <h2 id='heading-149' >About the Project</h2>
+    <h2 id='heading-150' >About the Project</h2>
   </div>
   <div class="ms-col-marginal">
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_150">
+<div class="ms-row ms-row-two ms-text" id="partial_151">
   <div class="ms-col-content">
     <p>The Learn-and-Do Kit brings together insights from two linked research projects: <em><a href="https://www.hiig.de/en/project/ora-organizational-adaptivity-in-the-german-higher-education-context-ora/">Organisational Adaptivity in the Higher Education Context (OrA*)</a></em> <em>and</em><em> </em>**<a href="https://www.hiig.de/en/project/organisationale-resilienz-und-kreativitaet/">Organisational Resilience and Creativity: Exploring the Future of Educational Technology in Higher Education (ORC*)</a>. Both projects were conducted jointly by the Alexander von Humboldt Institute for Internet and Society and the <a href="https://www.fernuni-hagen.de/english/research/clusters/catalpa/">Center of Advanced Technology for Assisted Learning and Predictive Analytics (CATALPA)</a><a href="https://www.fernuni-hagen.de/english/research/clusters/catalpa/"> </a>at the FernUniversität in Hagen.</p>
   </div>
@@ -2557,7 +2639,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
 </span></p></aside>
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_151">
+<div class="ms-row ms-row-two ms-text" id="partial_152">
   <div class="ms-col-content">
     <p>The <strong>OrA</strong> project investigated organisational conditions that enable or hinder the implementation of educational technology in higher education. Drawing on three empirical studies conducted during the COVID-19 pandemic, we identified key organisational factors and change processes shaping digital transformation. A central outcome is a <a href="https://graphite.page/fieldguide-edtech/">field guide</a> that offers actionable, practice-oriented support for implementing educational technology. Building on these insights, the <strong>ORC</strong> project adopts a forward-looking perspective on how higher education institutions can build and retain resilience amid continuous change and unpredictable transformation. Based on international case study research, the ORC project highlights creativity as a key component of how universities anticipate disruption, cope under pressure and adapt over time. </p>
   </div>
@@ -2565,16 +2647,16 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_152">
+<div class="ms-row ms-row-two ms-text" id="partial_153">
   <div class="ms-col-content">
-    <h3 id='heading-152' >Authors</h3>
+    <h3 id='heading-153' >Authors</h3>
   </div>
   <div class="ms-col-marginal">
     
   </div>
 </div>
 
-<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_153">
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_154">
   <div class="ms-col-pre">
     <img class="img-fluid" src="assets/images/authors/Dr.-Ann-Kathrin-Watolla.jpg" alt="">
   </div>
@@ -2608,7 +2690,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
 </div>
 
 
-<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_154">
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_155">
   <div class="ms-col-pre">
     <img class="img-fluid" src="assets/images/authors/Freia-Kuper.jpg" alt="">
   </div>
@@ -2642,7 +2724,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
 </div>
 
 
-<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_155">
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_156">
   <div class="ms-col-pre">
     <img class="img-fluid" src="assets/images/authors/Bronwen-Deacon.jpg" alt="">
   </div>
@@ -2676,7 +2758,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
 </div>
 
 
-<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_156">
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_157">
   <div class="ms-col-pre">
     <img class="img-fluid" src="assets/images/authors/Lena-Henkes.jpg" alt="">
   </div>
@@ -2710,7 +2792,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
 </div>
 
 
-<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_157">
+<div class="ms-row ms-row-three ms-plugin ms-plugin-author" id="partial_158">
   <div class="ms-col-pre">
     <img class="img-fluid" src="assets/images/authors/Anna-Aust.jpg" alt="">
   </div>
@@ -2743,17 +2825,9 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
   </div>
 </div>
 
-<div class="ms-row ms-row-two ms-text" id="partial_158">
-  <div class="ms-col-content">
-    <h3 id='heading-158' >Project partners</h3>
-  </div>
-  <div class="ms-col-marginal">
-    
-  </div>
-</div>
 <div class="ms-row ms-row-two ms-text" id="partial_159">
   <div class="ms-col-content">
-    <p>The <a href="https://www.hiig.de/en/">Alexander von Humboldt Institute for Internet and Society</a> was founded in 2011 as the first institute in Germany to focus on the study of interactions between technological innovations and social processes. Within the research focus of <a href="https://www.hiig.de/en/research/democratic-change-and-knowledge/">Democratic Change and Knowledge</a>, we explore the role and interplay of knowledge and science in democratic self-determination, particularly in the context of digital challenges. Taking a multi-perspective approach, the research examines the risks of epistemic crises and strategies for fostering resilient democratic processes in the digital age.</p>
+    <h3 id='heading-159' >Project partners</h3>
   </div>
   <div class="ms-col-marginal">
     
@@ -2761,7 +2835,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_160">
   <div class="ms-col-content">
-    <p>The <a href="https://www.fernuni-hagen.de/forschung/schwerpunkte/catalpa/ueber-catalpa/index.shtml">Center of Advanced Technology for Assisted Learning and Predictive Analytics (CATALPA)</a>  is an independent research centre at the <a href="https://www.fernuni-hagen.de/index.shtml">FernUniversität in Hagen</a> founded in 2017. CATALPA investigates key scientific and practical questions around artificial intelligence in education, adaptive learning technologies, personalised learning and learning analytics. Across both projects (OrA and ORC), the CATALPA team is represented by project lead Dr. Len Ole Schäfer and researcher Tiana Tschache.</p>
+    <p>The <a href="https://www.hiig.de/en/">Alexander von Humboldt Institute for Internet and Society</a> was founded in 2011 as the first institute in Germany to focus on the study of interactions between technological innovations and social processes. Within the research focus of <a href="https://www.hiig.de/en/research/democratic-change-and-knowledge/">Democratic Change and Knowledge</a>, we explore the role and interplay of knowledge and science in democratic self-determination, particularly in the context of digital challenges. Taking a multi-perspective approach, the research examines the risks of epistemic crises and strategies for fostering resilient democratic processes in the digital age.</p>
   </div>
   <div class="ms-col-marginal">
     
@@ -2769,13 +2843,21 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_161">
   <div class="ms-col-content">
-    <h3 id='heading-161' >Project outputs</h3>
+    <p>The <a href="https://www.fernuni-hagen.de/forschung/schwerpunkte/catalpa/ueber-catalpa/index.shtml">Center of Advanced Technology for Assisted Learning and Predictive Analytics (CATALPA)</a>  is an independent research centre at the <a href="https://www.fernuni-hagen.de/index.shtml">FernUniversität in Hagen</a> founded in 2017. CATALPA investigates key scientific and practical questions around artificial intelligence in education, adaptive learning technologies, personalised learning and learning analytics. Across both projects (OrA and ORC), the CATALPA team is represented by project lead Dr. Len Ole Schäfer and researcher Tiana Tschache.</p>
   </div>
   <div class="ms-col-marginal">
     
   </div>
 </div>
 <div class="ms-row ms-row-two ms-text" id="partial_162">
+  <div class="ms-col-content">
+    <h3 id='heading-162' >Project outputs</h3>
+  </div>
+  <div class="ms-col-marginal">
+    
+  </div>
+</div>
+<div class="ms-row ms-row-two ms-text" id="partial_163">
   <div class="ms-col-content">
     <table>
 <tr>
@@ -2787,7 +2869,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     <aside class="ms-aside-link"><p>Find out more about our publications on our <a href="https://www.hiig.de/en/project/organisationale-resilienz-und-kreativitaet/">project website</a></p></aside>
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_163">
+<div class="ms-row ms-row-two ms-text" id="partial_164">
   <div class="ms-col-content">
     <p>This research article explores how organisational resilience unfolds in higher education institutions under disruption, with a focus on the role of creativity. Guided by Duchek’s (2020) three-phases of resilience – anticipation, coping, and adaptation – we analyse four cases in Portugal, Germany, Canada and Kenya in order to examine how resilience shapes the use of educational technology before, during, and after a crisis. Our findings show resilience and creativity as intertwined and highlight organisational identity and external context as key influences on institutional responses. We identify four distinct resilience pathways advancing theoretical and empirical research on resilience in higher education.</p>
   </div>
@@ -2795,7 +2877,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_164">
+<div class="ms-row ms-row-two ms-text" id="partial_165">
   <div class="ms-col-content">
     <table>
 <tr>
@@ -2807,7 +2889,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_165">
+<div class="ms-row ms-row-two ms-text" id="partial_166">
   <div class="ms-col-content">
     <p>This research article examines the reasons for university staff to resist digital change, focusing on the emotions and organisational conditions that shape resistance. Based on interviews with 68 staff members across 8 European universities, it shows that resistance is often rooted in feelings of being overwhelmed, fears about technology and job security and ideological disputes over what constitutes as qualitative higher education. The paper also identifies organisational responses to resistance, such as recognition and reward systems and involving staff in critical dialogue about the aims of educational technology.</p>
   </div>
@@ -2815,7 +2897,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_166">
+<div class="ms-row ms-row-two ms-text" id="partial_167">
   <div class="ms-col-content">
     <table>
 <tr>
@@ -2827,7 +2909,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_167">
+<div class="ms-row ms-row-two ms-text" id="partial_168">
   <div class="ms-col-content">
     <p>This research article investigates three organisational practices that combine organisational resilience and creativity: Accumulating resources and support (e.g. training and didactic help), engaging in institutional exchange to develop solutions for digital teaching and reassembling routines by combining established teaching practices with new technologies. The study argues that resilient universities need robust support structures, collaborative decision-making and flexible reinvention to navigate ongoing digital transformation.</p>
   </div>
@@ -2835,7 +2917,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_168">
+<div class="ms-row ms-row-two ms-text" id="partial_169">
   <div class="ms-col-content">
     <table>
 <tr>
@@ -2847,7 +2929,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_169">
+<div class="ms-row ms-row-two ms-text" id="partial_170">
   <div class="ms-col-content">
     <p>This literature review presents a systematic overview of organisational factors that enable the implementation of educational technologies in higher education. Reviewing over 1.000 articles from five leading educational technology journals over the past decade, the authors analyse 47 studies that explicitly address the organisational factors, actors and processes involved in implementing educational technologies. The authors develop an organisational framework that groups the findings into three main categories: Leadership and Strategy, Infrastructure and Resources and Recognition and Motivation. </p>
   </div>
@@ -2855,7 +2937,7 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_170">
+<div class="ms-row ms-row-two ms-text" id="partial_171">
   <div class="ms-col-content">
     
   </div>
