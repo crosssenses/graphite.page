@@ -2404,30 +2404,350 @@ Together, these tensions can weaken the resilience-creativity nexus in adaptatio
     
   </div>
 </div>
-<div class="ms-row ms-row-two ms-text" id="partial_128">
+<div id="carousel-128" class="slides-norm-height carousel slide" data-ride="carousel" data-interval="false">
+  
+  <div class="carousel-inner">
+  
+    <div class="carousel-item active">
+      
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_128_1">
   <div class="ms-col-content">
-    <table>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Find out how Judy (45), a visionary university president, would work with the Leadership Canvas.
-→ download</td>
-    <td>Learn how Francisco (62), a considerate professor of psychology, would use the Teaching Canvas.
-→ download</td>
-    <td>Explore how Thomas (51), a solution-oriented instructional designer, would work with the Didactical Support Canvas.
-→ download</td>
-    <td>Find out how Amari (29), a proactive IT administrator, would work with the Technical Support Canvas.
-→ download</td>
-  </tr>
-</table>
+    <a href="#128_1Modal" type="button" data-toggle="modal" data-target="#128_1Modal">
+
+<img class="img-fluid" src="assets/images/canvas/Persona-A-answers.png" alt="The figure shows a completed canvas with the answers of the persona.">
+
+</a>
+
+
   </div>
   <div class="ms-col-marginal">
     
+<aside class="ms-aside-caption">
+  <p><strong>Judy, university president</strong>
+      
+        <br>Judy (45) is a visionary university president. She is passionate about shaping the future of higher education and has a strong commitment to fostering innovation and creativity within her institution. With a background in educational leadership, Judy has a deep understanding of the challenges and opportunities that arise in the rapidly evolving landscape of higher education. She is known for her strategic thinking and ability to inspire others to embrace change. Judy's leadership style is collaborative and inclusive, and she values the input of her team and stakeholders in decision-making processes. <br><br><strong>Find out how Judy would work with the Leadership Canvas.</strong> Download the completed canvas via the button below to explore her answers.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#128_1Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/canvas/Persona-A-answers.png"><i class="mdi mdi-download"></i></a>
   </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/hiig-navigating-crisisassets/images/canvas/Persona-A-answers.png&summary=Judy+%2845%29+is+a+visionary+university+president.+She+is+passionate+about+shaping+the+future+of+higher+education+and+has+a+strong+commitment+to+fostering+innovation+and+creativity+within+her+institution.+With+a+background+in+educational+leadership%2C+Judy+has+a+deep+understanding+of+the+challenges+and+opportunities+that+arise+in+the+rapidly+evolving+landscape+of+higher+education.+She+is+known+for+her+strategic+thinking+and+ability+to+inspire+others+to+embrace+change.+Judy%27s+leadership+style+is+collaborative+and+inclusive%2C+and+she+values+the+input+of+her+team+and+stakeholders+in+decision-making+processes.+%3Cbr%3E%3Cbr%3E%3Cstrong%3EFind+out+how+Judy+would+work+with+the+Leadership+Canvas.%3C%2Fstrong%3E+Download+the+completed+canvas+via+the+button+below+to+explore+her+answers.&title=Judy%2C+university+president"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+      <a href="https://bsky.app/intent/compose?text=https%3A//graphite.page/hiig-navigating-crisisassets/images/canvas/Persona-A-answers.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-bluesky"></i>
+      </a>
+    
+      <a href="https://mastodon.social/share?text=https%3A//graphite.page/hiig-navigating-crisisassets/images/canvas/Persona-A-answers.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-mastodon"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="128_1Modal" tabindex="-1" role="dialog" aria-labelledby="128_1ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Judy, university president</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <img class="img-fluid" src="assets/images/canvas/Persona-A-answers.png" alt="The figure shows a completed canvas with the answers of the persona.">
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+    </div>
+  
+    <div class="carousel-item ">
+      
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_128_2">
+  <div class="ms-col-content">
+    <a href="#128_2Modal" type="button" data-toggle="modal" data-target="#128_2Modal">
+
+<img class="img-fluid" src="assets/images/canvas/Persona-B-answers.png" alt="The figure shows a completed canvas with the answers of the persona.">
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Francisco, professor of psychology</strong>
+      
+        <br>Francisco (62) is a considerate professor of psychology. He has dedicated his career to understanding human behavior and promoting mental well-being. With a wealth of experience in both research and teaching, Francisco is highly respected in his field. He is known for his empathetic approach to education and his ability to connect with students on a personal level. Francisco is passionate about creating a supportive learning environment and is always willing to go the extra mile to help his students succeed. <br><br><strong>Learn how Francisco would use the Teaching Canvas.</strong> Download the completed canvas via the button below to explore his answers.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#128_2Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/canvas/Persona-B-answers.png"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/hiig-navigating-crisisassets/images/canvas/Persona-B-answers.png&summary=Francisco+%2862%29+is+a+considerate+professor+of+psychology.+He+has+dedicated+his+career+to+understanding+human+behavior+and+promoting+mental+well-being.+With+a+wealth+of+experience+in+both+research+and+teaching%2C+Francisco+is+highly+respected+in+his+field.+He+is+known+for+his+empathetic+approach+to+education+and+his+ability+to+connect+with+students+on+a+personal+level.+Francisco+is+passionate+about+creating+a+supportive+learning+environment+and+is+always+willing+to+go+the+extra+mile+to+help+his+students+succeed.+%3Cbr%3E%3Cbr%3E%3Cstrong%3ELearn+how+Francisco+would+use+the+Teaching+Canvas.%3C%2Fstrong%3E+Download+the+completed+canvas+via+the+button+below+to+explore+his+answers.&title=Francisco%2C+professor+of+psychology"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+      <a href="https://bsky.app/intent/compose?text=https%3A//graphite.page/hiig-navigating-crisisassets/images/canvas/Persona-B-answers.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-bluesky"></i>
+      </a>
+    
+      <a href="https://mastodon.social/share?text=https%3A//graphite.page/hiig-navigating-crisisassets/images/canvas/Persona-B-answers.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-mastodon"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="128_2Modal" tabindex="-1" role="dialog" aria-labelledby="128_2ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Francisco, professor of psychology</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <img class="img-fluid" src="assets/images/canvas/Persona-B-answers.png" alt="The figure shows a completed canvas with the answers of the persona.">
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+    </div>
+  
+    <div class="carousel-item ">
+      
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_128_3">
+  <div class="ms-col-content">
+    <a href="#128_3Modal" type="button" data-toggle="modal" data-target="#128_3Modal">
+
+<img class="img-fluid" src="assets/images/canvas/Persona-D-answers.png" alt="The figure shows a completed canvas with the answers of the persona.">
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Thomas, instructional designer</strong>
+      
+        <br>Thomas (51) is a solution-oriented instructional designer. He has a strong background in educational technology and a passion for creating engaging and effective learning experiences. Thomas is known for his innovative approach to instructional design and his ability to adapt to the ever-changing landscape of education. He is highly skilled in using technology to enhance teaching and learning, and he is always looking for new ways to improve the educational experience for both students and educators. <br><br><strong>Explore how Thomas would work with the Didactical Support Canvas.</strong> Download the completed canvas via the button below to explore his answers.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#128_3Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/canvas/Persona-D-answers.png"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/hiig-navigating-crisisassets/images/canvas/Persona-D-answers.png&summary=Thomas+%2851%29+is+a+solution-oriented+instructional+designer.+He+has+a+strong+background+in+educational+technology+and+a+passion+for+creating+engaging+and+effective+learning+experiences.+Thomas+is+known+for+his+innovative+approach+to+instructional+design+and+his+ability+to+adapt+to+the+ever-changing+landscape+of+education.+He+is+highly+skilled+in+using+technology+to+enhance+teaching+and+learning%2C+and+he+is+always+looking+for+new+ways+to+improve+the+educational+experience+for+both+students+and+educators.+%3Cbr%3E%3Cbr%3E%3Cstrong%3EExplore+how+Thomas+would+work+with+the+Didactical+Support+Canvas.%3C%2Fstrong%3E+Download+the+completed+canvas+via+the+button+below+to+explore+his+answers.&title=Thomas%2C+instructional+designer"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+      <a href="https://bsky.app/intent/compose?text=https%3A//graphite.page/hiig-navigating-crisisassets/images/canvas/Persona-D-answers.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-bluesky"></i>
+      </a>
+    
+      <a href="https://mastodon.social/share?text=https%3A//graphite.page/hiig-navigating-crisisassets/images/canvas/Persona-D-answers.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-mastodon"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="128_3Modal" tabindex="-1" role="dialog" aria-labelledby="128_3ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Thomas, instructional designer</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <img class="img-fluid" src="assets/images/canvas/Persona-D-answers.png" alt="The figure shows a completed canvas with the answers of the persona.">
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+    </div>
+  
+    <div class="carousel-item ">
+      
+<figure class="ms-row ms-row-two ms-plugin ms-plugin-figure" id="partial_128_4">
+  <div class="ms-col-content">
+    <a href="#128_4Modal" type="button" data-toggle="modal" data-target="#128_4Modal">
+
+<img class="img-fluid" src="assets/images/canvas/Persona-C-answers.png" alt="The figure shows a completed canvas with the answers of the persona.">
+
+</a>
+
+
+  </div>
+  <div class="ms-col-marginal">
+    
+<aside class="ms-aside-caption">
+  <p><strong>Amari, IT administrator</strong>
+      
+        <br>Amari (29) is a proactive IT administrator. He has a strong background in information technology and a passion for ensuring the smooth operation of IT systems. Amari is known for his proactive approach to IT administration and his ability to anticipate and address potential issues before they arise. He is highly skilled in troubleshooting and problem-solving, and he is always looking for ways to improve the efficiency and security of IT systems. <br><br><strong>Find out how Amari would work with the Technical Support Canvas.</strong> Download the completed canvas via the button below to explore his answers.
+      
+  </p>
+</aside>
+
+
+
+
+
+<aside class="ms-aside-licence">
+  <p>HIIG | CC BY 4.0</p>
+</aside>
+
+
+<div class="btn-toolbar" role="toolbar" aria-label="Download and share buttons">
+  <div class="btn-group mr-auto" role="group" aria-label="Download">
+	<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#128_4Modal">
+      <i class="mdi mdi-fullscreen"></i>
+	</button>
+    <a class="btn btn-secondary" href="assets/images/canvas/Persona-C-answers.png"><i class="mdi mdi-download"></i></a>
+  </div>
+  <div class="btn-group" role="group" aria-label="Share">
+    <span class="input-group-addon" id="btnGroupAddon">Share</span>
+    
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//graphite.page/hiig-navigating-crisisassets/images/canvas/Persona-C-answers.png&summary=Amari+%2829%29+is+a+proactive+IT+administrator.+He+has+a+strong+background+in+information+technology+and+a+passion+for+ensuring+the+smooth+operation+of+IT+systems.+Amari+is+known+for+his+proactive+approach+to+IT+administration+and+his+ability+to+anticipate+and+address+potential+issues+before+they+arise.+He+is+highly+skilled+in+troubleshooting+and+problem-solving%2C+and+he+is+always+looking+for+ways+to+improve+the+efficiency+and+security+of+IT+systems.+%3Cbr%3E%3Cbr%3E%3Cstrong%3EFind+out+how+Amari+would+work+with+the+Technical+Support+Canvas.%3C%2Fstrong%3E+Download+the+completed+canvas+via+the+button+below+to+explore+his+answers.&title=Amari%2C+IT+administrator"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-linkedin"></i>
+      </a>
+    
+      <a href="https://bsky.app/intent/compose?text=https%3A//graphite.page/hiig-navigating-crisisassets/images/canvas/Persona-C-answers.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-bluesky"></i>
+      </a>
+    
+      <a href="https://mastodon.social/share?text=https%3A//graphite.page/hiig-navigating-crisisassets/images/canvas/Persona-C-answers.png"
+         target="_blank" class="btn btn-secondary" rel="noopener noreferrer">
+        <i class="mdi mdi-mastodon"></i>
+      </a>
+    
+  </div>
+</div>
+
+<div class="modal fade" id="128_4Modal" tabindex="-1" role="dialog" aria-labelledby="128_4ModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Amari, IT administrator</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <img class="img-fluid" src="assets/images/canvas/Persona-C-answers.png" alt="The figure shows a completed canvas with the answers of the persona.">
+        
+      </div>
+    </div>
+  </div>
+</div>
+  </div>
+</figure>
+
+    </div>
+  
+  </div>
+  <ol class="carousel-indicators">
+    
+      <li data-target="#carousel-128"
+          data-slide-to="0" class="active"></li>
+    
+      <li data-target="#carousel-128"
+          data-slide-to="1"></li>
+    
+      <li data-target="#carousel-128"
+          data-slide-to="2"></li>
+    
+      <li data-target="#carousel-128"
+          data-slide-to="3"></li>
+    
+    </ol>
 </div>
 </div>
 

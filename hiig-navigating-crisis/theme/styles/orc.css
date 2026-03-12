@@ -512,6 +512,7 @@ html [type=button],
 [type=reset],
 [type=submit] {
   -webkit-appearance: button;
+  appearance: button;
 }
 
 button::-moz-focus-inner,
@@ -533,6 +534,7 @@ input[type=time],
 input[type=datetime-local],
 input[type=month] {
   -webkit-appearance: listbox;
+  appearance: listbox;
 }
 
 textarea {
@@ -571,6 +573,7 @@ progress {
 [type=search] {
   outline-offset: -2px;
   -webkit-appearance: none;
+  appearance: none;
 }
 
 [type=search]::-webkit-search-cancel-button,
@@ -4601,6 +4604,7 @@ button.close {
   background: transparent;
   border: 0;
   -webkit-appearance: none;
+  appearance: none;
 }
 
 .modal-open {
@@ -7805,9 +7809,9 @@ a.text-dark:focus, a.text-dark:hover {
   -ms-hyphenate-limit-zone: 8%;
   hyphens: auto;
   hyphenate-limit-chars: 6 3 3;
-  hyphenate-limit-lines: 2;
-  hyphenate-limit-last: always;
-  hyphenate-limit-zone: 8%;
+  -ms-hyphenate-limit-lines: 2;
+  -ms-hyphenate-limit-last: always;
+  -ms-hyphenate-limit-zone: 8%;
 }
 
 .grey {
@@ -8721,6 +8725,7 @@ figure .ms-col-content *:focus {
 }
 figure .ms-col-content a {
   -webkit-appearance: unset;
+  appearance: unset;
 }
 
 .ms-plugin-full_figure {
@@ -17133,9 +17138,9 @@ table .tcol-head tr td:first-child {
 .mdi-light.mdi-inactive:before {
   color: rgba(255, 255, 255, 0.3);
 }
-
+/* 
 .mdi-rotate-45 {
-  /*
+  
   // Not included in production
   &.mdi-flip-h:before {
       -webkit-transform: scaleX(-1) rotate(45deg);
@@ -17150,16 +17155,16 @@ table .tcol-head tr td:first-child {
       filter: FlipV;
       -ms-filter: "FlipV";
   }
-  */
-}
+  
+} */
 .mdi-rotate-45:before {
   -webkit-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
 }
 
-.mdi-rotate-90 {
-  /*
+/* .mdi-rotate-90 {
+  
   // Not included in production
   &.mdi-flip-h:before {
       -webkit-transform: scaleX(-1) rotate(90deg);
@@ -17174,16 +17179,16 @@ table .tcol-head tr td:first-child {
       filter: FlipV;
       -ms-filter: "FlipV";
   }
-  */
-}
+  
+} */
 .mdi-rotate-90:before {
   -webkit-transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   transform: rotate(90deg);
 }
-
-.mdi-rotate-135 {
   /*
+.mdi-rotate-135 {
+
   // Not included in production
   &.mdi-flip-h:before {
       -webkit-transform: scaleX(-1) rotate(135deg);
@@ -17198,16 +17203,16 @@ table .tcol-head tr td:first-child {
       filter: FlipV;
       -ms-filter: "FlipV";
   }
-  */
-}
+
+}  */
 .mdi-rotate-135:before {
   -webkit-transform: rotate(135deg);
   -ms-transform: rotate(135deg);
   transform: rotate(135deg);
 }
-
+ /*
 .mdi-rotate-180 {
-  /*
+ 
   // Not included in production
   &.mdi-flip-h:before {
       -webkit-transform: scaleX(-1) rotate(180deg);
@@ -17222,16 +17227,16 @@ table .tcol-head tr td:first-child {
       filter: FlipV;
       -ms-filter: "FlipV";
   }
-  */
-}
+
+}  */
 .mdi-rotate-180:before {
   -webkit-transform: rotate(180deg);
   -ms-transform: rotate(180deg);
   transform: rotate(180deg);
 }
-
+/*
 .mdi-rotate-225 {
-  /*
+  
   // Not included in production
   &.mdi-flip-h:before {
       -webkit-transform: scaleX(-1) rotate(225deg);
@@ -17246,16 +17251,16 @@ table .tcol-head tr td:first-child {
       filter: FlipV;
       -ms-filter: "FlipV";
   }
-  */
-}
+  
+}*/
 .mdi-rotate-225:before {
   -webkit-transform: rotate(225deg);
   -ms-transform: rotate(225deg);
   transform: rotate(225deg);
 }
-
-.mdi-rotate-270 {
   /*
+.mdi-rotate-270 {
+
   // Not included in production
   &.mdi-flip-h:before {
       -webkit-transform: scaleX(-1) rotate(270deg);
@@ -17270,16 +17275,16 @@ table .tcol-head tr td:first-child {
       filter: FlipV;
       -ms-filter: "FlipV";
   }
-  */
-}
+
+}  */
 .mdi-rotate-270:before {
   -webkit-transform: rotate(270deg);
   -ms-transform: rotate(270deg);
   transform: rotate(270deg);
 }
-
-.mdi-rotate-315 {
   /*
+.mdi-rotate-315 {
+
   // Not included in production
   &.mdi-flip-h:before {
       -webkit-transform: scaleX(-1) rotate(315deg);
@@ -17294,13 +17299,13 @@ table .tcol-head tr td:first-child {
       filter: FlipV;
       -ms-filter: "FlipV";
   }
-  */
+  
 }
 .mdi-rotate-315:before {
   -webkit-transform: rotate(315deg);
   -ms-transform: rotate(315deg);
   transform: rotate(315deg);
-}
+}*/
 
 .mdi-flip-h:before {
   -webkit-transform: scaleX(-1);
