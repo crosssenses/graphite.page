@@ -79,10 +79,10 @@ function addReduced() {
         if (selector[i].nodeName == "H" + j) {
           $("ul.ms-toc-abstract-entries").append(
             '<li class="nav-item side-nav ms-toc-abstract-entry ms-toc-abstract-entry ms-toc-abstract-entry-' +
-              j +
-              '"><a class="nav-link side-nav ms-toc-entry-link" href="#' +
-              $(selector[i]).attr("id") +
-              '"></a></li>'
+            j +
+            '"><a class="nav-link side-nav ms-toc-entry-link" href="#' +
+            $(selector[i]).attr("id") +
+            '"></a></li>'
           );
         }
       }
@@ -100,12 +100,12 @@ function addDetailed() {
         if (selector[i].nodeName == "H" + j) {
           $("ul.ms-toc-entries").append(
             '<li class="nav-item side-nav ms-toc-entry ms-toc-entry-level' +
-              j +
-              '"><a class="nav-link side-nav ms-toc-entry-link" href="#' +
-              $(selector[i]).attr("id") +
-              '">' +
-              selector[i].textContent +
-              "</a></li>"
+            j +
+            '"><a class="nav-link side-nav ms-toc-entry-link" href="#' +
+            $(selector[i]).attr("id") +
+            '">' +
+            selector[i].textContent +
+            "</a></li>"
           );
         }
       }
@@ -149,13 +149,38 @@ function collapseOversizedMarginals() {
 
       /* Check if there is no asides or plugins after overflowing, single aside */
       // TODO, check hight of next element, let all children flow?
-      if ($(this).next().hasClass("ms-text")) {
-        if (
-          $(this).next().children(".ms-col-marginal").children().length == 0
-        ) {
-          if (numAsides < 2) {
-            canOverflow = true;
+      // if ($(this).next().hasClass("ms-text")) {
+      //   if (
+      //     $(this).next().children(".ms-col-marginal").children().length == 0
+      //   ) {
+      //     if (numAsides < 2) {
+      //       canOverflow = true;
+      //     }
+      //   }
+      // }
+
+      /* Check if there is no asides or plugins after overflowing, single aside */
+      if (numAsides < 2 && $(this).next().hasClass("ms-text") && $(this).next().children(".ms-col-marginal").children().length == 0) {
+        var overflowAmount = heightAsides - heightContent;
+        var nextEl = $(this).next();
+        var clearAhead = true;
+        var accumulatedHeight = 0;
+
+        while (nextEl.length > 0 && accumulatedHeight < overflowAmount) {
+          // Block if any upcoming row has marginal content or is a plugin
+          if (
+            nextEl.children(".ms-col-marginal").children().length > 0 ||
+            nextEl.hasClass("ms-plugin")
+          ) {
+            clearAhead = false;
+            break;
           }
+          accumulatedHeight += nextEl.outerHeight(true);
+          nextEl = nextEl.next();
+        }
+
+        if (clearAhead) {
+          canOverflow = true;
         }
       }
 
@@ -249,16 +274,16 @@ function collapseOversizedInfobox() {
 function changeToTab(prevTab, targetTab, noscroll = false) {
   var offset = 80;
 
-  // console.log("Changing from ", prevTab, " to ", targetTab)
+  console.log("Changing from ", prevTab, " to ", targetTab)
 
   // Show tab manually to avoid collsion with carousel
   // (bootstraps throws error, used try catch to continue script)
   try {
-    prevTab.removeClass("active show");
-    $(prevTab.attr("href")).removeClass("active");
+    prevTab.removeClass("active ");
+    $(prevTab.attr("href")).removeClass("active show");
 
-    targetTab.addClass("active show");
-    $(targetTab.attr("href")).addClass("active");
+    targetTab.addClass("active ");
+    $(targetTab.attr("href")).addClass("active show");
   } catch (err) {
     console.log("Changing tab errors: ", err);
   }
@@ -300,7 +325,11 @@ function handleAnchorLinks(hashValue) {
   } else if ($(hashValue).hasClass("tab-pane")) {
     // console.log("Clicked a tab", activeTab);
 
-    changeToTab(activeTab, $(hashValue));
+    // changeToTab(activeTab, $(hashValue));
+    var targetTab = $("#masterTab a.tab-item[data-toggle='tab'][href='" + hashValue + "']").first();
+    if (targetTab.length > 0) {
+      changeToTab(activeTab, targetTab);
+    }
   } else {
     // Check if hash refers to a heading element
     var targetElement = $(hashValue);
@@ -308,15 +337,16 @@ function handleAnchorLinks(hashValue) {
       // console.log("Clicked a heading");
 
       var tabID = "#" + targetElement.parents(".tab-pane").attr("id");
-      
+
       if (tabID && tabID !== "#") {
         // Switch to the correct tab first
-        var targetTab = $("a[href='" + tabID + "']");
+        // var targetTab = $("a[href='" + tabID + "']");
+        var targetTab = $("#masterTab a.tab-item[data-toggle='tab'][href='" + tabID + "']").first();
         if (targetTab.length > 0) {
           changeToTab(activeTab, targetTab);
-          
+
           // Scroll to the heading with 100px offset after tab switch
-          setTimeout(function() {
+          setTimeout(function () {
             var elementTop = targetElement.offset().top;
             $('html, body').animate({
               scrollTop: elementTop - 100
@@ -328,9 +358,9 @@ function handleAnchorLinks(hashValue) {
         if (buildTocOnAllTabs) {
           makeToC();
         }
-        
+
         // Scroll to the heading with 100px offset
-        setTimeout(function() {
+        setTimeout(function () {
           var elementTop = targetElement.offset().top;
           $('html, body').animate({
             scrollTop: elementTop - 100
@@ -469,12 +499,12 @@ function enableListener() {
 function fixModalCarouselConflicts() {
   // Store original modal positions
   var modalOriginalParents = {};
-  
+
   // Handle modal show event
   $('body').on('show.bs.modal', '.modal', function (e) {
     var modal = $(this);
     var modalId = modal.attr('id');
-    
+
     // Check if modal is inside a carousel
     var carousel = modal.closest('.carousel');
     if (carousel.length > 0) {
@@ -483,34 +513,34 @@ function fixModalCarouselConflicts() {
         parent: modal.parent(),
         nextSibling: modal.next()[0] // Store DOM element for insertBefore
       };
-      
+
       // Move modal to body to avoid carousel containment
       modal.appendTo('body');
-      
+
       // Ensure modal has proper z-index
       modal.css('z-index', '1060');
     }
   });
-  
+
   // Handle modal hidden event
   $('body').on('hidden.bs.modal', '.modal', function (e) {
     var modal = $(this);
     var modalId = modal.attr('id');
-    
+
     // Check if we moved this modal
     if (modalOriginalParents[modalId]) {
       var originalInfo = modalOriginalParents[modalId];
-      
+
       // Move modal back to original position
       if (originalInfo.nextSibling) {
         originalInfo.parent[0].insertBefore(modal[0], originalInfo.nextSibling);
       } else {
         originalInfo.parent.append(modal);
       }
-      
+
       // Reset z-index
       modal.css('z-index', '');
-      
+
       // Clean up stored info
       delete modalOriginalParents[modalId];
     }
@@ -554,6 +584,6 @@ $(function () {
 });
 
 $(window).on(
-    'resize orientationchange',
-    normalizeSlideHeights
+  'resize orientationchange',
+  normalizeSlideHeights
 );

@@ -406,7 +406,7 @@ a:not([href]):not([tabindex]):focus {
   outline: 0;
 }
 
-p > a[href]:not(.ms-button), li > a[href]:not(.tab-item, .nav-link) {
+p > a[href]:not(.ms-button), li > a[href]:not(.tab-item, .nav-link), td a[href] {
   text-decoration: underline;
 }
 
@@ -1933,7 +1933,8 @@ select.form-control:focus::-ms-value {
 .form-control-sm, .input-group-sm > .form-control,
 .input-group-sm > .input-group-addon,
 .input-group-sm > .input-group-btn > .btn,
-.ms-article-top .input-group-sm > .input-group-btn > .ms-button {
+.ms-article-top .input-group-sm > .input-group-btn > .ms-button,
+.ms-button {
   padding: 0.25rem 0.5rem;
   font-size: 0.875rem;
   line-height: 1.5;
@@ -2206,7 +2207,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
   }
 }
 
-.btn, .ms-article-top .ms-button {
+.btn, .ms-article-top .ms-button, .ms-button {
   display: inline-block;
   font-weight: 300;
   text-align: center;
@@ -2220,7 +2221,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
   border-radius: 0.25rem;
   transition: all 0.15s ease-in-out;
 }
-.btn:focus, .ms-article-top .ms-button:focus, .btn:hover, .ms-article-top .ms-button:hover {
+.btn:focus, .ms-article-top .ms-button:focus, .btn:hover, .ms-article-top .ms-button:hover, .ms-button:hover {
   text-decoration: none;
 }
 .btn:focus, .ms-article-top .ms-button:focus, .btn.focus, .ms-article-top .focus.ms-button {
@@ -2265,12 +2266,12 @@ fieldset[disabled] .ms-article-top a.ms-button,
   box-shadow: 0 0 0 0.2rem rgba(0, 123, 163, 0.5);
 }
 
-.btn-secondary, .ms-article-top .ms-button {
+.btn-secondary, .ms-article-top .ms-button, .ms-button {
   color: #fff;
-  background-color: #2061C7;
-  border-color: #2061C7;
+  background-color: #007ba3;
+  border-color: #007ba3;
 }
-.btn-secondary:hover, .ms-article-top .ms-button:hover {
+.btn-secondary:hover, .ms-article-top .ms-button:hover, .ms-button:hover {
   color: #fff;
   background-color: #26586a;
   border-color: #235060;
@@ -2279,8 +2280,8 @@ fieldset[disabled] .ms-article-top a.ms-button,
   box-shadow: 0 0 0 0.2rem rgba(48, 111, 134, 0.5);
 }
 .btn-secondary.disabled, .ms-article-top .disabled.ms-button, .btn-secondary:disabled, .ms-article-top .ms-button:disabled {
-  background-color: #2061C7;
-  border-color: #2061C7;
+  background-color: #007ba3;
+  border-color: #007ba3;
 }
 .btn-secondary:not([disabled]):not(.disabled):active, .ms-article-top .ms-button:not([disabled]):not(.disabled):active, .btn-secondary:not([disabled]):not(.disabled).active, .ms-article-top .ms-button:not([disabled]):not(.disabled).active, .show > .btn-secondary.dropdown-toggle, .ms-article-top .show > .dropdown-toggle.ms-button {
   color: #fff;
@@ -2459,27 +2460,27 @@ fieldset[disabled] .ms-article-top a.ms-button,
 }
 
 .btn-outline-secondary {
-  color: #2061C7;
+  color: #007ba3;
   background-color: transparent;
   background-image: none;
-  border-color: #2061C7;
+  border-color: #007ba3;
 }
 .btn-outline-secondary:hover {
   color: #fff;
-  background-color: #2061C7;
-  border-color: #2061C7;
+  background-color: #007ba3;
+  border-color: #007ba3;
 }
 .btn-outline-secondary:focus, .btn-outline-secondary.focus {
   box-shadow: 0 0 0 0.2rem rgba(48, 111, 134, 0.5);
 }
 .btn-outline-secondary.disabled, .btn-outline-secondary:disabled {
-  color: #2061C7;
+  color: #007ba3;
   background-color: transparent;
 }
 .btn-outline-secondary:not([disabled]):not(.disabled):active, .btn-outline-secondary:not([disabled]):not(.disabled).active, .show > .btn-outline-secondary.dropdown-toggle {
   color: #fff;
-  background-color: #2061C7;
-  border-color: #2061C7;
+  background-color: #007ba3;
+  border-color: #007ba3;
   box-shadow: 0 0 0 0.2rem rgba(48, 111, 134, 0.5);
 }
 
@@ -4090,7 +4091,7 @@ tbody.collapse.show {
 
 .badge-secondary {
   color: #fff;
-  background-color: #2061C7;
+  background-color: #007ba3;
 }
 .badge-secondary[href]:focus, .badge-secondary[href]:hover {
   color: #fff;
@@ -5182,7 +5183,7 @@ a.bg-primary:focus, a.bg-primary:hover {
 }
 
 .bg-secondary {
-  background-color: #2061C7 !important;
+  background-color: #007ba3 !important;
 }
 
 a.bg-secondary:focus, a.bg-secondary:hover {
@@ -5274,7 +5275,7 @@ a.bg-dark:focus, a.bg-dark:hover {
 }
 
 .border-secondary {
-  border-color: #2061C7 !important;
+  border-color: #007ba3 !important;
 }
 
 .border-success {
@@ -7668,7 +7669,7 @@ a.text-primary:focus, a.text-primary:hover {
 }
 
 .text-secondary {
-  color: #2061C7 !important;
+  color: #007ba3 !important;
 }
 
 a.text-secondary:focus, a.text-secondary:hover {
@@ -7755,7 +7756,7 @@ a.text-dark:focus, a.text-dark:hover {
   cursor: pointer;
 }
 
-.uppercase, footer.ms-footer, .ms-chapter .authors, .ms-article-top .ms-button, .ms-tabs .dropdown .btn.dropdown-toggle, .ms-tabs .dropdown .ms-article-top .dropdown-toggle.ms-button, .ms-article-top .ms-tabs .dropdown .dropdown-toggle.ms-button,
+.uppercase, footer.ms-footer, .ms-chapter .authors, .ms-article-top .ms-button, .ms-button, .ms-tabs .dropdown .btn.dropdown-toggle, .ms-tabs .dropdown .ms-article-top .dropdown-toggle.ms-button, .ms-article-top .ms-tabs .dropdown .dropdown-toggle.ms-button,
 .ms-tabs .ms-trigger-toc, .ms-navigation-top .ms-brand, .ms-tab, .ms-plugin-quote .ms-col-content .nav-tabs li a, .ms-tabs .nav-tabs li a {
   text-transform: uppercase;
   letter-spacing: 0.04em;
@@ -8231,10 +8232,13 @@ object {
   text-transform: uppercase;
   color: #adb5bd;
 }
-.ms-article-top .ms-button-read-on {
-  background: #2061C7;
+.ms-article-top .ms-button-read-on, .ms-button-read-on {
+  background: #007ba3;
   border: 1px solid #ccc;
   color: white;
+  padding: 0.5rem 0.75rem !important;
+  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+
 }
 .ms-article-top .ms-col-marginal h3 {
   margin-top: 0.5rem !important;
@@ -8277,7 +8281,7 @@ h5 {
 .ms-chapter {
   background-size: cover;
   background-attachment: fixed;
-  background-color: #2061C7;
+  background-color: #007ba3;
 }
 /* Fix iOS issue with cover and fixed background */
 @supports (-webkit-overflow-scrolling: touch) {
@@ -8411,9 +8415,9 @@ article .emphasis-primary {
 
 /* Inline notes */
 .ms-inline {
-  /* color: #007ba3; */
-  color: inherit;
-  text-decoration:underline;
+  color: #007ba3;
+  /* color: inherit; */
+  text-decoration: none;
   text-decoration-style: dotted;
 }
 .ms-inline.ms-inline-thanks {
@@ -8483,7 +8487,7 @@ article .emphasis-primary {
 .ms-col-marginal aside:first-child h3 {
   padding-top: 0rem;
 }
-.ms-col-marginal .btn, .ms-col-marginal .ms-article-top .ms-button, .ms-article-top .ms-col-marginal .ms-button,
+.ms-col-marginal .btn, .ms-col-marginal .ms-article-top .ms-button, .ms-article-top .ms-col-marginal .ms-button, .ms-button,
 .ms-col-marginal .input-group-addon {
   padding: 0.4rem 0.4rem;
 }
@@ -8861,7 +8865,7 @@ table .tcol-head tr td:first-child {
 }
 
 /* Default: all icons from v2 */
-.mdi:before, .ms-navigation-top .ms-article-title:before, .ms-tabs .ms-trigger-toc:before, .ms-article-top .ms-button i:before, article .ms-text ul li:before, .ms-inline i:before, .ms-col-marginal aside p:before,
+.mdi:before, .ms-navigation-top .ms-article-title:before, .ms-tabs .ms-trigger-toc:before, .ms-article-top .ms-button i:before, .ms-button i:before, article .ms-text ul li:before, .ms-inline i:before, .ms-col-marginal aside p:before,
 .ms-col-marginal [class*=ms-aside] p:before, .carousel .carousel-item.play:before,
 .carousel .carousel-item.pause:before, .embed-responsive i:before,
 .mdi-set {
@@ -9321,7 +9325,7 @@ table .tcol-head tr td:first-child {
   content: "\F04A";
 }
 
-.mdi-arrow-down-drop-circle-outline:before, .ms-article-top .ms-button-read-on i:before {
+.mdi-arrow-down-drop-circle-outline:before, .ms-button-read-on i:before {
   content: "\F04B";
 }
 
