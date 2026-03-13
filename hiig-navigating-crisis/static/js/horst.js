@@ -490,6 +490,24 @@ function enableListener() {
       $("#navContent").slideToggle();
       $("#main-logo").fadeToggle();
     });
+
+  // Close popovers when clicking outside
+  $(document)
+    .off("click.msPopoverDismiss")
+    .on("click.msPopoverDismiss", function (event) {
+      var $target = $(event.target);
+
+      $('[data-toggle="popover"]').each(function () {
+        var $trigger = $(this);
+        var clickedTrigger = $trigger.is($target) || $trigger.has($target).length > 0;
+        var clickedPopover = $(".popover").has($target).length > 0;
+
+        if (!clickedTrigger && !clickedPopover) {
+          $trigger.popover("hide");
+        }
+      });
+    });
+
 }
 
 //
