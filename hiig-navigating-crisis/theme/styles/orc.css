@@ -203,6 +203,12 @@
   font-weight: 600;
   src: local("Linux Libertine"), url("../fonts/type/LinLibertine_RBI.woff") format("woff");
 }
+@font-face {
+  font-family: "Permanent Marker";
+  font-style: regular;
+  font-weight: 600;
+  src: local("Permanent Marker"), url("../fonts/type/PermanentMarker-Regular.ttf") format("truetype");
+}
 @media print {
   *,
 *::before,
@@ -4170,7 +4176,7 @@ tbody.collapse.show {
 }
 @media (min-width: 576px) {
   .jumbotron, .ms-header, .ms-chapter {
-    padding: 4rem 2rem;
+    padding: 8rem 2rem;
   }
 }
 
@@ -5058,7 +5064,7 @@ button.close {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 15%;
+  width: 5%;
   color: #fff;
   text-align: center;
   opacity: 0.5;
@@ -5073,28 +5079,28 @@ button.close {
 }
 
 .carousel-control-prev {
-  left: 0;
+  left: -5%;
 }
 
 .carousel-control-next {
-  right: 0;
+  right: -5%;
 }
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
   display: inline-block;
-  width: 20px;
-  height: 20px;
+  width: 15px;
+  height: 15px;
   background: transparent no-repeat center center;
   background-size: 100% 100%;
 }
 
 .carousel-control-prev-icon {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M4 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23332' viewBox='0 0 8 8'%3E%3Cpath d='M4 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
 }
 
 .carousel-control-next-icon {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M1.5 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23332' viewBox='0 0 8 8'%3E%3Cpath d='M1.5 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
 }
 
 .carousel-indicators {
@@ -5450,7 +5456,7 @@ a.bg-dark:focus, a.bg-dark:hover {
     display: inline !important;
   }
   .d-lg-inline-block, .ms-article-top .ms-button-toc {
-    display: inline-block !important;
+    /* display: inline-block !important; */
   }
   .d-lg-block {
     display: block !important;
@@ -8241,8 +8247,11 @@ object {
   border: 1px solid #ccc;
   color: white;
   padding: 0.5rem 0.75rem !important;
-  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
-
+  /* font-family: "Source Sans Pro", Helvetica, Arial, sans-serif; */
+  font-family: "Permanent Marker";
+  text-transform: none;
+  font-size: 0.9em;
+  letter-spacing: 0.05em;
 }
 .ms-article-top .ms-col-marginal h3 {
   margin-top: 0.5rem !important;
@@ -8403,7 +8412,7 @@ article .ms-text ol li::before {
   counter-increment: ol;
   content: counter(ol) ".";
   font-weight: bold !important;
-  color: #007ba3;
+  /* color: #007ba3; */
   position: absolute;
   left: 2rem;
 }
@@ -10646,7 +10655,7 @@ table .tcol-head tr td:first-child {
   content: "\F141";
 }
 
-.mdi-chevron-right:before, article .ms-text ul li:before {
+.mdi-chevron-right:before {
   content: "\F142";
 }
 
@@ -13806,7 +13815,7 @@ table .tcol-head tr td:first-child {
   content: "\F373";
 }
 
-.mdi-minus:before {
+.mdi-minus:before, article .ms-text ul li:before {
   content: "\F374";
 }
 
@@ -17345,6 +17354,12 @@ table .tcol-head tr td:first-child {
     -webkit-transform: rotate(359deg);
     transform: rotate(359deg);
   }
+}
+
+.ms-chapter h2, .ms-header .card .card-body h1.card-title{
+  font-family: "Permanent Marker";
+  text-transform: none;
+  letter-spacing: 0.05em;
 }
 
 /*# sourceMappingURL=sample-journal.css.map */
