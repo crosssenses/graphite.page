@@ -8016,14 +8016,14 @@ object {
   flex-direction: inherit;
 }
 .ms-header .card .card-body .author, .ms-chapter .card .card-body .author {
-  font-size: 1.4em;
+  font-size: 1.1em;
 }
 .ms-header .card .card-body .card-title, .ms-chapter .card .card-body .card-title {
   font-weight: 600;
 }
 .ms-header .card .card-body .card-subtitle, .ms-chapter .card .card-body .card-subtitle {
-  font-size: 1.2em;
-  font-weight: 500;
+  font-size: 1.3em;
+  font-weight: 600;
   color: #495057;
 }
 @media (max-width: 767px) {
