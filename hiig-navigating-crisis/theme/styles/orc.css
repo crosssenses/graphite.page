@@ -8081,30 +8081,32 @@ object {
 .ms-toc {
   font-size: 15px;
   position: fixed;
-  z-index: 999;
-  top: 52vh !important;
+  z-index: 1001; /*above the header and the tabs */
+  top: 50vh !important;
   left: 0;
   width: 32px;
   margin-left: 0;
-  height: 90vh;
-  max-height: 90vh;
+  height: 100vh; /* full height */
+  max-height: 100vh;  /* full height */
   overflow: hidden;
   transform: translateY(-50%);
 }
 .ms-toc .ms-toc-entries {
   list-style-position: inside;
   list-style-type: none;
-  max-height: 80vh;
+  /* max-height: 80vh; */
+  height: 100%;
   overflow: auto;
   -webkit-overflow-scrolling: touch;
   width: 300px;
   box-sizing: border-box;
   opacity: 0;
-  padding: 20px;
-  margin-left: -15px;
-  border-radius: 5px;
+  padding: 58px 20px 20px 39px;
+  margin-left: -27px;
+  border-radius: 0px;
   background-color: rgb(255, 255, 255);
   transition: all 200ms ease;
+  box-shadow: -5px 0px 20px #aaae;
 }
 .ms-toc .ms-toc-entries .ms-toc-entry {
   cursor: pointer;
@@ -8112,7 +8114,6 @@ object {
   padding: 5px 0 0;
   line-height: 1em;
   white-space: nowrap;
-
   padding-right: 10px;
 }
 
@@ -8153,7 +8154,7 @@ object {
 .ms-toc .ms-toc-abstract-entries {
   position: relative;
   width: 32px;
-  margin-top: 7px;
+  margin-top: 47px;
   margin-left: 0;
   opacity: 1;
   z-index: 700;
@@ -8173,10 +8174,9 @@ object {
   border-bottom: 3px solid #007ba3;
   background-color: transparent;
   border-radius: 0;
-  display: inline-block;
   width: inherit;
-  padding: 0;
-  margin-bottom: -9px;
+  margin-bottom: -0.7rem;
+  margin-top: calc(0.7rem - 3px);
 }
 .ms-toc .ms-toc-abstract-entries .ms-toc-abstract-entry .nav-link {
   padding: 0.65rem 1rem;
@@ -8197,6 +8197,9 @@ object {
   width: 8px;
   /* display: none; */
 }
+.ms-toc .ms-toc-abstract-entries .ms-toc-abstract-entry-3 .nav-link {
+padding: 0.4rem 0.6rem;
+} 
 .ms-toc .ms-toc-abstract-entries .ms-toc-abstract-entry-4 .nav-link {
   padding: 0.4rem 0.4rem;
 }
@@ -8213,7 +8216,7 @@ object {
 .ms-toc .ms-toc-abstract-entry {
   position: relative;
   box-sizing: border-box;
-  padding-bottom: 0.5em;
+  padding-bottom: 0.65em;
 }
 .ms-toc.ms-toc-active .ms-toc-entries, .ms-toc:hover .ms-toc-entries {
   display: block;
