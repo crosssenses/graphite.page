@@ -5455,9 +5455,11 @@ a.bg-dark:focus, a.bg-dark:hover {
   .d-lg-inline {
     display: inline !important;
   }
+  /*
   .d-lg-inline-block, .ms-article-top .ms-button-toc {
-    /* display: inline-block !important; */
+     display: inline-block !important;
   }
+      */
   .d-lg-block {
     display: block !important;
   }
