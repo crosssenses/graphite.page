@@ -3118,7 +3118,7 @@ Regulation (EU) No 2016/679 of the european parliament and of the council of 27 
         _paq.push(['trackPageView']);
         _paq.push(['enableLinkTracking']);
         (function() {
-          var u="https://piwik.wunderjewel.de/";
+          var u="https://matomo.crosssenses.de/";
           _paq.push(['setTrackerUrl', u+'matomo.php']);
           _paq.push(['setSiteId', '4']);
           var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];

@@ -3107,7 +3107,7 @@ Verordnung (EU) 2024/1689 des europäischen Parlaments und des Rates vom 13. Jun
         _paq.push(['trackPageView']);
         _paq.push(['enableLinkTracking']);
         (function() {
-          var u="https://piwik.wunderjewel.de/";
+          var u="https://matomo.crosssenses.de/";
           _paq.push(['setTrackerUrl', u+'matomo.php']);
           _paq.push(['setSiteId', '4']);
           var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
